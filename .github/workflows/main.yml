@@ -27,7 +27,6 @@ jobs:
 
       - name: Set up gh-pages branch
         run: |
-          # Check if gh-pages branch exists remotely
           if ! git ls-remote --exit-code --heads origin gh-pages; then
             echo "Creating gh-pages branch..."
             git checkout --orphan gh-pages
@@ -36,13 +35,18 @@ jobs:
             git add README.md
             git commit -m "Initial gh-pages commit"
             git push origin gh-pages
-            git checkout main  # Return to main branch
+            git checkout main
           else
             echo "gh-pages branch already exists"
           fi
 
       - name: Prepare deployment workspace
         run: |
+          # Clean up any existing deployment directory
+          if [ -d "gh-pages-deploy" ]; then
+            rm -rf gh-pages-deploy
+          fi
+          
           git fetch origin gh-pages:gh-pages --force
           mkdir -p gh-pages-deploy
           git --work-tree=gh-pages-deploy checkout gh-pages -- .
@@ -90,15 +94,14 @@ jobs:
 
       - name: Deploy to GitHub Pages
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-
-          # Create or update the worktree
-          if [ -d gh-pages-deploy/.git ]; then
+          # Clean up any existing worktree
+          if [ -d "gh-pages-deploy/.git" ]; then
             git worktree remove gh-pages-deploy || true
           fi
+          
+          # Create fresh worktree
           git worktree add gh-pages-deploy gh-pages
-
+          
           # Move new files
           mv *.xml gh-pages-deploy/
           
