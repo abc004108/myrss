@@ -25,29 +25,29 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-      - name: Set up gh-pages branch
+      - name: Initialize gh-pages branch
         run: |
+          # Check if branch exists remotely
           if ! git ls-remote --exit-code --heads origin gh-pages; then
             echo "Creating gh-pages branch..."
             git checkout --orphan gh-pages
             git rm -rf .
-            echo "Initial gh-pages" > README.md
-            git add README.md
-            git commit -m "Initial gh-pages commit"
+            echo "Initial commit" > index.html
+            git add index.html
+            git commit -m "Initialize gh-pages"
             git push origin gh-pages
             git checkout main
-          else
-            echo "gh-pages branch already exists"
           fi
 
-      - name: Prepare deployment workspace
+      - name: Prepare deployment
         run: |
-          # Clean up any existing deployment directory
-          if [ -d "gh-pages-deploy" ]; then
-            rm -rf gh-pages-deploy
-          fi
+          # Remove any existing deployment directory
+          rm -rf gh-pages-deploy || true
           
+          # Fetch the gh-pages branch
           git fetch origin gh-pages:gh-pages --force
+          
+          # Create fresh deployment directory
           mkdir -p gh-pages-deploy
           git --work-tree=gh-pages-deploy checkout gh-pages -- .
 
@@ -71,8 +71,6 @@ jobs:
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           fi
-        env:
-          PIP_CACHE_DIR: ~/.cache/pip
 
       - name: Generate RSS feeds
         run: |
@@ -84,33 +82,22 @@ jobs:
           else
             python hkdiscuss.py --feeds hottopics
           fi
-              
-      - name: Check generated files
-        run: |
-          if [ ! -f *.xml ]; then
-            echo "No XML files generated."
-            exit 1
-          fi
 
       - name: Deploy to GitHub Pages
         run: |
-          # Clean up any existing worktree
-          if [ -d "gh-pages-deploy/.git" ]; then
-            git worktree remove gh-pages-deploy || true
-          fi
+          # Remove any existing worktree
+          git worktree remove gh-pages-deploy --force || true
           
-          # Create fresh worktree
+          # Create new worktree
           git worktree add gh-pages-deploy gh-pages
           
-          # Move new files
+          # Move generated files
           mv *.xml gh-pages-deploy/
           
           # Commit and push changes
           cd gh-pages-deploy
           git add .
-          if git diff-index --quiet HEAD; then
-            echo "No changes to commit"
-          else
+          if ! git diff-index --quiet HEAD; then
             git commit -m "Update feeds $(date +'%Y-%m-%d %H:%M:%S')"
             git push origin gh-pages
           fi
