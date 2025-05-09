@@ -41,18 +41,21 @@ jobs:
 
       - name: Prepare deployment directory
         run: |
-          # Remove any existing deployment directory and worktree (most robust)
-          git worktree remove gh-pages-deploy --force || true
+          # Remove any existing deployment directory
           rm -rf gh-pages-deploy || true
-
-          # Fetch the gh-pages branch
-          git fetch origin gh-pages:gh-pages --force
 
           # Create fresh deployment directory
           mkdir -p gh-pages-deploy
 
-      - name: Checkout gh-pages branch into deployment directory
-        run: git --work-tree=gh-pages-deploy checkout gh-pages -- .
+          # Checkout gh-pages branch
+          git checkout gh-pages
+
+          # Move all files to gh-pages-deploy
+          mkdir -p gh-pages-deploy
+          mv * gh-pages-deploy/
+          
+          # Move back to main branch
+          git checkout main
 
       - name: Cache pip dependencies
         uses: actions/cache@v3
@@ -102,5 +105,5 @@ jobs:
       - name: Final Cleanup
         if: always()
         run: |
-          # Remove the worktree after the job, regardless of success or failure
-          git worktree remove gh-pages-deploy --force || true
+          # Switch back to main branch
+          git checkout main
