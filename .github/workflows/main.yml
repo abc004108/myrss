@@ -53,7 +53,8 @@ jobs:
       - name: Generate RSS feeds
         run: |
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
-            python hkdiscuss.py --feeds money house
+            python hkdiscuss.py --feeds money house hottopics
+            python hknet.py
           elif [[ "${{ github.event.schedule }}" == "0 */2 * * *" ]]; then
             python hkdiscuss.py --feeds money house
             python hknet.py
