@@ -68,25 +68,32 @@ jobs:
           echo "XML files:"
           ls -la *.xml || echo "No XML files found"
 
+      - name: Clean up old deployment
+        run: rm -rf gh-pages-deploy
+
       - name: Deploy to GitHub Pages
         run: |
-          # Checkout gh-pages branch directly
-          git checkout gh-pages
-          
-          # Remove old files (except .git)
-          find . -maxdepth 1 ! -name '.git' ! -name '.' -exec rm -rf {} +
-          
-          # Move new XML files
-          mv ../*.xml . || echo "No XML files to move"
-          
-          # Commit and push
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          mkdir -p gh-pages-deploy
+          if git show-ref --quiet refs/remotes/origin/gh-pages; then
+            git worktree add gh-pages-deploy gh-pages
+          else
+            git worktree add --orphan gh-pages-deploy
+            cd gh-pages-deploy
+            git commit --allow-empty -m "Initialize gh-pages"
+            git push origin gh-pages
+            cd ..
+          fi
+
+          mv *.xml gh-pages-deploy/
+          cd gh-pages-deploy
           git add .
-          if ! git diff-index --quiet HEAD; then
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit"
+          else
             git commit -m "Update feeds $(date +'%Y-%m-%d %H:%M:%S')"
             git push origin gh-pages
-          else
-            echo "No changes to commit"
           fi
-          
-          # Return to main branch
-          git checkout main
+
