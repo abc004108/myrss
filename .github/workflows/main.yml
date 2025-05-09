@@ -47,7 +47,7 @@ jobs:
           # Create fresh deployment directory
           mkdir -p gh-pages-deploy
 
-          # Checkout gh-pages branch
+          # Checkout gh-pages branch to gh-pages-deploy
           git checkout gh-pages
 
           # Move all files EXCEPT gh-pages-deploy to gh-pages-deploy
@@ -101,6 +101,8 @@ jobs:
           if ! git diff-index --quiet HEAD; then
             git commit -m "Update feeds $(date +'%Y-%m-%d %H:%M:%S')"
             git push origin gh-pages
+          else
+            echo "No changes to commit"
           fi
 
       - name: Final Cleanup
