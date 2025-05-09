@@ -50,8 +50,18 @@ jobs:
             pip install -r requirements.txt
           fi
 
-      - name: Generate RSS feeds
+      - name: Deploy to GitHub Pages
         run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          # Checkout gh-pages branch
+          git checkout gh-pages
+
+          # Pull latest changes
+          git pull origin gh-pages
+
+          # Generate RSS feeds
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
             python hkdiscuss.py --feeds money house hottopics
             python hknet.py
@@ -62,38 +72,11 @@ jobs:
             python hkdiscuss.py --feeds hottopics
           fi
 
-      - name: Verify XML generation
-        run: |
+          # Verify XML generation
           echo "Generated files:"
           ls -la
           echo "XML files:"
           ls -la *.xml || echo "No XML files found"
-
-      - name: Deploy to GitHub Pages
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-
-          # Clean up XML files before checkout
-          rm -f *.xml
-
-          # Check if gh-pages branch exists
-          if ! git ls-remote --exit-code --heads origin gh-pages; then
-            echo "gh-pages branch does not exist. Creating..."
-            git checkout --orphan gh-pages
-            git rm -rf .
-            echo "Initial commit" > index.html
-            git add index.html
-            git commit -m "Initialize gh-pages"
-            git push origin gh-pages
-            git checkout main
-          fi
-
-          # Checkout gh-pages branch
-          git checkout gh-pages
-
-          # Pull latest changes
-          git pull origin gh-pages
 
           # Move generated XML files
           rm -rf *.xml # Remove existing xml files
