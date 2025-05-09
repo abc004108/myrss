@@ -27,7 +27,6 @@ jobs:
 
       - name: Initialize gh-pages branch
         run: |
-          # Check if branch exists remotely
           if ! git ls-remote --exit-code --heads origin gh-pages; then
             echo "Creating gh-pages branch..."
             git checkout --orphan gh-pages
@@ -38,34 +37,6 @@ jobs:
             git push origin gh-pages
             git checkout main
           fi
-
-      - name: Prepare deployment directory
-        run: |
-          # Remove any existing deployment directory
-          rm -rf gh-pages-deploy || true
-
-          # Create fresh deployment directory
-          mkdir -p gh-pages-deploy
-
-          # Checkout gh-pages branch to gh-pages-deploy
-          git checkout gh-pages
-
-          # Move all files EXCEPT gh-pages-deploy to gh-pages-deploy
-          shopt -s extglob  # Enable extended globbing
-          mv !(gh-pages-deploy) gh-pages-deploy/
-          shopt -u extglob  # Disable extended globbing
-          
-          # Move back to main branch
-          git checkout main
-
-      - name: Cache pip dependencies
-        uses: actions/cache@v3
-        id: pip-cache
-        with:
-          path: |
-            ~/.cache/pip
-            venv/
-          key: pip-${{ hashFiles('requirements.txt') }}-${{ runner.os }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -83,20 +54,32 @@ jobs:
         run: |
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
             python hkdiscuss.py --feeds money house
-          elif [[ github.event.cron == '0 */2 * * *' ]]; then
+          elif [[ "${{ github.event.schedule }}" == "0 */2 * * *" ]]; then
             python hkdiscuss.py --feeds money house
             python hknet.py
           else
             python hkdiscuss.py --feeds hottopics
           fi
 
+      - name: Verify XML generation
+        run: |
+          echo "Generated files:"
+          ls -la
+          echo "XML files:"
+          ls -la *.xml || echo "No XML files found"
+
       - name: Deploy to GitHub Pages
         run: |
-          # Move generated files
-          mv *.xml gh-pages-deploy/
-
-          # Commit and push changes
-          cd gh-pages-deploy
+          # Checkout gh-pages branch directly
+          git checkout gh-pages
+          
+          # Remove old files (except .git)
+          find . -maxdepth 1 ! -name '.git' ! -name '.' -exec rm -rf {} +
+          
+          # Move new XML files
+          mv ../*.xml . || echo "No XML files to move"
+          
+          # Commit and push
           git add .
           if ! git diff-index --quiet HEAD; then
             git commit -m "Update feeds $(date +'%Y-%m-%d %H:%M:%S')"
@@ -104,9 +87,6 @@ jobs:
           else
             echo "No changes to commit"
           fi
-
-      - name: Final Cleanup
-        if: always()
-        run: |
-          # Switch back to main branch
+          
+          # Return to main branch
           git checkout main
