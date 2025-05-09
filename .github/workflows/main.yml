@@ -50,9 +50,10 @@ jobs:
           # Checkout gh-pages branch
           git checkout gh-pages
 
-          # Move all files to gh-pages-deploy
-          mkdir -p gh-pages-deploy
-          mv * gh-pages-deploy/
+          # Move all files EXCEPT gh-pages-deploy to gh-pages-deploy
+          shopt -s extglob  # Enable extended globbing
+          mv !(gh-pages-deploy) gh-pages-deploy/
+          shopt -u extglob  # Disable extended globbing
           
           # Move back to main branch
           git checkout main
