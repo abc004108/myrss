@@ -2,8 +2,8 @@ name: Generate and Deploy RSS Feed
 
 on:
   schedule:
-    - cron: '0 */2 * * *'    # Every 2 hours 
-    - cron: '0 */12 * * *'   # Every 12 hours 
+    - cron: '0 */2 * * *'    # Every 2 hours
+    - cron: '0 */12 * * *'   # Every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     env:
-      TZ: Asia/Hong_Kong  
+      TZ: Asia/Hong_Kong
 
     steps:
       - name: Checkout repository
@@ -39,17 +39,20 @@ jobs:
             git checkout main
           fi
 
-      - name: Prepare deployment
+      - name: Prepare deployment directory
         run: |
-          # Remove any existing deployment directory
+          # Remove any existing deployment directory and worktree (most robust)
+          git worktree remove gh-pages-deploy --force || true
           rm -rf gh-pages-deploy || true
-          
+
           # Fetch the gh-pages branch
           git fetch origin gh-pages:gh-pages --force
-          
+
           # Create fresh deployment directory
           mkdir -p gh-pages-deploy
-          git --work-tree=gh-pages-deploy checkout gh-pages -- .
+
+      - name: Checkout gh-pages branch into deployment directory
+        run: git --work-tree=gh-pages-deploy checkout gh-pages -- .
 
       - name: Cache pip dependencies
         uses: actions/cache@v3
@@ -76,7 +79,7 @@ jobs:
         run: |
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
             python hkdiscuss.py --feeds money house
-          elif [[ "${{ github.event.schedule }}" == "0 */2 * * *" ]]; then
+          elif [[ github.event.cron == '0 */2 * * *' ]]; then
             python hkdiscuss.py --feeds money house
             python hknet.py
           else
@@ -85,15 +88,9 @@ jobs:
 
       - name: Deploy to GitHub Pages
         run: |
-          # Remove any existing worktree
-          git worktree remove gh-pages-deploy --force || true
-          
-          # Create new worktree
-          git worktree add gh-pages-deploy gh-pages
-          
           # Move generated files
           mv *.xml gh-pages-deploy/
-          
+
           # Commit and push changes
           cd gh-pages-deploy
           git add .
@@ -101,3 +98,9 @@ jobs:
             git commit -m "Update feeds $(date +'%Y-%m-%d %H:%M:%S')"
             git push origin gh-pages
           fi
+
+      - name: Final Cleanup
+        if: always()
+        run: |
+          # Remove the worktree after the job, regardless of success or failure
+          git worktree remove gh-pages-deploy --force || true
