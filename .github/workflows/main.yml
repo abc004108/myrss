@@ -50,18 +50,8 @@ jobs:
             pip install -r requirements.txt
           fi
 
-      - name: Deploy to GitHub Pages
+      - name: Generate RSS feeds
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-
-          # Checkout gh-pages branch
-          git checkout gh-pages
-
-          # Pull latest changes
-          git pull origin gh-pages
-
-          # Generate RSS feeds
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
             python hkdiscuss.py --feeds money house hottopics
             python hknet.py
@@ -72,17 +62,34 @@ jobs:
             python hkdiscuss.py --feeds hottopics
           fi
 
-          # Verify XML generation
+      - name: Verify XML generation
+        run: |
           echo "Generated files:"
           ls -la
           echo "XML files:"
           ls -la *.xml || echo "No XML files found"
 
-          # Move generated XML files
-          rm -rf *.xml # Remove existing xml files
-          mv *.xml .
+      - name: Clean up old deployment
+        run: rm -rf gh-pages-deploy
 
-          # Add and commit changes
+      - name: Deploy to GitHub Pages
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          mkdir -p gh-pages-deploy
+          if git show-ref --quiet refs/remotes/origin/gh-pages; then
+            git worktree add gh-pages-deploy gh-pages
+          else
+            git worktree add --orphan gh-pages-deploy
+            cd gh-pages-deploy
+            git commit --allow-empty -m "Initialize gh-pages"
+            git push origin gh-pages
+            cd ..
+          fi
+
+          mv *.xml gh-pages-deploy/
+          cd gh-pages-deploy
           git add .
           if git diff-index --quiet HEAD; then
             echo "No changes to commit"
