@@ -74,6 +74,9 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
+          # Clean up XML files before checkout
+          rm -f *.xml
+
           # Check if gh-pages branch exists
           if ! git ls-remote --exit-code --heads origin gh-pages; then
             echo "gh-pages branch does not exist. Creating..."
