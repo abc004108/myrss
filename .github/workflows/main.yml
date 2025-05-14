@@ -58,7 +58,6 @@ jobs:
           else
             CURRENT_HOUR=$(date +%H)
             if [[ $((10#$CURRENT_HOUR % 2)) -eq 0 ]]; then
-              # Even hour (2-hour cron) → money + house
               python hkdiscuss.py --feeds money house
               python hknet.py
             else
