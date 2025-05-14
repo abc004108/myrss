@@ -53,15 +53,18 @@ jobs:
       - name: Generate RSS feeds
         run: |
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "Manual trigger - running all feeds" 
             python hkdiscuss.py --feeds money house hottopics
             python hknet.py
           else
             CURRENT_HOUR=$(date +%H)
             if (( CURRENT_HOUR % 2 == 0 )); then
+              echo "🔔 Running 2-hour feeds (money, house)"
               python hkdiscuss.py --feeds money house
               python hknet.py
             fi
             if (( CURRENT_HOUR % 6 == 0 )); then
+              echo "🔔 Running 6-hour feed (hottopics)"
               python hkdiscuss.py --feeds hottopics
             fi
           fi
