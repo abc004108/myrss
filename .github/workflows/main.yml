@@ -80,6 +80,9 @@ jobs:
           mkdir -p gh-pages-deploy
           if git show-ref --quiet refs/remotes/origin/gh-pages; then
             git worktree add gh-pages-deploy gh-pages
+            cd gh-pages-deploy
+            git pull origin gh-pages  # Pull latest changes before making new ones
+            cd ..
           else
             git worktree add --orphan gh-pages-deploy
             cd gh-pages-deploy
@@ -95,5 +98,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update feeds $(date +'%Y-%m-%d %H:%M:%S')"
+            git pull --rebase origin gh-pages  # Rebase any potential remote changes
             git push origin gh-pages
           fi
