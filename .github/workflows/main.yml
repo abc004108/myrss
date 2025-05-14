@@ -55,11 +55,15 @@ jobs:
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
             python hkdiscuss.py --feeds money house hottopics
             python hknet.py
-          elif [[ "${{ github.event.schedule }}" == "0 */2 * * *" ]]; then
-            python hkdiscuss.py --feeds money house
-            python hknet.py
           else
-            python hkdiscuss.py --feeds hottopics
+            CURRENT_HOUR=$(date +%H)
+            if [[ $((10#$CURRENT_HOUR % 2)) -eq 0 ]]; then
+              # Even hour (2-hour cron) → money + house
+              python hkdiscuss.py --feeds money house
+              python hknet.py
+            else
+              python hkdiscuss.py --feeds hottopics
+            fi
           fi
 
       - name: Verify XML generation
