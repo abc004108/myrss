@@ -57,14 +57,15 @@ jobs:
             python hknet.py
           else
             CURRENT_HOUR=$(date +%H)
-            if [[ $((10#$CURRENT_HOUR % 2)) -eq 0 ]]; then
+            if (( CURRENT_HOUR % 2 == 0 )); then
               python hkdiscuss.py --feeds money house
               python hknet.py
-            else
+            fi
+            if (( CURRENT_HOUR % 6 == 0 )); then
               python hkdiscuss.py --feeds hottopics
             fi
           fi
-
+          
       - name: Verify XML generation
         run: |
           echo "Generated files:"
