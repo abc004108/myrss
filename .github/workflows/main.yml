@@ -2,7 +2,7 @@ name: Generate and Deploy RSS Feed
 
 on:
   schedule:
-    - cron: '0 16,18,20,22,0,2,4,6,8,10,12,14 * * *'
+    - cron: '20 16,18,20,22,0,2,4,6,8,10,12,14 * * *'
   workflow_dispatch:
 
 jobs:
