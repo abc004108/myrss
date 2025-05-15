@@ -57,6 +57,7 @@ jobs:
             python hknet.py
           else
             CURRENT_HOUR=$(date +%H)
+            echo "CURRENT_HOUR=${CURRENT_HOUR}"
             if (( CURRENT_HOUR % 6 == 0 )); then
               echo "🔔 Running 6-hour feeds"
               python hkdiscuss.py --feeds hottopics
