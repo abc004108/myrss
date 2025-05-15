@@ -2,7 +2,7 @@ name: Generate and Deploy RSS Feed
 
 on:
   schedule:
-    - cron: '0 */2 * * *'    
+    - cron: '0 16,18,20,22,0,2,4,6,8,10,12,14 * * *'
   workflow_dispatch:
 
 jobs:
@@ -62,9 +62,11 @@ jobs:
               echo "🔔 Running 6-hour feeds"
               python hkdiscuss.py --feeds hottopics
             fi
-            echo "🔔 Running 2-hour feed"
-            python hkdiscuss.py --feeds money house
-            python hknet.py
+            if (( CURRENT_HOUR % 2 == 0 )); then
+              echo "🔔 Running 2-hour feed"
+              python hkdiscuss.py --feeds money house
+              python hknet.py
+            fi
           fi
           
       - name: Verify XML generation
