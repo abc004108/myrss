@@ -51,13 +51,15 @@ jobs:
 
       - name: Generate RSS feeds
         run: |
+          echo "UTC time: $(date -u)"
+          echo "HKT time: $(TZ=Asia/Hong_Kong date)"
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
             echo "Manual trigger - running all feeds" 
             python hkdiscuss.py --feeds money house hottopics
             python hknet.py
           else
-            CURRENT_HOUR=$(date +%H)
-            echo "CURRENT_HOUR=${CURRENT_HOUR}"
+            CURRENT_HOUR=$(TZ=Asia/Hong_Kong date +%H)
+            echo "CURRENT_HOUR (HKT)=${CURRENT_HOUR}"
             if (( CURRENT_HOUR % 6 == 0 )); then
               echo "🔔 Running 6-hour feeds"
               python hkdiscuss.py --feeds hottopics
