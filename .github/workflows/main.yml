@@ -54,8 +54,8 @@ jobs:
         run: |
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
             #python hkdiscuss.py --feeds money house hottopics
-            python hkdiscuss.py --feeds money house
-            #python hknet.py
+            #python hkdiscuss.py --feeds money house
+            python hknet.py
           elif [[ "${{ github.event.schedule }}" == "0 */2 * * *" ]]; then
             python hkdiscuss.py --feeds money house
             python hknet.py
