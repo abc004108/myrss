@@ -97,5 +97,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update feeds $(date +'%Y-%m-%d %H:%M:%S')"
-            git push origin gh-pages
+            git push --force origin gh-pages
           fi
