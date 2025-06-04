@@ -1,50 +1,164 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080</id><title>HKET News Feed</title><updated>2025-06-04T14:53:16.289024+08:00</updated><link href="https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>Latest news</subtitle><entry><id>https://specialist.hket.com/article/3958951/%E6%B3%A2%E7%BE%85%E7%9A%84%E6%B5%B7%E6%8C%87%E6%95%B8%EF%BD%9C%E6%80%95%E7%B4%85%E6%B5%B7%E4%BB%8D%E9%AB%98%E9%A2%A8%E9%9A%AA%20%E5%8F%B0%E8%B2%A8%E6%AB%83%E8%88%AA%E5%95%86%E6%9A%AB%E4%B8%8D%E9%87%8D%E8%BF%94%20%20BDI%E4%BA%94%E9%80%A3%E5%8D%87%20%20BDTI%E4%B8%89%E9%80%A3%E5%8D%87?mtc=20023</id><title>波羅的海指數｜怕紅海仍高風險 台貨櫃航商暫不重返  BDI五連升  BDTI三連升</title><updated>2025-06-04T13:53:00+08:00</updated><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080</id><title>HKET News Feed</title><updated>2025-06-04T16:53:02.395091+08:00</updated><link href="https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>Latest news</subtitle><entry><id>https://china.hket.com/article/3959428/%E5%BD%AD%E5%8D%9A%EF%BC%9A%E5%9C%A8%E8%8A%AF%E7%89%87%E6%88%B0%E5%92%8C%E7%A8%80%E5%9C%9F%E6%88%B0%20%E4%B8%AD%E6%96%B9%E4%BC%BC%E4%B9%8E%E6%84%88%E4%BE%86%E6%84%88%E4%BD%94%E5%84%AA%E5%8B%A2?mtc=20023</id><title>彭博：在芯片戰和稀土戰 中方似乎愈來愈佔優勢</title><updated>2025-06-04T15:57:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-06-04T13:53:00+08:00 Updated on: 2025-06-04T13:53:17.025+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-06-04T15:57:51.564+08:00 Updated on: 2025-06-04T15:57:51.564+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;法國達飛航運宣布6月將重返蘇伊士運河，但台灣三大貨櫃航運業者長榮海運、陽明海運及萬海均表示，基於人員、貨物及船舶安全考量，目前暫不會返回紅海航線。&lt;strong&gt;推介文章：&lt;a href="https://invest.hket.com/article/3958896?lcc=aa"&gt;【北水走向】文章， 可按此查閱&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;關於中美圍繞芯片和稀土的對峙，彭博引述專家分析認為，中方似乎愈來愈佔據優勢，而且中國還有沒拿出來的籌碼。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;別國稀土供應商 無法立即為美企提供解決方案&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;報道稱，出口管制已成為中國供應鏈戰的核心。因為全球近70%的稀土都由中國生產，這些金屬對製造戰鬥機、核反應爐控制棒等關鍵技術至關重要。策緯諮詢公司（Trivium China）副總監庫姆斯（Cory Combs）表示，現階段中國比美國的影響力更持久，美國想要擺脫對中國稀土的依賴還需要10年時間，而中國企業已開發出大多數美國芯片的有效替代品，中國在這場對峙中正在取得進展。&lt;/p&gt;&lt;p&gt;&lt;a href="https://china.hket.com/article/3958113/?lcc=ac" title="貿易戰 | 巴克萊：中國稀土主導地位並非偶然"&gt;貿易戰 | 巴克萊：中國稀土主導地位並非偶然&lt;/a&gt;&lt;/p&gt;&lt;p&gt;儘管美國也採取了一些措施試圖加強稀土供應鏈，但彭博認為，缺乏具有商業價值的自然儲備、接受過開採工藝培訓的工程師很少、能夠在行業微薄利潤下競爭的公司數量有限等原因，都對美國構建穩定稀土供應鏈的雄心造成挑戰。&lt;/p&gt;&lt;p&gt;儘管美國可以與中國以外最大的稀土生產商澳洲萊納斯稀土公司合作，巴西、南非、日本和越南的稀土產能也正在建設中，但他們都無法立即為美企提供解決方案。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;彭博分析：中國還有籌碼沒有用&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;另外，先前分析亦指出，美國在重稀土分離提純技術上落後中國20年，就算美國試圖透過「礦產外交」等方式擺脫對陸依賴，但短期內難以撼動中國地位。&lt;/p&gt;&lt;p&gt;彭博分析稱，中國還有籌碼沒有用。迄今為止，中國的限制措施主要針對中重稀土，這些稀土主要集中在國防領域，但如果中國對釹和鐠等輕稀土元素也進行限制，這可能會對美國經濟造成更大的打擊，因為這些輕稀土在消費品中的應用更為廣泛。&lt;/p&gt;&lt;p&gt;美國亞洲協會政策研究院中國分析中心研究員湯瑪斯（Neil Thomas）表示，「中國對稀土的管控是對局勢進一步升級的警告，但如果美中局勢惡化，中國屆時可能會開始對美國國防供應鏈造成真正的打擊。」&lt;/p&gt;&lt;p&gt;&lt;a href="https://china.hket.com/article/3958082/?lcc=ac" title="貿易戰 | 中國稀土管制影響如何？美媒：將有更多工廠被迫關閉"&gt;貿易戰 | 中國稀土管制影響如何？美媒：將有更多工廠被迫關閉&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://china.hket.com/article/3939556/?lcc=ac" title="貿易戰 | 馬斯克指中國稀土出口限制 影響機械人Optimus生產"&gt;貿易戰 | 馬斯克指中國稀土出口限制 影響機械人Optimus生產&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;...&lt;/p&gt;
-&lt;div class="fqa_widget"&gt;&lt;/div&gt;
-&lt;div class="article-detail_login"&gt;
-&lt;div class="container"&gt;
-&lt;p&gt;【hket PRO 訂閲計劃】每日只需$1.6，掌握股樓、時事趨勢，深入報導，仲送實用禮物$600&lt;br&gt;&lt;span&gt;&lt;a href=" https://event.hket.com/article/3927908?utm_content=3958951&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;div class="login-btn-container"&gt;
-&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
-&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202409_promotion_ContentBlock&amp;amp;utm_content=3958951&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
-									歡迎訂閱
-								&lt;/a&gt;
+&lt;/div&gt;</content><link href="https://china.hket.com/article/3959428/%E5%BD%AD%E5%8D%9A%EF%BC%9A%E5%9C%A8%E8%8A%AF%E7%89%87%E6%88%B0%E5%92%8C%E7%A8%80%E5%9C%9F%E6%88%B0%20%E4%B8%AD%E6%96%B9%E4%BC%BC%E4%B9%8E%E6%84%88%E4%BE%86%E6%84%88%E4%BD%94%E5%84%AA%E5%8B%A2?mtc=20023"/><published>2025-06-04T15:57:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3959389/%E8%A3%9D%E4%BF%AE%E8%A8%AD%E8%A8%88%EF%BD%9C%E8%B2%B7%E5%88%9D%E4%BB%A3%E7%B4%8D%E7%B1%B3%E6%A8%93%E4%B8%8A%E8%BB%8A%20%E7%94%A8-43%E8%90%AC%E5%A4%A7%E6%94%B9%E9%80%A0100%E5%91%8E%E4%B8%BB%E4%BA%BA%E6%88%BF%E9%9B%86%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%A8%AD%E8%A8%88?mtc=20023</id><title>裝修設計｜買初代納米樓上車 用$43萬大改造100呎主人房集多功能設計</title><updated>2025-06-04T15:58:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3959389/%E8%A3%9D%E4%BF%AE%E8%A8%AD%E8%A8%88%EF%BD%9C%E8%B2%B7%E5%88%9D%E4%BB%A3%E7%B4%8D%E7%B1%B3%E6%A8%93%E4%B8%8A%E8%BB%8A%20%E7%94%A8-43%E8%90%AC%E5%A4%A7%E6%94%B9%E9%80%A0100%E5%91%8E%E4%B8%BB%E4%BA%BA%E6%88%BF%E9%9B%86%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%A8%AD%E8%A8%88?mtc=20023"/><published>2025-06-04T15:58:00+08:00</published></entry><entry><id>https://inews.hket.com/article/3959425/%E5%88%86%E6%9E%90TSLA%EF%BD%9C%E6%B8%9B%E7%A8%85%E6%B3%95%E6%A1%88%E3%80%80%E9%A6%AC%E6%96%AF%E5%85%8B%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%9F%E6%B1%BA%E8%A3%82%EF%BC%9F?mtc=20023</id><title>分析TSLA｜減稅法案　馬斯克與特朗普真決裂？</title><updated>2025-06-04T15:59:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-06-04T15:59:12.945+08:00 Updated on: 2025-06-04T15:59:12.945+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;Tesla（美：TSLA；特斯拉）創辦人馬斯克周三凌晨1時半，於旗下的社交平台X發文，炮轟特朗普「大而美」的減稅法案浪費，不計轉發，13小時內已親撰7文，反對參議院通過法案，馬斯克與特朗普真決裂？&lt;/p&gt;&lt;p&gt;記憶猶新，2024年12月，馬斯克曾對一項政府資助法案（Continuing Resolution， CR）發起激烈反對，當時他通過X平台動員公眾壓力，呼籲國會議員反對該法案，特朗普隨後也表態反對，導致該法案最終未通過。&lt;/p&gt;&lt;p&gt;政府資助法案（Continuing Resolution， CR）&lt;!--StartFragment --&gt;是一種臨時撥款措施，當美國國會未能在財政年度結束前通過新的預算案時，CR允許政府機構繼續運作，避免因資金短缺而關門。這項法案通常會維持政府支出的現有水平，直到新的預算案獲得批准。&lt;/p&gt;&lt;p&gt;當時馬斯克的論點，亦是法案嚴重浪費支持，他正要上任的政府效率部（DOGE），便是要削減這些支出。&lt;/p&gt;&lt;p&gt;時至今日，馬斯克於DOGE屆時工的任期已完，成效不彰，到他要走的一刻，便是國會眾議院已通過「大而美」的減稅法案，等眾議院通過，目標是美國7月4日國慶前完成。&lt;/p&gt;&lt;p&gt;在馬斯克發炮前兩小時，參議院共和黨議員RandPaul便指，「我希望看到減稅措施永久生效，但我也希望將5萬億美元的新增債務從法案中移除。參議院至少有4人持這種觀點」。&lt;/p&gt;&lt;p&gt;特朗普幾乎同一時間於Truth Social連發兩文，指「Rand 對所有事情都投反對票，但從來沒有提出任何切實可行或建設性的想法。他的想法簡直是瘋子（失敗者！）。肯塔基州的人民受不了他。這是一項巨大的增長法案！」、「Rand 對BBB所知甚少，尤其是即將到來的巨大增長。他喜歡對所有事情投下反對票，他認為這是好的政治手段，但事實並非如此。BBB才是真正的大贏家！ ！ ！」&lt;/p&gt;&lt;p&gt;不過，馬斯克發文後，特朗普及白宮則沒有再回應。&lt;/p&gt;&lt;p&gt;由於特朗普上周六才於白宮歡送馬斯克，因此今次沒有評轟馬斯克，亦可以理解，然而，特斯拉將於6月測試無人駕駛robotaxi，失去特朗普身邊紅人的光環，會否影響robotaxi發展？&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
-&lt;a class="listing-banner full-content" href="https://event.hket.com/article/3927908" title="【hket PRO 訂閲計劃】每日只需$1.6，掌握股樓、時事趨勢，深入報導，仲送實用禮物$600"&gt;
-&lt;div class="listing-banner"&gt;
-&lt;picture&gt;
-&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20250319_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20250319_1024.jpg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;/a&gt;
-&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/3959425/%E5%88%86%E6%9E%90TSLA%EF%BD%9C%E6%B8%9B%E7%A8%85%E6%B3%95%E6%A1%88%E3%80%80%E9%A6%AC%E6%96%AF%E5%85%8B%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%9F%E6%B1%BA%E8%A3%82%EF%BC%9F?mtc=20023"/><published>2025-06-04T15:59:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3959429/%E7%B5%90%E6%A5%AD%E6%BD%AE%EF%BD%9C%E5%98%89%E7%A6%BEMegaBox%E5%9B%A0%E7%A7%9F%E7%B4%84%E6%9C%9F%E6%BB%BF6%E6%9C%889%E6%97%A5%E6%AD%A3%E5%BC%8F%E7%B5%90%E6%A5%AD%20%20%E7%B6%B2%E6%B0%91%E6%85%A8%E5%98%86%EF%BC%9A%E5%9F%B7%E5%AE%8C%E4%B8%80%E9%96%93%E5%8F%88%E4%B8%80%E9%96%93?mtc=20023</id><title>結業潮｜嘉禾MegaBox因租約期滿6月9日正式結業  網民慨嘆：執完一間又一間</title><updated>2025-06-04T16:00:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3959429/%E7%B5%90%E6%A5%AD%E6%BD%AE%EF%BD%9C%E5%98%89%E7%A6%BEMegaBox%E5%9B%A0%E7%A7%9F%E7%B4%84%E6%9C%9F%E6%BB%BF6%E6%9C%889%E6%97%A5%E6%AD%A3%E5%BC%8F%E7%B5%90%E6%A5%AD%20%20%E7%B6%B2%E6%B0%91%E6%85%A8%E5%98%86%EF%BC%9A%E5%9F%B7%E5%AE%8C%E4%B8%80%E9%96%93%E5%8F%88%E4%B8%80%E9%96%93?mtc=20023"/><published>2025-06-04T16:00:00+08:00</published></entry><entry><id>https://topick.hket.com/article/2591706/%E6%80%A5%E7%97%87%E5%AE%A4%E6%9C%80%E9%95%B7%E7%AD%89%E5%80%99%E6%99%82%E9%96%93%EF%BC%8806%E6%9C%8804%E6%97%A5%20%E6%99%82%E9%96%9316:05%EF%BC%89?mtc=20023</id><title>急症室最長等候時間（06月04日 時間16:05）</title><updated>2025-06-04T16:05:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-06-04T16:05:00+08:00 Updated on: 2025-06-04T16:05:35.745+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;div class="table-wrapper"&gt;&lt;table bgcolor="#000000" border="1" cellpadding="5" cellspacing="1" style="border:solid #292929 medium" width="100%"&gt;
+&lt;tr&gt;&lt;th bgcolor="#0a5499" colspan="3" padding="5px" style="text-align: center;"&gt;&lt;font color="#fff"&gt;&lt;strong&gt;急症室最長等候時間&lt;/strong&gt;&lt;/font&gt;&lt;img align="right" alt="" height="auto" src="https://static01.hket.com/res/v3/dist/common/images/hket-logo-mmenu.png" style="max-width:100%; height:auto;" valign="bottom" width="50px"/&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor="#e8e8e8" colspan="3" padding="5px" style="text-align: left;"&gt;&lt;font color="#000"&gt;急症室會優先診治被分流為危殆、危急和緊急的病人，其他病人候診時間最長如下:&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr bgcolor="#32acd1"&gt;&lt;th align="left" colspan="3"&gt;&lt;font color="#000"&gt;&lt;strong&gt;港島區&lt;/strong&gt;&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;柴灣&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;東區醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 2 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;薄扶林&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;瑪麗醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 1 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;灣仔&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;律敦治醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 3 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#32acd1"&gt;&lt;th align="left" colspan="3"&gt;&lt;font color="#000"&gt;&lt;strong&gt;九龍區&lt;/strong&gt;&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;葵涌&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;瑪嘉烈醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 5 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;深水埗&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;明愛醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 1 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;旺角&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;廣華醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 2 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;油麻地&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;伊利沙伯醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 1 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;觀塘&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;基督教聯合醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 2 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#32acd1"&gt;&lt;th align="left" colspan="3"&gt;&lt;font color="#000"&gt;&lt;strong&gt;新界區&lt;/strong&gt;&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;屯門&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;屯門醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 4 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;天水圍&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;天水圍醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 3 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;元朗&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;博愛醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 2 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;上水&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;北區醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 2 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;大埔&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;大埔那打素醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 3 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;沙田&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;威爾斯親王醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 4 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;荃灣&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;仁濟醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 4 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;東涌&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;北大嶼山醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 2 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;長洲&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;長洲醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;大約 1 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;
+&lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;將軍澳&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;將軍澳醫院&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 4 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr bgcolor="#0a5499"&gt;&lt;th colspan="3"&gt;&lt;font color="#fff"&gt;資料來源：醫管局&lt;br&gt;最後更新：04/06/2025 16:00&lt;/br&gt;&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr bgcolor="#fff"&gt;&lt;td colspan="3"&gt;附註：&lt;br&gt;
+&lt;ol&gt;
+&lt;li&gt;上述數據是統計過去數小時的最長等候時間，只供參考，並非預計等候時間。&lt;/li&gt;
+&lt;li&gt;急症室須處理突發意外傷者及危重病人，因此未能準確提供預計等候時間，敬請見諒及耐心等候。&lt;/li&gt;
+&lt;li&gt;最長等候時間顯示上限為8小時，表示急症室正處理大量等候已久的病人。&lt;/li&gt;
+&lt;li&gt;本網站/程序已盡力確保數字及資訊正確與無誤，但一切以官方公布作準。&lt;/li&gt;
+&lt;/ol&gt;
+		香港經濟日報版權所有 © 2020&lt;/br&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="article-detail_extra-info"&gt;
-&lt;p&gt;&lt;span&gt;撰文 :&lt;/span&gt; &lt;span&gt;黃毅鈞 &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;欄名 :&lt;/span&gt; &lt;span&gt;數據先鋒&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://specialist.hket.com/article/3958951/%E6%B3%A2%E7%BE%85%E7%9A%84%E6%B5%B7%E6%8C%87%E6%95%B8%EF%BD%9C%E6%80%95%E7%B4%85%E6%B5%B7%E4%BB%8D%E9%AB%98%E9%A2%A8%E9%9A%AA%20%E5%8F%B0%E8%B2%A8%E6%AB%83%E8%88%AA%E5%95%86%E6%9A%AB%E4%B8%8D%E9%87%8D%E8%BF%94%20%20BDI%E4%BA%94%E9%80%A3%E5%8D%87%20%20BDTI%E4%B8%89%E9%80%A3%E5%8D%87?mtc=20023"/><published>2025-06-04T13:53:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3834469/%E9%97%9C%E7%A8%85%E6%88%B0%EF%BD%9C%E7%BE%8E%E6%8F%90%E9%AB%98%E9%8B%BC%E9%8B%81%E9%97%9C%E7%A8%85%E8%87%B350-%20%E5%84%AA%E5%BE%85%E8%8B%B1%E5%9C%8B%E6%94%B625-%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023</id><title>關稅戰｜美提高鋼鋁關稅至50% 優待英國收25%（持續更新）</title><updated>2025-06-04T13:55:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3834469/%E9%97%9C%E7%A8%85%E6%88%B0%EF%BD%9C%E7%BE%8E%E6%8F%90%E9%AB%98%E9%8B%BC%E9%8B%81%E9%97%9C%E7%A8%85%E8%87%B350-%20%E5%84%AA%E5%BE%85%E8%8B%B1%E5%9C%8B%E6%94%B625-%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023"/><published>2025-06-04T13:55:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3958767/%E5%85%A7%E9%8A%80%E5%BB%BA%E8%A1%8C%E5%B7%A5%E8%A1%8C%E8%BE%B2%E8%A1%8C%E7%A0%B4%E9%A0%82%20%20%E9%9A%AA%E8%B3%87%E8%88%89%E7%89%8C%E5%8A%A0%E6%8C%81%20%E5%A6%82%E4%BD%95%E6%8D%95%E6%8D%89%E5%8D%87%E5%8B%A2%EF%BC%9F?mtc=20023</id><title>內銀建行工行農行破頂  險資舉牌加持 如何捕捉升勢？</title><updated>2025-06-04T13:57:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3958767/%E5%85%A7%E9%8A%80%E5%BB%BA%E8%A1%8C%E5%B7%A5%E8%A1%8C%E8%BE%B2%E8%A1%8C%E7%A0%B4%E9%A0%82%20%20%E9%9A%AA%E8%B3%87%E8%88%89%E7%89%8C%E5%8A%A0%E6%8C%81%20%E5%A6%82%E4%BD%95%E6%8D%95%E6%8D%89%E5%8D%87%E5%8B%A2%EF%BC%9F?mtc=20023"/><published>2025-06-04T13:57:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/3958928/Taylor%20Swift20%E5%B9%B4%E8%B2%B7%E5%9B%9E%E7%89%88%E6%AC%8A%20%E6%A8%82%E5%A3%87%E7%9F%A5%E8%AD%98%E7%94%A2%E6%AC%8A%E6%96%B0%E6%99%82%E4%BB%A3?mtc=20023</id><title>Taylor Swift20年買回版權 樂壇知識產權新時代</title><updated>2025-06-04T14:04:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://topick.hket.com/article/2591706/%E6%80%A5%E7%97%87%E5%AE%A4%E6%9C%80%E9%95%B7%E7%AD%89%E5%80%99%E6%99%82%E9%96%93%EF%BC%8806%E6%9C%8804%E6%97%A5%20%E6%99%82%E9%96%9316:05%EF%BC%89?mtc=20023"/><published>2025-06-04T16:05:00+08:00</published></entry><entry><id>https://news.hket.com/article/3959431/%E4%BA%AC%E5%AE%98%E8%A8%AA%E6%B8%AF%EF%BD%9C%E6%B6%88%E6%81%AF%EF%BC%9A%E6%B8%AF%E6%BE%B3%E8%BE%A6%E4%B8%BB%E4%BB%BB%E5%A4%8F%E5%AF%B6%E9%BE%8D%E6%96%996%E6%9C%88%E4%B8%AD%E4%BE%86%E6%B8%AF%E8%80%83%E5%AF%9F?mtc=20023</id><title>京官訪港｜消息：港澳辦主任夏寶龍料6月中來港考察</title><updated>2025-06-04T16:05:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-06-04T14:04:00+08:00 Updated on: 2025-06-04T14:04:40.822+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-06-04T16:05:00+08:00 Updated on: 2025-06-04T16:40:15.588+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;樂壇天后Taylor Swift（泰勒絲）吸金力無限，近年在樂壇以至全球經濟都舉足輕重。作為唱作歌手，她亦非常注重其作品的版權。&lt;/p&gt;
+&lt;p&gt;【港澳辦 / 夏寶龍 / 國安法】消息指，&lt;a href="https://www.hmo.gov.cn/" target="_blank"&gt;港澳辦&lt;/a&gt;主任夏寶龍料於6月中下旬將來港考察。夏寶龍今年2月曾到河套港深合作區、橫琴合作區等地調研，5月則曾到澳門調研。&lt;/p&gt;&lt;p&gt;過去兩年，夏寶龍來港考察均無固定時間，前年4月、去年2月，為期6至7天，今年尚未來港考察。&lt;/p&gt;&lt;p&gt;多位立法會議員稱，夏寶龍來港考察已成慣例，不感意外。據了解，夏寶龍今次來港，或會出席6月21日舉行的國安法實施5周年論壇。&lt;/p&gt;&lt;p&gt;全國人大常委李慧琼說，若夏寶龍落實訪港，非常之期待鄭來到，因為中央領導人對香港長期的關心和支持，透過夏寶龍訪港進一步傳達訊息，香港社會高度期待。&lt;/p&gt;&lt;p&gt;被問到若夏寶龍訪港會考察哪裏，李慧琼說，好難估計，但覺得香港現在由治及興有很多新發展，經濟方面，金融中心建設、以至北部都會區，都有新內容；民生方面，也不斷有新項目推出，值得夏進一步調研，以及聽取夏給香港意見。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://news.hket.com/article/3959431/%E4%BA%AC%E5%AE%98%E8%A8%AA%E6%B8%AF%EF%BD%9C%E6%B6%88%E6%81%AF%EF%BC%9A%E6%B8%AF%E6%BE%B3%E8%BE%A6%E4%B8%BB%E4%BB%BB%E5%A4%8F%E5%AF%B6%E9%BE%8D%E6%96%996%E6%9C%88%E4%B8%AD%E4%BE%86%E6%B8%AF%E8%80%83%E5%AF%9F?mtc=20023"/><published>2025-06-04T16:05:00+08:00</published></entry><entry><id>https://news.hket.com/article/3959416/%E8%81%96%E5%BE%B7%E8%82%8B%E6%92%92%E6%89%8B%E8%A1%93%E5%AE%A4%E4%BA%8B%E6%95%85%EF%BD%9C%E8%A1%9E%E7%94%9F%E7%BD%B2%EF%BC%9A%E4%B8%8D%E8%A9%95%E8%AB%96%E3%80%8C%E9%86%AB%E9%99%A2%E5%A4%9A%E6%AC%A1%E6%94%B9%E8%AE%8A%E8%AA%AA%E6%B3%95%E3%80%8D%E3%80%80%E5%90%A6%E8%AA%8D%E6%B6%89%E4%BA%8B%E7%97%85%E4%BA%BA%E5%9B%9B%E5%BA%A6%E8%87%B4%E9%9B%BB%E4%B8%8D%E7%8D%B2%E5%9B%9E%E6%87%89?mtc=20023</id><title>聖德肋撒手術室事故｜衞生署：不評論「醫院多次改變說法」　否認涉事病人四度致電不獲回應</title><updated>2025-06-04T16:05:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-06-04T16:05:12.446+08:00 Updated on: 2025-06-04T16:05:12.446+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;聖德肋撒醫院去年7月冷氣故障，導致手術室內出現「倒汗水」，影響手術。今日（4日）醫務衞生局回覆立法會議員田北辰指，就傳媒報道「醫院多次改變說法」，衞生署不作評論。&lt;/p&gt;&lt;h2&gt;4度致電不獲回應？衞生署：與紀錄不符&lt;/h2&gt;&lt;p&gt;衞生署指，在調查期間，醫院沒有向衞生署改變說法，就傳媒報道「醫院多次改變說法」，衞生署不作評論。至於涉事病人的投訴情況，有報道指稱涉事病人曾四度致電衞生署投訴而不獲回應，衞生署表示與署方紀錄不符。&lt;/p&gt;&lt;p&gt;署方表示，現存紀錄顯示私營醫療機構投訴委員會曾於2024年9月12日接獲一名公眾人士來電，查詢對私營醫療機構作出投訴的程序，並提及於聖德肋撒醫院接受手術期間冷氣系統失靈一事。投訴委員會秘書處已即時向該人士解釋投訴委員會的功能，以及向投訴委員會作出投訴的法定程序。&lt;/p&gt;&lt;p&gt;此外，投訴委員會秘書處再於翌日（2024年9月13日）按該人士的要求，將投訴程序、投訴表格及法定聲明表格傳送至其提供的電郵地址。該人士於同日以電郵確認收取。及後，投訴委員會並無接獲該人士就是次事件作出投訴。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://news.hket.com/article/3959416/%E8%81%96%E5%BE%B7%E8%82%8B%E6%92%92%E6%89%8B%E8%A1%93%E5%AE%A4%E4%BA%8B%E6%95%85%EF%BD%9C%E8%A1%9E%E7%94%9F%E7%BD%B2%EF%BC%9A%E4%B8%8D%E8%A9%95%E8%AB%96%E3%80%8C%E9%86%AB%E9%99%A2%E5%A4%9A%E6%AC%A1%E6%94%B9%E8%AE%8A%E8%AA%AA%E6%B3%95%E3%80%8D%E3%80%80%E5%90%A6%E8%AA%8D%E6%B6%89%E4%BA%8B%E7%97%85%E4%BA%BA%E5%9B%9B%E5%BA%A6%E8%87%B4%E9%9B%BB%E4%B8%8D%E7%8D%B2%E5%9B%9E%E6%87%89?mtc=20023"/><published>2025-06-04T16:05:00+08:00</published></entry><entry><id>https://news.hket.com/article/3959434/%E5%85%AC%E5%B1%8B%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%A4%96%E7%89%86%E6%AA%A2%E6%B8%AC%EF%BD%9C%E4%BD%95%E6%B0%B8%E8%B3%A2%EF%BC%9AAI%E8%AD%98%E5%88%A5%E4%BA%BA%E5%83%8F%E4%B8%A6%E8%87%AA%E5%8B%95%E6%A8%A1%E7%B3%8A%E4%BF%9D%E9%9A%9C%E7%A7%81%E9%9A%B1%E3%80%80%E6%8B%8D%E6%94%9D%E5%89%8D%E5%85%A9%E6%98%9F%E6%9C%9F%E9%80%9A%E7%9F%A5%E7%9B%B8%E9%97%9C%E4%BD%8F%E6%88%B6?mtc=20023</id><title>公屋無人機外牆檢測｜何永賢：AI識別人像並自動模糊保障私隱　拍攝前兩星期通知相關住戶</title><updated>2025-06-04T16:08:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-06-04T16:08:00+08:00 Updated on: 2025-06-04T16:11:48.775+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;房屋署推動智慧屋邨管理，包括使用無人機檢查升降機槽、大廈外牆及置於樓底較高天花下的管道。有議員關注當局在使用無人機進行檢測時，如何保障市民私隱。房屋局指，屋邨辦事處會於拍攝前兩星期通知相關住戶；服務供應商亦會透過人工智能技術，自動將人像變得模糊，且不保存任何包含人像影像的檔案。&lt;/p&gt;&lt;p&gt;選委界梁美芬向立法會提出書面質詢，問及目前全港應用無人機技術於日常管理的公共屋邨佔比，以及使用無人機進行檢測前，通知住户的標準程序。&lt;/p&gt;&lt;h2&gt;無人機外牆檢測合約已覆蓋全港公屋&lt;/h2&gt;&lt;p&gt;房屋局局長何永賢回應指，房委會自2023年已於公屋引入無人機協助處理屋邨保養維修工作，使用的無人機外牆檢測合約已覆蓋全港所有公共屋邨。現時服務供應商已於約20條公共屋邨完成所需的外牆檢測，並會於其他屋邨繼續進行。&lt;/p&gt;&lt;p&gt;何永賢指，進行外牆檢測的無人機一般會配備攝錄鏡頭、紅外線探測鏡頭及測距儀，於飛行期間對特定路線的特定目標進行拍攝、錄像或測量等工作。屋邨辦事處一般會於拍攝展開前14天以通告通知相關住戶，建議他們在拍攝期間關上窗戶及拉上窗簾，以便住戶能及早得悉有關安排並預先作好準備。&lt;/p&gt;&lt;p&gt;她續指，就無人機勘察樓宇外牆的安排，房屋局已諮詢個人資料私隱專員公署。當局已要求服務供應商按照私隱專員公署的指引，制定保障居民個人私隱的策略並嚴格執行。目前，服務供應商會透過人工智能技術，自動識別並自動將人像變得模糊，並且不能保存任何包含人像影像的紀錄檔案，以保障住户私隱。而且相關程序必須為不可逆轉的，系統亦不可保留原有未經處理的影像記錄。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://news.hket.com/article/3959434/%E5%85%AC%E5%B1%8B%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%A4%96%E7%89%86%E6%AA%A2%E6%B8%AC%EF%BD%9C%E4%BD%95%E6%B0%B8%E8%B3%A2%EF%BC%9AAI%E8%AD%98%E5%88%A5%E4%BA%BA%E5%83%8F%E4%B8%A6%E8%87%AA%E5%8B%95%E6%A8%A1%E7%B3%8A%E4%BF%9D%E9%9A%9C%E7%A7%81%E9%9A%B1%E3%80%80%E6%8B%8D%E6%94%9D%E5%89%8D%E5%85%A9%E6%98%9F%E6%9C%9F%E9%80%9A%E7%9F%A5%E7%9B%B8%E9%97%9C%E4%BD%8F%E6%88%B6?mtc=20023"/><published>2025-06-04T16:08:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3959450/AH%E4%BA%92%E5%8B%95%EF%BD%9CH%E8%82%A1%E8%88%87A%E8%82%A1%E5%85%AC%E5%8F%B8%E8%82%A1%E5%83%B9%E5%B0%8D%E7%85%A7%E8%A1%A8?mtc=20023</id><title>AH互動｜H股與A股公司股價對照表</title><updated>2025-06-04T16:11:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3959450/AH%E4%BA%92%E5%8B%95%EF%BD%9CH%E8%82%A1%E8%88%87A%E8%82%A1%E5%85%AC%E5%8F%B8%E8%82%A1%E5%83%B9%E5%B0%8D%E7%85%A7%E8%A1%A8?mtc=20023"/><published>2025-06-04T16:11:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3959451/AH%E4%BA%92%E5%8B%95%EF%BD%9CA%E8%82%A1%E8%82%A1%E5%83%B9%E5%8F%8A%E5%8D%87%E8%B7%8C%E4%B8%80%E8%A6%BD?mtc=20023</id><title>AH互動｜A股股價及升跌一覽</title><updated>2025-06-04T16:11:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3959451/AH%E4%BA%92%E5%8B%95%EF%BD%9CA%E8%82%A1%E8%82%A1%E5%83%B9%E5%8F%8A%E5%8D%87%E8%B7%8C%E4%B8%80%E8%A6%BD?mtc=20023"/><published>2025-06-04T16:11:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3959452/AH%E4%BA%92%E5%8B%95%EF%BD%9CH%E8%82%A1%E8%82%A1%E5%83%B9%E5%8F%8A%E5%8D%87%E8%B7%8C%E4%B8%80%E8%A6%BD?mtc=20023</id><title>AH互動｜H股股價及升跌一覽</title><updated>2025-06-04T16:11:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3959452/AH%E4%BA%92%E5%8B%95%EF%BD%9CH%E8%82%A1%E8%82%A1%E5%83%B9%E5%8F%8A%E5%8D%87%E8%B7%8C%E4%B8%80%E8%A6%BD?mtc=20023"/><published>2025-06-04T16:11:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/3959125/%E6%89%8B%E6%A9%9F-AI%E6%88%B0%E5%A0%B4%E7%8F%BE%E5%BD%A2%20%E4%B8%89%E6%98%9F%E9%81%B8%E5%AE%9AAI%E5%A4%A5%E4%BC%B4%E5%8A%9B%E6%88%B0iPhone?mtc=20023</id><title>手機+AI戰場現形 三星選定AI夥伴力戰iPhone</title><updated>2025-06-04T16:13:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-06-04T16:13:00+08:00 Updated on: 2025-06-04T16:13:18.386+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;手機加入AI功能已成新一代手機的大趨勢，在手機廠群雄割據的戰況下，手機廠與AI公司陣營歸邊的格局日漸明朗。&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;...&lt;/p&gt;
 &lt;div class="fqa_widget"&gt;&lt;/div&gt;
 &lt;div class="article-detail_login"&gt;
 &lt;div class="container"&gt;
-&lt;p&gt;【hket PRO 訂閲計劃】每日只需$1.6，掌握股樓、時事趨勢，深入報導，仲送實用禮物$600&lt;br&gt;&lt;span&gt;&lt;a href=" https://event.hket.com/article/3927908?utm_content=3958928&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;【hket PRO 訂閲計劃】每日只需$1.6，掌握股樓、時事趨勢，深入報導，仲送實用禮物$600&lt;br&gt;&lt;span&gt;&lt;a href=" https://event.hket.com/article/3927908?utm_content=3959125&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
 &lt;div class="login-btn-container"&gt;
 &lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
-&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202409_promotion_ContentBlock&amp;amp;utm_content=3958928&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202409_promotion_ContentBlock&amp;amp;utm_content=3959125&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
 									歡迎訂閱
 								&lt;/a&gt;
 &lt;/div&gt;
@@ -61,22 +175,22 @@
 &lt;/div&gt;
 &lt;div class="article-detail_extra-info"&gt;
 &lt;p&gt;&lt;span&gt;撰文 :&lt;/span&gt; &lt;span&gt;錢家鋒 &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;欄名 :&lt;/span&gt; &lt;span&gt;國金縱橫&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;欄名 :&lt;/span&gt; &lt;span&gt;科技縱橫&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://specialist.hket.com/article/3958928/Taylor%20Swift20%E5%B9%B4%E8%B2%B7%E5%9B%9E%E7%89%88%E6%AC%8A%20%E6%A8%82%E5%A3%87%E7%9F%A5%E8%AD%98%E7%94%A2%E6%AC%8A%E6%96%B0%E6%99%82%E4%BB%A3?mtc=20023"/><published>2025-06-04T14:04:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/3958733/%E6%9C%A8%E9%A0%AD%E5%A7%90%E5%86%8D%E6%B8%9B%E6%8C%81Tesla%E7%89%B9%E6%96%AF%E6%8B%89%C2%A0%20%E9%A6%AC%E6%96%AF%E5%85%8B%E5%87%BA%E7%9A%84%E5%A3%AB%E9%9A%9C%E7%A4%99%E9%87%8D%E9%87%8D-%E7%AC%AC%E4%BA%8C%E7%89%88-?mtc=20023</id><title>木頭姐再減持Tesla特斯拉  馬斯克出的士障礙重重(第二版)</title><updated>2025-06-04T14:06:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/3959125/%E6%89%8B%E6%A9%9F-AI%E6%88%B0%E5%A0%B4%E7%8F%BE%E5%BD%A2%20%E4%B8%89%E6%98%9F%E9%81%B8%E5%AE%9AAI%E5%A4%A5%E4%BC%B4%E5%8A%9B%E6%88%B0iPhone?mtc=20023"/><published>2025-06-04T16:13:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/3957863/%E6%B4%AA%E7%81%9D%EF%BC%9A%E6%B8%AF%E8%82%A1%E6%9C%AA%E4%BE%86%E5%85%AD%E5%80%8B%E6%9C%88%E6%9C%83......%20%E5%9B%A0%E7%82%BA%E4%B8%80%E5%80%8B%E6%8C%87%E6%A8%99?mtc=20023</id><title>洪灝：港股未來六個月會...... 因為一個指標</title><updated>2025-06-04T16:14:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-06-04T14:06:00+08:00 Updated on: 2025-06-04T14:08:40.527+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-06-04T16:14:00+08:00 Updated on: 2025-06-04T16:14:31.539+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;方舟投資CEO「木頭姐」伍德（Cathie Wood）3月才公開預計特斯拉（美：TSLA）股價將達到2600 美元，但上周3度減持她推崇的AI股共約5萬股，套現約1700萬美元。&lt;/p&gt;
+&lt;p&gt;洪灝最新的一場綫上演講，深度剖析了2025下半年市場的變化和投資機會。認為投資需要留意周期指標，只有拐點才能改變人生。此外，南向淨買入是一個領先指標，由此推斷，港股下半年還有一個高位。&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;...&lt;/p&gt;
 &lt;div class="fqa_widget"&gt;&lt;/div&gt;
 &lt;div class="article-detail_login"&gt;
 &lt;div class="container"&gt;
-&lt;p&gt;【hket PRO 訂閲計劃】每日只需$1.6，掌握股樓、時事趨勢，深入報導，仲送實用禮物$600&lt;br&gt;&lt;span&gt;&lt;a href=" https://event.hket.com/article/3927908?utm_content=3958733&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;【hket PRO 訂閲計劃】每日只需$1.6，掌握股樓、時事趨勢，深入報導，仲送實用禮物$600&lt;br&gt;&lt;span&gt;&lt;a href=" https://event.hket.com/article/3927908?utm_content=3957863&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
 &lt;div class="login-btn-container"&gt;
 &lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
-&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202409_promotion_ContentBlock&amp;amp;utm_content=3958733&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202409_promotion_ContentBlock&amp;amp;utm_content=3957863&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
 									歡迎訂閱
 								&lt;/a&gt;
 &lt;/div&gt;
@@ -92,157 +206,20 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="article-detail_extra-info"&gt;
-&lt;p&gt;&lt;span&gt;欄名 :&lt;/span&gt; &lt;span&gt;名人追蹤&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;撰文 :&lt;/span&gt; &lt;span&gt;陳建仁 &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;欄名 :&lt;/span&gt; &lt;span&gt;大師盤算&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://specialist.hket.com/article/3958733/%E6%9C%A8%E9%A0%AD%E5%A7%90%E5%86%8D%E6%B8%9B%E6%8C%81Tesla%E7%89%B9%E6%96%AF%E6%8B%89%C2%A0%20%E9%A6%AC%E6%96%AF%E5%85%8B%E5%87%BA%E7%9A%84%E5%A3%AB%E9%9A%9C%E7%A4%99%E9%87%8D%E9%87%8D-%E7%AC%AC%E4%BA%8C%E7%89%88-?mtc=20023"/><published>2025-06-04T14:06:00+08:00</published></entry><entry><id>https://inews.hket.com/article/3959356/%E7%89%B9%E6%9C%97%E6%99%AE%EF%BD%9C%E7%BE%8E%E5%8A%A0%E9%80%9F%E9%87%8D%E8%A6%81%E7%A4%A6%E7%89%A9%E7%94%9F%E7%94%A2%20%E6%93%AC%E5%BB%A2%E9%83%A8%E5%88%86%E6%B3%95%E5%BE%8B%E8%A6%81%E6%B1%82?mtc=20023</id><title>特朗普｜美加速重要礦物生產 擬廢部分法律要求</title><updated>2025-06-04T14:07:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/3957863/%E6%B4%AA%E7%81%9D%EF%BC%9A%E6%B8%AF%E8%82%A1%E6%9C%AA%E4%BE%86%E5%85%AD%E5%80%8B%E6%9C%88%E6%9C%83......%20%E5%9B%A0%E7%82%BA%E4%B8%80%E5%80%8B%E6%8C%87%E6%A8%99?mtc=20023"/><published>2025-06-04T16:14:00+08:00</published></entry><entry><id>https://inews.hket.com/article/3959182/%E6%B8%AF%E8%82%A1%E6%94%B6%E5%B8%82%EF%BD%9C%E6%81%92%E6%8C%87%E5%8D%87141%E9%BB%9E%E3%80%80%E7%BE%8E%E5%9C%98%E5%8D%873-%E3%80%81%E7%9F%B3%E8%97%A5%E5%8D%874-%E3%80%80%E5%B9%B3%E4%BF%9D%E5%8F%8B%E9%82%A6%E9%80%86%E5%B8%82%E8%B7%8C1-%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023</id><title>港股收市｜恒指升141點　美團升3%、石藥升4%　平保友邦逆市跌1%（不斷更新）</title><updated>2025-06-04T16:14:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-06-04T14:07:06.528+08:00 Updated on: 2025-06-04T14:07:06.528+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-06-04T16:14:00+08:00 Updated on: 2025-06-04T16:14:30.774+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;美國總統特朗普（Donald Trump）被指計劃廢除部分法律要求，希望加速美國生產重要礦物的產能。但有專家指出，措施將無助短期內改變中國主導重要礦物產業的狀況。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;美國關稅｜南韓新政府或尋延長協商 中日成參考對象 &lt;a href="https://inews.hket.com/article/3959302/?lcc=an" title="【下一頁】"&gt;【下一頁】&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;路透社引用美國政府文件報道，特朗普將在周三（4日）刊登的聯邦公報中宣布，利用總統緊急權力，廢除白宮涉及超過5,000萬美元（約3.9億港元）與勒令需在一年架構內完成項目需先獲國會批准等法律要求，提升美國重要礦泉物及武器產能。&lt;/p&gt;&lt;p&gt;特朗普的行動被指適用於國防生產法案（Defense Production Act），條文賦予美國總統廣泛緊急權力，在國家安全緊急狀況下控制本土行業及資源。此舉相信為白宮嘗試重塑由中國主導的重要礦泉物行業。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;南韓大選｜李在明宣誓就職總統 拒重演內亂 加強美日韓合作 &lt;a href="https://inews.hket.com/article/3959248/?lcc=an" title="【下一頁】"&gt;【下一頁】&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;特朗普曾於3月引用在韓戰時代訂立的國防生產法案，尋求刺激美國用於消費者商品﹑電腦芯片﹑機械人及先進武器的重要礦物產能。前總統拜登（Joe Biden）在疫情期間亦簽署類似豁免令，刺激疫苗及醫療用品生產。&lt;/p&gt;&lt;p&gt;喬治華盛頓大學（George Washington University）教授海爾韋斯頓（John Paul Helveston）認為，美國在重要礦物產業增加投資為長期解決方法，如美國希望維持未來5年至10年重要礦物來源，仍需與中國保持貿易關係，短期內仍受中國貿易政策掣肘。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;緊貼地緣政治變化，立即免費下載《香港經濟日報》App【&lt;a href="http://onelink.to/knpjgk"&gt;按此&lt;/a&gt;】&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/3959356/%E7%89%B9%E6%9C%97%E6%99%AE%EF%BD%9C%E7%BE%8E%E5%8A%A0%E9%80%9F%E9%87%8D%E8%A6%81%E7%A4%A6%E7%89%A9%E7%94%9F%E7%94%A2%20%E6%93%AC%E5%BB%A2%E9%83%A8%E5%88%86%E6%B3%95%E5%BE%8B%E8%A6%81%E6%B1%82?mtc=20023"/><published>2025-06-04T14:07:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/3958545/%E7%9C%9F%E6%AD%A3%E5%8F%8D%E5%90%91%E6%8C%87%E6%A8%99%20%E7%99%BC%E5%87%BA%E8%AD%A6%E5%91%8A-?mtc=20023</id><title>國金解碼 - 真正反向指標 發出警告?</title><updated>2025-06-04T14:08:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2025-06-04T14:08:00+08:00 Updated on: 2025-06-04T14:08:13.081+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;市場的真正反向指標是誰? 答案，或隱藏在最複雜，號稱最緊貼市場的策略之下。&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;...&lt;/p&gt;
-&lt;div class="fqa_widget"&gt;&lt;/div&gt;
-&lt;div class="article-detail_login"&gt;
-&lt;div class="container"&gt;
-&lt;p&gt;【hket PRO 訂閲計劃】每日只需$1.6，掌握股樓、時事趨勢，深入報導，仲送實用禮物$600&lt;br&gt;&lt;span&gt;&lt;a href=" https://event.hket.com/article/3927908?utm_content=3958545&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;div class="login-btn-container"&gt;
-&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
-&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202409_promotion_ContentBlock&amp;amp;utm_content=3958545&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
-									歡迎訂閱
-								&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
-&lt;a class="listing-banner full-content" href="https://event.hket.com/article/3927908" title="【hket PRO 訂閲計劃】每日只需$1.6，掌握股樓、時事趨勢，深入報導，仲送實用禮物$600"&gt;
-&lt;div class="listing-banner"&gt;
-&lt;picture&gt;
-&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20250319_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20250319_1024.jpg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="article-detail_extra-info"&gt;
-&lt;p&gt;&lt;span&gt;欄名 :&lt;/span&gt; &lt;span&gt;國金解碼&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://specialist.hket.com/article/3958545/%E7%9C%9F%E6%AD%A3%E5%8F%8D%E5%90%91%E6%8C%87%E6%A8%99%20%E7%99%BC%E5%87%BA%E8%AD%A6%E5%91%8A-?mtc=20023"/><published>2025-06-04T14:08:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3959354/%E5%88%A9%E5%98%89%E9%96%A3%EF%BC%9A%E5%8D%81%E5%A4%A7%E6%B4%BB%E8%BA%8D%E6%8C%87%E6%A8%99%E5%B1%8B%E8%8B%91%E4%B8%8A%E5%91%A8%E8%B2%B7%E8%B3%A351%E5%AE%97%20%E6%98%A0%E7%81%A3%E5%9C%92%20%E6%B2%99%E7%94%B0%E7%AC%AC%E4%B8%80%E5%9F%8E%E5%90%84%E9%8C%847%E5%AE%97%E6%88%90%E9%9B%99%E5%86%A0%E8%BB%8D?mtc=20023</id><title>利嘉閣：十大活躍指標屋苑上周買賣51宗 映灣園 沙田第一城各錄7宗成雙冠軍</title><updated>2025-06-04T14:11:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3959354/%E5%88%A9%E5%98%89%E9%96%A3%EF%BC%9A%E5%8D%81%E5%A4%A7%E6%B4%BB%E8%BA%8D%E6%8C%87%E6%A8%99%E5%B1%8B%E8%8B%91%E4%B8%8A%E5%91%A8%E8%B2%B7%E8%B3%A351%E5%AE%97%20%E6%98%A0%E7%81%A3%E5%9C%92%20%E6%B2%99%E7%94%B0%E7%AC%AC%E4%B8%80%E5%9F%8E%E5%90%84%E9%8C%847%E5%AE%97%E6%88%90%E9%9B%99%E5%86%A0%E8%BB%8D?mtc=20023"/><published>2025-06-04T14:11:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3959314/%E6%96%B0%E6%88%80%E6%83%85%E2%94%82JW%E7%8E%8B%E7%81%9D%E5%85%92%E6%9A%97%E6%92%BB%E8%B6%B3%E7%90%83%E5%85%BC%E9%9F%B3%E6%A8%82%E7%95%8C%E7%8C%9B%E4%BA%BA%EF%BC%9F%20%E5%8E%BB%E5%B9%B4%E8%88%87%E7%A0%B4%E7%94%A2%E7%94%B7%E5%8F%8B%E5%88%86%E6%89%8B%E5%BE%8C%E8%B2%B7%E6%A8%93%E5%85%BC%E5%81%9A%E8%80%81%E9%97%86?mtc=20023</id><title>新戀情│JW王灝兒暗撻足球兼音樂界猛人？ 去年與破產男友分手後買樓兼做老闆</title><updated>2025-06-04T14:12:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3959314/%E6%96%B0%E6%88%80%E6%83%85%E2%94%82JW%E7%8E%8B%E7%81%9D%E5%85%92%E6%9A%97%E6%92%BB%E8%B6%B3%E7%90%83%E5%85%BC%E9%9F%B3%E6%A8%82%E7%95%8C%E7%8C%9B%E4%BA%BA%EF%BC%9F%20%E5%8E%BB%E5%B9%B4%E8%88%87%E7%A0%B4%E7%94%A2%E7%94%B7%E5%8F%8B%E5%88%86%E6%89%8B%E5%BE%8C%E8%B2%B7%E6%A8%93%E5%85%BC%E5%81%9A%E8%80%81%E9%97%86?mtc=20023"/><published>2025-06-04T14:12:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3956902/%E7%A9%A9%E5%AE%9A%E5%B9%A3%E5%A4%A7%E6%BD%AE%EF%BD%9C%E6%90%B6%E5%AE%8C%E7%9C%BE%E5%AE%89%E7%88%AC%E5%85%89%E5%A4%A7%EF%BC%88%E6%BD%9B%E5%8A%9B%E8%82%A1%E8%BF%BD%E8%B9%A4%EF%BC%89?mtc=20023</id><title>穩定幣大潮｜搶完眾安爬光大（潛力股追蹤）</title><updated>2025-06-04T14:14:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3956902/%E7%A9%A9%E5%AE%9A%E5%B9%A3%E5%A4%A7%E6%BD%AE%EF%BD%9C%E6%90%B6%E5%AE%8C%E7%9C%BE%E5%AE%89%E7%88%AC%E5%85%89%E5%A4%A7%EF%BC%88%E6%BD%9B%E5%8A%9B%E8%82%A1%E8%BF%BD%E8%B9%A4%EF%BC%89?mtc=20023"/><published>2025-06-04T14:14:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3958970/%E7%BE%8E%E5%9C%8B%E8%97%A5%E5%BB%A0%E6%9C%89%E6%B1%82%E4%B8%AD%E5%9C%8B%EF%BC%9F%20%E5%89%B5%E6%96%B0%E8%97%A5%E6%98%AFDeepseek2.0%EF%BC%9F%EF%BC%88%E8%A1%8C%E6%A5%AD%E6%96%B0%E8%B6%A8%E5%8B%A2%EF%BC%89?mtc=20023</id><title>美國藥廠有求中國？ 創新藥是Deepseek2.0？（行業新趨勢）</title><updated>2025-06-04T14:16:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3958970/%E7%BE%8E%E5%9C%8B%E8%97%A5%E5%BB%A0%E6%9C%89%E6%B1%82%E4%B8%AD%E5%9C%8B%EF%BC%9F%20%E5%89%B5%E6%96%B0%E8%97%A5%E6%98%AFDeepseek2.0%EF%BC%9F%EF%BC%88%E8%A1%8C%E6%A5%AD%E6%96%B0%E8%B6%A8%E5%8B%A2%EF%BC%89?mtc=20023"/><published>2025-06-04T14:16:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3959236/%E9%BB%83%E5%A4%8F%E8%95%99%E9%A9%9A%E7%88%86%E7%8D%A8%E5%B1%85160%E5%91%8E%E9%81%8E%E6%B8%A1%E6%80%A7%E6%88%BF%E5%B1%8B%20%E8%A5%BF%E8%B2%A2%E8%B1%AA%E5%AE%85%E8%A2%AB%E9%A8%99%E8%B5%B0%20%E9%9D%A04%E5%8D%83%E5%85%83%E9%95%B7%E6%B4%A5%E9%81%8E%E6%B4%BB?mtc=20023</id><title>黃夏蕙驚爆獨居160呎過渡性房屋 西貢豪宅被騙走 靠4千元長津過活</title><updated>2025-06-04T14:16:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3959236/%E9%BB%83%E5%A4%8F%E8%95%99%E9%A9%9A%E7%88%86%E7%8D%A8%E5%B1%85160%E5%91%8E%E9%81%8E%E6%B8%A1%E6%80%A7%E6%88%BF%E5%B1%8B%20%E8%A5%BF%E8%B2%A2%E8%B1%AA%E5%AE%85%E8%A2%AB%E9%A8%99%E8%B5%B0%20%E9%9D%A04%E5%8D%83%E5%85%83%E9%95%B7%E6%B4%A5%E9%81%8E%E6%B4%BB?mtc=20023"/><published>2025-06-04T14:16:00+08:00</published></entry><entry><id>https://knowledge.hket.com/article/3958769/%E5%B9%B3%E6%9B%BF%E7%BE%8E%E9%87%91%20%20%E7%A9%A9%E5%AE%9A%E5%B9%A3%E6%88%90%E8%BB%9F%E8%B2%A8%E5%B9%A3%E5%89%8B%E6%98%9F%EF%BC%9F?mtc=20023</id><title>平替美金  穩定幣成軟貨幣剋星？</title><updated>2025-06-04T14:17:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2025-06-04T14:17:00+08:00 Updated on: 2025-06-04T14:17:59.709+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;香港、美國等先後通過穩定幣法例，然而最受惠穩定幣技術的不是這些發達國家或地區，而是那些常常面對法幣貶值危機的弱小發展中國家。據悉，非洲如今已成為數位金融發展最快、虛擬貨幣應用最廣的地區，為何如此？&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;...&lt;/p&gt;
-&lt;div class="fqa_widget"&gt;&lt;/div&gt;
-&lt;div class="article-detail_login"&gt;
-&lt;div class="container"&gt;
-&lt;p&gt;【hket PRO 訂閲計劃】每日只需$1.6，掌握股樓、時事趨勢，深入報導，仲送實用禮物$600&lt;br&gt;&lt;span&gt;&lt;a href=" https://event.hket.com/article/3927908?utm_content=3958769&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;div class="login-btn-container"&gt;
-&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
-&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202409_promotion_ContentBlock&amp;amp;utm_content=3958769&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
-									歡迎訂閱
-								&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
-&lt;a class="listing-banner full-content" href="https://event.hket.com/article/3927908" title="【hket PRO 訂閲計劃】每日只需$1.6，掌握股樓、時事趨勢，深入報導，仲送實用禮物$600"&gt;
-&lt;div class="listing-banner"&gt;
-&lt;picture&gt;
-&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20250319_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20250319_1024.jpg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="article-detail_extra-info"&gt;
-&lt;p&gt;&lt;span&gt;欄名 :&lt;/span&gt; &lt;span&gt;科技新知&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://knowledge.hket.com/article/3958769/%E5%B9%B3%E6%9B%BF%E7%BE%8E%E9%87%91%20%20%E7%A9%A9%E5%AE%9A%E5%B9%A3%E6%88%90%E8%BB%9F%E8%B2%A8%E5%B9%A3%E5%89%8B%E6%98%9F%EF%BC%9F?mtc=20023"/><published>2025-06-04T14:17:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3955371/%E9%A0%98%E5%B1%9520%E5%91%A8%E5%B9%B4%20%E5%8D%9A%E5%83%B9Vs%E5%8D%9A%E6%81%AF%EF%BC%9F?mtc=20023</id><title>領展20周年 博價Vs博息？</title><updated>2025-06-04T14:18:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3955371/%E9%A0%98%E5%B1%9520%E5%91%A8%E5%B9%B4%20%E5%8D%9A%E5%83%B9Vs%E5%8D%9A%E6%81%AF%EF%BC%9F?mtc=20023"/><published>2025-06-04T14:18:00+08:00</published></entry><entry><id>https://news.hket.com/article/3959360/%E6%83%9C%E7%89%A9%E6%B8%9B%E5%A1%91%EF%BD%9C%E6%B8%AF%E7%87%88%E9%A6%96%E8%BE%A6%E3%80%8C%E4%BB%A5%E7%89%A9%E6%98%93%E7%89%A9%E3%80%8D%E5%B8%82%E9%9B%86%E3%80%80%E9%BC%93%E5%8B%B5%E5%93%A1%E5%B7%A5%E6%B8%9B%E5%B0%91%E6%B5%AA%E8%B2%BB?mtc=20023</id><title>惜物減塑｜港燈首辦「以物易物」市集　鼓勵員工減少浪費</title><updated>2025-06-04T14:18:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2025-06-04T14:18:07.404+08:00 Updated on: 2025-06-04T14:18:07.404+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;為響應今年聯合國「世界環境日」主題，港燈首次舉辦「以物易物」市集，鼓勵員工為他們的閒置「寶物」尋找新主人，賦予它們「二次生命」，減少廢棄物進入生態系統，實踐環保理念。&lt;/p&gt;&lt;p&gt;港燈表示，「以物易物」市集只用了大約兩個星期時間，已收到約200件形形色色的「寶物」，包括書籍、廁紙架、木製掛架、公仔玩具、按摩器、小型無人機、咖啡打奶泡器、耐熱玻璃茶壺、床單和單車頭盔等。市集更特設「三次生命」專區，讓員工選取由回收或環保物料製成的物品， 進一步推廣可持續生活方式。&lt;/p&gt;&lt;p&gt;港燈董事總經理鄭祖瀛表示，公司內聯網近年已增設「Pass It On 舊物重生」網上平台，鼓勵員工轉贈閒置物品予有需要的同事，為舊物尋找新主人。他與可持續發展管理委員會的成員率先捐出「寶物」，放到市集與同事共享，形容是次舉辦的市集如「大笪地」一樣熱鬧，閒置物品獲得「二次生命」的同時，亦能鼓勵員工減少浪費，積極實踐低碳生活。&lt;/p&gt;&lt;div&gt; &lt;div class="grouped-image-container"&gt;
-&lt;span class="click-to-enlarge"&gt;&lt;span&gt;▼&lt;/span&gt;點擊圖片放大&lt;/span&gt;
-&lt;div class="grouped-image-wrapper"&gt;
-&lt;div class="article-detail_grouped-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/4photo_600_600_600.jpeg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/4photo_600_600_300.jpeg" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/4photo_600_600_600.jpeg" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/4photo_600_600_300.jpeg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3955000/3959360/4photo_600_600_600.jpeg" src="https://static04.hket.com/res/v3/image/content/3955000/3959360/4photo_600_600_600.jpeg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;div class="article-detail_grouped-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/8b445f34-ce47-4329-9664-dc72667fe8f4_600.jpg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/8b445f34-ce47-4329-9664-dc72667fe8f4_300.jpg" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/8b445f34-ce47-4329-9664-dc72667fe8f4_600.jpg" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/8b445f34-ce47-4329-9664-dc72667fe8f4_300.jpg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="港燈董事總經理鄭祖瀛（右三）與可持續發展管理委員會的成員率先捐出「寶物」。（港燈提供）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3955000/3959360/8b445f34-ce47-4329-9664-dc72667fe8f4_600.jpg" src="https://static04.hket.com/res/v3/image/content/3955000/3959360/8b445f34-ce47-4329-9664-dc72667fe8f4_600.jpg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;div class="mobile-last article-detail_grouped-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/c2de6de7-1596-4f6c-b208-54b3a938dc21_600.jpg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/c2de6de7-1596-4f6c-b208-54b3a938dc21_300.jpg" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/c2de6de7-1596-4f6c-b208-54b3a938dc21_600.jpg" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/c2de6de7-1596-4f6c-b208-54b3a938dc21_300.jpg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="港燈鼓勵員工多使用由回收或環保物料製成的「寶物」，推廣可持續生活方式。（港燈提供）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3955000/3959360/c2de6de7-1596-4f6c-b208-54b3a938dc21_600.jpg" src="https://static04.hket.com/res/v3/image/content/3955000/3959360/c2de6de7-1596-4f6c-b208-54b3a938dc21_600.jpg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;span&gt;+2&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class="article-detail_grouped-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/e80ddcf7-77d8-48ce-9a87-a8ba0596dc4d_600.jpg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/e80ddcf7-77d8-48ce-9a87-a8ba0596dc4d_300.jpg" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/e80ddcf7-77d8-48ce-9a87-a8ba0596dc4d_600.jpg" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959360/e80ddcf7-77d8-48ce-9a87-a8ba0596dc4d_300.jpg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="港燈「以物易物」市集只用了約兩個星期時間，已收到約200件「寶物」。（港燈提供）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3955000/3959360/e80ddcf7-77d8-48ce-9a87-a8ba0596dc4d_600.jpg" src="https://static04.hket.com/res/v3/image/content/3955000/3959360/e80ddcf7-77d8-48ce-9a87-a8ba0596dc4d_600.jpg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;div class="last"&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;另外，港燈亦推出2個有獎問答遊戲，分別是「走塑小活動」及「可持續發展知識問答比賽」，藉此測試員工對回收塑膠的了解，以提升他們對環境保護和可持續發展的認識，寓環保於娛樂。&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://news.hket.com/article/3959360/%E6%83%9C%E7%89%A9%E6%B8%9B%E5%A1%91%EF%BD%9C%E6%B8%AF%E7%87%88%E9%A6%96%E8%BE%A6%E3%80%8C%E4%BB%A5%E7%89%A9%E6%98%93%E7%89%A9%E3%80%8D%E5%B8%82%E9%9B%86%E3%80%80%E9%BC%93%E5%8B%B5%E5%93%A1%E5%B7%A5%E6%B8%9B%E5%B0%91%E6%B5%AA%E8%B2%BB?mtc=20023"/><published>2025-06-04T14:18:00+08:00</published></entry><entry><id>https://topick.hket.com/article/3959362/%E5%85%A8%E9%81%8B%E6%9C%83%EF%BD%9C%E7%BE%85%E6%B7%91%E4%BD%A9%EF%BC%9A%E5%AE%A3%E5%82%B3%E9%8B%AA%E5%A4%A9%E8%93%8B%E5%9C%B0%E9%A0%90%E8%A8%8810%E8%90%AC%E4%BA%BA%E8%A7%80%E8%B3%BD%E3%80%80%E8%AD%B0%E5%93%A1%E6%96%99%E6%97%85%E9%81%8A%E3%80%81%E9%A3%B2%E9%A3%9F%E7%95%8C%E6%84%9F%E5%A4%B1%E6%9C%9B?mtc=20023</id><title>全運會｜羅淑佩：宣傳鋪天蓋地預計10萬人觀賽　議員料旅遊、飲食界感失望</title><updated>2025-06-04T14:21:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2025-06-04T14:21:00+08:00 Updated on: 2025-06-04T14:51:57.382+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;政府擬將全運會和立法會選舉結合宣傳，文體旅局局長羅淑佩表示，政府極為重視，決心做好宣傳工作，「務求做到鋪天蓋地的宣傳效果」。預計全運會有10萬人次觀賽，議員則認為鋪天蓋地宣傳下，對來港、入場人數應有更高期望，又關注何時可公布票務安排。&lt;/p&gt;&lt;p&gt;今日立法會上，羅淑佩回應議員質詢時表示，現時政府相關部門正積極研究全運會和立法會選舉宣傳事宜的協商、推進、安排，稍後有任何具體安排會適時對外公佈。&lt;/p&gt;&lt;p&gt;對於羅淑佩預計全運會有10萬觀眾進場，選委界馬逢國認為，旅遊界及飲食界會對該數目會失望，「假設一半來自內地，呢個數字唔係好吸引。」強調「鋪天蓋地式的宣傳」應有更大的期望，吸引更多內地旅客來港，營造節日氣氛，才能達到預期效應，關注會否有特別宣傳或安排吸引內地遊客來港。&lt;/p&gt;
-&lt;div class="listing-widget-126"&gt;
-&lt;div class="video-channel-info"&gt;
-&lt;a href="https://video.hket.com/srvv031-2/童學園"&gt;
-&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/054002.png);"&gt;&lt;/div&gt;
-&lt;span&gt;童學園&lt;/span&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="3957536" data-content-type="EGC" data-formaltag="實體詞,欄目（內容）,尖子訪問,親子,家庭關係,爸媽心聲,品牌,屈臣氏,體育,運動,體育人物,運動員,體育項目,單車,興趣,交通,地域及地區,香港" data-length="299" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/3957536/hls/3957536_1748606804682.m3u8" data-rel="3957536" data-source="054" data-thumbnail="Mountainbike_Thumb.jpg" data-videoid="3957536" data-videoprogram="童學園" data-videopublishdate="2025-06-02" data-videosection="童學園,童學園" data-videotitle="尖子透視︱11歲單車小將患免疫系統失調　用3年戰勝病魔重返賽場立志為港增光" data-videotype="video" id="player-3959362-3957536"&gt;&lt;/video&gt;
-&lt;div class="listing-title"&gt;
-&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/3957536" title="尖子透視︱11歲單車小將患免疫系統失調　用3年戰勝病魔重返賽場立志為港增光"&gt;尖子透視︱11歲單車小將患免疫系統失調　用3年戰勝病魔重返賽場立志為港增光&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2&gt;羅淑佩：票務安排已磋商至最後階段&lt;/h2&gt;&lt;p&gt;旅遊界姚柏良表示，業界關注票務安排，詢問粵港澳三方能否一起訂立規則，爭取一定的票額專做體育旅遊，形容「有票才能做打包產品」。羅表示，「這絕對是政府很想做到的一件事情」，透露上周在廣州與組委會會面的會議上就提出該問題，希望可盡早發售票務、讓遊客盡早安排行程，以及關注「香港有幾多票可以賣、旅行社可以攞到幾多？」承諾有共識會盡快與旅遊業界商議。&lt;/p&gt;&lt;p&gt;選委界陸瀚民關注，會否聯同旅遊、飲食、酒店、航空業界推出全運會或體育元素產品，吸引體育愛好者來港觀戰，同時做到「一站多程」。羅淑佩表示，旅遊業界已「摩拳擦掌」，不斷詢問可以如何發展新產品，她相信與票務安排有很大關係，又透露三地已磋商到最後階段，希望很快能統一公佈，三地線上線下都可以購票。至於旅遊業能否把握機遇、甚至做到「一程多站」，她指局方已將賽程等通知業界，票務安排等亦希望能盡早透露、讓業界盡早準備。&lt;/p&gt;&lt;p&gt;飲食界張宇人表示，希望政府組織旅遊界、酒店界設套票，相信「住有優惠、食有優惠」會更有吸引力。羅回應指，香港承辦的8個全運會項目分佈在香港不同地方，旅客足跡亦會遍佈各處，不同地區都有很大機遇，承諾「與旅遊業界商量時也不會漏咗飲食業界」。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://topick.hket.com/article/3959362/%E5%85%A8%E9%81%8B%E6%9C%83%EF%BD%9C%E7%BE%85%E6%B7%91%E4%BD%A9%EF%BC%9A%E5%AE%A3%E5%82%B3%E9%8B%AA%E5%A4%A9%E8%93%8B%E5%9C%B0%E9%A0%90%E8%A8%8810%E8%90%AC%E4%BA%BA%E8%A7%80%E8%B3%BD%E3%80%80%E8%AD%B0%E5%93%A1%E6%96%99%E6%97%85%E9%81%8A%E3%80%81%E9%A3%B2%E9%A3%9F%E7%95%8C%E6%84%9F%E5%A4%B1%E6%9C%9B?mtc=20023"/><published>2025-06-04T14:21:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3958493/%E9%87%91%E5%83%B9%E5%8A%A0%E9%80%9F%E4%B8%8A%20%E7%A9%A9%E8%B3%BAVS%E5%80%8D%E8%B3%BA%20%E6%9C%89%E5%BE%97%E6%8F%80?mtc=20023</id><title>金價加速上 穩賺VS倍賺 有得揀</title><updated>2025-06-04T14:22:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3958493/%E9%87%91%E5%83%B9%E5%8A%A0%E9%80%9F%E4%B8%8A%20%E7%A9%A9%E8%B3%BAVS%E5%80%8D%E8%B3%BA%20%E6%9C%89%E5%BE%97%E6%8F%80?mtc=20023"/><published>2025-06-04T14:22:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3958780/%E6%9C%89%E5%9C%96%E6%9C%89%E5%8B%A2%EF%BD%9CHSI%E5%86%8D%E6%88%B023700%20%20%E7%BE%8E%E5%9C%98%E9%A0%98%E5%8D%87%20%E8%97%A5%E8%82%A1%E8%BB%8A%E8%82%A1%E9%BD%8A%E4%B8%8A%20%E9%82%84%E6%9C%891%E6%9D%BF%E5%A1%8A%E5%A4%A7%E5%8D%87%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023</id><title>有圖有勢｜HSI再戰23700  美團領升 藥股車股齊上 還有1板塊大升（持續更新）</title><updated>2025-06-04T14:26:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3958780/%E6%9C%89%E5%9C%96%E6%9C%89%E5%8B%A2%EF%BD%9CHSI%E5%86%8D%E6%88%B023700%20%20%E7%BE%8E%E5%9C%98%E9%A0%98%E5%8D%87%20%E8%97%A5%E8%82%A1%E8%BB%8A%E8%82%A1%E9%BD%8A%E4%B8%8A%20%E9%82%84%E6%9C%891%E6%9D%BF%E5%A1%8A%E5%A4%A7%E5%8D%87%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023"/><published>2025-06-04T14:26:00+08:00</published></entry><entry><id>https://inews.hket.com/article/3959182/%E6%B8%AF%E8%82%A1%E5%B8%82%E6%B3%81%EF%BD%9C%E6%81%92%E6%8C%87%E5%8D%88%E5%BE%8C%E5%8D%87%E7%B4%84200%E9%BB%9E%E3%80%80%E7%BE%8E%E5%9C%98%E5%8D%874-%E3%80%80%E4%B8%AD%E7%94%9F%E8%A3%BD%E8%97%A5%E3%80%81%E7%9F%B3%E8%97%A5%E5%8D%87%E9%80%BE4-%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023</id><title>港股市況｜恒指午後升約200點　美團升4%　中生製藥、石藥升逾4%（不斷更新）</title><updated>2025-06-04T14:36:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2025-06-04T14:36:00+08:00 Updated on: 2025-06-04T14:36:14.986+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;【恒生指數/恆生指數/恒指/恆指/HSI/Hang Seng Index/港股/夜期/ADR】港股半日升逾百點。恒指低開12點，開市後走勢向上，恒指半日升168點，報23680點，成交1190.3億元，科指升1%，報5241點。美團				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG03690/?mtc=20048"&gt;（03690）&lt;/a&gt;
-升4%。中生製藥				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01177/?mtc=20048"&gt;（01177）&lt;/a&gt;
-、石藥				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01093/?mtc=20048"&gt;（01093）&lt;/a&gt;
-分別升逾4%。車股造好，蔚來				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG09866/?mtc=20048"&gt;（09866）&lt;/a&gt;
-績後升0.9%，小鵬汽車				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG09868/?mtc=20048"&gt;（09868）&lt;/a&gt;
-升3%，吉利				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00175/?mtc=20048"&gt;（00175）&lt;/a&gt;
-升近3%，中廣核礦業				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01164/?mtc=20048"&gt;（01164）&lt;/a&gt;
-升逾24%。&lt;/p&gt;&lt;h2&gt;美股動態不斷更新，詳情請看：&lt;a href="https://inews.hket.com/article/3958146/?lcc=an" title="下一頁"&gt;下一頁&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;財經日誌：&lt;/h2&gt;&lt;div&gt; &lt;div class="grouped-image-container"&gt;
+&lt;p&gt;【恒生指數/恆生指數/恒指/恆指/HSI/Hang Seng Index/港股/夜期/ADR】港股升逾百點。恒指低開12點，開市後走勢向上，午後曾升204點，高見23716點。恒指收升141點，收報23654點，成交2126.9億元，科指升0.6%，報5219點。美團				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG03690/?mtc=20048"&gt;（03690）&lt;/a&gt;
+升3%，石藥				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01093/?mtc=20048"&gt;（01093）&lt;/a&gt;
+升4%，平保				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG02318/?mtc=20048"&gt;（02318）&lt;/a&gt;
+、友邦				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01299/?mtc=20048"&gt;（01299）&lt;/a&gt;
+逆市跌1%，新世界				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00017/?mtc=20048"&gt;（00017）&lt;/a&gt;
+跌4%。中廣核礦業				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01164/?mtc=20048"&gt;（01164）&lt;/a&gt;
+升逾28%。&lt;/p&gt;&lt;h2&gt;美股動態不斷更新，詳情請看：&lt;a href="https://inews.hket.com/article/3958146/?lcc=an" title="下一頁"&gt;下一頁&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;財經日誌：&lt;/h2&gt;&lt;div&gt; &lt;div class="grouped-image-container"&gt;
 &lt;span class="click-to-enlarge"&gt;&lt;span&gt;▼&lt;/span&gt;點擊圖片放大&lt;/span&gt;
 &lt;div class="grouped-image-wrapper"&gt;
 &lt;div class="article-detail_grouped-image block"&gt;
@@ -295,7 +272,14 @@
 &lt;div class="last"&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h2&gt;即市走勢：&lt;/h2&gt;&lt;p&gt;【14：35】小米				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01810/?mtc=20048"&gt;（01810）&lt;/a&gt;
+&lt;/div&gt;&lt;h2&gt;即市走勢：&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;【16：11】恒指升141點，收報23654點，成交2126.9億元，科指升0.6%，報5219點。美團				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG03690/?mtc=20048"&gt;（03690）&lt;/a&gt;
+升3%，石藥				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01093/?mtc=20048"&gt;（01093）&lt;/a&gt;
+升4%，平保				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG02318/?mtc=20048"&gt;（02318）&lt;/a&gt;
+、友邦				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01299/?mtc=20048"&gt;（01299）&lt;/a&gt;
+逆市跌1%，新世界				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00017/?mtc=20048"&gt;（00017）&lt;/a&gt;
+跌4%。中廣核礦業				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01164/?mtc=20048"&gt;（01164）&lt;/a&gt;
+升逾28%。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;【16：00】恒指U盤前升114點，報23626點，成交2017.1億元。&lt;/p&gt;&lt;p&gt;【15：40】&lt;a href="https://inews.hket.com/article/3959417/?lcc=an" title="煤氣003｜陳英龍：歐盟今年起規定歐洲航班燃料加入SAF　料可帶動下半年市場需求"&gt;煤氣003｜陳英龍：歐盟今年起規定歐洲航班燃料加入SAF　料可帶動下半年市場需求&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【15：27】新世界				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00017/?mtc=20048"&gt;（00017）&lt;/a&gt;
+尾市跌逾4%，低見4.5元。&lt;/p&gt;&lt;p&gt;【15：05】&lt;a href="https://inews.hket.com/article/3959387/?lcc=an" title="煤氣003｜黃維義：煤氣暫未有加價打算、惟會留意關稅如何影響物價　「股息維持35仙是最好選擇」"&gt;煤氣003｜黃維義：煤氣暫未有加價打算、惟會留意關稅如何影響物價　「股息維持35仙是最好選擇」&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【15：00】&lt;a href="https://inews.hket.com/article/3959386/?lcc=an" title="關稅戰｜特朗普：習近平非常強硬　很喜歡他、但很難跟他達成協議"&gt;關稅戰｜特朗普：習近平非常強硬　很喜歡他、但很難跟他達成協議&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【14：35】小米				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01810/?mtc=20048"&gt;（01810）&lt;/a&gt;
 午後轉跌0.7%，低見52.85元。&lt;/p&gt;&lt;p&gt;【13：46】&lt;a href="https://inews.hket.com/article/3959344/?lcc=an" title="9896｜名創優品拉升半成　據報聘請摩通、瑞銀安排Top Toy香港IPO交易"&gt;9896｜名創優品拉升半成　據報聘請摩通、瑞銀安排Top Toy香港IPO交易&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【13：26】恒指午後曾高見23716點，最新升幅收窄至約125點，報23637點。&lt;/p&gt;&lt;p&gt;【13：19】港交所				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00388/?mtc=20048"&gt;（00388）&lt;/a&gt;
 升逾1%，破頂高見403.6元。&lt;/p&gt;&lt;p&gt;【13：13】&lt;a href="https://inews.hket.com/article/3959324/?lcc=an" title="1810｜小米YU7三款車型電池由比亞迪弗迪及寧德時代供應"&gt;1810｜小米YU7三款車型電池由比亞迪弗迪及寧德時代供應&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【13：09】恒指午後初段升幅擴至約200點。&lt;/p&gt;&lt;p&gt;【13：06】&lt;a href="https://inews.hket.com/article/3959321/?lcc=an" title="HIBOR｜港元拆息普遍向下　隔夜HIBOR報0.01289厘新低　港匯離7.85弱方保證不足40點"&gt;HIBOR｜港元拆息普遍向下　隔夜HIBOR報0.01289厘新低　港匯離7.85弱方保證不足40點&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【12：55】&lt;a href="https://inews.hket.com/article/3959316/?lcc=an" title="大行看法｜摩通：今年本港必需品零售銷售將持續平穩　看好領展但對九置審慎"&gt;大行看法｜摩通：今年本港必需品零售銷售將持續平穩　看好領展但對九置審慎&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;【12：00】恒指半日升168點，報23680點，成交1190.3億元，科指升1%，報5241點。美團				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG03690/?mtc=20048"&gt;（03690）&lt;/a&gt;
 升4%。中生製藥				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01177/?mtc=20048"&gt;（01177）&lt;/a&gt;
@@ -539,30 +523,17 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/3959182/%E6%B8%AF%E8%82%A1%E5%B8%82%E6%B3%81%EF%BD%9C%E6%81%92%E6%8C%87%E5%8D%88%E5%BE%8C%E5%8D%87%E7%B4%84200%E9%BB%9E%E3%80%80%E7%BE%8E%E5%9C%98%E5%8D%874-%E3%80%80%E4%B8%AD%E7%94%9F%E8%A3%BD%E8%97%A5%E3%80%81%E7%9F%B3%E8%97%A5%E5%8D%87%E9%80%BE4-%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023"/><published>2025-06-04T14:36:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3959003/%E5%B0%8F%E7%B1%B3%E9%80%A0%E8%BB%8A%E3%80%8C%E8%89%AF%E5%BF%83%E3%80%8D%E8%88%87%E6%AF%9B%E5%88%A9%E7%8E%87%E5%85%BC%E9%A1%A7%20%E8%B7%91%E8%B4%8F%E5%AF%B6%E9%A6%AC%20%E4%BF%9D%E6%99%82%E6%8D%B7%20%20%E8%B2%B7%E5%BE%97%E9%81%8E%E5%97%8E%EF%BC%9F?mtc=20023</id><title>小米造車「良心」與毛利率兼顧 跑贏寶馬 保時捷  買得過嗎？</title><updated>2025-06-04T14:40:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3959003/%E5%B0%8F%E7%B1%B3%E9%80%A0%E8%BB%8A%E3%80%8C%E8%89%AF%E5%BF%83%E3%80%8D%E8%88%87%E6%AF%9B%E5%88%A9%E7%8E%87%E5%85%BC%E9%A1%A7%20%E8%B7%91%E8%B4%8F%E5%AF%B6%E9%A6%AC%20%E4%BF%9D%E6%99%82%E6%8D%B7%20%20%E8%B2%B7%E5%BE%97%E9%81%8E%E5%97%8E%EF%BC%9F?mtc=20023"/><published>2025-06-04T14:40:00+08:00</published></entry><entry><id>https://news.hket.com/article/3959333/%E6%B8%AF%E6%B7%B1%E8%A5%BF%E9%83%A8%E9%90%B5%E8%B7%AF%EF%BD%9C%E5%8B%98%E6%9F%A5%E5%8F%8A%E8%A8%AD%E8%A8%88%E9%80%BE3.3%E5%84%84%E8%AD%B0%E5%93%A1%E5%80%A1%E9%83%A8%E5%88%86%E5%B7%A5%E4%BD%9C%E4%BA%A4%E5%85%A7%E5%9C%B0%E7%9C%81%E6%88%90%E6%9C%AC%E3%80%80%E9%81%8B%E6%B5%81%E5%B1%80%EF%BC%9A%E5%B7%B2%E7%9B%A1%E7%94%A8%E5%85%A7%E5%9C%B0%E8%B3%87%E6%BA%90?mtc=20023</id><title>港深西部鐵路｜勘查及設計逾3.3億議員倡部分工作交內地省成本　運流局：已盡用內地資源</title><updated>2025-06-04T14:40:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/3959182/%E6%B8%AF%E8%82%A1%E6%94%B6%E5%B8%82%EF%BD%9C%E6%81%92%E6%8C%87%E5%8D%87141%E9%BB%9E%E3%80%80%E7%BE%8E%E5%9C%98%E5%8D%873-%E3%80%81%E7%9F%B3%E8%97%A5%E5%8D%874-%E3%80%80%E5%B9%B3%E4%BF%9D%E5%8F%8B%E9%82%A6%E9%80%86%E5%B8%82%E8%B7%8C1-%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023"/><published>2025-06-04T16:14:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3958780/%E6%9C%89%E5%9C%96%E6%9C%89%E5%8B%A2%EF%BD%9CHSI%E5%86%8D%E6%88%B023700%20%E7%BE%8E%E5%9C%98%E8%97%A5%E8%82%A1%E8%BB%8A%E8%82%A1%E9%BD%8A%E4%B8%8A%20%E9%82%84%E6%9C%891%E6%9D%BF%E5%A1%8A%E5%A4%A7%E5%8D%87%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023</id><title>有圖有勢｜HSI再戰23700 美團藥股車股齊上 還有1板塊大升（持續更新）</title><updated>2025-06-04T16:17:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3958780/%E6%9C%89%E5%9C%96%E6%9C%89%E5%8B%A2%EF%BD%9CHSI%E5%86%8D%E6%88%B023700%20%E7%BE%8E%E5%9C%98%E8%97%A5%E8%82%A1%E8%BB%8A%E8%82%A1%E9%BD%8A%E4%B8%8A%20%E9%82%84%E6%9C%891%E6%9D%BF%E5%A1%8A%E5%A4%A7%E5%8D%87%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023"/><published>2025-06-04T16:17:00+08:00</published></entry><entry><id>https://inews.hket.com/article/3959423/%E9%A6%AC%E6%96%AF%E5%85%8B%EF%BD%9C%E7%82%AE%E8%BD%9F%E3%80%8C%E5%A4%A7%E8%80%8C%E7%BE%8E%E6%B3%95%E6%A1%88%E3%80%8D%E7%AB%8B%E5%A0%B4%E4%B8%8D%E8%AE%8A%20%E7%99%BD%E5%AE%AE%E7%A8%B1%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%8C%E5%8A%9B%E6%92%90?mtc=20023</id><title>馬斯克｜炮轟「大而美法案」立場不變 白宮稱特朗普續力撐</title><updated>2025-06-04T16:18:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-06-04T14:40:00+08:00 Updated on: 2025-06-04T14:52:17.547+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-06-04T16:18:00+08:00 Updated on: 2025-06-04T16:18:15.623+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;政府正就港深西部鐵路香港段進行勘查研究工作，目標工程在2027年招標，2035年通車。有議員關注政府會否將部分工作交由內地負責，減輕成本；當局回應指目前計劃已經盡用內地資源，又透露居兩地經驗的承建商可能或在招標上有優勢。&lt;/p&gt;&lt;p&gt;立法會工務小組今日（4日）討論港深西部鐵路香港段勘查及設計工程，選委界何君堯指，「香港咩都貴過人」，難得與內地合作，為何不將部分工作交由內地負責減輕成本。他說「咁近城隍廟，坐埋一齊都唔同佢度橋，形同陌路人，你有你做、我有我做」，形容不合理。選委界陸頌雄亦認為，除非工程是「非自己做不可」，否則應找個夥伴做熟悉、有效益部分。&lt;/p&gt;&lt;p&gt;項目香港段勘查及設計工作估計需要3.3億元，運輸及物流局常任秘書長蔡傑銘指，當局十分希望使用內地資源和標準，如果能夠委託深圳方，或涵蓋內地較便宜、快、有質素標準，當局已經放進計劃，其實3.3億元是已壓縮的價錢。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;運流局：兩地都有份嘅承建商可能有優勢&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;選委界陳紹雄關注一地兩檢安排，關注當局會將口岸設在深圳段兩個站，還是其中一個站，否則或影響初期勘察研究布局。當局兩地政府同意採用「同步建設、統一營運」的模式推展工作，陳則關注是否可由一個承建商統一建設。&lt;/p&gt;&lt;p&gt;蔡傑銘回應指，會繼續細緻考量在一個或者兩個站設置一地兩檢，因各有好處、各有成本效益問題。他又指，兩地正各自進行設計工作，強調是「你中有我，我中有你」，同步考慮哪個承辦商更適合，期望可引入內地標準和資源，透露「兩地都有份嘅承建商可能有優勢」。&lt;/p&gt;&lt;p&gt;九龍中楊永杰則關注，如鐵路的時速如現時港鐵項目般是「跟唔上時代」，舉例指深圳的鐵路時速每小時200公里，期望項目可跟上內地標準，如速度最終和一般鐵路一樣將「融入唔到大灣區網絡、唔入流」。路政署署長邱國鼎指，港深西部鐵路定位是城際及香港境內通勤，本港市區鐵路時速是每小時80公里，港深西部鐵路則是每小時140公里，形容已「快好多」。&lt;/p&gt;&lt;p&gt;港深西部鐵路全長約18.1公里，香港段及深圳段分別約7.3公里及10.8公里。走線由現正興建的屯馬線洪水橋站西面出發，途經厦村和流浮山，跨越后海灣經深圳灣口岸連接至前海。全線以地下形式興建，共設5個車站，香港境內設 3個車站，分別位於洪水橋、厦村及流浮山，深圳境內則設2個分別位於深圳灣口岸及前海的車站。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;美國富豪馬斯克（Elon Musk）周二（3日）連續發文，猛烈批評總統特朗普（Donald Trump）的「大而美法案」預算法案令人難受。白宮則表明，特朗普不受馬斯克批評影響繼續支持法案。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;馬斯克自認為特朗普堅定盟友 惟不想為政府所作一切負責 &lt;a href="https://inews.hket.com/article/3958222/?lcc=an" title="【下一頁】"&gt;【下一頁】&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;馬斯克在社交平台X接連發文，明言不能繼續忍受「大而美法案」，狠斥龐大﹑荒謬及充滿利益輸送的法案是令人作嘔的怪物。他點名批評支持通過的國會議員，指他們明知法案不應獲得通過仍然支持。&lt;/p&gt;&lt;p&gt;馬斯克批評法案將大幅增加本已龐大的美國預算赤字水平至2.5萬億美元（約19.6萬億港元），讓美國民眾蒙受沉重且不可持續的債務負擔，直斥國會令美國破產。他更揚言，要在2026年11月的中期選舉中，開除所有背叛美國民眾的政治人物。&lt;/p&gt;&lt;p&gt;白宮發言人萊維特回應馬斯克批評時表示，特朗普已知道馬斯克對「大而美法案」的立場，而特朗普的觀點未有變動，堅定支持自己的預算法案。眾議院共和黨籍議長約翰遜（Mike Johnson）反批，馬斯克的言論「錯得離譜」。&lt;/p&gt;&lt;p&gt;眾議院已通過「大而美法案」，並轉交參議院審理，預計將會提出修正案。監察稅務政策的參議院財政委員會共和黨人將在周三會見特朗普，商討預算案中與企業相關的稅務優惠如何成為永久措施。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;馬斯克｜稱對特朗普「大而美法案」失望 破壞DOGE削開支工作 &lt;a href="https://inews.hket.com/article/3956245/?lcc=an" title="【下一頁】"&gt;【下一頁】&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;共和黨參議院領袖圖恩（John Thune）同樣反駁馬斯克，指美國選民揀選他們進入國會完成工作，將會實現黨友及總統競選時提出的議程，表明計劃在7月4日美國國慶日前通過法案。&lt;/p&gt;&lt;p&gt;不過，共和黨內對「大而美法案」非一致支持。部分參議員正推動，就眾議院版本的未來10年開支再減1.6萬億美元（約12.6萬億港元），另有共和黨人尋求保障低收入美國民眾醫療補助（Medicaid）。&lt;/p&gt;&lt;p&gt;共和黨雖然掌有國會兩院議席優勢，但只需數名黨友倒戈便無法通過法案。強硬派共和黨威斯康星州參議員約翰遜（Ron Johnson）預計，參議院無法在7月4日前通過及確保有足夠的預算赤字削減。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;緊貼地緣政治變化，立即免費下載《香港經濟日報》App【&lt;a href="http://onelink.to/knpjgk"&gt;按此&lt;/a&gt;】&lt;/strong&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://news.hket.com/article/3959333/%E6%B8%AF%E6%B7%B1%E8%A5%BF%E9%83%A8%E9%90%B5%E8%B7%AF%EF%BD%9C%E5%8B%98%E6%9F%A5%E5%8F%8A%E8%A8%AD%E8%A8%88%E9%80%BE3.3%E5%84%84%E8%AD%B0%E5%93%A1%E5%80%A1%E9%83%A8%E5%88%86%E5%B7%A5%E4%BD%9C%E4%BA%A4%E5%85%A7%E5%9C%B0%E7%9C%81%E6%88%90%E6%9C%AC%E3%80%80%E9%81%8B%E6%B5%81%E5%B1%80%EF%BC%9A%E5%B7%B2%E7%9B%A1%E7%94%A8%E5%85%A7%E5%9C%B0%E8%B3%87%E6%BA%90?mtc=20023"/><published>2025-06-04T14:40:00+08:00</published></entry><entry><id>https://china.hket.com/article/3959375/%E7%99%BD%E4%BF%84%E7%BE%85%E6%96%AF%E7%B8%BD%E7%B5%B1%E6%99%A4%E7%BF%92%E8%BF%91%E5%B9%B3%20%E8%AE%9A%E4%B8%AD%E5%9C%8B%E5%8F%8D%E5%B0%8D%E5%88%B6%E8%A3%81%E6%A8%B9%E7%AB%8B%E6%A6%9C%E6%A8%A3?mtc=20023</id><title>白俄羅斯總統晤習近平 讚中國反對制裁樹立榜樣</title><updated>2025-06-04T14:40:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/3959423/%E9%A6%AC%E6%96%AF%E5%85%8B%EF%BD%9C%E7%82%AE%E8%BD%9F%E3%80%8C%E5%A4%A7%E8%80%8C%E7%BE%8E%E6%B3%95%E6%A1%88%E3%80%8D%E7%AB%8B%E5%A0%B4%E4%B8%8D%E8%AE%8A%20%E7%99%BD%E5%AE%AE%E7%A8%B1%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%8C%E5%8A%9B%E6%92%90?mtc=20023"/><published>2025-06-04T16:18:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3959441/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88%EF%BD%9C%E6%A1%88%E6%83%85%E6%9B%9D%E5%85%89%E8%94%A1%E5%A4%B1%E8%B9%A4%E5%89%8D%E5%B8%B6%E4%BA%BA%E5%88%B0%E5%8A%A0%E5%A4%9A%E5%88%A9%E5%B1%B1%E7%9D%87%E6%A8%93%E3%80%80?mtc=20023</id><title>蔡天鳳案｜案情曝光蔡失蹤前帶人到加多利山睇樓</title><updated>2025-06-04T16:20:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3959441/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88%EF%BD%9C%E6%A1%88%E6%83%85%E6%9B%9D%E5%85%89%E8%94%A1%E5%A4%B1%E8%B9%A4%E5%89%8D%E5%B8%B6%E4%BA%BA%E5%88%B0%E5%8A%A0%E5%A4%9A%E5%88%A9%E5%B1%B1%E7%9D%87%E6%A8%93%E3%80%80?mtc=20023"/><published>2025-06-04T16:20:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3959266/HSI%E5%85%AD%E6%9C%88%E5%AF%8C%E8%88%87%E7%B5%95%09%E6%B8%AF%E8%82%A1%E6%99%B4%E9%9B%A8%E9%A2%A8%E9%9B%B2%E6%B9%A7?mtc=20023</id><title>中字股實力談 - HSI六月富與絕	港股晴雨風雲湧</title><updated>2025-06-04T16:23:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3959266/HSI%E5%85%AD%E6%9C%88%E5%AF%8C%E8%88%87%E7%B5%95%09%E6%B8%AF%E8%82%A1%E6%99%B4%E9%9B%A8%E9%A2%A8%E9%9B%B2%E6%B9%A7?mtc=20023"/><published>2025-06-04T16:23:00+08:00</published></entry><entry><id>https://inews.hket.com/article/3959447/MPF%EF%BD%9CGUM%EF%BC%9A%E5%BC%B7%E7%A9%8D%E9%87%91%E9%A6%965%E5%80%8B%E6%9C%88%E4%BA%BA%E5%9D%87%E8%B3%BA15,746%E5%85%83%E3%80%80TACO%E5%8A%A9%E7%92%B0%E7%90%83%E8%82%A1%E5%B8%82%E5%8D%87?mtc=20023</id><title>MPF｜GUM：強積金首5個月人均賺15,746元　TACO助環球股市升</title><updated>2025-06-04T16:23:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-06-04T14:40:03.806+08:00 Updated on: 2025-06-04T14:40:03.806+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-06-04T16:23:32.372+08:00 Updated on: 2025-06-04T16:23:32.372+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;國家主席習近平今日（4日）在中南海會見白俄羅斯總統盧卡申科時表示，雙方要共同反對霸權霸道霸凌，捍衛國際公平正義。盧卡申科稱，中國堅定維護多邊主義，反對單邊主義和制裁施壓，為世界樹立了榜樣。&lt;/p&gt;&lt;p&gt;習近平指出，中國和白俄羅斯是真朋友、好伙伴。雙方一直以誠相待、以信相交。兩國傳統友好歷久彌堅，政治互信牢不可破，各領域合作全面推進。中方始終從戰略高度和長遠角度看待和發展中白關係，願同白方一道，推動兩國關係和互利合作行穩致遠。雙方要進一步加強在聯合國、上海合作組織等多邊框架內協調和配合，共同反對霸權霸道霸凌，捍衛國際公平正義。&lt;/p&gt;&lt;p&gt;中方引述盧卡申科表示，白方感謝中方長期以來大力支持和幫助，對中國高度信任，將堅定不移發展對華關係，積極推進對華合作。在國際事務中，中國堅定維護多邊主義，反對單邊主義和制裁施壓，為世界樹立了榜樣。白方深表欽佩，願與中方共同捍衛國際公平正義。&lt;/p&gt;&lt;p&gt;&lt;a href="https://china.hket.com/article/3959246/?lcc=ac" title="王文濤晤世貿總幹事：個別成員任意加關稅 世貿應加強監督"&gt;王文濤晤世貿總幹事：個別成員任意加關稅 世貿應加強監督&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://china.hket.com/article/3959237/?lcc=ac" title="王文濤晤澳加貿易官員 強調維護多邊貿易體制"&gt;王文濤晤澳加貿易官員 強調維護多邊貿易體制&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://china.hket.com/article/3959375/%E7%99%BD%E4%BF%84%E7%BE%85%E6%96%AF%E7%B8%BD%E7%B5%B1%E6%99%A4%E7%BF%92%E8%BF%91%E5%B9%B3%20%E8%AE%9A%E4%B8%AD%E5%9C%8B%E5%8F%8D%E5%B0%8D%E5%88%B6%E8%A3%81%E6%A8%B9%E7%AB%8B%E6%A6%9C%E6%A8%A3?mtc=20023"/><published>2025-06-04T14:40:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3958279/%E7%94%A8%E3%80%8C%E6%AF%9B%E6%88%88%E5%B9%B3%E3%80%8D%E9%96%8B%E5%BF%83%20%E8%B2%B7%E4%BA%86%E3%80%8C%E6%AF%9B%E6%88%88%E5%B9%B3%E3%80%8D%E6%9B%B4%E9%96%8B%E5%BF%83%EF%BC%81%EF%BC%88%E6%BD%9B%E5%8A%9B%E8%82%A1%E5%88%86%E6%9E%90%EF%BC%89?mtc=20023</id><title>用「毛戈平」開心 買了「毛戈平」更開心！（潛力股分析）</title><updated>2025-06-04T14:41:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3958279/%E7%94%A8%E3%80%8C%E6%AF%9B%E6%88%88%E5%B9%B3%E3%80%8D%E9%96%8B%E5%BF%83%20%E8%B2%B7%E4%BA%86%E3%80%8C%E6%AF%9B%E6%88%88%E5%B9%B3%E3%80%8D%E6%9B%B4%E9%96%8B%E5%BF%83%EF%BC%81%EF%BC%88%E6%BD%9B%E5%8A%9B%E8%82%A1%E5%88%86%E6%9E%90%EF%BC%89?mtc=20023"/><published>2025-06-04T14:41:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3958878/40%E8%AE%8A1000%20%E5%B9%B4%E5%8D%8723%E5%80%8D%E8%82%A1%20%E7%A5%9E%E8%A9%B1Vs%E5%A4%A7%E8%A9%B1%EF%BC%9F%EF%BC%88%E6%B8%AF%E9%87%91%E7%89%9B%E8%82%A1%E6%8B%86%E5%B1%80%EF%BC%89?mtc=20023</id><title>40變1000 年升23倍股 神話Vs大話？（港金牛股拆局）</title><updated>2025-06-04T14:41:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3958878/40%E8%AE%8A1000%20%E5%B9%B4%E5%8D%8723%E5%80%8D%E8%82%A1%20%E7%A5%9E%E8%A9%B1Vs%E5%A4%A7%E8%A9%B1%EF%BC%9F%EF%BC%88%E6%B8%AF%E9%87%91%E7%89%9B%E8%82%A1%E6%8B%86%E5%B1%80%EF%BC%89?mtc=20023"/><published>2025-06-04T14:41:00+08:00</published></entry><entry><id>https://china.hket.com/article/3959377/%E8%B2%BF%E6%98%93%E6%88%B0%20-%20%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BC%E6%96%87%EF%BC%9A%E5%BE%88%E5%96%9C%E6%AD%A1%E7%BF%92%E8%BF%91%E5%B9%B3%20%E4%BD%86%E5%BE%88%E9%9B%A3%E8%B7%9F%E4%BB%96%E9%81%94%E5%8D%94%E8%AD%B0?mtc=20023</id><title>貿易戰 | 特朗普發文：很喜歡習近平 但很難跟他達協議</title><updated>2025-06-04T14:43:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2025-06-04T14:43:00+08:00 Updated on: 2025-06-04T14:46:10.966+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;美國總統特朗普（Donald Trump）今日（4日）在社交平台表示，「我很喜歡中國國家主席習近平，一直都喜歡，將來也永遠喜歡，但他非常強硬，很難跟他達成協議。」&lt;/p&gt;&lt;p&gt;&lt;a href="https://china.hket.com/article/3958602/?lcc=ac" title="貿易戰 | 白宮：特朗普可能本周與習近平通話"&gt;貿易戰 | 白宮：特朗普可能本周與習近平通話&lt;/a&gt;&lt;/p&gt;&lt;p&gt;美方官員稍早前透露，中美元首可能在本週通話，但中國外交部昨日表示，沒有可以提供的消息。&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://china.hket.com/article/3959377/%E8%B2%BF%E6%98%93%E6%88%B0%20-%20%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BC%E6%96%87%EF%BC%9A%E5%BE%88%E5%96%9C%E6%AD%A1%E7%BF%92%E8%BF%91%E5%B9%B3%20%E4%BD%86%E5%BE%88%E9%9B%A3%E8%B7%9F%E4%BB%96%E9%81%94%E5%8D%94%E8%AD%B0?mtc=20023"/><published>2025-06-04T14:43:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3959313/%E9%98%BF%E9%87%8C%E9%9B%B2%E6%98%AF%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%9A%84%E6%95%91%E5%91%BD%E8%8D%89%EF%BC%9F%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023</id><title>阿里雲是阿里巴巴的救命草？（持續更新）</title><updated>2025-06-04T14:45:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3959313/%E9%98%BF%E9%87%8C%E9%9B%B2%E6%98%AF%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%9A%84%E6%95%91%E5%91%BD%E8%8D%89%EF%BC%9F%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023"/><published>2025-06-04T14:45:00+08:00</published></entry><entry><id>https://inews.hket.com/article/3959321/HIBOR%EF%BD%9C%E6%B8%AF%E5%85%83%E6%8B%86%E6%81%AF%E6%99%AE%E9%81%8D%E5%90%91%E4%B8%8B%E3%80%80%E9%9A%94%E5%A4%9CHIBOR%E5%A0%B10.01289%E5%8E%98%E6%96%B0%E4%BD%8E%E3%80%80%E6%B8%AF%E5%8C%AF%E9%9B%A2%E5%BC%B1%E6%96%B9%E4%BF%9D%E8%AD%89%E7%B4%8430%E9%BB%9E%E3%80%80%E4%B8%8A%E5%95%86%EF%BC%9A%E6%9C%88%E4%B8%AD%E6%88%96%E8%A7%B87.85?mtc=20023</id><title>HIBOR｜港元拆息普遍向下　隔夜HIBOR報0.01289厘新低　港匯離弱方保證約30點　上商：月中或觸7.85</title><updated>2025-06-04T14:49:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2025-06-04T14:49:00+08:00 Updated on: 2025-06-04T14:49:46.746+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;HIBOR港元拆息普遍向下。與樓按相關的一個月HIBOR連跌2天，按日跌10.5點子至0.76952厘。隔夜拆息報0.01289厘，跌0.7點子，續見彭博終端機有紀錄以來，自2006年1月3日後最低。&lt;/p&gt;&lt;p&gt;港元周三（4日）下午弱見7.8471，自2023年8月底以來最弱，下午2時48分，港匯報7.8462。&lt;/p&gt;&lt;p&gt;金管局資料顯示，香港銀行於周二（3日）向貼現窗借取30.1億元，令周二銀行體系收市總結餘升至1764.5億元。&lt;/p&gt;&lt;p&gt;上海商業銀行研究部主管林俊泓表示，市場本預期愈接近6月底半年結，港元拆息應有支持，惟近日短息走勢續疲弱，可能與企業、銀行已經為自身的半年結完成資金準備，故市場港元流動性仍然充沛。港滙方面，林俊泓表示，2018年、2022年的經驗顯示，由7.83走弱至7.85弱方保證大約需要30個交易日，但以今次走弱的速度來說，相信毋須30個交易日，不過，有很多交易員在近月港滙7.75至7.76區間進行套息活動，在該區間用港元買美金，而現時港滙走弱至距離弱方不足40點，相信該批交易員會在現水平甚至更為貼近弱方水平沽售美元以獲利，料市場稍需時間消化這些套息盤，港滙最快或本月第3周才觸7.85弱方保證而令金管局入市。&lt;/p&gt;&lt;p&gt;至於今次港滙弱勢若觸發金管局入市，林俊泓認為，由於今次港美息差闊，銀行體系總結餘潛在「收水」速度可能會較以前略急，不排除一天可以「收水」100億。&lt;/p&gt;&lt;h2 style="text-align: center;"&gt;&lt;strong&gt;2025年6月4日香港銀行同業拆息（HIBOR）&lt;/strong&gt;&lt;/h2&gt;&lt;div class="table-wrapper"&gt;&lt;table border="1" style="width:100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;到期日&lt;/td&gt;&lt;td style="text-align: center;"&gt;港元利息結算率&lt;br&gt;HIBOR（厘）&lt;/br&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;單日變幅（厘）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;隔夜&lt;/td&gt;&lt;td style="text-align: center;"&gt;0.01289&lt;/td&gt;&lt;td style="text-align: center;"&gt;-0.00738&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;1 星期&lt;/td&gt;&lt;td style="text-align: center;"&gt;0.13804&lt;/td&gt;&lt;td style="text-align: center;"&gt;-0.01744&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;2 星期&lt;/td&gt;&lt;td style="text-align: center;"&gt;0.27833&lt;/td&gt;&lt;td style="text-align: center;"&gt;-0.07238&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;1 個月&lt;/td&gt;&lt;td style="text-align: center;"&gt;0.76952&lt;/td&gt;&lt;td style="text-align: center;"&gt;-0.10471&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;2 個月&lt;/td&gt;&lt;td style="text-align: center;"&gt;1.30000&lt;/td&gt;&lt;td style="text-align: center;"&gt;-0.05976&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;3 個月&lt;/td&gt;&lt;td style="text-align: center;"&gt;1.75280&lt;/td&gt;&lt;td style="text-align: center;"&gt;-0.00768&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;6 個月&lt;/td&gt;&lt;td style="text-align: center;"&gt;2.43667&lt;/td&gt;&lt;td style="text-align: center;"&gt;+0.07167&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;12 個月&lt;/td&gt;&lt;td style="text-align: center;"&gt;3.07774&lt;/td&gt;&lt;td style="text-align: center;"&gt;+0.01512&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;強積金顧問GUM表示，強積金5月份人均賺10,128元，年初至今人均賺得15,746元，是自2020年以來首五個月最多。GUM指，GUM強積金股票基金指數在5月份整體回報上升5.1%，其中，回報最好是「美國股票基金」和「環球股票基金」，分別上升6.9%和 6.4%，但年初至今回報最好的依然香港股票基金，上升17.5%。&lt;/p&gt;&lt;p&gt;GUM指，5月「GUM強積金綜合指數」上升3.6%，報259.4點；「GUM強積金股票基金指數」上升5.1%，報356.6點；「GUM強積金混合資產基金指數」上升3.7%，報261.9點；「GUM強積金固定收益基金指數」上升0.6%，報131.3點。&lt;/p&gt;&lt;p&gt;GUM常務董事陳銳隆指出，特朗普關稅屢次臨陣退縮（TACO），美國先與英國達成「原則性」協議，隨後與中國簽署為期90天的關稅暫緩協議，加上特朗普關稅政策被美國法院叫停，推動全球股市持續反彈。美國20年期國債拍賣需求疲弱，市場憂慮特朗普的「大而美法案」將加劇財政赤字負擔，進一步提升美元以外資產的吸引力，尤以歐洲市場為甚。港股與歐股自年初以來持續領漲，預計這一趨勢將延續一段時間。&lt;/p&gt;&lt;p&gt;另外，GUM指，「預設投資策略-65歲後基金」因其股票佔比及港股佔均相對較少，5月份回報及年初至今分別錄得0.9%及2.4%升幅，較為落後。&lt;/p&gt;
 &lt;div class="listing-widget-126"&gt;
 &lt;div class="video-channel-info"&gt;
 &lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
@@ -570,16 +541,111 @@
 &lt;span&gt;財經Hot Talk&lt;/span&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="3958710" data-content-type="EGC" data-formaltag="實體詞,人物,David Webb,投資,經濟,地域及地區,香港" data-length="95" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/3958710/hls/3958710_1748925914504.m3u8" data-rel="3958710" data-source="051" data-thumbnail="20250603_1min_DavidWebb.jpg" data-videoid="3958710" data-videoprogram="財經Hot Talk" data-videopublishdate="2025-06-03" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="財經Hot Talk｜香港市場鬥士David Webb留給香港的說話　「這是我的家」" data-videotype="video" id="player-3959321-3958710"&gt;&lt;/video&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="3958710" data-content-type="EGC" data-formaltag="實體詞,人物,David Webb,投資,經濟,地域及地區,香港" data-length="95" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/3958710/hls/3958710_1748925914504.m3u8" data-rel="3958710" data-source="051" data-thumbnail="20250603_1min_DavidWebb.jpg" data-videoid="3958710" data-videoprogram="財經Hot Talk" data-videopublishdate="2025-06-03" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="財經Hot Talk｜香港市場鬥士David Webb留給香港的說話　「這是我的家」" data-videotype="video" id="player-3959447-3958710"&gt;&lt;/video&gt;
 &lt;div class="listing-title"&gt;
 &lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/3958710" title="財經Hot Talk｜香港市場鬥士David Webb留給香港的說話　「這是我的家」"&gt;財經Hot Talk｜香港市場鬥士David Webb留給香港的說話　「這是我的家」&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/3959321/HIBOR%EF%BD%9C%E6%B8%AF%E5%85%83%E6%8B%86%E6%81%AF%E6%99%AE%E9%81%8D%E5%90%91%E4%B8%8B%E3%80%80%E9%9A%94%E5%A4%9CHIBOR%E5%A0%B10.01289%E5%8E%98%E6%96%B0%E4%BD%8E%E3%80%80%E6%B8%AF%E5%8C%AF%E9%9B%A2%E5%BC%B1%E6%96%B9%E4%BF%9D%E8%AD%89%E7%B4%8430%E9%BB%9E%E3%80%80%E4%B8%8A%E5%95%86%EF%BC%9A%E6%9C%88%E4%B8%AD%E6%88%96%E8%A7%B87.85?mtc=20023"/><published>2025-06-04T14:49:00+08:00</published></entry><entry><id>https://china.hket.com/article/3959382/%E4%B8%AD%E6%AD%90%E9%97%9C%E4%BF%82%EF%BD%9C%E4%B8%AD%E5%9C%8B%E5%82%B3%E8%80%83%E6%85%AE%E8%A8%82%E8%B3%BC%E6%95%B8%E7%99%BE%E6%9E%B6%E7%A9%BA%E5%B7%B4%E5%AE%A2%E6%A9%9F?mtc=20023</id><title>中歐關係｜中國傳考慮訂購數百架空巴客機</title><updated>2025-06-04T14:49:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-06-04T14:49:58.274+08:00 Updated on: 2025-06-04T14:49:58.274+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;據報中國正考慮最快下個月訂購數百架空中巴士飛機，屆時歐洲領導人將訪問北京，慶祝中國與歐盟建交50週年。&lt;/p&gt;&lt;p&gt;彭博社周三（6月4日）引述知情人士說，目前正與中國航空公司商討潛在訂單的規模。知情人士稱，這筆交易可能涉及約300架飛機，包括窄體和寬體機型。其中一名知情人士說，訂單數量可能在200架到500架飛機之間。&lt;/p&gt;&lt;p&gt;知情人士也說，協商充滿變數，可能會破裂或需要更長時間才能達成協議。&lt;/p&gt;&lt;p&gt;法國總統馬克龍和德國總理默茲等領導人可能在7月訪問北京，慶祝中歐建交50週年。彭博社通報分析，法國和德國是空巴的最大股東，與這家飛機製造商達成的高調協議，將使中國國家主席習近平能夠就貿易問題向美國總統特朗普發出信息。&lt;/p&gt;&lt;p&gt;此前，特朗普5月8日宣布，美國和英國達成一項貿易協定。美國商務部長盧特尼克在記者會上透露，英國接下來將向波音購買總值100億美元的飛機。&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://china.hket.com/article/3959382/%E4%B8%AD%E6%AD%90%E9%97%9C%E4%BF%82%EF%BD%9C%E4%B8%AD%E5%9C%8B%E5%82%B3%E8%80%83%E6%85%AE%E8%A8%82%E8%B3%BC%E6%95%B8%E7%99%BE%E6%9E%B6%E7%A9%BA%E5%B7%B4%E5%AE%A2%E6%A9%9F?mtc=20023"/><published>2025-06-04T14:49:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3958896/%E5%8C%97%E6%B0%B4%E7%A5%9E%E6%93%8D%E4%BD%9C%EF%BD%9C130%E5%84%84%E6%8A%BC%E7%BE%8E%E5%9C%98%E5%A4%A7%E7%8D%B2%E5%85%A8%E5%8B%9D%20%20%E7%A5%9E%E6%92%88%E7%A7%98%E6%8A%80%E9%A1%AF?mtc=20023</id><title>北水神操作｜130億押美團大獲全勝  神撈秘技顯</title><updated>2025-06-04T14:52:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3958896/%E5%8C%97%E6%B0%B4%E7%A5%9E%E6%93%8D%E4%BD%9C%EF%BD%9C130%E5%84%84%E6%8A%BC%E7%BE%8E%E5%9C%98%E5%A4%A7%E7%8D%B2%E5%85%A8%E5%8B%9D%20%20%E7%A5%9E%E6%92%88%E7%A7%98%E6%8A%80%E9%A1%AF?mtc=20023"/><published>2025-06-04T14:52:00+08:00</published></entry></feed>
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/3959447/MPF%EF%BD%9CGUM%EF%BC%9A%E5%BC%B7%E7%A9%8D%E9%87%91%E9%A6%965%E5%80%8B%E6%9C%88%E4%BA%BA%E5%9D%87%E8%B3%BA15,746%E5%85%83%E3%80%80TACO%E5%8A%A9%E7%92%B0%E7%90%83%E8%82%A1%E5%B8%82%E5%8D%87?mtc=20023"/><published>2025-06-04T16:23:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3959433/%E8%B5%A4%E6%9F%B1ONE%20STANLEY%20%E5%8A%A0%E6%8E%A8%E5%A4%A9%E9%9A%9B%E8%A4%87%E5%BC%8F%E5%A4%A7%E5%AE%85%E4%B8%8B%E5%91%A8%E4%B8%80%E8%B5%B7%E6%A8%99%E5%94%AE%20%E6%9C%83%E6%89%80%E6%8F%90%E4%BE%9B%E7%A7%81%E5%BB%9A%E5%88%B0%E5%BA%9C%E6%9C%8D%E5%8B%99?mtc=20023</id><title>赤柱ONE STANLEY 加推天際複式大宅下周一起標售 會所提供私廚到府服務</title><updated>2025-06-04T16:24:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3959433/%E8%B5%A4%E6%9F%B1ONE%20STANLEY%20%E5%8A%A0%E6%8E%A8%E5%A4%A9%E9%9A%9B%E8%A4%87%E5%BC%8F%E5%A4%A7%E5%AE%85%E4%B8%8B%E5%91%A8%E4%B8%80%E8%B5%B7%E6%A8%99%E5%94%AE%20%E6%9C%83%E6%89%80%E6%8F%90%E4%BE%9B%E7%A7%81%E5%BB%9A%E5%88%B0%E5%BA%9C%E6%9C%8D%E5%8B%99?mtc=20023"/><published>2025-06-04T16:24:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3834469/%E9%97%9C%E7%A8%85%E6%88%B0%EF%BD%9C%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E9%9B%A3%E5%92%8C%E7%BF%92%E8%BF%91%E5%B9%B3%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%20%E7%BE%8E%E6%8F%90%E9%AB%98%E9%8B%BC%E9%8B%81%E9%97%9C%E7%A8%85%E8%87%B350-%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023</id><title>關稅戰｜特朗普：很難和習近平達成協議 美提高鋼鋁關稅至50%（持續更新）</title><updated>2025-06-04T16:25:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3834469/%E9%97%9C%E7%A8%85%E6%88%B0%EF%BD%9C%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E9%9B%A3%E5%92%8C%E7%BF%92%E8%BF%91%E5%B9%B3%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%20%E7%BE%8E%E6%8F%90%E9%AB%98%E9%8B%BC%E9%8B%81%E9%97%9C%E7%A8%85%E8%87%B350-%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023"/><published>2025-06-04T16:25:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3959332/%E8%9D%95%E8%AE%93%E6%88%90%E4%BA%A4%EF%BD%9C%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E8%E6%9C%9FSEA%20TO%20SKY%205%E5%B9%B4%E8%9D%95%E9%80%BE240%E8%90%AC%E9%9B%A2%E5%A0%B4%20%E8%B2%B6%E5%80%BC20-?mtc=20023</id><title>蝕讓成交｜將軍澳日出康城8期SEA TO SKY 5年蝕逾240萬離場 貶值20%</title><updated>2025-06-04T16:28:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3959332/%E8%9D%95%E8%AE%93%E6%88%90%E4%BA%A4%EF%BD%9C%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E8%E6%9C%9FSEA%20TO%20SKY%205%E5%B9%B4%E8%9D%95%E9%80%BE240%E8%90%AC%E9%9B%A2%E5%A0%B4%20%E8%B2%B6%E5%80%BC20-?mtc=20023"/><published>2025-06-04T16:28:00+08:00</published></entry><entry><id>https://knowledge.hket.com/article/3959414/%E6%B0%B8%E7%BA%8C%E5%82%B5%E5%94%94%E6%B4%BE%E6%81%AF%EF%BC%9F%20%E6%96%B0%E4%B8%96%E7%95%8C%E6%B0%B8%E7%BA%8C%E5%82%B5%E9%97%9C%E9%8D%B5%E6%A2%9D%E6%AC%BE?mtc=20023</id><title>永續債唔派息？ 新世界永續債關鍵條款</title><updated>2025-06-04T16:30:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-06-04T16:30:47.033+08:00 Updated on: 2025-06-04T16:30:47.033+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;陷入債務危機的新世界				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00017/?mtc=g0018"&gt;（00017）&lt;/a&gt;
+早前披露旗下4隻永續資本證券的利息要遞延分派，其債權價格即時急挫。新世界是暫緩派息，而非不派息，但永續債內後還有哪些關鍵條款值得關注？&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;【hket PRO 訂閲計劃】每日只需$1.6，掌握股樓、時事趨勢，深入報導，仲送實用禮物$600&lt;br&gt;&lt;span&gt;&lt;a href=" https://event.hket.com/article/3927908?utm_content=3959414&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202409_promotion_ContentBlock&amp;amp;utm_content=3959414&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/3927908" title="【hket PRO 訂閲計劃】每日只需$1.6，掌握股樓、時事趨勢，深入報導，仲送實用禮物$600"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20250319_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20250319_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="article-detail_extra-info"&gt;
+&lt;p&gt;&lt;span&gt;欄名 :&lt;/span&gt; &lt;span&gt;投資學堂&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://knowledge.hket.com/article/3959414/%E6%B0%B8%E7%BA%8C%E5%82%B5%E5%94%94%E6%B4%BE%E6%81%AF%EF%BC%9F%20%E6%96%B0%E4%B8%96%E7%95%8C%E6%B0%B8%E7%BA%8C%E5%82%B5%E9%97%9C%E9%8D%B5%E6%A2%9D%E6%AC%BE?mtc=20023"/><published>2025-06-04T16:30:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3958896/%E5%8C%97%E6%B0%B4%E7%A5%9E%E6%93%8D%E4%BD%9C%EF%BD%9CHSI%E7%BA%8C%E5%BD%88%20%20%E6%83%9F%E5%8C%97%E6%B5%81%E5%85%A5%E5%8A%9B%E5%BA%A6%E5%81%8F%E5%BC%B1?mtc=20023</id><title>北水神操作｜HSI續彈  惟北流入力度偏弱</title><updated>2025-06-04T16:33:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3958896/%E5%8C%97%E6%B0%B4%E7%A5%9E%E6%93%8D%E4%BD%9C%EF%BD%9CHSI%E7%BA%8C%E5%BD%88%20%20%E6%83%9F%E5%8C%97%E6%B5%81%E5%85%A5%E5%8A%9B%E5%BA%A6%E5%81%8F%E5%BC%B1?mtc=20023"/><published>2025-06-04T16:33:00+08:00</published></entry><entry><id>https://knowledge.hket.com/article/3958417/%E5%B8%AB%E5%A5%B6%E6%9C%89%E7%A6%8F%E3%80%A1%E7%B6%AB%E4%B8%8A%E8%B2%B7%E8%8F%9C%E8%A5%B2%E6%B8%AF%C2%A0%20%E8%8F%9C%E5%83%B9%E7%AB%8B%E6%B8%9B40-%EF%BC%9F%EF%BC%88%E6%9C%89%E6%95%B8%E5%BE%97%E8%A8%88%EF%BC%89?mtc=20023</id><title>師奶有福〡綫上買菜襲港  菜價立減40%？（有數得計）</title><updated>2025-06-04T16:34:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-06-04T16:34:00+08:00 Updated on: 2025-06-04T16:34:13.773+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;人生有限且無常，美好的事很多，無需費時買菜，網上買菜不求人，只有0次和無數次，吃得新鮮又省錢，如此美好生活，快連港人也能享受！&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;【hket PRO 訂閲計劃】每日只需$1.6，掌握股樓、時事趨勢，深入報導，仲送實用禮物$600&lt;br&gt;&lt;span&gt;&lt;a href=" https://event.hket.com/article/3927908?utm_content=3958417&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202409_promotion_ContentBlock&amp;amp;utm_content=3958417&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/3927908" title="【hket PRO 訂閲計劃】每日只需$1.6，掌握股樓、時事趨勢，深入報導，仲送實用禮物$600"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20250319_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20250319_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="article-detail_extra-info"&gt;
+&lt;p&gt;&lt;span&gt;撰文 :&lt;/span&gt; &lt;span&gt;陳振豪 &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;欄名 :&lt;/span&gt; &lt;span&gt;股壇解碼&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://knowledge.hket.com/article/3958417/%E5%B8%AB%E5%A5%B6%E6%9C%89%E7%A6%8F%E3%80%A1%E7%B6%AB%E4%B8%8A%E8%B2%B7%E8%8F%9C%E8%A5%B2%E6%B8%AF%C2%A0%20%E8%8F%9C%E5%83%B9%E7%AB%8B%E6%B8%9B40-%EF%BC%9F%EF%BC%88%E6%9C%89%E6%95%B8%E5%BE%97%E8%A8%88%EF%BC%89?mtc=20023"/><published>2025-06-04T16:34:00+08:00</published></entry><entry><id>https://news.hket.com/article/3959458/%E6%9D%B1%E9%90%B5%E7%B6%AB%E9%96%98%E9%96%80%EF%BD%9C%E6%B8%AF%E9%90%B5%EF%BC%9A%E6%9D%B1%E9%90%B5%E7%B6%AB%E8%87%AA%E5%8B%95%E6%9C%88%E5%8F%B0%E5%B9%95%E9%96%80%E5%AE%89%E8%A3%9D%E5%B7%A5%E7%A8%8B%E7%AB%A3%E5%B7%A5%E3%80%80%E8%BC%83%E5%8E%9F%E5%AE%9A%E8%A8%88%E5%8A%83%E6%8F%90%E5%89%8D6%E5%80%8B%E6%9C%88%E5%AE%8C%E6%88%90?mtc=20023</id><title>東鐵綫閘門｜港鐵：東鐵綫自動月台幕門安裝工程竣工　較原定計劃提前6個月完成</title><updated>2025-06-04T16:38:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-06-04T16:38:14.819+08:00 Updated on: 2025-06-04T16:38:14.819+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;港鐵表示，東鐵綫旺角東站最後一對自動月台閘門已於5月底完成安裝並投入服務，東鐵綫自動月台閘門安裝工程已竣工。&lt;/p&gt;&lt;p&gt;港鐵指，2022年5月東鐵綫過海段通車後，公司在翌年年中展開閘門安裝工程。整項工程涉及於東鐵綫13個車站合共35個月台，安裝約1,600對自動月台閘門。東鐵綫自動月台閘門安裝工程竣工後，港鐵全綫重鐵車站已經配備自動月台閘門或幕門。&lt;/p&gt;&lt;p&gt;港鐵表示，工程團隊主要利用晚上收車後的「黃金兩小時」內完成相關工序，期間用了超過270晚進行行車及整合測試，使列車停泊在新位置後能精準對齊車門與月台閘門位置，以及整合信號和自動月台閘門的操作。最後安裝閘門的3個車站，包括大學、羅湖及旺角東站，由於月台弧度較大，加上弧度不一，要在彎曲的月台加裝筆直的閘門，每對閘門之間的玻璃板需要有不同闊度，讓閘門可貼近彎位安裝，當中使用的玻璃板就超過20款不同闊度。&lt;/p&gt;&lt;p&gt;港鐵公司項目及工程拓展總監鄧輝豪表示，在百年歷史的東鐵綫上安裝自動月台閘門，工程本身已非常複雜。要在工程期間維持東鐵綫正常服務，亦增添工程的挑戰；全賴團隊周密的規劃及部署，項目提前6個月完成。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://news.hket.com/article/3959458/%E6%9D%B1%E9%90%B5%E7%B6%AB%E9%96%98%E9%96%80%EF%BD%9C%E6%B8%AF%E9%90%B5%EF%BC%9A%E6%9D%B1%E9%90%B5%E7%B6%AB%E8%87%AA%E5%8B%95%E6%9C%88%E5%8F%B0%E5%B9%95%E9%96%80%E5%AE%89%E8%A3%9D%E5%B7%A5%E7%A8%8B%E7%AB%A3%E5%B7%A5%E3%80%80%E8%BC%83%E5%8E%9F%E5%AE%9A%E8%A8%88%E5%8A%83%E6%8F%90%E5%89%8D6%E5%80%8B%E6%9C%88%E5%AE%8C%E6%88%90?mtc=20023"/><published>2025-06-04T16:38:00+08:00</published></entry><entry><id>https://news.hket.com/article/3959453/%E5%BC%B7%E7%A9%8D%E9%87%91%EF%BD%9C%E5%83%B1%E4%B8%BB%E6%8B%96%E6%AC%A0%E5%BC%B7%E7%A9%8D%E9%87%91%E4%BE%9B%E6%AC%BE%E5%80%8B%E6%A1%88%E6%94%80%E5%8D%87%E3%80%80%E6%9C%89%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91%E6%AA%A2%E6%8E%A7%E7%8E%87%E4%BD%8E?mtc=20023</id><title>強積金｜僱主拖欠強積金供款個案攀升　有議員質疑檢控率低</title><updated>2025-06-04T16:42:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-06-04T16:42:07.863+08:00 Updated on: 2025-06-04T16:42:07.863+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;近年僱主拖欠強積金供款個案不斷攀升，去年更高達約40萬張，但積金局僅就1,432宗提出民事申索及只發出352張刑事檢控傳票，有議員質疑檢控佔比甚低。財經事務及庫務局局長許正宇今日（4日）書面回應有關提問。&lt;/p&gt;&lt;h2&gt;僅少數個案須採取法律行動&lt;/h2&gt;&lt;p&gt;許正宇回應指，在2024至25年度，積金局一共向僱主發出了約40萬張通知書，其中約有25%個案在限期內繳清有關款項。其餘個案會在積金局聯絡和要求後繳清欠款，只有少數個案（約1,700宗）須由積金局採取法律行動，循民事途徑追討欠款。&lt;/p&gt;&lt;p&gt;如在調查過程中搜集到足夠證據，而投訴人亦願意作為控方證人及提供相關資料，積金局會向違規僱主提出刑事檢控以加強阻嚇。&lt;/p&gt;&lt;p&gt;在上述年度中，積金局向拖欠供款的僱主及有限公司董事╱管理人員一共發出約280張檢控傳票，成功檢控的個案約180宗，每宗個案施加的罰款介乎1,000元至5,000元。&lt;/p&gt;&lt;h2&gt; &lt;span class="article-detail_inline-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959453/ptwn20250528002_1024_1024.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959453/ptwn20250528002_1024_600.jpg" media="(min-width: 992px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959453/ptwn20250528002_1024_1024.jpg" media="(min-width: 630px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959453/ptwn20250528002_1024_600.jpg" media="(min-width: 330px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959453/ptwn20250528002_1024_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="立法會會議。（彭大偉攝）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3955000/3959453/ptwn20250528002_1024_1024.jpg" src="https://static04.hket.com/res/v3/image/content/3955000/3959453/ptwn20250528002_1024_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/span&gt;
+&lt;span class="article-detail_caption block"&gt;&lt;span&gt;▲&lt;/span&gt; 立法會會議。（彭大偉攝）&lt;/span&gt;
+&lt;/h2&gt;&lt;h2&gt;不宜以通知書數量去評估經濟狀況&lt;/h2&gt;&lt;p&gt;僱主拖欠強積金供款被視為「執笠」凶兆。立法會議員謝偉俊稱，個案遞增勢頭與「執笠」趨勢吻合，質疑與政府對經濟勢頭持續向好看法大相逕庭。許正宇表示，根據以往案例，大部分案件涉行政問題，如資料出錯或不齊全等。另外，如僱主持續拖欠供款，積金局會發出多張通知書，故此不宜以通知書的數量去評估整體僱主拖欠或香港的經濟狀況。&lt;/p&gt;&lt;h2&gt;積金局公開違規僱主及高級人員紀錄&lt;/h2&gt;&lt;p&gt;為提高透明度，積金局已定期公布拖欠強積金供款的相關數字。這些資料會載列於積金局網頁內，方便公眾查閱。&lt;/p&gt;&lt;p&gt;此外，積金局亦在網上提供「違規僱主及高級人員紀錄」，公眾人士可透過該紀錄冊查閱違規僱主的資料，以及相關民事及刑事訴訟的判決。&lt;/p&gt;&lt;p&gt;為進一步保障僱員的權益，積金局已向政府提交就拖欠強積金供款實施分層附加費的建議方案，政府表示會詳細考慮及作出適當的跟進。 &lt;/p&gt;&lt;p&gt; &lt;span class="article-detail_inline-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959453/wyqn20240502044_1024_1024.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959453/wyqn20240502044_1024_600.jpg" media="(min-width: 992px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959453/wyqn20240502044_1024_1024.jpg" media="(min-width: 630px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959453/wyqn20240502044_1024_600.jpg" media="(min-width: 330px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3955000/3959453/wyqn20240502044_1024_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="積金局。（王韻青攝）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3955000/3959453/wyqn20240502044_1024_1024.jpg" src="https://static04.hket.com/res/v3/image/content/3955000/3959453/wyqn20240502044_1024_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/span&gt;
+&lt;span class="article-detail_caption block"&gt;&lt;span&gt;▲&lt;/span&gt; 積金局。（王韻青攝）&lt;/span&gt;
+&lt;/p&gt;&lt;h2&gt;不會暫停或緩繳強制性供款&lt;/h2&gt;&lt;p&gt;有關暫停或緩繳部分或全部強制性供款，以減輕僱主和僱員負擔及避免「執笠潮」蔓延的建議，目前法例並沒有相關安排。政府認為推行有關建議會減少僱員的退休保障，為僱主帶來的支援亦有限，不宜推行。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://news.hket.com/article/3959453/%E5%BC%B7%E7%A9%8D%E9%87%91%EF%BD%9C%E5%83%B1%E4%B8%BB%E6%8B%96%E6%AC%A0%E5%BC%B7%E7%A9%8D%E9%87%91%E4%BE%9B%E6%AC%BE%E5%80%8B%E6%A1%88%E6%94%80%E5%8D%87%E3%80%80%E6%9C%89%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91%E6%AA%A2%E6%8E%A7%E7%8E%87%E4%BD%8E?mtc=20023"/><published>2025-06-04T16:42:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3959456/%E8%97%8D%E7%B1%8C%E5%83%B9%E5%B4%A9%EF%BD%9C%E9%BB%83%E5%9F%94%E8%8A%B1%E5%9C%922%E6%88%BF%E4%BA%8B%E6%95%85%E5%90%8C%E5%B1%A4%E6%88%B6%E4%B8%8D%E8%B6%B3%E3%80%8C5%E7%90%83%E3%80%8D%E6%B2%BD%20%E5%91%8E%E5%83%B9%E5%83%85%E7%B4%849700%E5%85%83?mtc=20023</id><title>藍籌價崩｜黃埔花園2房事故同層戶不足「5球」沽 呎價僅約9700元</title><updated>2025-06-04T16:42:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3959456/%E8%97%8D%E7%B1%8C%E5%83%B9%E5%B4%A9%EF%BD%9C%E9%BB%83%E5%9F%94%E8%8A%B1%E5%9C%922%E6%88%BF%E4%BA%8B%E6%95%85%E5%90%8C%E5%B1%A4%E6%88%B6%E4%B8%8D%E8%B6%B3%E3%80%8C5%E7%90%83%E3%80%8D%E6%B2%BD%20%E5%91%8E%E5%83%B9%E5%83%85%E7%B4%849700%E5%85%83?mtc=20023"/><published>2025-06-04T16:42:00+08:00</published></entry></feed>
