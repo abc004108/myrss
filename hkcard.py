@@ -64,6 +64,7 @@ def get_thread_description(thread_url):
         time.sleep(5)
 
         html = driver.page_source
+        print(html)
         soup = BeautifulSoup(html, 'html.parser')
 
         # Find all specific reply items
