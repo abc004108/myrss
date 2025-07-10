@@ -2,7 +2,7 @@ name: Generate and Deploy RSS Feed
 
 on:
   schedule:
-    - cron: '0 */2 * * *'    # Every 2 hours 
+    - cron: '0 */4 * * *'    # Every 2 hours 
     - cron: '0 */12 * * *'   # Every 12 hours 
 
   workflow_dispatch:
@@ -56,7 +56,7 @@ jobs:
             #python hkdiscuss.py --feeds money house hottopics
             #python hkdiscuss.py --feeds money house
             python hkcard.py
-          elif [[ "${{ github.event.schedule }}" == "0 */2 * * *" ]]; then
+          elif [[ "${{ github.event.schedule }}" == "0 */4 * * *" ]]; then
             python hkdiscuss.py --feeds money house
             python hknet.py
           else
