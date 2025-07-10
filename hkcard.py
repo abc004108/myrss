@@ -187,7 +187,7 @@ def fetch_feed(url, base_url, atom_file, title, subtitle):
 fetch_feed(
     url='https://www.hongkongcard.com/forum',
     base_url='https://www.hongkongcard.com/forum',
-    atom_file=r'C:\Users\shijzhao\Dropbox\hknet.xml',
+    atom_file='hkcard.xml',
     title='Hong Kong Card Forum',
     subtitle='Latest discussions',
 )
