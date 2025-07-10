@@ -187,6 +187,6 @@ def fetch_feed(url, base_url, atom_file, title, subtitle):
     fg.atom_file(atom_file)
     print(f"Feed updated with {new_entries} new entries: {atom_file}")
 
-res=get_thread_description(https://www.hongkongcard.com/forum/show/50252)
+res=get_thread_description('https://www.hongkongcard.com/forum/show/50252')
 print(res)
 
