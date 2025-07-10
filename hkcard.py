@@ -188,6 +188,64 @@ def fetch_feed(url, base_url, atom_file, title, subtitle):
     fg.atom_file(atom_file)
     print(f"Feed updated with {new_entries} new entries: {atom_file}")
 
-res=get_thread_description('https://www.hongkongcard.com/forum/show/50252')
+
+
+def get_thread(thread_url):
+    # Configure Selenium
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # Run in background
+    driver = webdriver.Chrome(options=chrome_options)
+
+    try:
+        print(f"Loading URL: {thread_url}")  # Debug: URL being loaded
+        driver.get(thread_url)
+
+        time.sleep(5)  # Consider replacing with WebDriverWait for better reliability
+
+        # Debug: Check if page loaded
+        print("Page loaded, checking for dropdown...")
+
+        # Locate the dropdown
+        try:
+            dropdown_element = driver.find_element(By.XPATH, "//select")  # Locate the dropdown
+            dropdown = Select(dropdown_element)
+            print("Dropdown found.")
+        except NoSuchElementException:
+            print("Error: Dropdown element not found.")
+            return None  # Return None if the dropdown is not found
+
+        # Check if "最後回覆" option is available
+        try:
+            dropdown.select_by_visible_text("最後回覆")  # Select by visible text
+            print("Selected '最後回覆' option.")
+        except Exception as e:
+            print(f"Option '最後回覆' not found. Error: {e}")
+            return None  # Return None if the option is not available
+
+        time.sleep(5)  # Again, consider replacing with WebDriverWait
+
+        html = driver.page_source
+        print("HTML content loaded.")  # Debug: Indicate HTML was retrieved
+        print(html)  # Print the HTML content for debugging
+
+        # Proceed with parsing
+        soup = BeautifulSoup(html, 'html.parser')
+
+        # Find all specific reply items
+        reply_items = soup.find_all('div', class_='reply-item-wrapper')
+        print(f"Found {len(reply_items)} reply items.")  # Debug: Number of reply items found
+
+        content_list = []
+        timestamp = None
+        exact_time = None
+
+    except NoSuchElementException:
+        print("Error: Could not find the dropdown element. Skipping this site...")
+        return None  # Return None if the dropdown is not found
+    finally:
+        driver.quit()  # Ensure the driver quits regardless of errors
+
+
+res=get_thread('https://www.hongkongcard.com/forum/show/50252')
 print(res)
 
