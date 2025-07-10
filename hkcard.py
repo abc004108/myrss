@@ -200,7 +200,7 @@ def get_thread(thread_url):
         print(f"Loading URL: {thread_url}")  # Debug: URL being loaded
         driver.get(thread_url)
 
-        time.sleep(5)  # Consider replacing with WebDriverWait for better reliability
+        time.sleep(50)  # Consider replacing with WebDriverWait for better reliability
 
         # Debug: Check if page loaded
         print("Page loaded, checking for dropdown...")
@@ -222,7 +222,7 @@ def get_thread(thread_url):
             print(f"Option '最後回覆' not found. Error: {e}")
             return None  # Return None if the option is not available
 
-        time.sleep(5)  # Again, consider replacing with WebDriverWait
+        time.sleep(50)  # Again, consider replacing with WebDriverWait
 
         html = driver.page_source
         print("HTML content loaded.")  # Debug: Indicate HTML was retrieved
