@@ -49,7 +49,7 @@ def get_thread_description(thread_url):
         # Load the page
         driver.get(thread_url)
 
-        time.sleep(3)
+        time.sleep(5)
 
         dropdown_element = driver.find_element(By.XPATH, "//select")  # Locate the dropdown
         dropdown = Select(dropdown_element)
@@ -61,7 +61,7 @@ def get_thread_description(thread_url):
             print("Option '最後回覆' not found. Skipping...")
             return None  # Return None if the option is not available
 
-        time.sleep(3)
+        time.sleep(5)
 
         html = driver.page_source
         soup = BeautifulSoup(html, 'html.parser')
@@ -187,11 +187,6 @@ def fetch_feed(url, base_url, atom_file, title, subtitle):
     fg.atom_file(atom_file)
     print(f"Feed updated with {new_entries} new entries: {atom_file}")
 
+res=get_thread_description(https://www.hongkongcard.com/forum/show/50252)
+print(res)
 
-fetch_feed(
-    url='https://www.hongkongcard.com/forum',
-    base_url='https://www.hongkongcard.com/forum',
-    atom_file='hkcard.xml',
-    title='Hong Kong Card Forum',
-    subtitle='Latest discussions',
-)
