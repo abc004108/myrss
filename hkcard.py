@@ -79,7 +79,9 @@ def get_thread_description(thread_url):
                 reply_html = reply.find('div', class_='reply-view-root')
                 if reply_html:
                     reply_content = str(reply_html)  # Keep the original HTML
+                    print(reply_content)
                     timestamp = reply.find('span', class_='content-thread-create-time').get_text(strip=True)
+                    print(timestamp)
                     content_list.append(f"<div><strong>{timestamp}:</strong> {reply_content}</div>")  # Append to list
 
             except AttributeError:  # Skip if any element is not found
@@ -161,6 +163,7 @@ def fetch_feed(url, base_url, atom_file, title, subtitle):
 
         description = ''
         thread_desc = get_thread_description(thread_url)
+        print(thread_desc)
         if thread_desc:
             content_str, pub_date = thread_desc  
             if content_str:
