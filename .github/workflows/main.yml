@@ -3,7 +3,7 @@ name: Generate and Deploy RSS Feed
 on:
   schedule:
     - cron: '0 */2 * * *'    # Every 2 hours 
-    - cron: '0 */6 * * *'   # Every 12 hours 
+    - cron: '0 */12 * * *'   # Every 12 hours 
 
   workflow_dispatch:
 
@@ -61,6 +61,7 @@ jobs:
             python hknet.py
           else
             python hkdiscuss.py --feeds hottopics
+            python hkcard.py
           fi
               
       - name: Check generated files
