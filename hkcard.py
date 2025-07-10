@@ -70,6 +70,8 @@ def get_thread_description(thread_url):
         reply_items = soup.find_all('div', class_='reply-item-wrapper')
 
         content_list = []
+        timestamp = None
+        exact_time = None
 
         # Extract the text and timestamp from each reply
         for reply in reply_items:
@@ -83,7 +85,6 @@ def get_thread_description(thread_url):
             except AttributeError:  # Skip if any element is not found
                 continue
 
-        exact_time = None  # Initialize exact_time
         if timestamp:  # Ensure there's a timestamp to process
             exact_time = convert_relative_time(timestamp)
             if exact_time:
