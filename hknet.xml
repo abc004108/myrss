@@ -1,109 +1,66 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080</id><title>HKET News Feed</title><updated>2025-07-12T12:37:40.361806+08:00</updated><link href="https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>Latest news</subtitle><entry><id>https://ps.hket.com/article/3977844/%E6%90%B6%E7%A7%9F%E6%BD%AE-%EF%BD%9C%E5%9C%B0%E7%94%9F%E3%80%81%E5%AE%B6%E9%95%B7%E5%AE%A2%E3%80%81%E5%B0%88%E6%89%8D%E5%A4%BE%E6%94%BB%20%E7%A7%9F%E9%87%91%E9%80%A3%E5%8D%875%E5%80%8B%E6%9C%88%20%E5%8B%A2%E6%8C%91%E6%88%B0%E6%AD%B7%E5%8F%B2%E9%AB%98%E4%BD%8D?mtc=20023</id><title>搶租潮|｜地生、家長客、專才夾攻 租金連升5個月 勢挑戰歷史高位</title><updated>2025-07-12T09:59:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3977844/%E6%90%B6%E7%A7%9F%E6%BD%AE-%EF%BD%9C%E5%9C%B0%E7%94%9F%E3%80%81%E5%AE%B6%E9%95%B7%E5%AE%A2%E3%80%81%E5%B0%88%E6%89%8D%E5%A4%BE%E6%94%BB%20%E7%A7%9F%E9%87%91%E9%80%A3%E5%8D%875%E5%80%8B%E6%9C%88%20%E5%8B%A2%E6%8C%91%E6%88%B0%E6%AD%B7%E5%8F%B2%E9%AB%98%E4%BD%8D?mtc=20023"/><published>2025-07-12T09:59:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3977013/%E5%8C%97%E6%B0%B4%E6%93%8D%E4%BD%9C%EF%BD%9C%E5%8C%97%E6%B0%B4%E6%B2%BD%E5%BE%97%E6%9C%80%E7%8B%A0%E7%9A%843%E5%A4%A7%E7%A7%91%E6%8A%80%E8%82%A1?mtc=20023</id><title>北水操作｜北水沽得最狠的3大科技股</title><updated>2025-07-12T10:03:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3977013/%E5%8C%97%E6%B0%B4%E6%93%8D%E4%BD%9C%EF%BD%9C%E5%8C%97%E6%B0%B4%E6%B2%BD%E5%BE%97%E6%9C%80%E7%8B%A0%E7%9A%843%E5%A4%A7%E7%A7%91%E6%8A%80%E8%82%A1?mtc=20023"/><published>2025-07-12T10:03:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3977845/%E6%90%B6%E7%A7%9F%E6%BD%AE%EF%BD%9C%E5%85%83%E6%9C%97%E4%B8%8A%E6%9C%88%E9%8C%84250%E5%AE%97%E7%A7%9F%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98%20%E6%A8%93%E4%BB%94%E5%91%8E%E7%A7%9F%E9%80%BE-41%E5%89%B5%E5%90%8C%E9%A1%9E%E6%96%B0%E9%AB%98?mtc=20023</id><title>搶租潮｜元朗上月錄250宗租歷史新高 樓仔呎租逾$41創同類新高</title><updated>2025-07-12T10:29:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3977845/%E6%90%B6%E7%A7%9F%E6%BD%AE%EF%BD%9C%E5%85%83%E6%9C%97%E4%B8%8A%E6%9C%88%E9%8C%84250%E5%AE%97%E7%A7%9F%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98%20%E6%A8%93%E4%BB%94%E5%91%8E%E7%A7%9F%E9%80%BE-41%E5%89%B5%E5%90%8C%E9%A1%9E%E6%96%B0%E9%AB%98?mtc=20023"/><published>2025-07-12T10:29:00+08:00</published></entry><entry><id>https://topick.hket.com/article/3972019/%E5%8D%B1%E9%9A%AA%E8%A1%8C%E7%82%BA%EF%BD%9C%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%B7%A5%E5%9C%B0%E3%80%8C%E9%9D%B6%E5%A0%B4%E3%80%8D%E6%94%9C%E5%BC%93%E7%B7%B4%E5%B0%84%E7%AE%AD%E3%80%80%E7%B6%B2%E6%B0%91%E6%86%82%E5%BF%83%E5%8D%B1%E9%9A%AA%EF%BC%9A%E6%9C%89%E4%BA%BA%E8%B7%AF%E9%81%8E%E9%9A%A8%E6%99%82%E4%B8%AD%E7%AE%AD?mtc=20023</id><title>危險行為｜將軍澳工地「靶場」攜弓練射箭　網民憂心危險：有人路過隨時中箭</title><updated>2025-07-12T10:33:00+08:00</updated><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080</id><title>HKET News Feed</title><updated>2025-07-12T16:32:56.089770+08:00</updated><link href="https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>Latest news</subtitle><entry><id>https://ps.hket.com/article/3977846/%E6%90%B6%E7%A7%9F%E6%BD%AE%EF%BD%9C%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%8D%80%E9%8C%84640%E5%AE%97%E7%A7%9F%20%E6%B5%B7%E6%82%85%E8%B1%AA%E5%9C%921%E6%88%BF1.88%E8%90%AC%E7%A7%9F%E5%87%BA%E8%B2%B4%E9%81%8E2%E6%88%BF?mtc=20023</id><title>搶租潮｜將軍澳區錄640宗租 海悅豪園1房1.88萬租出貴過2房</title><updated>2025-07-12T12:01:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3977846/%E6%90%B6%E7%A7%9F%E6%BD%AE%EF%BD%9C%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%8D%80%E9%8C%84640%E5%AE%97%E7%A7%9F%20%E6%B5%B7%E6%82%85%E8%B1%AA%E5%9C%921%E6%88%BF1.88%E8%90%AC%E7%A7%9F%E5%87%BA%E8%B2%B4%E9%81%8E2%E6%88%BF?mtc=20023"/><published>2025-07-12T12:01:00+08:00</published></entry><entry><id>https://news.hket.com/article/3977876/%E7%85%A7%E9%A1%A7%E8%80%85%EF%BD%9C%E5%AD%AB%E7%8E%89%E8%8F%A1%EF%BC%9A%E4%B8%8B%E5%91%A8%E4%B8%80%E8%B5%B7%E8%A9%A6%E8%A1%8C%E4%BD%8E%E6%94%B6%E5%85%A5%E7%85%A7%E9%A1%A7%E8%80%85%E5%85%A5%E9%99%A2%E6%94%AF%E6%8F%B4%E6%9C%8D%E5%8B%99%E3%80%80%E9%97%9C%E6%84%9B%E9%9A%8A%E8%A7%80%E5%A1%98%E6%B2%99%E7%94%B0%E4%B8%8A%E9%96%80%E6%8E%A2%E9%95%B7%E8%80%85?mtc=20023</id><title>照顧者｜孫玉菡：下周一起試行低收入照顧者入院支援服務　關愛隊觀塘沙田上門探長者</title><updated>2025-07-12T12:27:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-07-12T10:33:00+08:00 Updated on: 2025-07-11T22:57:56.701+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-07-12T12:27:00+08:00 Updated on: 2025-07-12T13:06:03.999+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;為確保自己及他人安全，練習射箭應該到專門練習場地。然而，近日有人在&lt;a href="https://www.facebook.com/watch/?v=1169946161562337&amp;amp;rdid=LnziCp42TgA5SBBJ" target="_blank"&gt;Facebook&lt;/a&gt;上傳影片，指男子在將軍澳1處工地練習射箭，網民看過影片後紛紛斥責其行為相當危險；更可能違反《武器條例》……&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://topick.hket.com/article/3944125/危險行為｜長沙灣戴帽大叔肉身阻巴士　目擊者：搞到全車人要落車?lcc=at"&gt;危險行為｜長沙灣戴帽大叔肉身阻巴士　目擊者：搞到全車人要落車&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;h2&gt;危險行為｜將軍澳工地攜弓練射箭&lt;/h2&gt;&lt;p&gt;樓主稱有人在將軍澳的1處工地練習射箭，「不過好似好危險，涉嫌違法」；片中1名男子腰部掛著配件，裝備齊全，疑正在1處地盤內練習射箭，他於箭靶相隔甚遠，目測有幾十米，只見脫弓的箭直直正中箭靶黃心。&lt;/p&gt;&lt;div&gt; &lt;div class="grouped-image-container"&gt;
+&lt;p&gt;照顧者倫常慘劇近年時有發生，勞工及福利局局長孫玉菡今日（12日）表示，下周一起與醫管局合作落實試點計劃，若發現有領取低收入照顧者津貼人士入院，社署會接獲通知，安排暫託或上門送食物等服務。未來一至兩周亦會在觀塘和沙田區，試行由關愛隊上門探訪公屋單老和雙老住戶。 &lt;/p&gt;&lt;p&gt;孫玉菡在電台節目說，現時約有8000至9000人領取低收入照顧者津貼，相信有足夠資源應付；有關計劃只是第一步，不需要事先登記，如果運作暢順就有條件擴展。他強調計劃不涉病歷互通，希望建立動態高風險資料庫及時得知有需要的家庭出現變故或問題，並提供支援。&lt;/p&gt;&lt;p&gt;至於試行由關愛隊上門探訪單老和雙老住戶，孫玉菡指統計顯示有18萬單老和雙老公屋住戶，當中不足5%有聘用傭工，當局可為提供社區的支援網絡資訊等，亦會提供轉介服務。孫未正面回應需時多久能在試點探訪目標住戶，強調數量不少，不會等探訪完畢才推行至其他區，而是會邊做邊檢視成效。&lt;/p&gt;&lt;p&gt;另外，當局2023年9月推出照顧者支援熱線182183，至今接獲約9.5萬個來電，約四成是情緒支援。熱線至今轉介約1600宗個案到社福機構跟進。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://news.hket.com/article/3977876/%E7%85%A7%E9%A1%A7%E8%80%85%EF%BD%9C%E5%AD%AB%E7%8E%89%E8%8F%A1%EF%BC%9A%E4%B8%8B%E5%91%A8%E4%B8%80%E8%B5%B7%E8%A9%A6%E8%A1%8C%E4%BD%8E%E6%94%B6%E5%85%A5%E7%85%A7%E9%A1%A7%E8%80%85%E5%85%A5%E9%99%A2%E6%94%AF%E6%8F%B4%E6%9C%8D%E5%8B%99%E3%80%80%E9%97%9C%E6%84%9B%E9%9A%8A%E8%A7%80%E5%A1%98%E6%B2%99%E7%94%B0%E4%B8%8A%E9%96%80%E6%8E%A2%E9%95%B7%E8%80%85?mtc=20023"/><published>2025-07-12T12:27:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3975753/%E6%B8%AF%E8%82%A1%E9%8E%AE%E5%80%893%E5%AF%B6%202025%E5%B9%B47%E6%9C%88%E7%89%88%EF%BC%88%E5%85%BC%E6%9C%89%E7%A9%A9%E5%AE%9A%E5%B9%A3%E6%A6%82%E5%BF%B5%EF%BC%89?mtc=20023</id><title>港股鎮倉3寶 2025年7月版（兼有穩定幣概念）</title><updated>2025-07-12T12:54:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3975753/%E6%B8%AF%E8%82%A1%E9%8E%AE%E5%80%893%E5%AF%B6%202025%E5%B9%B47%E6%9C%88%E7%89%88%EF%BC%88%E5%85%BC%E6%9C%89%E7%A9%A9%E5%AE%9A%E5%B9%A3%E6%A6%82%E5%BF%B5%EF%BC%89?mtc=20023"/><published>2025-07-12T12:54:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3705414/%E5%B1%85%E5%B1%8B%E8%A3%9D%E4%BF%AE%E8%A8%AD%E8%A8%88%EF%BD%9C-27%E8%90%AC%E5%B9%B3%E5%83%B9%E8%A3%9D%E4%BF%AE%20%E4%BF%9D%E7%95%99%E9%9D%88%E6%B4%BB%E9%96%93%E9%9A%94%E8%BF%8E%E5%B0%8F%E5%AD%A9%20%E5%85%BC%E4%B8%80%E6%8B%9B%E5%8C%96%E8%A7%A3%E9%96%8B%E9%96%80%E8%A6%8B%E5%BB%81?mtc=20023</id><title>居屋裝修設計｜$27萬平價裝修 保留靈活間隔迎小孩 兼一招化解開門見廁</title><updated>2025-07-12T13:02:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3705414/%E5%B1%85%E5%B1%8B%E8%A3%9D%E4%BF%AE%E8%A8%AD%E8%A8%88%EF%BD%9C-27%E8%90%AC%E5%B9%B3%E5%83%B9%E8%A3%9D%E4%BF%AE%20%E4%BF%9D%E7%95%99%E9%9D%88%E6%B4%BB%E9%96%93%E9%9A%94%E8%BF%8E%E5%B0%8F%E5%AD%A9%20%E5%85%BC%E4%B8%80%E6%8B%9B%E5%8C%96%E8%A7%A3%E9%96%8B%E9%96%80%E8%A6%8B%E5%BB%81?mtc=20023"/><published>2025-07-12T13:02:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3975689/Wakuku%E6%92%BCLabubu%20%E3%80%8C%E8%B2%BC%E9%9D%A2%E7%87%9F%E9%8A%B7%E3%80%8D%E8%AA%B0%E6%9B%B4%E8%80%90%E6%92%BC?mtc=20023</id><title>Wakuku撼Labubu 「貼面營銷」誰更耐撼</title><updated>2025-07-12T13:02:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3975689/Wakuku%E6%92%BCLabubu%20%E3%80%8C%E8%B2%BC%E9%9D%A2%E7%87%9F%E9%8A%B7%E3%80%8D%E8%AA%B0%E6%9B%B4%E8%80%90%E6%92%BC?mtc=20023"/><published>2025-07-12T13:02:00+08:00</published></entry><entry><id>https://news.hket.com/article/3977877/%E7%9B%9B%E4%BA%8B%E7%B6%93%E6%BF%9F%EF%BD%9C%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%94%BF%E7%B8%BD%E6%99%A4%E6%AD%90%E9%99%BD%E8%90%AC%E6%88%90%E3%80%80%E8%AE%9A%E5%85%B6%E6%BC%94%E5%87%BA%E5%B1%95%E7%8F%BE%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8C%85%E5%AE%B9%E8%88%87%E6%B4%BB%E5%8A%9B?mtc=20023</id><title>盛事經濟｜李家超政總晤歐陽萬成　讚其演出展現香港文化包容與活力</title><updated>2025-07-12T13:02:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-07-12T13:02:00+08:00 Updated on: 2025-07-12T15:52:11.792+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;美籍華裔演員、棟篤笑喜劇演員歐陽萬成（Jimmy O. Yang）日前在紅館舉行棟篤笑，大獲好評。歐陽萬成為香港華仁書院舊生，他日前與同為九龍華仁書院校友的特首李家超，及歐陽的中學同學、「一帶一路」專員何力治相聚。&lt;/p&gt;&lt;p&gt;歐陽萬成的經紀公司在微博發帖文指，三人在政府總部相聚，使用由兩家學校舊生設立的「華仁一家」組織水杯碰杯。&lt;/p&gt;&lt;p&gt;帖文提到，李家超讚揚歐陽萬成的演出吸引各地觀眾，展現香港文化包容與活力。他亦提到，隨著政府近年興建新的表演場地，並提升現有的場地設施，加上優化表演場地的預訂政策及機制，相信可吸引更多像歐陽萬成的知名藝人來港演出，推動優質演藝活動，匯聚全球觀眾。&lt;/p&gt;&lt;div&gt; &lt;div class="grouped-image-container"&gt;
 &lt;span class="click-to-enlarge"&gt;&lt;span&gt;▼&lt;/span&gt;點擊圖片放大&lt;/span&gt;
 &lt;div class="grouped-image-wrapper"&gt;
 &lt;div class="article-detail_grouped-image block"&gt;
 &lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/4photo_600_600.jpeg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/4photo_600_300.jpeg" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/4photo_600_600.jpeg" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/4photo_600_300.jpeg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3970000/3972019/4photo_600_600.jpeg" src="https://static04.hket.com/res/v3/image/content/3970000/3972019/4photo_600_600.jpeg" style="max-width:100%; height:auto;"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/1_1024_1024_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/1_1024_1024_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/1_1024_1024_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/1_1024_1024_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3975000/3977877/1_1024_1024_600.jpg" src="https://static04.hket.com/res/v3/image/content/3975000/3977877/1_1024_1024_600.jpg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
 &lt;/div&gt;
 &lt;div class="article-detail_grouped-image block"&gt;
 &lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142100_600.png" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142100_300.png" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142100_600.png" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142100_300.png" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="男子將軍澳工地練習射箭，網民憂心存在危險隱患。（取自Facebook「向香港警察致敬」個人專頁）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142100_600.png" src="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142100_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at124029_600.jpeg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at124029_300.jpeg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at124029_600.jpeg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at124029_300.jpeg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="歐陽萬成、李家超、何力治在政府總部相聚。（歐陽萬成經紀公司CAA提供）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at124029_600.jpeg" src="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at124029_600.jpeg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
 &lt;/div&gt;
 &lt;div class="mobile-last article-detail_grouped-image block"&gt;
 &lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142110_600.png" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142110_300.png" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142110_600.png" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142110_300.png" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="男子將軍澳工地練習射箭，網民憂心存在危險隱患。（取自Facebook「向香港警察致敬」個人專頁）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142110_600.png" src="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142110_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at1240292_600.jpeg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at1240292_300.jpeg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at1240292_600.jpeg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at1240292_300.jpeg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="歐陽萬成、李家超、何力治在政府總部相聚。（歐陽萬成經紀公司CAA提供）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at1240292_600.jpeg" src="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at1240292_600.jpeg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
-&lt;span&gt;+6&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class="desktop-last article-detail_grouped-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142114_600.png" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142114_300.png" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142114_600.png" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142114_300.png" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="男子將軍澳工地練習射箭，網民憂心存在危險隱患。（取自Facebook「向香港警察致敬」個人專頁）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142114_600.png" src="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142114_600.png" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;span&gt;+5&lt;/span&gt;
+&lt;span&gt;+2&lt;/span&gt;
 &lt;/div&gt;
 &lt;div class="article-detail_grouped-image block"&gt;
 &lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142120_600.png" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142120_300.png" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142120_600.png" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142120_300.png" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="男子將軍澳工地練習射箭，網民憂心存在危險隱患。（取自Facebook「向香港警察致敬」個人專頁）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142120_600.png" src="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142120_600.png" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;div class="article-detail_grouped-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142125_600.png" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142125_300.png" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142125_600.png" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142125_300.png" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="男子將軍澳工地練習射箭，網民憂心存在危險隱患。（取自Facebook「向香港警察致敬」個人專頁）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142125_600.png" src="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142125_600.png" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;div class="article-detail_grouped-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142129_600.png" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142129_300.png" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142129_600.png" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142129_300.png" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="男子將軍澳工地練習射箭，網民憂心存在危險隱患。（取自Facebook「向香港警察致敬」個人專頁）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142129_600.png" src="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142129_600.png" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;div class="article-detail_grouped-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142146_600.png" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142146_300.png" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142146_600.png" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142146_300.png" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="男子將軍澳工地練習射箭，網民憂心存在危險隱患。（取自Facebook「向香港警察致敬」個人專頁）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142146_600.png" src="https://static04.hket.com/res/v3/image/content/3970000/3972019/Screenshot2025-06-30142146_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at1240291_600.jpeg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at1240291_300.jpeg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at1240291_600.jpeg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at1240291_300.jpeg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="歐陽萬成、李家超、何力治在政府總部相聚。（歐陽萬成經紀公司CAA提供）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at1240291_600.jpeg" src="https://static04.hket.com/res/v3/image/content/3975000/3977877/WhatsAppImage2025-07-12at1240291_600.jpeg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
 &lt;/div&gt;
 &lt;div class="last"&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h2&gt;危險行為｜網民憂心：有人路過隨時中箭&lt;/h2&gt;&lt;p&gt;網民看過影片均認為男子此舉相當危險，心頭一驚，呼籲遇到類似事件應當報經解決，「隨時死人，應該報警」、「若有人路過隨時中箭㗎喎」、「扮晒嘢，捉佢啦」、「拉得」、「可以報警攻擊性武器」、「壞事做盡」、「反彈射到人」。不過，也有人質疑男子是否所處私人地方，「是否私人地方？」、「應該有考慮到安全區域」。&lt;/p&gt;&lt;p&gt;根據香港法例第217章《武器條例》，任何人管有違禁武器，即屬犯罪，可出第3級（1萬元）罰款及監禁3年。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://topick.hket.com/article/3937238/危險行為｜2人合力「連人帶車」推上扶手電梯　網民憂心：不要這樣害老人家?lcc=at"&gt;危險行為｜2人合力「連人帶車」推上扶手電梯　網民憂心：不要這樣害老人家&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://topick.hket.com/article/3926535/危險行為｜大媽馬路截私家車疑碰瓷　懶理車主響喇叭手舞足蹈?lcc=at"&gt;危險行為｜大媽馬路截私家車疑碰瓷　懶理車主響喇叭手舞足蹈&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最新影片推介：&lt;/p&gt;
-&lt;div class="listing-widget-126"&gt;
-&lt;div class="video-channel-info"&gt;
-&lt;a href="https://video.hket.com/srvv031-2/童學園"&gt;
-&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/054002.png);"&gt;&lt;/div&gt;
-&lt;span&gt;童學園&lt;/span&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="3974369" data-content-type="EGC" data-formaltag="教育,教育議題,升中派位,辦學機構,中學" data-length="268" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/3974369/hls/3974369_1751624846260.m3u8" data-rel="3974369" data-source="054" data-thumbnail="CMS_THUMB.jpg" data-videoid="3974369" data-videoprogram="童學園" data-videopublishdate="2025-07-06" data-videosection="童學園,童學園" data-videotitle="升中派位｜中一派位結果7.8出爐若失落心儀中學　必睇叩門攻略最強天書" data-videotype="video" id="player-3972019-3974369"&gt;&lt;/video&gt;
-&lt;div class="listing-title"&gt;
-&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/3974369" title="升中派位｜中一派位結果7.8出爐若失落心儀中學　必睇叩門攻略最強天書"&gt;升中派位｜中一派位結果7.8出爐若失落心儀中學　必睇叩門攻略最強天書&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://topick.hket.com/article/3972019/%E5%8D%B1%E9%9A%AA%E8%A1%8C%E7%82%BA%EF%BD%9C%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%B7%A5%E5%9C%B0%E3%80%8C%E9%9D%B6%E5%A0%B4%E3%80%8D%E6%94%9C%E5%BC%93%E7%B7%B4%E5%B0%84%E7%AE%AD%E3%80%80%E7%B6%B2%E6%B0%91%E6%86%82%E5%BF%83%E5%8D%B1%E9%9A%AA%EF%BC%9A%E6%9C%89%E4%BA%BA%E8%B7%AF%E9%81%8E%E9%9A%A8%E6%99%82%E4%B8%AD%E7%AE%AD?mtc=20023"/><published>2025-07-12T10:33:00+08:00</published></entry><entry><id>https://inews.hket.com/article/3977847/%E7%BE%8E%E5%9C%8B%E6%B8%9B%E6%81%AF%EF%BD%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%B7%E8%AA%BF%E4%B8%8D%E6%9C%83%E8%A7%A3%E5%83%B1%E9%AE%91%E5%A8%81%E7%88%BE%E3%80%80%E4%BD%86%E5%86%8D%E6%AC%A1%E7%8B%A0%E6%89%B9%E5%85%B6%E5%B7%A5%E4%BD%9C%E8%A1%A8%E7%8F%BE%E3%80%8C%E9%9D%9E%E5%B8%B8%E7%B3%9F%E7%B3%95%E3%80%8D?mtc=20023</id><title>美國減息｜特朗普強調不會解僱鮑威爾　但再次狠批其工作表現「非常糟糕」</title><updated>2025-07-12T10:38:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://news.hket.com/article/3977877/%E7%9B%9B%E4%BA%8B%E7%B6%93%E6%BF%9F%EF%BD%9C%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%94%BF%E7%B8%BD%E6%99%A4%E6%AD%90%E9%99%BD%E8%90%AC%E6%88%90%E3%80%80%E8%AE%9A%E5%85%B6%E6%BC%94%E5%87%BA%E5%B1%95%E7%8F%BE%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8C%85%E5%AE%B9%E8%88%87%E6%B4%BB%E5%8A%9B?mtc=20023"/><published>2025-07-12T13:02:00+08:00</published></entry><entry><id>https://inews.hket.com/article/3977878/%E9%97%9C%E7%A8%85%E6%88%B0%EF%BD%9C%E7%BE%8E%E5%9C%8B%E7%A6%81%E9%9A%A8%E9%8A%B3%E5%9C%8B%E9%9A%9B%E6%94%B6%E8%B3%BC%E5%BD%B1%E9%9F%B3%E8%A8%AD%E5%82%99%E5%95%86%E3%80%80%E6%8C%87%E4%BA%A4%E6%98%93%E6%8F%90%E5%8D%87%E5%9C%8B%E5%AE%89%E9%A2%A8%E9%9A%AA?mtc=20023</id><title>關稅戰｜美國禁隨銳國際收購影音設備商　指交易提升國安風險</title><updated>2025-07-12T13:02:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-07-12T10:38:00+08:00 Updated on: 2025-07-12T10:41:43.431+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-07-12T13:02:00+08:00 Updated on: 2025-07-12T13:02:48.829+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;美國總統特朗普經常在社交平台和公開發言上批評聯儲局主席鮑威爾，指他不肯作出減息行動，更稱其為「太遲先生」（Mr Too Late），令外界傳出鮑威爾或有機會未能工作至明年6月任期結束。但特朗普最新被問及會否解僱鮑威爾時，卻再次否認。&lt;/p&gt;&lt;h2&gt;重申聯儲局應該減息&lt;/h2&gt;&lt;p&gt;特朗普雖然聲稱不會解僱鮑威爾，他再次形容鮑威爾工作表現「糟糕」，又重申聯儲局要再減息3厘。&lt;/p&gt;&lt;p&gt;但特朗普管治團隊仍在不斷對鮑威爾作出批評，最新有美國管理與預算辦公室主任沃特（Russell Vought），質疑聯儲局斥資數十億美元對其華盛頓特區辦公室進行奢華翻新。「為何會有屋頂露台、通往VIP餐廳的定制電梯、白色大理石裝飾，甚至私人藝術收藏？」&lt;/p&gt;&lt;p&gt;鮑威爾其後回應，翻新後沒有VIP餐廳。沒有新的大理石。「我們把舊的大理石拆了，正在重新裝上去。有些舊大理石破損的地方，得用新的。但是沒有專用電梯，只有以前用過的舊電梯。沒有新的水景露台，也沒有花園露台。」&lt;/p&gt;
+&lt;p&gt;美國財政部旗下外國投資委員會（CFIUS）周五（11日）公布，發現香港公司隨銳國際（Suirui International）對美國國家安全構成風險，總統特朗普下令阻止其收購影音設備供應商Jupiter Systems，並要求隨銳國際120天內出售該公司。&lt;/p&gt;&lt;h2&gt;隨銳國際在本港註冊&lt;/h2&gt;&lt;p&gt;美國財政部在聲明中表示，美國外國投資委員會審查並調查了這筆交易，並認定隨銳國際對Jupiter Systems的所有權構成國家安全風險，主要由於Jupiter Systems的產品可用於軍事和關鍵基礎設施環境，可能令國家安全風險提升。&lt;/p&gt;&lt;p&gt;財政部又稱，隨銳國際是一家根據中國法律組成的雲端通訊服務企業公司。資料顯示，隨銳國際在本港註冊，集團總部隨銳科技則位於北京。&lt;/p&gt;&lt;h2&gt;兩間公司5年前已達成收購協議&lt;/h2&gt;&lt;p&gt;雖然兩間公司在2020年初已達成收購協議，惟美國現時命令要求隨銳國際在120天內出售Jupiter Systems，從這家美國公司撤資，以確保後者不受中國政府影響。&lt;/p&gt;&lt;p&gt;Jupiter Systems表示，已獲悉該命令，並正在與法律顧問和利益相關者協商，積極審查該決定。該公司補預計在案件裁決期間，公司業務不會受到任何干擾。&lt;/p&gt;&lt;p&gt;中國駐美大使館未有回應傳媒查詢。&lt;/p&gt;
 &lt;div class="listing-widget-126"&gt;
 &lt;div class="video-channel-info"&gt;
 &lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
@@ -111,24 +68,26 @@
 &lt;span&gt;財經Hot Talk&lt;/span&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="3976305" data-content-type="EGC" data-formaltag="時事,時事議題,貿易戰,實體詞,人物,特朗普,投資,股票,港股,美股" data-length="89" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/3976305/hls/3976305_1752115172936.m3u8" data-rel="3976305" data-source="051" data-thumbnail="20250709_1min_Trump.jpg" data-videoid="3976305" data-videoprogram="財經Hot Talk" data-videopublishdate="2025-07-09" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="特朗普展現「做刁的藝術」　市場突然不怕關稅戰？" data-videotype="video" id="player-3977847-3976305"&gt;&lt;/video&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="3976305" data-content-type="EGC" data-formaltag="時事,時事議題,貿易戰,實體詞,人物,特朗普,投資,股票,港股,美股" data-length="89" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/3976305/hls/3976305_1752115172936.m3u8" data-rel="3976305" data-source="051" data-thumbnail="20250709_1min_Trump.jpg" data-videoid="3976305" data-videoprogram="財經Hot Talk" data-videopublishdate="2025-07-09" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="特朗普展現「做刁的藝術」　市場突然不怕關稅戰？" data-videotype="video" id="player-3977878-3976305"&gt;&lt;/video&gt;
 &lt;div class="listing-title"&gt;
 &lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/3976305" title="特朗普展現「做刁的藝術」　市場突然不怕關稅戰？"&gt;特朗普展現「做刁的藝術」　市場突然不怕關稅戰？&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/3977847/%E7%BE%8E%E5%9C%8B%E6%B8%9B%E6%81%AF%EF%BD%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%B7%E8%AA%BF%E4%B8%8D%E6%9C%83%E8%A7%A3%E5%83%B1%E9%AE%91%E5%A8%81%E7%88%BE%E3%80%80%E4%BD%86%E5%86%8D%E6%AC%A1%E7%8B%A0%E6%89%B9%E5%85%B6%E5%B7%A5%E4%BD%9C%E8%A1%A8%E7%8F%BE%E3%80%8C%E9%9D%9E%E5%B8%B8%E7%B3%9F%E7%B3%95%E3%80%8D?mtc=20023"/><published>2025-07-12T10:38:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3977237/%E6%9C%89%E5%9C%96%E6%9C%89%E5%8B%A2%EF%BD%9C%E7%BE%8E%E8%82%A1%E9%81%93%E6%8C%87%E5%9B%9E%E5%90%90279%E9%BB%9E%20HSI%E5%A4%9C%E6%9C%9F%E8%B7%8C72%E9%BB%9E%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023</id><title>有圖有勢｜美股道指回吐279點 HSI夜期跌72點（持續更新）</title><updated>2025-07-12T10:48:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3977237/%E6%9C%89%E5%9C%96%E6%9C%89%E5%8B%A2%EF%BD%9C%E7%BE%8E%E8%82%A1%E9%81%93%E6%8C%87%E5%9B%9E%E5%90%90279%E9%BB%9E%20HSI%E5%A4%9C%E6%9C%9F%E8%B7%8C72%E9%BB%9E%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023"/><published>2025-07-12T10:48:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3976319/%E9%99%B3%E5%A5%95%E8%BF%85%E9%83%AD%E5%AF%8C%E5%9F%8E%E5%BC%B5%E5%AD%B8%E5%8F%8B%E5%8A%A9%E6%94%BB%20%E2%80%8B%E2%80%8B%E6%BC%94%E5%94%B1%E6%9C%83%E7%B6%93%E6%BF%9F%E7%88%86%E7%99%BC%E2%80%8B%E2%80%8B%20%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6?mtc=20023</id><title>陳奕迅郭富城張學友助攻 ​​演唱會經濟爆發​​ 最大贏家</title><updated>2025-07-12T10:54:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3976319/%E9%99%B3%E5%A5%95%E8%BF%85%E9%83%AD%E5%AF%8C%E5%9F%8E%E5%BC%B5%E5%AD%B8%E5%8F%8B%E5%8A%A9%E6%94%BB%20%E2%80%8B%E2%80%8B%E6%BC%94%E5%94%B1%E6%9C%83%E7%B6%93%E6%BF%9F%E7%88%86%E7%99%BC%E2%80%8B%E2%80%8B%20%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6?mtc=20023"/><published>2025-07-12T10:54:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3977139/%E9%8C%AF%E9%81%8E%E8%80%80%E6%89%8D%20%E5%9C%8B%E6%B3%B0%E5%90%9B%E5%AE%89%20%E9%BB%9E%E7%AE%97%E5%A5%BD%EF%BC%9F%EF%BC%88%E6%BD%9B%E5%8A%9B%E8%82%A1%E5%88%86%E6%9E%90%EF%BC%89?mtc=20023</id><title>錯過耀才 國泰君安 點算好？（潛力股分析）</title><updated>2025-07-12T10:55:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3977139/%E9%8C%AF%E9%81%8E%E8%80%80%E6%89%8D%20%E5%9C%8B%E6%B3%B0%E5%90%9B%E5%AE%89%20%E9%BB%9E%E7%AE%97%E5%A5%BD%EF%BC%9F%EF%BC%88%E6%BD%9B%E5%8A%9B%E8%82%A1%E5%88%86%E6%9E%90%EF%BC%89?mtc=20023"/><published>2025-07-12T10:55:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3977131/%E6%8B%8D%E8%B3%A3%E6%92%88%E7%AD%8D%E7%9B%A4%EF%BD%9C%E6%B7%B1%E5%9C%B3%E5%83%B9%E8%B2%B7%E5%88%B0%E6%B8%AF%E6%A8%93%EF%BC%81%20%E5%9D%AA%E6%B4%B2%E6%9D%91%E5%B1%8B%E4%B8%AD%E5%B1%A4%E6%88%B6%E3%80%8C%E5%85%A9%E7%90%83%E3%80%8D%E6%9C%89%E6%89%BE%20%E6%B2%99%E7%94%B0-151%E8%90%AC2%E6%88%BF%E6%9C%89%E8%A3%9D%E4%BF%AE%E8%B2%BB%E5%9B%9E%E8%B4%88?mtc=20023</id><title>拍賣撈筍盤｜深圳價買到港樓！ 坪洲村屋中層戶「兩球」有找 沙田$151萬2房有裝修費回贈</title><updated>2025-07-12T11:00:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3977131/%E6%8B%8D%E8%B3%A3%E6%92%88%E7%AD%8D%E7%9B%A4%EF%BD%9C%E6%B7%B1%E5%9C%B3%E5%83%B9%E8%B2%B7%E5%88%B0%E6%B8%AF%E6%A8%93%EF%BC%81%20%E5%9D%AA%E6%B4%B2%E6%9D%91%E5%B1%8B%E4%B8%AD%E5%B1%A4%E6%88%B6%E3%80%8C%E5%85%A9%E7%90%83%E3%80%8D%E6%9C%89%E6%89%BE%20%E6%B2%99%E7%94%B0-151%E8%90%AC2%E6%88%BF%E6%9C%89%E8%A3%9D%E4%BF%AE%E8%B2%BB%E5%9B%9E%E8%B4%88?mtc=20023"/><published>2025-07-12T11:00:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3581048/%E6%96%B0%E5%B1%85%E5%B1%8B%E8%A3%9D%E4%BF%AE%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BD%9C2025%E5%B9%B4%E8%BF%91%E8%90%AC%E6%88%B6%E5%85%A5%E4%BC%99%20%E8%A3%9D%E4%BF%AE%E5%83%B9%E9%8C%A2-20%E8%90%AC%E6%9C%89%E4%BA%A4%E6%98%93%20%EF%BC%88%E9%99%8410%E5%80%8B%E6%80%A7%E5%83%B9%E6%AF%94%E9%AB%98%E8%A3%9D%E4%BF%AE%E5%AF%A6%E4%BE%8B%EF%BC%89?mtc=20023</id><title>新居屋裝修懶人包｜居屋2024揀樓 居屋裝修費$20萬有交易（附10個性價比高裝修實例）</title><updated>2025-07-12T11:08:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3581048/%E6%96%B0%E5%B1%85%E5%B1%8B%E8%A3%9D%E4%BF%AE%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BD%9C2025%E5%B9%B4%E8%BF%91%E8%90%AC%E6%88%B6%E5%85%A5%E4%BC%99%20%E8%A3%9D%E4%BF%AE%E5%83%B9%E9%8C%A2-20%E8%90%AC%E6%9C%89%E4%BA%A4%E6%98%93%20%EF%BC%88%E9%99%8410%E5%80%8B%E6%80%A7%E5%83%B9%E6%AF%94%E9%AB%98%E8%A3%9D%E4%BF%AE%E5%AF%A6%E4%BE%8B%EF%BC%89?mtc=20023"/><published>2025-07-12T11:08:00+08:00</published></entry><entry><id>https://news.hket.com/article/3977874/%E7%B0%A1%E6%A8%B8%E6%88%BF%EF%BD%9C%E4%BD%95%E6%B0%B8%E8%B3%A2%E5%86%80%E6%A5%AD%E4%B8%BB%E6%96%BC%E6%A2%9D%E4%BE%8B%E5%AF%A6%E6%96%BD%E5%BE%8C4%E5%B9%B4%E5%85%A7%E5%AE%8C%E6%88%90%E5%8A%8F%E6%88%BF%E6%94%B9%E8%A3%9D%E3%80%80%E6%96%99%E7%B4%844%E6%88%90%E4%BA%BA%E4%B8%8D%E7%AC%A6%E7%94%B3%E8%AB%8B%E5%85%AC%E5%B1%8B%E8%B3%87%E6%A0%BC?mtc=20023</id><title>簡樸房｜何永賢冀業主於條例實施後4年內完成劏房改裝　料約4成人不符申請公屋資格</title><updated>2025-07-12T11:30:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-07-12T11:30:40.288+08:00 Updated on: 2025-07-12T11:30:40.288+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/3977878/%E9%97%9C%E7%A8%85%E6%88%B0%EF%BD%9C%E7%BE%8E%E5%9C%8B%E7%A6%81%E9%9A%A8%E9%8A%B3%E5%9C%8B%E9%9A%9B%E6%94%B6%E8%B3%BC%E5%BD%B1%E9%9F%B3%E8%A8%AD%E5%82%99%E5%95%86%E3%80%80%E6%8C%87%E4%BA%A4%E6%98%93%E6%8F%90%E5%8D%87%E5%9C%8B%E5%AE%89%E9%A2%A8%E9%9A%AA?mtc=20023"/><published>2025-07-12T13:02:00+08:00</published></entry><entry><id>https://news.hket.com/article/3977879/%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%EF%BD%9C%E9%81%8B%E8%BC%B8%E7%BD%B2%E7%B7%8A%E6%80%A5%E4%BA%8B%E6%95%85%E4%BA%A4%E9%80%9A%E5%8D%94%E8%AA%BF%E4%B8%AD%E5%BF%83%E5%8E%BB%E5%B9%B4%E8%99%95%E7%90%86%E9%80%BE7700%E5%AE%97%E4%BA%8B%E6%95%85%E3%80%80%E6%8C%89%E5%B9%B4%E5%A2%9E17-?mtc=20023</id><title>交通事故｜運輸署緊急事故交通協調中心去年處理逾7700宗事故　按年增17%</title><updated>2025-07-12T13:11:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-07-12T13:11:40.113+08:00 Updated on: 2025-07-12T13:11:40.113+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;立法會日前首讀及二讀《簡樸房條例草案》，當局建議明年3月開放登記和認證分間單位，設1年登記期及3年寬限期。房屋局局長何永賢今日（12日）在電台節目說，期望條例實施後4年內，劏房業主可完成劏房改裝，亦認為時間足夠。&lt;/p&gt;&lt;p&gt;何永賢指，即使業主日後不再經營分間單位，亦需要先登記，否則登記期過後，當局可提出檢控；還原單位需時，她呼籲業主及早登記，可獲認證費用「早鳥優惠」 &lt;br&gt;&lt;br&gt;政府建議就過渡性房屋新增「丙類租戶」，容許受簡樸房執法或改造工程影響，而未能覓得居所人士申請。被問到當局最多提供約4000個單位，能否應付需要，何永賢估計11萬劏房戶中，約有4成受規管影響，但不具申請公屋資格，當中約兩成半住戶的資產及入息超出上限，其中三分一居住環境惡劣，這批住戶能負擔例如同區獲認證「簡樸房」，認為當局預留4000多個過渡性房屋單位足夠。&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;&lt;p&gt;她說過渡性房屋甲乙丙三類的比例，會因應實際情況保持彈性，又強調不論公屋、過渡性房屋，以及簡約公屋，均主要是照顧香港人。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;運輸署在社交平台指，緊急事故交通協調中心去年處理逾7,700宗事故，較2023年約6,600宗增加17%。其中約一半是道路事故，如交通意外和壞車，其次是運輸服務受阻，佔32%。&lt;/p&gt;&lt;p&gt;署方指，協調中心以三級制運作，日常處理較輕微事件為第一級。若有颱風、嚴重道路或隧道事故等複雜或可能惡化的事件，則會提升至第二級，並加派跨專業人員應對。&lt;/p&gt;&lt;p&gt;遇有大型或跨區事件如新基建或重要運輸項目啓用、大型運動賽事、開學日等，就會升至最高第三級聯合督導模式運作。屆時，運輸署會與相關部門及運輸服務營辦商聯合督導和監察情況，有助即時溝通和決策。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://news.hket.com/article/3977874/%E7%B0%A1%E6%A8%B8%E6%88%BF%EF%BD%9C%E4%BD%95%E6%B0%B8%E8%B3%A2%E5%86%80%E6%A5%AD%E4%B8%BB%E6%96%BC%E6%A2%9D%E4%BE%8B%E5%AF%A6%E6%96%BD%E5%BE%8C4%E5%B9%B4%E5%85%A7%E5%AE%8C%E6%88%90%E5%8A%8F%E6%88%BF%E6%94%B9%E8%A3%9D%E3%80%80%E6%96%99%E7%B4%844%E6%88%90%E4%BA%BA%E4%B8%8D%E7%AC%A6%E7%94%B3%E8%AB%8B%E5%85%AC%E5%B1%8B%E8%B3%87%E6%A0%BC?mtc=20023"/><published>2025-07-12T11:30:00+08:00</published></entry><entry><id>https://inews.hket.com/article/3977875/%E9%A6%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8B%EF%BD%9C%E5%82%B3xAI%E8%A8%88%E5%8A%83%E6%96%B0%E4%B8%80%E8%BC%AA%E7%A7%81%E4%BA%BA%E9%9B%86%E8%B3%87%E3%80%80%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC%E6%88%96%E5%8D%87%E8%87%B32000%E5%84%84%E7%BE%8E%E5%85%83?mtc=20023</id><title>馬斯克旗下｜傳xAI計劃新一輪私人集資　公司估值或升至2000億美元</title><updated>2025-07-12T11:40:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-07-12T11:40:00+08:00 Updated on: 2025-07-12T11:54:33.936+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://news.hket.com/article/3977879/%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%EF%BD%9C%E9%81%8B%E8%BC%B8%E7%BD%B2%E7%B7%8A%E6%80%A5%E4%BA%8B%E6%95%85%E4%BA%A4%E9%80%9A%E5%8D%94%E8%AA%BF%E4%B8%AD%E5%BF%83%E5%8E%BB%E5%B9%B4%E8%99%95%E7%90%86%E9%80%BE7700%E5%AE%97%E4%BA%8B%E6%95%85%E3%80%80%E6%8C%89%E5%B9%B4%E5%A2%9E17-?mtc=20023"/><published>2025-07-12T13:11:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3976876/Grok4%E7%99%BB%E5%A0%B4%20%E6%B8%AF%E8%82%A1AI%E9%8F%88%E5%B8%83%E5%B1%80%E6%8C%87%E5%8D%97?mtc=20023</id><title>Grok4登場 港股AI鏈布局指南</title><updated>2025-07-12T13:28:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3976876/Grok4%E7%99%BB%E5%A0%B4%20%E6%B8%AF%E8%82%A1AI%E9%8F%88%E5%B8%83%E5%B1%80%E6%8C%87%E5%8D%97?mtc=20023"/><published>2025-07-12T13:28:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3477911/%E9%A6%99%E6%B8%AF%E5%A5%87%E6%A1%88%EF%BD%9C%E5%BA%B7%E6%80%A1%E3%80%8C%E7%83%B9%E5%A4%AB%E6%A1%88%E3%80%8D%E6%9C%AC%E6%B8%AF%E9%A6%96%E5%AE%97%E7%84%A1%E5%B1%8D%E5%91%BD%E6%A1%88%20%20%E6%9C%80%E7%8C%9B%E5%87%B6%E5%AE%85%E9%80%A3%E7%B4%AF%E5%85%A8%E5%BA%A7500%E6%88%B6%E6%A8%93%E5%83%B9?mtc=20023</id><title>香港奇案｜康怡「烹夫案」本港首宗無屍命案  最猛凶宅連累全座500戶樓價</title><updated>2025-07-12T13:46:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3477911/%E9%A6%99%E6%B8%AF%E5%A5%87%E6%A1%88%EF%BD%9C%E5%BA%B7%E6%80%A1%E3%80%8C%E7%83%B9%E5%A4%AB%E6%A1%88%E3%80%8D%E6%9C%AC%E6%B8%AF%E9%A6%96%E5%AE%97%E7%84%A1%E5%B1%8D%E5%91%BD%E6%A1%88%20%20%E6%9C%80%E7%8C%9B%E5%87%B6%E5%AE%85%E9%80%A3%E7%B4%AF%E5%85%A8%E5%BA%A7500%E6%88%B6%E6%A8%93%E5%83%B9?mtc=20023"/><published>2025-07-12T13:46:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3976804/%E5%84%AA%E6%83%A0%E6%83%85%E5%A0%B1%EF%BD%9C7-Eleven%E3%80%8C7.11%E3%80%8D%E5%A4%A7%E6%8A%98%E6%97%A5%E5%BB%B6%E9%95%B7%20%20%20%E4%BA%AB77%E6%8A%98%E6%89%A3%20H%C3%A4agen-Dazs%E9%9B%AA%E7%B3%95%E4%BD%8E%E8%87%B314.1%E5%85%83?mtc=20023</id><title>優惠情報｜7-Eleven「7.11」大折日延長   享77折扣 Häagen-Dazs雪糕低至14.1元</title><updated>2025-07-12T13:50:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3976804/%E5%84%AA%E6%83%A0%E6%83%85%E5%A0%B1%EF%BD%9C7-Eleven%E3%80%8C7.11%E3%80%8D%E5%A4%A7%E6%8A%98%E6%97%A5%E5%BB%B6%E9%95%B7%20%20%20%E4%BA%AB77%E6%8A%98%E6%89%A3%20H%C3%A4agen-Dazs%E9%9B%AA%E7%B3%95%E4%BD%8E%E8%87%B314.1%E5%85%83?mtc=20023"/><published>2025-07-12T13:50:00+08:00</published></entry><entry><id>https://inews.hket.com/article/3977881/%E9%97%9C%E7%A8%85%E6%88%B0%EF%BD%9C%E5%82%B3%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%88%96%E6%8A%BC%E5%BE%8C%E5%B0%8D%E7%BE%8E%E5%9C%8B%E9%8B%BC%E9%8B%81%E5%BE%B5%E5%A0%B1%E5%BE%A9%E6%80%A7%E9%97%9C%E7%A8%85%E3%80%80%E5%86%80%E8%88%87%E7%BE%8E%E5%9C%8B%E9%81%94%E6%88%90%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0?mtc=20023</id><title>關稅戰｜傳加拿大或押後對美國鋼鋁徵報復性關稅　冀與美國達成貿易協議</title><updated>2025-07-12T13:54:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-07-12T13:54:00+08:00 Updated on: 2025-07-12T13:55:08.266+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;特斯拉（美：TSLA）首席執行官馬斯克創辦的人工智能和社交媒體公司xAI，被傳出再次尋求新一輪100億美元的融資，公司估值可能會升至2000億美元（約1.57萬億港元）。但馬斯克其後否認傳聞，指公司現時資金充裕。&lt;/p&gt;&lt;h2&gt;xAI早前已募集100億美元&lt;/h2&gt;&lt;p&gt;xAI早前已募集100億美元，其中股債各半。但市場消息指，公司正在推進新一輪100億美元私人集資，若成功集資，即公司可獲200億美元資金。&lt;/p&gt;&lt;p&gt;如果完成今輪集資，xAI的估值可能高達2000億美元。但馬斯克隨即在社交平台X上發文指，「xAI目前不尋求融資。我們有充足的資&lt;br&gt;金。」&lt;br&gt;&lt;br&gt;值得留意的是，xAI集資的消息，選擇在其新模型Grok 4傳出。公司發布了 Grok 4 和 Grok 4 Heavy 模型，並有消息指，特斯拉最快於下周就將 Grok 整合至 Tesla 電動車的車載系統當中。&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;美國總統特朗普威脅將於8月1日起對加拿大產品徵收35%進口關稅後，加拿大總理卡尼在社交平台發交指，該國將爭取在美國實施新關稅稅率的8月1日期限前，與美國達成貿易協議。市場消息指，加拿大或押後原定針對鋼鋁50%報復性關稅的計劃。&lt;/p&gt;&lt;p&gt;卡尼回應特朗普早前威脅論，指加拿大將繼續保護工人和企業，同時加強同全球其他貿易夥伴的關係，並繼續在8月1日最後期限前與美國進行談判。他在社交平台X上發文提到，加拿大在打擊芬太尼方面已取得重要進展，並致力於相關問題與美國進行合作。&lt;/p&gt;&lt;p&gt;外媒報道指，加美同意談判期延至8月1日後，故傳出加拿大方面不會依照原有計劃、在7月21日起將針對鋼鋁的報復性關稅，提高至50%。&lt;/p&gt;&lt;p&gt;特朗普早前致卡尼的信中表示，芬太尼遠非美國與加拿大之間唯一問題，加拿大有許多關稅、非關稅以及政策和貿易壁壘，造成不可持續的對美貿易逆差&lt;/p&gt;&lt;p&gt;美國白宮貿易顧問稱，特朗普提及對加拿大徵收的35%關稅，不適用於符合《美墨加協定》的商品。&lt;/p&gt;
 &lt;div class="listing-widget-126"&gt;
 &lt;div class="video-channel-info"&gt;
 &lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
@@ -136,16 +95,54 @@
 &lt;span&gt;財經Hot Talk&lt;/span&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="3976305" data-content-type="EGC" data-formaltag="時事,時事議題,貿易戰,實體詞,人物,特朗普,投資,股票,港股,美股" data-length="89" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/3976305/hls/3976305_1752115172936.m3u8" data-rel="3976305" data-source="051" data-thumbnail="20250709_1min_Trump.jpg" data-videoid="3976305" data-videoprogram="財經Hot Talk" data-videopublishdate="2025-07-09" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="特朗普展現「做刁的藝術」　市場突然不怕關稅戰？" data-videotype="video" id="player-3977875-3976305"&gt;&lt;/video&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="3976305" data-content-type="EGC" data-formaltag="時事,時事議題,貿易戰,實體詞,人物,特朗普,投資,股票,港股,美股" data-length="89" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/3976305/hls/3976305_1752115172936.m3u8" data-rel="3976305" data-source="051" data-thumbnail="20250709_1min_Trump.jpg" data-videoid="3976305" data-videoprogram="財經Hot Talk" data-videopublishdate="2025-07-09" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="特朗普展現「做刁的藝術」　市場突然不怕關稅戰？" data-videotype="video" id="player-3977881-3976305"&gt;&lt;/video&gt;
 &lt;div class="listing-title"&gt;
 &lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/3976305" title="特朗普展現「做刁的藝術」　市場突然不怕關稅戰？"&gt;特朗普展現「做刁的藝術」　市場突然不怕關稅戰？&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/3977875/%E9%A6%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8B%EF%BD%9C%E5%82%B3xAI%E8%A8%88%E5%8A%83%E6%96%B0%E4%B8%80%E8%BC%AA%E7%A7%81%E4%BA%BA%E9%9B%86%E8%B3%87%E3%80%80%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC%E6%88%96%E5%8D%87%E8%87%B32000%E5%84%84%E7%BE%8E%E5%85%83?mtc=20023"/><published>2025-07-12T11:40:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3977846/%E6%90%B6%E7%A7%9F%E6%BD%AE-%EF%BD%9C%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%8D%80%E9%8C%84640%E5%AE%97%E7%A7%9F%20%E6%B5%B7%E6%82%85%E8%B1%AA%E5%9C%921%E6%88%BF1.88%E8%90%AC%E7%A7%9F%E5%87%BA%E8%B2%B4%E9%81%8E2%E6%88%BF?mtc=20023</id><title>搶租潮|｜將軍澳區錄640宗租 海悅豪園1房1.88萬租出貴過2房</title><updated>2025-07-12T12:01:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3977846/%E6%90%B6%E7%A7%9F%E6%BD%AE-%EF%BD%9C%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%8D%80%E9%8C%84640%E5%AE%97%E7%A7%9F%20%E6%B5%B7%E6%82%85%E8%B1%AA%E5%9C%921%E6%88%BF1.88%E8%90%AC%E7%A7%9F%E5%87%BA%E8%B2%B4%E9%81%8E2%E6%88%BF?mtc=20023"/><published>2025-07-12T12:01:00+08:00</published></entry><entry><id>https://topick.hket.com/article/2591706/%E6%80%A5%E7%97%87%E5%AE%A4%E6%9C%80%E9%95%B7%E7%AD%89%E5%80%99%E6%99%82%E9%96%93%EF%BC%8807%E6%9C%8812%E6%97%A5%20%E6%99%82%E9%96%9312:05%EF%BC%89?mtc=20023</id><title>急症室最長等候時間（07月12日 時間12:05）</title><updated>2025-07-12T12:05:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/3977881/%E9%97%9C%E7%A8%85%E6%88%B0%EF%BD%9C%E5%82%B3%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%88%96%E6%8A%BC%E5%BE%8C%E5%B0%8D%E7%BE%8E%E5%9C%8B%E9%8B%BC%E9%8B%81%E5%BE%B5%E5%A0%B1%E5%BE%A9%E6%80%A7%E9%97%9C%E7%A8%85%E3%80%80%E5%86%80%E8%88%87%E7%BE%8E%E5%9C%8B%E9%81%94%E6%88%90%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0?mtc=20023"/><published>2025-07-12T13:54:00+08:00</published></entry><entry><id>https://news.hket.com/article/3977884/%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%EF%BD%9C%E5%91%A8%E4%B8%80%E9%B3%B4%EF%BC%9A%E5%9C%8B%E5%AE%89%E9%A2%A8%E9%9A%AA%E4%BB%8D%E7%84%B6%E5%AD%98%E5%9C%A8%E4%B8%8D%E8%83%BD%E6%8E%89%E4%BB%A5%E8%BC%95%E5%BF%83%E3%80%80%E7%B1%B2%E5%B8%82%E6%B0%91%E5%B1%85%E5%AE%89%E6%80%9D%E5%8D%B1?mtc=20023</id><title>國家安全｜周一鳴：國安風險仍然存在不能掉以輕心　籲市民居安思危</title><updated>2025-07-12T14:21:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-07-12T12:05:00+08:00 Updated on: 2025-07-12T12:05:55.155+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-07-12T14:21:54.509+08:00 Updated on: 2025-07-12T14:21:54.509+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;警方早前拘捕「香港民主建國聯盟」4名成員，涉嫌散播危害國家安全訊息。警務處處長周一鳴今早（12日）出席警察學院結業會操，回應傳媒提問時表示，事件顯示國家安全風險仍然存在，不能因市面平靜而掉以輕心，要居安思危；警隊的主要責任是維護國家安全，國家安全亦是每個市民的責任。&lt;/p&gt;&lt;p&gt;對於藝人阮民安涉嫌盜竊，未有到庭應訊，並聲稱已離港。周一鳴批評阮民安行為羞恥，如果對方認為自己沒有罪，應該留港出庭。&lt;/p&gt;&lt;p&gt;近日網上流傳一些內地水上電單車非法入境香港，周一鳴指，水警和內地警方一直有緊密聯繫的，對水上安全、邊界、邊境的地方亦有緊密聯絡。警方繼續與內地警方聯繫，在水域交界位協作。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://news.hket.com/article/3977884/%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%EF%BD%9C%E5%91%A8%E4%B8%80%E9%B3%B4%EF%BC%9A%E5%9C%8B%E5%AE%89%E9%A2%A8%E9%9A%AA%E4%BB%8D%E7%84%B6%E5%AD%98%E5%9C%A8%E4%B8%8D%E8%83%BD%E6%8E%89%E4%BB%A5%E8%BC%95%E5%BF%83%E3%80%80%E7%B1%B2%E5%B8%82%E6%B0%91%E5%B1%85%E5%AE%89%E6%80%9D%E5%8D%B1?mtc=20023"/><published>2025-07-12T14:21:00+08:00</published></entry><entry><id>https://news.hket.com/article/3977886/%E9%BB%83%E7%89%9B%EF%BD%9C%E9%99%B3%E6%85%A7%E7%90%B3%E6%98%A8%E8%B5%B7%E7%B4%85%E9%A4%A8%E8%BE%A6%E6%BC%94%E5%94%B1%E6%9C%83%E3%80%80%E8%AD%A6%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E5%85%9C%E5%94%AE%E6%BC%94%E5%94%B1%E6%9C%83%E9%96%80%E7%A5%A8%E6%8B%985%E5%85%A7%E5%9C%B0%E7%94%B7?mtc=20023</id><title>黃牛｜陳慧琳昨起紅館辦演唱會　警打擊非法兜售演唱會門票拘5內地男</title><updated>2025-07-12T14:38:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-07-12T14:38:00+08:00 Updated on: 2025-07-12T16:19:15.656+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;「陳慧琳Season 2萬人結界演唱會」昨日（11日）至20日於紅磡香港體育館舉行，警方昨午於香港體育館一帶展開聯合拘捕行動，打擊非法兜售演唱會門票。&lt;br&gt;&lt;br&gt;行動中，人員共拘捕5名內地男子，年齡介乎38至61歲，涉嫌「違反逗留條件」。調查顯示，該批人士懷疑曾在場外以高價兜售演唱會門票。所有被捕人現正被扣留調查，稍後將交由相關部門跟進。&lt;/br&gt;&lt;/br&gt;&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://news.hket.com/article/3977886/%E9%BB%83%E7%89%9B%EF%BD%9C%E9%99%B3%E6%85%A7%E7%90%B3%E6%98%A8%E8%B5%B7%E7%B4%85%E9%A4%A8%E8%BE%A6%E6%BC%94%E5%94%B1%E6%9C%83%E3%80%80%E8%AD%A6%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E5%85%9C%E5%94%AE%E6%BC%94%E5%94%B1%E6%9C%83%E9%96%80%E7%A5%A8%E6%8B%985%E5%85%A7%E5%9C%B0%E7%94%B7?mtc=20023"/><published>2025-07-12T14:38:00+08:00</published></entry><entry><id>https://news.hket.com/article/3977892/%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96%EF%BD%9C%E7%B4%85%E9%9B%A8%E4%B8%8B%E5%9C%B0%E7%9B%A4%E5%A1%8C%E5%B7%A5%E5%AD%97%E9%90%B5%E5%A3%93%E6%96%83%E5%B7%A5%E4%BA%BA%E3%80%80%E5%AD%AB%E7%8E%89%E8%8F%A1%EF%BC%9A%E5%B0%87%E8%AA%BF%E6%9F%A5%E5%83%B1%E4%B8%BB%E6%9C%89%E5%90%A6%E5%81%9A%E8%B6%B3%E9%98%B2%E7%AF%84%E6%8E%AA%E6%96%BD?mtc=20023</id><title>工業意外｜紅雨下地盤塌工字鐵壓斃工人　孫玉菡：將調查僱主有否做足防範措施</title><updated>2025-07-12T15:14:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-07-12T15:14:00+08:00 Updated on: 2025-07-12T15:35:13.251+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;周四（10日）2時許紅雨期間，港珠澳大橋香港口岸人工島發生致命工業意外，意外中一名42歲男子死亡，勞工處已向有關承建商發出「暫時停工通知書」。勞工及福利局局長孫玉菡今日（12日）席電台節目後表示，僱主有法定責任確保提供一個安全的環境予工人施工，將調查僱主是否有做足防範措施。&lt;/p&gt;&lt;p&gt;孫玉菡指，如工人需在紅色暴雨警告下施工，要加倍小心，並要做好預防措施。當局將調查僱主有否做足應有的防範措施，確保將意外風險減到最低。&lt;/p&gt;&lt;p&gt;孫玉菡呼籲，現在是夏天，較多雨、多風，進行任何工序，尤其是戶外的需加以小心。勞工處已有清晰的指引，會針對風險加強巡查，及將這些信息傳給相關人士。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://news.hket.com/article/3977892/%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96%EF%BD%9C%E7%B4%85%E9%9B%A8%E4%B8%8B%E5%9C%B0%E7%9B%A4%E5%A1%8C%E5%B7%A5%E5%AD%97%E9%90%B5%E5%A3%93%E6%96%83%E5%B7%A5%E4%BA%BA%E3%80%80%E5%AD%AB%E7%8E%89%E8%8F%A1%EF%BC%9A%E5%B0%87%E8%AA%BF%E6%9F%A5%E5%83%B1%E4%B8%BB%E6%9C%89%E5%90%A6%E5%81%9A%E8%B6%B3%E9%98%B2%E7%AF%84%E6%8E%AA%E6%96%BD?mtc=20023"/><published>2025-07-12T15:14:00+08:00</published></entry><entry><id>https://inews.hket.com/article/3977894/%E7%BE%8E%E8%82%A1%E7%84%A6%E9%BB%9E%EF%BD%9C%E5%82%B3%E6%91%A9%E9%80%9A%E9%80%9A%E7%9F%A5%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E3%80%80%E7%8D%B2%E5%BE%97%E5%AE%A2%E6%88%B6%E6%95%B8%E6%93%9A%E6%93%AC%E9%9C%80%E8%A6%81%E4%BB%98%E8%B2%BB%E3%80%80%E9%87%91%E9%A1%8D%E6%88%96%E9%AB%98%E9%81%94%E6%95%B8%E5%84%84%E7%BE%8E%E5%85%83?mtc=20023</id><title>美股焦點｜傳摩通通知金融科技公司　獲得客戶數據擬需要付費　金額或高達數億美元</title><updated>2025-07-12T15:37:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-07-12T15:37:34.095+08:00 Updated on: 2025-07-12T15:37:34.095+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;市場消息指，摩根大通已通知連接銀行與金融科技公司的數據商，將對其訪問客戶銀行賬戶信息收取費用，相關費用可能高達數億美元。分析指，此舉可能顛覆整個金融科技行業現有商業模式。&lt;/p&gt;&lt;h2&gt;料PayPal和萬事達或因收費政策受壓&lt;/h2&gt;&lt;p&gt;摩通已向金融科技公司的數據聚合商發送價格表，列明新收費標準。收費金額將根據公司使用信息的方式而有所不同，與支付相關的企業需支付更高費用。故市場預期，PayPal（美：PYPL）和萬事達（美：MA）或因此會受到較大壓力。&lt;br&gt;&lt;br&gt;摩通發言人在聲明中表示，已進行過富有成效的溝通，並正與整個生態系統合作，確保在為保護客戶安全的基礎設施做出必要投資。他又指，該行已投入大量資源來建立一個能保護消費者數據的安全系統。&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;&lt;h2&gt;金融科技公司以往免費獲取數據&lt;/h2&gt;&lt;p&gt;相關費用預計將於今年較後時間候開始實施，但具體時間仍取決於一項政府法規的進展。另外，目前收費尚未確定，仍有協商空間。&lt;br&gt;&lt;br&gt;金融科技公司以往依賴訪問客戶銀行賬戶數據，相關收費將顯著改變其商業格局。除前述提及的Paypal及萬事達外，加密貨幣錢包&lt;br&gt;Coinbase甚至部分交易平台都依賴這些數據，使用戶能夠進行轉賬、收款和交易。以上公司以往通常可以免費獲取這些信息。&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="listing-widget-126"&gt;
+&lt;div class="video-channel-info"&gt;
+&lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
+&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/051008.png);"&gt;&lt;/div&gt;
+&lt;span&gt;財經Hot Talk&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="3976305" data-content-type="EGC" data-formaltag="時事,時事議題,貿易戰,實體詞,人物,特朗普,投資,股票,港股,美股" data-length="89" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/3976305/hls/3976305_1752115172936.m3u8" data-rel="3976305" data-source="051" data-thumbnail="20250709_1min_Trump.jpg" data-videoid="3976305" data-videoprogram="財經Hot Talk" data-videopublishdate="2025-07-09" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="特朗普展現「做刁的藝術」　市場突然不怕關稅戰？" data-videotype="video" id="player-3977894-3976305"&gt;&lt;/video&gt;
+&lt;div class="listing-title"&gt;
+&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/3976305" title="特朗普展現「做刁的藝術」　市場突然不怕關稅戰？"&gt;特朗普展現「做刁的藝術」　市場突然不怕關稅戰？&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/3977894/%E7%BE%8E%E8%82%A1%E7%84%A6%E9%BB%9E%EF%BD%9C%E5%82%B3%E6%91%A9%E9%80%9A%E9%80%9A%E7%9F%A5%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E3%80%80%E7%8D%B2%E5%BE%97%E5%AE%A2%E6%88%B6%E6%95%B8%E6%93%9A%E6%93%AC%E9%9C%80%E8%A6%81%E4%BB%98%E8%B2%BB%E3%80%80%E9%87%91%E9%A1%8D%E6%88%96%E9%AB%98%E9%81%94%E6%95%B8%E5%84%84%E7%BE%8E%E5%85%83?mtc=20023"/><published>2025-07-12T15:37:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3977893/%E7%B5%90%E6%A5%AD%E6%BD%AE%EF%BD%9C%E9%80%A3%E9%8E%96%E6%97%A5%E5%BC%8F%E9%A4%90%E5%BB%B3%E5%A4%A9%E4%B8%BC%E5%88%86%E5%BA%97%E7%B5%90%E6%A5%AD%20%20%E5%87%BA%E5%93%81%E5%85%B7%E6%80%A7%E5%83%B9%E6%AF%94%E4%B8%8D%E4%B9%8F%E6%8D%A7%E5%A0%B4%E5%AE%A2?mtc=20023</id><title>結業潮｜連鎖日式餐廳天丼分店結業  出品具性價比不乏捧場客</title><updated>2025-07-12T15:41:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3977893/%E7%B5%90%E6%A5%AD%E6%BD%AE%EF%BD%9C%E9%80%A3%E9%8E%96%E6%97%A5%E5%BC%8F%E9%A4%90%E5%BB%B3%E5%A4%A9%E4%B8%BC%E5%88%86%E5%BA%97%E7%B5%90%E6%A5%AD%20%20%E5%87%BA%E5%93%81%E5%85%B7%E6%80%A7%E5%83%B9%E6%AF%94%E4%B8%8D%E4%B9%8F%E6%8D%A7%E5%A0%B4%E5%AE%A2?mtc=20023"/><published>2025-07-12T15:41:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3976503/%E8%87%B3%E5%BC%B7%E6%94%B6%E7%A7%9F%E4%BD%AC%20%20%E5%A4%AA%E5%8F%A4%E5%9C%B0%E7%94%A2%E6%94%B6%E6%81%AF%E6%AD%A3?mtc=20023</id><title>至強收租佬  太古地產收息正</title><updated>2025-07-12T15:54:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3976503/%E8%87%B3%E5%BC%B7%E6%94%B6%E7%A7%9F%E4%BD%AC%20%20%E5%A4%AA%E5%8F%A4%E5%9C%B0%E7%94%A2%E6%94%B6%E6%81%AF%E6%AD%A3?mtc=20023"/><published>2025-07-12T15:54:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3977051/%E6%8A%97%E7%99%8C%E7%A5%9E%E8%97%A5%E5%A4%A7%E6%88%B0%20%E6%B8%AF%E8%82%A1%E6%9C%89%E9%9A%BB%E6%92%BC%E5%8B%95%E9%BB%98%E6%B2%99%E6%9D%B1%E7%9A%84%E6%96%B0%E8%97%A5%E7%8E%8B%EF%BC%9F?mtc=20023</id><title>抗癌神藥大戰 港股有隻撼動默沙東的新藥王？</title><updated>2025-07-12T15:54:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3977051/%E6%8A%97%E7%99%8C%E7%A5%9E%E8%97%A5%E5%A4%A7%E6%88%B0%20%E6%B8%AF%E8%82%A1%E6%9C%89%E9%9A%BB%E6%92%BC%E5%8B%95%E9%BB%98%E6%B2%99%E6%9D%B1%E7%9A%84%E6%96%B0%E8%97%A5%E7%8E%8B%EF%BC%9F?mtc=20023"/><published>2025-07-12T15:54:00+08:00</published></entry><entry><id>https://topick.hket.com/article/2591706/%E6%80%A5%E7%97%87%E5%AE%A4%E6%9C%80%E9%95%B7%E7%AD%89%E5%80%99%E6%99%82%E9%96%93%EF%BC%8807%E6%9C%8812%E6%97%A5%20%E6%99%82%E9%96%9316:05%EF%BC%89?mtc=20023</id><title>急症室最長等候時間（07月12日 時間16:05）</title><updated>2025-07-12T16:05:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-07-12T16:05:00+08:00 Updated on: 2025-07-12T16:05:17.249+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
 &lt;div class="table-wrapper"&gt;&lt;table bgcolor="#000000" border="1" cellpadding="5" cellspacing="1" style="border:solid #292929 medium" width="100%"&gt;
 &lt;tr&gt;&lt;th bgcolor="#0a5499" colspan="3" padding="5px" style="text-align: center;"&gt;&lt;font color="#fff"&gt;&lt;strong&gt;急症室最長等候時間&lt;/strong&gt;&lt;/font&gt;&lt;img align="right" alt="" height="auto" src="https://static04.hket.com/res/v3/dist/common/images/hket-logo-mmenu.png" style="max-width:100%; height:auto;" valign="bottom" width="50px"/&gt;&lt;/th&gt;&lt;/tr&gt;
@@ -164,23 +161,23 @@
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;灣仔&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;律敦治醫院&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 2 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 3 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr bgcolor="#32acd1"&gt;&lt;th align="left" colspan="3"&gt;&lt;font color="#000"&gt;&lt;strong&gt;九龍區&lt;/strong&gt;&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;葵涌&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;瑪嘉烈醫院&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 1 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 3 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;深水埗&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;明愛醫院&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;strong&gt;大約 1 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 2 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;旺角&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;廣華醫院&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 2 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 3 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;油麻地&lt;/strong&gt;&lt;/th&gt;
@@ -190,60 +187,60 @@
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;觀塘&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;基督教聯合醫院&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;strong&gt;大約 1 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 2 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr bgcolor="#32acd1"&gt;&lt;th align="left" colspan="3"&gt;&lt;font color="#000"&gt;&lt;strong&gt;新界區&lt;/strong&gt;&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;屯門&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;屯門醫院&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 2 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 1 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;天水圍&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;天水圍醫院&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;strong&gt;大約 1 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 2 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;元朗&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;博愛醫院&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 1 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 3 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;上水&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;北區醫院&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;strong&gt;大約 1 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 1 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;大埔&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;大埔那打素醫院&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 1 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 2 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;沙田&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;威爾斯親王醫院&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 5 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 3 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;荃灣&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;仁濟醫院&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 1 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 4 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;東涌&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;北大嶼山醫院&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;strong&gt;大約 1 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 2 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;長洲&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;長洲醫院&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;strong&gt;大約 1 小時&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;&lt;strong&gt;超過 1 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;
 &lt;th align="left" bgcolor="#e8e8e8" style="text-align: left;"&gt;&lt;strong&gt;將軍澳&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;將軍澳醫院&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align: center;"&gt;&lt;strong&gt;大約 1 小時&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
-&lt;tr bgcolor="#0a5499"&gt;&lt;th colspan="3"&gt;&lt;font color="#fff"&gt;資料來源：醫管局&lt;br&gt;最後更新：12/07/2025 12:00&lt;/br&gt;&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr bgcolor="#0a5499"&gt;&lt;th colspan="3"&gt;&lt;font color="#fff"&gt;資料來源：醫管局&lt;br&gt;最後更新：12/07/2025 16:00&lt;/br&gt;&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;
 &lt;tr bgcolor="#fff"&gt;&lt;td colspan="3"&gt;附註：&lt;br&gt;
 &lt;ol&gt;
 &lt;li&gt;上述數據是統計過去數小時的最長等候時間，只供參考，並非預計等候時間。&lt;/li&gt;
@@ -256,11 +253,4 @@
 &lt;/div&gt;
 &lt;div class="article-detail_extra-info"&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://topick.hket.com/article/2591706/%E6%80%A5%E7%97%87%E5%AE%A4%E6%9C%80%E9%95%B7%E7%AD%89%E5%80%99%E6%99%82%E9%96%93%EF%BC%8807%E6%9C%8812%E6%97%A5%20%E6%99%82%E9%96%9312:05%EF%BC%89?mtc=20023"/><published>2025-07-12T12:05:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3966290/%E3%80%8C%E7%85%99%E7%8E%8B%E3%80%8D%E6%80%9D%E6%91%A9%E7%88%BE%E4%BD%8E%E4%BD%8D%E5%8F%8D%E5%BD%883.5%E5%80%8D%20%E7%89%9B%E8%82%A1%E7%BF%BB%E7%94%9F%E7%9A%84%E5%89%8D%E5%A5%8F%EF%BC%9F?mtc=20023</id><title>「煙王」思摩爾低位反彈3.5倍 牛股翻生的前奏？</title><updated>2025-07-12T12:22:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3966290/%E3%80%8C%E7%85%99%E7%8E%8B%E3%80%8D%E6%80%9D%E6%91%A9%E7%88%BE%E4%BD%8E%E4%BD%8D%E5%8F%8D%E5%BD%883.5%E5%80%8D%20%E7%89%9B%E8%82%A1%E7%BF%BB%E7%94%9F%E7%9A%84%E5%89%8D%E5%A5%8F%EF%BC%9F?mtc=20023"/><published>2025-07-12T12:22:00+08:00</published></entry><entry><id>https://invest.hket.com/article/3977146/%E6%B8%AF%E5%85%83%E5%AE%9A%E5%AD%98%EF%BD%9C7%E9%8A%80%E8%A1%8C%E5%8A%A0%E5%AD%98%E6%81%AF%206.88%E5%8E%98%E8%87%B316%E5%8E%98%E6%81%AF%E4%BB%BB%E6%8F%80%20%EF%BC%88%E9%99%84%E5%85%A8%E6%B8%AF25%E9%96%93%E9%8A%80%E8%A1%8C%E6%81%AF%E7%8E%87%EF%BC%89?mtc=20023</id><title>收息鐵算 - 港元定存｜7銀行加存息 6.88厘至16厘息任揀 （附全港25間銀行息率）</title><updated>2025-07-12T12:22:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/3977146/%E6%B8%AF%E5%85%83%E5%AE%9A%E5%AD%98%EF%BD%9C7%E9%8A%80%E8%A1%8C%E5%8A%A0%E5%AD%98%E6%81%AF%206.88%E5%8E%98%E8%87%B316%E5%8E%98%E6%81%AF%E4%BB%BB%E6%8F%80%20%EF%BC%88%E9%99%84%E5%85%A8%E6%B8%AF25%E9%96%93%E9%8A%80%E8%A1%8C%E6%81%AF%E7%8E%87%EF%BC%89?mtc=20023"/><published>2025-07-12T12:22:00+08:00</published></entry><entry><id>https://news.hket.com/article/3977876/%E7%85%A7%E9%A1%A7%E8%80%85%EF%BD%9C%E5%AD%AB%E7%8E%89%E8%8F%A1%EF%BC%9A%E4%B8%8B%E5%91%A8%E4%B8%80%E8%B5%B7%E8%A9%A6%E8%A1%8C%E4%BD%8E%E6%94%B6%E5%85%A5%E7%85%A7%E9%A1%A7%E8%80%85%E5%85%A5%E9%99%A2%E6%94%AF%E6%8F%B4%E6%9C%8D%E5%8B%99%20%20%20%E9%97%9C%E6%84%9B%E9%9A%8A%E8%A7%80%E5%A1%98%E6%B2%99%E7%94%B0%E4%B8%8A%E9%96%80%E6%8E%A2%E9%95%B7%E8%80%85?mtc=20023</id><title>照顧者｜孫玉菡：下周一起試行低收入照顧者入院支援服務   關愛隊觀塘沙田上門探長者</title><updated>2025-07-12T12:27:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2025-07-12T12:27:59.77+08:00 Updated on: 2025-07-12T12:27:59.77+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;照顧者倫常慘劇近年時有發生，勞工及福利局局長孫玉菡今日（12日）表示，下周一起與醫管局合作落實試點計劃，若發現有領取低收入照顧者津貼人士入院，社署會接獲通知，安排暫託或上門送食物等服務。未來一至兩周亦會在觀塘和沙田區，試行由關愛隊上門探訪公屋單老和雙老住戶。 &lt;/p&gt;&lt;p&gt;孫玉菡在電台節目說，現時約有8000至9000人領取低收入照顧者津貼，相信有足夠資源應付；有關計劃只是第一步，不需要事先登記，如果運作暢順就有條件擴展。他強調計劃不涉病歷互通，希望建立動態高風險資料庫及時得知有需要的家庭出現變故或問題，並提供支援。&lt;/p&gt;&lt;p&gt;至於試行由關愛隊上門探訪單老和雙老住戶，孫玉菡指統計顯示有18萬單老和雙老公屋住戶，當中不足5%有聘用傭工，當局可為提供社區的支援網絡資訊等，亦會提供轉介服務。孫未正面回應需時多久能在試點探訪目標住戶，強調數量不少，不會等探訪完畢才推行至其他區，而是會邊做邊檢視成效。&lt;/p&gt;&lt;p&gt;另外，當局2023年9月推出照顧者支援熱線182183，至今接獲約9.5萬個來電，約四成是情緒支援。熱線至今轉介約1600宗個案到社福機構跟進。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://news.hket.com/article/3977876/%E7%85%A7%E9%A1%A7%E8%80%85%EF%BD%9C%E5%AD%AB%E7%8E%89%E8%8F%A1%EF%BC%9A%E4%B8%8B%E5%91%A8%E4%B8%80%E8%B5%B7%E8%A9%A6%E8%A1%8C%E4%BD%8E%E6%94%B6%E5%85%A5%E7%85%A7%E9%A1%A7%E8%80%85%E5%85%A5%E9%99%A2%E6%94%AF%E6%8F%B4%E6%9C%8D%E5%8B%99%20%20%20%E9%97%9C%E6%84%9B%E9%9A%8A%E8%A7%80%E5%A1%98%E6%B2%99%E7%94%B0%E4%B8%8A%E9%96%80%E6%8E%A2%E9%95%B7%E8%80%85?mtc=20023"/><published>2025-07-12T12:27:00+08:00</published></entry></feed>
+&lt;/div&gt;</content><link href="https://topick.hket.com/article/2591706/%E6%80%A5%E7%97%87%E5%AE%A4%E6%9C%80%E9%95%B7%E7%AD%89%E5%80%99%E6%99%82%E9%96%93%EF%BC%8807%E6%9C%8812%E6%97%A5%20%E6%99%82%E9%96%9316:05%EF%BC%89?mtc=20023"/><published>2025-07-12T16:05:00+08:00</published></entry><entry><id>https://ps.hket.com/article/3977897/%E4%BD%95%E6%96%87%E7%94%B0%E7%91%9C%E4%B8%80IC%E6%9C%9F%E9%80%A3%E6%B2%BD8%E4%BC%99%20%20%E5%90%B8%E9%87%91%E8%BF%911.2%E5%84%84%E5%85%83?mtc=20023</id><title>何文田瑜一IC期連沽8伙  吸金近1.2億元</title><updated>2025-07-12T16:11:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/3977897/%E4%BD%95%E6%96%87%E7%94%B0%E7%91%9C%E4%B8%80IC%E6%9C%9F%E9%80%A3%E6%B2%BD8%E4%BC%99%20%20%E5%90%B8%E9%87%91%E8%BF%911.2%E5%84%84%E5%85%83?mtc=20023"/><published>2025-07-12T16:11:00+08:00</published></entry></feed>
