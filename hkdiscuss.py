@@ -140,7 +140,7 @@ def fetch_feed(url, base_url, atom_file, title, subtitle, item_selector, link_se
         # Create feed entry
         entry = fg.add_entry()
         entry.id(hashlib.md5(entry_title.encode()).hexdigest())
-        entry.title(entry_title)
+        entry.title(sanitize_string(entry_title))  # Sanitize the title
         entry.link(href=thread_url)
         entry.published(pub_date)
         entry.updated(pub_date)
