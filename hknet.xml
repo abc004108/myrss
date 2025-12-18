@@ -1,12 +1,118 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080</id><title>HKET News Feed</title><updated>2025-12-18T10:08:33.206498+08:00</updated><link href="https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>Latest news</subtitle><entry><id>https://invest.hket.com/article/4054813/6.3%E5%8E%98%E6%81%AF%20%E7%B2%BE%E9%81%B8%E6%9C%89%E5%8D%87%E6%9C%89%E6%81%AF%E9%BB%91%E9%A6%AC?mtc=20023</id><title>收息鐵算 - 6.3厘息 精選有升有息黑馬</title><updated>2025-12-18T09:21:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4054813/6.3%E5%8E%98%E6%81%AF%20%E7%B2%BE%E9%81%B8%E6%9C%89%E5%8D%87%E6%9C%89%E6%81%AF%E9%BB%91%E9%A6%AC?mtc=20023"/><published>2025-12-18T09:21:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4055151/HSI%E8%81%96%E8%AA%95%E5%BF%AB%E6%A8%82Vs%E8%81%96%E8%AA%95%E5%BF%AB%E8%90%BD?mtc=20023</id><title>中字股實力談 - HSI聖誕快樂Vs聖誕快落</title><updated>2025-12-18T09:22:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4055151/HSI%E8%81%96%E8%AA%95%E5%BF%AB%E6%A8%82Vs%E8%81%96%E8%AA%95%E5%BF%AB%E8%90%BD?mtc=20023"/><published>2025-12-18T09:22:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4055659/%E6%B8%AF%E8%82%A1%E5%B8%82%E6%B3%81%EF%BD%9C%E6%81%92%E6%8C%87%E4%BD%8E%E9%96%8B137%E9%BB%9E%E3%80%80%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%B7%8C2-%E3%80%81%E5%95%86%E6%B9%AF%E8%B7%8C%E9%80%BE3-%E3%80%80%E4%B8%AD%E9%87%91%E5%BE%A9%E7%89%8C%E9%80%86%E5%B8%82%E5%8D%877-%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023</id><title>港股市況｜恒指低開137點　阿里巴巴跌2%、商湯跌逾3%　中金復牌逆市升7%（不斷更新）</title><updated>2025-12-18T09:24:00+08:00</updated><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080</id><title>HKET News Feed</title><updated>2025-12-18T12:39:22.662608+08:00</updated><link href="https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>Latest news</subtitle><entry><id>https://knowledge.hket.com/article/4055252/%E9%AB%98%E6%81%AFETF%E5%8F%AF%E4%BB%A5%E3%80%8C%E5%94%94%E9%AB%98%E6%81%AF%E3%80%8D?mtc=20023</id><title>高息ETF可以「唔高息」</title><updated>2025-12-18T11:58:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-12-18T09:24:13+08:00 Updated on: 2025-12-18T09:48:23.266+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-12-18T11:58:11+08:00 Updated on: 2025-12-18T11:53:17.786+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;【恒生指數/恆生指數/恒指/恆指/HSI/Hang Seng Index/港股/夜期/ADR】港股低開逾百點。恒生指數低開137點，開報25330點，成交27.8億元，科指跌1.1%，報5397點。阿里巴巴				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG09988/?mtc=20048"&gt;（09988）&lt;/a&gt;
-跌近2%，商湯				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00020/?mtc=20048"&gt;（00020）&lt;/a&gt;
-跌逾3%，中金公司				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG03908/?mtc=20048"&gt;（03908）&lt;/a&gt;
-復牌逆市升7%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;美股動態不斷更新，詳情請看：&lt;a href="https://inews.hket.com/article/4053879/?lcc=an" title="下一頁"&gt;下一頁&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;財經日誌：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;span class="article-detail_inline-image block"&gt;
+&lt;p&gt;坊間不時推介大家買高息ETF說可以「印印腳」等收錢。因為既不用花精神研究，又可以分散風險，而且好多更加標榜月月有息收作招徠。在預期低息環境下，的確好吸引。但是，月月高息未必等於高回報，以下三個關鍵要點，助你看清高息ETF有幾高息：&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;【hketPRO 聖誕獎賞】 訂閲 送「東薈城名店倉 x BIG HUGS 抱抱人特別版Venchi 聖誕迷你薄片巧克力禮盒」(價值$120)❗&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4055270?utm_content=4055252&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202512_Citygate_contentblock&amp;amp;utm_content=4055252&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4055270" title="【hketPRO 聖誕獎賞】訂閲 送「東薈城名店倉 x BIG HUGS 抱抱人特別版Venchi 聖誕迷你薄片巧克力禮盒」(價值$120)❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251128_Citygate_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251128_Citygate_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://knowledge.hket.com/article/4055252/%E9%AB%98%E6%81%AFETF%E5%8F%AF%E4%BB%A5%E3%80%8C%E5%94%94%E9%AB%98%E6%81%AF%E3%80%8D?mtc=20023"/><published>2025-12-18T11:58:00+08:00</published></entry><entry><id>https://ps.hket.com/article/4048818/%E6%96%B0%E7%9B%A4%E9%A9%97%E6%A8%93%EF%BD%9C%E6%9B%89%E6%9F%8F%E5%B3%B01%E6%88%BF%E6%9C%AA%E8%83%BD%E9%97%9C%E4%B8%8A%E8%B6%9F%E9%96%80%20%E7%AA%97%E6%88%B6%E5%B4%A9%E8%8A%B1-%E5%A4%96%E7%89%86%E6%AC%A0%E5%94%A7%E8%86%A0%E5%95%8F%E9%A1%8C%E6%99%AE%E9%81%8D?mtc=20023</id><title>新盤驗樓｜曉柏峰1房未能關上趟門 窗戶崩花+外牆欠唧膠問題普遍</title><updated>2025-12-18T12:00:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4048818/%E6%96%B0%E7%9B%A4%E9%A9%97%E6%A8%93%EF%BD%9C%E6%9B%89%E6%9F%8F%E5%B3%B01%E6%88%BF%E6%9C%AA%E8%83%BD%E9%97%9C%E4%B8%8A%E8%B6%9F%E9%96%80%20%E7%AA%97%E6%88%B6%E5%B4%A9%E8%8A%B1-%E5%A4%96%E7%89%86%E6%AC%A0%E5%94%A7%E8%86%A0%E5%95%8F%E9%A1%8C%E6%99%AE%E9%81%8D?mtc=20023"/><published>2025-12-18T12:00:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4055437/%E5%8D%B1%E9%9A%AA%E7%B6%93%E5%B7%B2%E5%9C%A8%E5%89%8D%E9%9D%A2%EF%BC%9F%20%E7%BE%8E%E8%82%A1%E7%8F%BE%E8%B6%85%E8%B2%B7%E8%A8%8A%E8%99%9F?mtc=20023</id><title>危險經已在前面？ 美股現超買訊號</title><updated>2025-12-18T12:01:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-12-18T12:01:53+08:00 Updated on: 2025-12-18T12:11:35.203+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;近日美銀發表了對美股基金經理的調查報告，顯示美股投資者的樂觀情緒持續升溫，但歷史新高的樂觀指標，似乎暗藏風險訊號。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;【hketPRO 聖誕獎賞】 訂閲 送「東薈城名店倉 x BIG HUGS 抱抱人特別版Venchi 聖誕迷你薄片巧克力禮盒」(價值$120)❗&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4055270?utm_content=4055437&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202512_Citygate_contentblock&amp;amp;utm_content=4055437&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4055270" title="【hketPRO 聖誕獎賞】訂閲 送「東薈城名店倉 x BIG HUGS 抱抱人特別版Venchi 聖誕迷你薄片巧克力禮盒」(價值$120)❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251128_Citygate_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251128_Citygate_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4055437/%E5%8D%B1%E9%9A%AA%E7%B6%93%E5%B7%B2%E5%9C%A8%E5%89%8D%E9%9D%A2%EF%BC%9F%20%E7%BE%8E%E8%82%A1%E7%8F%BE%E8%B6%85%E8%B2%B7%E8%A8%8A%E8%99%9F?mtc=20023"/><published>2025-12-18T12:01:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4055771/%E9%A6%99%E6%B8%AF%E8%88%AA%E7%A9%BA%EF%BD%9C%E9%A6%99%E6%B8%AF%E8%88%AA%E7%A9%BA%E8%88%87%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E7%B0%BD3%E5%B9%B4%E5%90%88%E4%BD%9C%E5%8D%94%E8%AD%B0%E3%80%80%E6%98%8E%E5%A4%A9%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%8E%A8%E3%80%8CPanda%20Friends%E3%80%8DA320%E4%B8%BB%E9%A1%8C%E5%AE%A2%E6%A9%9F?mtc=20023</id><title>香港航空｜香港航空與海洋公園簽3年合作協議　明天上半年推「Panda Friends」A320主題客機</title><updated>2025-12-18T12:02:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-12-18T12:02:05.379+08:00 Updated on: 2025-12-18T12:02:05.379+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;香港航空（Hong Kong Airlines）與海洋公園簽署為期3年的策略合作協議，是次合作將以一架飾有海洋公園「Panda Friends」IP主題的巨型塗裝A320客機揭開序幕，預計明年上半年投入服務。雙方將結合航空服務與世界級的旅遊娛樂體驗，向全球旅客展示香港的獨特魅力，為香港旅遊業的蓬勃發展注入強勁動力。&lt;/p&gt;&lt;h2&gt;「Panda Friends」客機化身為香港的「空中名片」&lt;/h2&gt;&lt;p&gt;香港航空總裁孫劍鋒表示，這架熊貓主題客機不僅是香港航空推廣香港旅遊的承諾，更象徵著集團致力為旅客創造兼具香港特色與情感連結的飛行體驗，期待透過航空的力量，將香港的魅力與熱情帶到世界各地。&lt;/p&gt;&lt;p&gt;他續指，「Panda Friends」客機屆時將飛往航線網絡內的大部分目的地，將化身為香港的「空中名片」，讓來自世界各地的旅客在踏足香港之前，就能在萬呎高空上率先感受熊貓寶寶的可愛風采，開啟一段難忘的旅程。&lt;/p&gt;&lt;h2&gt;龐建貽：令大熊貓成為國際旅遊大使&lt;/h2&gt;&lt;p&gt;海洋公園公司董事局主席龐建貽表示，海洋公園與香港航空開展合作，為「Panda Friends」知識產權IP角色系列創造非凡新里程，把海洋公園的使命帶上雲霄，同時令大熊貓成為國際旅遊大使，進一步擴大牠們在陸上累積的影響力，而且這項合作將提升全球對大熊貓保育的關注度，並啟發更多旅客探索海洋公園。&lt;/p&gt;&lt;p&gt;政府旅遊事務專員張馮泳萍表示，香港航空與海洋公園合作推出創新且具香港特色的「Panda Friends」主題客機，進一步把香港的城市活力與及大熊貓熱潮透過香港航空的飛行航線帶到世界各地。&lt;/p&gt;
+&lt;div class="listing-widget-126"&gt;
+&lt;div class="video-channel-info"&gt;
+&lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
+&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/051008.png);"&gt;&lt;/div&gt;
+&lt;span&gt;財經Hot Talk&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4054544" data-content-type="EGC" data-formaltag="消費,消費種類,科技產品,科技通訊,創新科技及應用,人工智能,實體詞,物業,雲端,市場交易,特殊目的收購公司（SPAC）,天體,月球,美國政府及法定機構,美國太空總署,品牌,Tesla,富豪,環保,環保措施,新能源,汽車,投資,投資產品,虛擬貨幣,網絡通訊,5G,股票,美股,科技硬件,數據中心,IPO,集資,SpaceX,人物,馬斯克" data-length="123" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4054544/hls/4054544_1765862742978.m3u8" data-rel="4054544" data-source="051" data-thumbnail="20251216_1min_SpaceX.jpg" data-videoid="4054544" data-videoprogram="財經Hot Talk" data-videopublishdate="2025-12-16" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="史上最巨型新股SpaceX擬上市  馬斯克「太空夢」值過萬億？" data-videotype="video" id="player-4055771-4054544"&gt;&lt;/video&gt;
+&lt;div class="listing-title"&gt;
+&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4054544" title="史上最巨型新股SpaceX擬上市  馬斯克「太空夢」值過萬億？"&gt;史上最巨型新股SpaceX擬上市  馬斯克「太空夢」值過萬億？&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;以熊貓主題客機揭幕  &lt;/p&gt;&lt;p&gt;合作首階段的焦點，無疑是全新的熊貓主題塗裝客機。機身設計巧妙融合了海洋公園深受歡迎的「Panda Friends」IP，當中包括在香港土生土長的大熊貓雙胞胎家姐「加加」和細佬「得得」角色。這架客機將不僅是交通工具，更是一位「空中保育大使」，承載著香港的動人故事與保育理念，飛向世界。雙方期望憑藉大熊貓的全球號召力及海洋公園的國際品牌聲譽，吸引更多家庭及年輕旅客訪港，深度體驗香港的多元文化與自然之美。&lt;/p&gt;&lt;p&gt;陸續推出多元化旅遊產品與市場推廣計劃&lt;/p&gt;&lt;p&gt;為讓旅客能更便捷地規劃行程，香港航空將與海洋公園聯手推出旅遊套票，提供極具吸引力的機票與門票組合優惠，讓旅客能夠輕鬆安排航班，實現與可愛大熊貓的「無縫銜接」探視之旅。&lt;/p&gt;&lt;p&gt;展望未來三年，雙方將持續探索更多創新合作模式，涵蓋聯合市場營銷、會員禮遇共享及社區回饋項目等，共同為提升香港作為國際旅遊樞紐的綜合吸引力作出貢獻，攜手推廣香港文旅發展。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4055771/%E9%A6%99%E6%B8%AF%E8%88%AA%E7%A9%BA%EF%BD%9C%E9%A6%99%E6%B8%AF%E8%88%AA%E7%A9%BA%E8%88%87%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E7%B0%BD3%E5%B9%B4%E5%90%88%E4%BD%9C%E5%8D%94%E8%AD%B0%E3%80%80%E6%98%8E%E5%A4%A9%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%8E%A8%E3%80%8CPanda%20Friends%E3%80%8DA320%E4%B8%BB%E9%A1%8C%E5%AE%A2%E6%A9%9F?mtc=20023"/><published>2025-12-18T12:02:00+08:00</published></entry><entry><id>https://knowledge.hket.com/article/4055124/%E6%B8%AF%E4%BA%BA%E8%A6%81%E6%9C%89%E5%B9%BE%E5%A4%9A%E9%8C%A2%C2%A0%20%E6%89%8D%E7%AE%97%E7%9C%9F%E6%AD%A3%E3%80%8C%E5%AF%8C%E7%BF%81%E3%80%8D%EF%BC%9F?mtc=20023</id><title>港人要有幾多錢  才算真正「富翁」？</title><updated>2025-12-18T12:04:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-12-18T12:04:10+08:00 Updated on: 2025-12-18T12:04:11.924+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;「千萬富翁」顧名思義當然要有1,000萬元或以上的資產，不過金融界定義卻顛覆你我認知，原來總資產有逾1,000萬元，都唔代表你已晉身「千萬富翁俱樂部」的一員，至少你還要符合多一樣要求！這要求當然也是「錢」。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;【hketPRO 聖誕獎賞】 訂閲 送「東薈城名店倉 x BIG HUGS 抱抱人特別版Venchi 聖誕迷你薄片巧克力禮盒」(價值$120)❗&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4055270?utm_content=4055124&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202512_Citygate_contentblock&amp;amp;utm_content=4055124&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4055270" title="【hketPRO 聖誕獎賞】訂閲 送「東薈城名店倉 x BIG HUGS 抱抱人特別版Venchi 聖誕迷你薄片巧克力禮盒」(價值$120)❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251128_Citygate_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251128_Citygate_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://knowledge.hket.com/article/4055124/%E6%B8%AF%E4%BA%BA%E8%A6%81%E6%9C%89%E5%B9%BE%E5%A4%9A%E9%8C%A2%C2%A0%20%E6%89%8D%E7%AE%97%E7%9C%9F%E6%AD%A3%E3%80%8C%E5%AF%8C%E7%BF%81%E3%80%8D%EF%BC%9F?mtc=20023"/><published>2025-12-18T12:04:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4055659/%E6%B8%AF%E8%82%A1%E5%B8%82%E6%B3%81%EF%BD%9C%E6%81%92%E6%8C%87%E5%8D%8A%E6%97%A5%E8%B7%8C111%E9%BB%9E%E3%80%80%E6%BB%99%E8%B1%90%E9%9D%A0%E7%A9%A9%E6%9B%BE%E7%A0%B4%E9%A0%82%E3%80%80%E5%B0%8F%E7%B1%B3%E3%80%81%E5%95%86%E6%B9%AF%E8%B7%8C%E9%80%BE3-%E3%80%80%E6%B3%A1%E6%B3%A1%E7%91%AA%E7%89%B9%E8%B7%8C%E9%80%BE2-%E3%80%80%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023</id><title>港股市況｜恒指半日跌111點　滙豐靠穩曾破頂　小米、商湯跌逾3%　泡泡瑪特跌逾2%　（不斷更新）</title><updated>2025-12-18T12:04:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-12-18T12:04:10+08:00 Updated on: 2025-12-18T12:04:51.084+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;【恒生指數/恆生指數/恒指/恆指/HSI/Hang Seng Index/港股/夜期/ADR】港股半日跌百點。恒生指數低開137點，開報25330點，早段一度倒升，其後再度向下，恒生指數半日跌111點，報25357點，成交790.7億元，科指跌1.3%，報5389點。阿里巴巴				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG09988/?mtc=20048"&gt;（09988）&lt;/a&gt;
+跌逾1%，小米				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01810/?mtc=20048"&gt;（01810）&lt;/a&gt;
+跌逾3%，商湯				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00020/?mtc=20048"&gt;（00020）&lt;/a&gt;
+跌逾3%，泡泡瑪特				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG09992/?mtc=20048"&gt;（09992）&lt;/a&gt;
+跌逾2%，滙豐				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00005/?mtc=20048"&gt;（00005）&lt;/a&gt;
+逆市靠穩升0.3%曾破頂，中金				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG03908/?mtc=20048"&gt;（03908）&lt;/a&gt;
+升逾3%，三大內航股升逾3%至4%破頂。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;美股動態不斷更新，詳情請看：&lt;a href="https://inews.hket.com/article/4053879/?lcc=an" title="下一頁"&gt;下一頁&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;財經日誌：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;span class="article-detail_inline-image block"&gt;
 &lt;picture class="image-gallery-img"&gt;
 &lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055659/a47bd241-ed5d-4f8e-a1be-5de8194f798f_1200.jpg" media="(min-width: 1200px)"/&gt;
 &lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055659/a47bd241-ed5d-4f8e-a1be-5de8194f798f_600.jpg" media="(min-width: 992px)"/&gt;
@@ -17,7 +123,16 @@
 &lt;/picture&gt;
 &lt;/span&gt;
 &lt;span class="article-detail_caption block"&gt;&lt;span&gt;▲&lt;/span&gt; 財經日誌&lt;/span&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;即市走勢：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;【09：47】長飛光纖光纜				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG06869/?mtc=20048"&gt;（06869）&lt;/a&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;即市走勢：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;【12：02】恒生指數半日跌111點，報25357點，成交790.7億元，科指跌1.3%，報5389點。阿里巴巴				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG09988/?mtc=20048"&gt;（09988）&lt;/a&gt;
+跌逾1%，小米				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01810/?mtc=20048"&gt;（01810）&lt;/a&gt;
+跌逾3%，商湯				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00020/?mtc=20048"&gt;（00020）&lt;/a&gt;
+跌逾3%，泡泡瑪特				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG09992/?mtc=20048"&gt;（09992）&lt;/a&gt;
+跌逾2%，滙豐				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00005/?mtc=20048"&gt;（00005）&lt;/a&gt;
+逆市靠穩升0.3%曾破頂，中金				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG03908/?mtc=20048"&gt;（03908）&lt;/a&gt;
+升逾3%，三大內航股升逾3%至4%破頂。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;【12：02】&lt;a href="https://inews.hket.com/article/4055771/?lcc=an" title="香港航空｜香港航空與海洋公園簽3年合作協議　明天上半年推「Panda Friends」A320主題客機"&gt;香港航空｜香港航空與海洋公園簽3年合作協議　明天上半年推「Panda Friends」A320主題客機&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【11：58】&lt;a href="https://inews.hket.com/article/4055756/?lcc=an" title="內航股分析｜三大內航股逆市起飛破頂　分析：炒定農曆新年機票銷售表現　最睇好邊度中資航空股？"&gt;內航股分析｜三大內航股逆市起飛破頂　分析：炒定農曆新年機票銷售表現　最睇好邊度中資航空股？&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【11：51】恒指中午收市前跌約100點。&lt;/p&gt;&lt;p&gt;【11：51】&lt;a href="https://inews.hket.com/article/4055762/?lcc=an" title="芯片大戰｜中國版「曼哈頓計劃」　路透：中國製造出EUV光刻機原型機"&gt;芯片大戰｜中國版「曼哈頓計劃」　路透：中國製造出EUV光刻機原型機&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【11：34】&lt;a href="https://inews.hket.com/article/4055753/?lcc=an" title="小米1810｜雷軍：下周發布小米17 Ultra　與Leica合作升級、引「戰略共創模式」"&gt;小米1810｜雷軍：下周發布小米17 Ultra　與Leica合作升級、引「戰略共創模式」&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【11：25】&lt;a href="https://inews.hket.com/article/4055745/?lcc=an" title="9992｜泡泡瑪特股價跌3%　市場繼續擔心Labubu「崩盤」"&gt;9992｜泡泡瑪特股價跌3%　市場繼續擔心Labubu「崩盤」&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【11：07】&lt;a href="https://inews.hket.com/article/4055731/?lcc=an" title="港股分析｜恒指低開137點後反覆偏軟　分析：年底前宜輕倉、明年睇好甚麼主題？"&gt;港股分析｜恒指低開137點後反覆偏軟　分析：年底前宜輕倉、明年睇好甚麼主題？&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【10：46】大市再度回軟，恒指最新跌約60點，報25408點，成交589億元，科指跌1.1%，報5401點。&lt;/p&gt;&lt;p&gt;【10：42】&lt;a href="https://inews.hket.com/article/4055721/?lcc=an" title="9988｜阿里巴巴千問APP首個阿里生態場景為高德　能調用高德地圖、掃街榜等即時生成建議"&gt;9988｜阿里巴巴千問APP首個阿里生態場景為高德　能調用高德地圖、掃街榜等即時生成建議&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【10：42】周大福				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01929/?mtc=20048"&gt;（01929）&lt;/a&gt;
+跌逾2%，低見12.26元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://inews.hket.com/article/4055719/?lcc=an" title="1929｜周大福定價黃金產品據報再加價　今年來第三次"&gt;1929｜周大福定價黃金產品據報再加價　今年來第三次&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【10：32】&lt;a href="https://inews.hket.com/article/4055700/?lcc=an" title="新股IPO｜化妝品公司林清軒2657招股集10.9億　一手入場費3927.72元　引入富達等7基投"&gt;新股IPO｜化妝品公司林清軒2657招股集10.9億　一手入場費3927.72元　引入富達等7基投&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【10：25】滙豐				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00005/?mtc=20048"&gt;（00005）&lt;/a&gt;
+升0.9%，高見118.8元破頂。&lt;/p&gt;&lt;p&gt;&lt;a href="https://inews.hket.com/article/4055472/?lcc=an" title="HSBC｜滙豐CEO艾橋智傳明年初暫坐鎮香港　親自督師恒生私有化？"&gt;HSBC｜滙豐CEO艾橋智傳明年初暫坐鎮香港　親自督師恒生私有化？&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【10：24】泡泡瑪特				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG09992/?mtc=20048"&gt;（09992）&lt;/a&gt;
+跌逾1%，低見190元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://inews.hket.com/article/4055268/?lcc=an" title="9992大行報告｜德銀：Labubu熱潮退燒　將重演Hello Kitty的相似命運？"&gt;9992大行報告｜德銀：Labubu熱潮退燒　將重演Hello Kitty的相似命運？&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【10：22】恒指最新轉升約32點，回升至25500點關口。&lt;/p&gt;&lt;p&gt;【10：18】大市跌幅顯著收窄，恒指最新跌約10點。&lt;/p&gt;&lt;p&gt;【09：47】長飛光纖光纜				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG06869/?mtc=20048"&gt;（06869）&lt;/a&gt;
 股價逆市再升半成，早段高見49.8元。&lt;/p&gt;&lt;p&gt;【09：46】&lt;a href="https://inews.hket.com/article/4055679/?lcc=an" title="新股IPO｜臥安機器人6600招股集資最多18億元　一手入場費8182元"&gt;新股IPO｜臥安機器人6600招股集資最多18億元　一手入場費8182元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;【09：22】恒生指數低開137點，開報25330點，成交27.8億元，科指跌1.1%，報5397點。阿里巴巴				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG09988/?mtc=20048"&gt;（09988）&lt;/a&gt;
 跌近2%，商湯				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00020/?mtc=20048"&gt;（00020）&lt;/a&gt;
 跌逾3%，中金公司				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG03908/?mtc=20048"&gt;（03908）&lt;/a&gt;
@@ -240,112 +355,106 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/4055659/%E6%B8%AF%E8%82%A1%E5%B8%82%E6%B3%81%EF%BD%9C%E6%81%92%E6%8C%87%E4%BD%8E%E9%96%8B137%E9%BB%9E%E3%80%80%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%B7%8C2-%E3%80%81%E5%95%86%E6%B9%AF%E8%B7%8C%E9%80%BE3-%E3%80%80%E4%B8%AD%E9%87%91%E5%BE%A9%E7%89%8C%E9%80%86%E5%B8%82%E5%8D%877-%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023"/><published>2025-12-18T09:24:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4051593/%E4%BA%BA%E5%88%B040%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF%20%20%20%E8%87%AA%E5%BB%BA%E4%BA%BA%E7%94%9F%E8%AD%B7%E5%9F%8E%E6%B2%B3?mtc=20023</id><title>人到40的天花板   自建人生護城河</title><updated>2025-12-18T09:27:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4051593/%E4%BA%BA%E5%88%B040%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF%20%20%20%E8%87%AA%E5%BB%BA%E4%BA%BA%E7%94%9F%E8%AD%B7%E5%9F%8E%E6%B2%B3?mtc=20023"/><published>2025-12-18T09:27:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4055289/Taylor%20Swift%E7%9A%84%E3%80%8C%E9%87%91%E6%9B%B2%E9%8C%A2%E6%B5%B7%E3%80%8D%EF%BC%9A3.6%E5%84%84%E7%BE%8E%E5%85%83%E7%8B%82%E8%B3%BA%20%20%E9%A6%99%E6%B8%AF%E8%97%9D%E4%BA%BA%E6%8A%84%E5%BE%97%E6%8E%82%E5%97%8E%EF%BC%9F?mtc=20023</id><title>Taylor Swift的「金曲錢海」：3.6億美元狂賺  香港藝人抄得掂嗎？</title><updated>2025-12-18T09:35:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4055659/%E6%B8%AF%E8%82%A1%E5%B8%82%E6%B3%81%EF%BD%9C%E6%81%92%E6%8C%87%E5%8D%8A%E6%97%A5%E8%B7%8C111%E9%BB%9E%E3%80%80%E6%BB%99%E8%B1%90%E9%9D%A0%E7%A9%A9%E6%9B%BE%E7%A0%B4%E9%A0%82%E3%80%80%E5%B0%8F%E7%B1%B3%E3%80%81%E5%95%86%E6%B9%AF%E8%B7%8C%E9%80%BE3-%E3%80%80%E6%B3%A1%E6%B3%A1%E7%91%AA%E7%89%B9%E8%B7%8C%E9%80%BE2-%E3%80%80%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023"/><published>2025-12-18T12:04:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4055775/%E5%A4%96%E8%B3%87%E6%93%B4%E5%85%85%EF%BD%9C%E8%8B%B1%E6%8A%95%E8%B3%87%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8QRT%E6%89%BF%E7%A7%9F%E5%9C%8B%E9%87%91%E4%B8%AD%E5%BF%832%E6%9C%9F6%E5%B1%A4%E9%80%BE14%E8%90%AC%E5%91%8E%E6%A8%93%E9%9D%A2%E3%80%80%E9%85%8D%E5%90%88%E4%BA%9E%E5%A4%AA%E5%8D%80%E6%A5%AD%E5%8B%99%E8%BF%85%E9%80%9F%E6%93%B4%E5%B1%95?mtc=20023</id><title>外資擴充｜英投資管理公司QRT承租國金中心2期6層逾14萬呎樓面　配合亞太區業務迅速擴展</title><updated>2025-12-18T12:10:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-12-18T09:35:05+08:00 Updated on: 2025-12-18T09:35:06.693+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-12-18T12:10:56+08:00 Updated on: 2025-12-18T12:11:57.537+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;28億港元——這是美國流行歌手泰勒·絲（Taylor Swift）一場巡演的個人收入，夠買維港一棟大廈。&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;...&lt;/p&gt;
-&lt;div class="fqa_widget"&gt;&lt;/div&gt;
-&lt;div class="article-detail_login"&gt;
-&lt;div class="container"&gt;
-&lt;p&gt;【南記粉麵 x hketPRO 聯乘】 訂閲 送「麻芝菇姬松茸米線套餐」4張 (價值$228)❗&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4044286?utm_content=4055289&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;div class="login-btn-container"&gt;
-&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
-&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202511_NamKee_contentblock&amp;amp;utm_content=4055289&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
-									歡迎訂閱
-								&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
-&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4044286" title="【南記粉麵 x hketPRO 聯乘】訂閲 送「麻芝菇姬松茸米線套餐」4張 (價值$228)❗"&gt;
-&lt;div class="listing-banner"&gt;
-&lt;picture&gt;
-&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251104_namkee_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251104_namkee_1024.jpg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
+&lt;p&gt;港鐵				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00066/?mtc=20048"&gt;（00066）&lt;/a&gt;
+宣布，已與全球量化與系統化投資管理公司Qube Research &amp;amp; Technologies （QRT） 簽訂合約，承租公司於國際金融中心二期（IFC 2）所持物業的其中6層，合共超過14萬平方呎的辦公室空間，配合亞太區業務的迅速擴展。QRT預計於2027年分階段進駐，成為該廈主要商戶。&lt;/p&gt;&lt;h2&gt;QRT：香港為亞太及全球營運重要樞紐&lt;/h2&gt;&lt;p&gt;QRT首席營運總裁（亞太區） Murray Steel表示，QRT自2018年成立以來，視香港為亞太區域及全球營運的重要樞紐，落戶國金二期進一步反映集團對香港發展的信心與承諾。&lt;/p&gt;&lt;p&gt;QRT總部設於倫敦，目前在全球設有13個辦事處，其中5個位於亞太區。QRT業務遍及全球，專門提供涵蓋不同地區和資產類別的多元化資產策略部署。&lt;/p&gt;&lt;p&gt;港鐵公司物業及國際業務總監鄧智輝表示，國金二期是港鐵「鐵路加物業」模式發展的成功典範，港鐵非常歡迎QRT&lt;br&gt;選擇落戶國金二期，這不僅反映物業的地理及策略優勢，同時展現金融投資界別對香港業務發展據點的信心。&lt;/br&gt;&lt;/p&gt;
+&lt;div class="listing-widget-126"&gt;
+&lt;div class="video-channel-info"&gt;
+&lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
+&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/051008.png);"&gt;&lt;/div&gt;
+&lt;span&gt;財經Hot Talk&lt;/span&gt;
 &lt;/a&gt;
 &lt;/div&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4054544" data-content-type="EGC" data-formaltag="消費,消費種類,科技產品,科技通訊,創新科技及應用,人工智能,實體詞,物業,雲端,市場交易,特殊目的收購公司（SPAC）,天體,月球,美國政府及法定機構,美國太空總署,品牌,Tesla,富豪,環保,環保措施,新能源,汽車,投資,投資產品,虛擬貨幣,網絡通訊,5G,股票,美股,科技硬件,數據中心,IPO,集資,SpaceX,人物,馬斯克" data-length="123" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4054544/hls/4054544_1765862742978.m3u8" data-rel="4054544" data-source="051" data-thumbnail="20251216_1min_SpaceX.jpg" data-videoid="4054544" data-videoprogram="財經Hot Talk" data-videopublishdate="2025-12-16" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="史上最巨型新股SpaceX擬上市  馬斯克「太空夢」值過萬億？" data-videotype="video" id="player-4055775-4054544"&gt;&lt;/video&gt;
+&lt;div class="listing-title"&gt;
+&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4054544" title="史上最巨型新股SpaceX擬上市  馬斯克「太空夢」值過萬億？"&gt;史上最巨型新股SpaceX擬上市  馬斯克「太空夢」值過萬億？&lt;/a&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4055289/Taylor%20Swift%E7%9A%84%E3%80%8C%E9%87%91%E6%9B%B2%E9%8C%A2%E6%B5%B7%E3%80%8D%EF%BC%9A3.6%E5%84%84%E7%BE%8E%E5%85%83%E7%8B%82%E8%B3%BA%20%20%E9%A6%99%E6%B8%AF%E8%97%9D%E4%BA%BA%E6%8A%84%E5%BE%97%E6%8E%82%E5%97%8E%EF%BC%9F?mtc=20023"/><published>2025-12-18T09:35:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4055690/AH%E4%BA%92%E5%8B%95%EF%BD%9CH%E8%82%A1%E8%88%87A%E8%82%A1%E5%85%AC%E5%8F%B8%E8%82%A1%E5%83%B9%E5%B0%8D%E7%85%A7%E8%A1%A8?mtc=20023</id><title>AH互動｜H股與A股公司股價對照表</title><updated>2025-12-18T09:40:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4055690/AH%E4%BA%92%E5%8B%95%EF%BD%9CH%E8%82%A1%E8%88%87A%E8%82%A1%E5%85%AC%E5%8F%B8%E8%82%A1%E5%83%B9%E5%B0%8D%E7%85%A7%E8%A1%A8?mtc=20023"/><published>2025-12-18T09:40:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4055691/AH%E4%BA%92%E5%8B%95%EF%BD%9CA%E8%82%A1%E8%82%A1%E5%83%B9%E5%8F%8A%E5%8D%87%E8%B7%8C%E4%B8%80%E8%A6%BD?mtc=20023</id><title>AH互動｜A股股價及升跌一覽</title><updated>2025-12-18T09:40:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4055691/AH%E4%BA%92%E5%8B%95%EF%BD%9CA%E8%82%A1%E8%82%A1%E5%83%B9%E5%8F%8A%E5%8D%87%E8%B7%8C%E4%B8%80%E8%A6%BD?mtc=20023"/><published>2025-12-18T09:40:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4055692/AH%E4%BA%92%E5%8B%95%EF%BD%9CH%E8%82%A1%E8%82%A1%E5%83%B9%E5%8F%8A%E5%8D%87%E8%B7%8C%E4%B8%80%E8%A6%BD?mtc=20023</id><title>AH互動｜H股股價及升跌一覽</title><updated>2025-12-18T09:40:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4055692/AH%E4%BA%92%E5%8B%95%EF%BD%9CH%E8%82%A1%E8%82%A1%E5%83%B9%E5%8F%8A%E5%8D%87%E8%B7%8C%E4%B8%80%E8%A6%BD?mtc=20023"/><published>2025-12-18T09:40:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4055115/%E4%B8%AD%E5%9C%8B%E6%96%B0%E8%83%BD%E6%BA%90%E8%BB%8A%E5%87%BA%E6%B5%B7%20%E7%82%BA%E7%94%9A%E9%BA%BC%E5%85%A8%E7%90%83%E8%BB%8A%E4%B8%BB%E9%96%8B%E5%A7%8B%E3%80%8C%E6%8F%9B%E9%9B%BB%E4%B8%8A%E7%99%AE%E3%80%8D%EF%BC%9F?mtc=20023</id><title>中國新能源車出海 為甚麼全球車主開始「換電上癮」？</title><updated>2025-12-18T09:40:00+08:00</updated><content type="html">
+&lt;/div&gt;
 
-&lt;p&gt;Published on: 2025-12-18T09:40:13+08:00 Updated on: 2025-12-18T09:35:19.553+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;上期國貨美妝讓領導們見識了			&lt;a href="https://specialist.hket.com/article/4051696" target="_blank"&gt;「一支口紅賣文化」&lt;/a&gt;
-，今回我們直擊消費出海的真大佬：新能源汽車 + 換電站。當歐美車主還在充電樁前排隊兩小時抓狂時，中國車主已習慣「3至5 分鐘換電池，滿血出發」；當特斯拉還在推超充，蔚來已在挪威、德國的核心換電站實現單站盈虧平衡。國務院《方案》把這塊列為「3 個萬億級消費領域」之首：智能網聯新能源汽車 + 後市場。這不是賣車，這是賣「能源自由」—— 中國新能源從「跟跑」變「領跑」，全球路權正悄然易主。&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;...&lt;/p&gt;
-&lt;div class="fqa_widget"&gt;&lt;/div&gt;
-&lt;div class="article-detail_login"&gt;
-&lt;div class="container"&gt;
-&lt;p&gt;【南記粉麵 x hketPRO 聯乘】 訂閲 送「麻芝菇姬松茸米線套餐」4張 (價值$228)❗&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4044286?utm_content=4055115&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;div class="login-btn-container"&gt;
-&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
-&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202511_NamKee_contentblock&amp;amp;utm_content=4055115&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
-									歡迎訂閱
-								&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
-&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4044286" title="【南記粉麵 x hketPRO 聯乘】訂閲 送「麻芝菇姬松茸米線套餐」4張 (價值$228)❗"&gt;
-&lt;div class="listing-banner"&gt;
-&lt;picture&gt;
-&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251104_namkee_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251104_namkee_1024.jpg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4055115/%E4%B8%AD%E5%9C%8B%E6%96%B0%E8%83%BD%E6%BA%90%E8%BB%8A%E5%87%BA%E6%B5%B7%20%E7%82%BA%E7%94%9A%E9%BA%BC%E5%85%A8%E7%90%83%E8%BB%8A%E4%B8%BB%E9%96%8B%E5%A7%8B%E3%80%8C%E6%8F%9B%E9%9B%BB%E4%B8%8A%E7%99%AE%E3%80%8D%EF%BC%9F?mtc=20023"/><published>2025-12-18T09:40:00+08:00</published></entry><entry><id>https://ps.hket.com/article/4055646/%E5%B0%88%E6%89%8D%E5%B8%B6%E5%8B%95%E7%A7%9F%E5%8B%99%20%E6%B7%BA%E6%B0%B4%E7%81%A3%E9%81%9338%E8%99%9F68%E8%90%AC%E5%85%83%E7%A7%9F%E5%87%BA%20%E6%88%90%E4%BB%8A%E5%B9%B4%E4%BD%8F%E5%AE%85%E6%AC%A1%E8%B2%B4?mtc=20023</id><title>專才帶動租務 淺水灣道38號68萬元租出 成今年住宅次貴</title><updated>2025-12-18T09:43:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4055646/%E5%B0%88%E6%89%8D%E5%B8%B6%E5%8B%95%E7%A7%9F%E5%8B%99%20%E6%B7%BA%E6%B0%B4%E7%81%A3%E9%81%9338%E8%99%9F68%E8%90%AC%E5%85%83%E7%A7%9F%E5%87%BA%20%E6%88%90%E4%BB%8A%E5%B9%B4%E4%BD%8F%E5%AE%85%E6%AC%A1%E8%B2%B4?mtc=20023"/><published>2025-12-18T09:43:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4055679/OneRobotics-6600-ipo-2025?mtc=20023</id><title>新股IPO｜臥安機器人6600招股集資最多18億元　一手入場費8182元</title><updated>2025-12-18T09:43:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4055775/%E5%A4%96%E8%B3%87%E6%93%B4%E5%85%85%EF%BD%9C%E8%8B%B1%E6%8A%95%E8%B3%87%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8QRT%E6%89%BF%E7%A7%9F%E5%9C%8B%E9%87%91%E4%B8%AD%E5%BF%832%E6%9C%9F6%E5%B1%A4%E9%80%BE14%E8%90%AC%E5%91%8E%E6%A8%93%E9%9D%A2%E3%80%80%E9%85%8D%E5%90%88%E4%BA%9E%E5%A4%AA%E5%8D%80%E6%A5%AD%E5%8B%99%E8%BF%85%E9%80%9F%E6%93%B4%E5%B1%95?mtc=20023"/><published>2025-12-18T12:10:00+08:00</published></entry><entry><id>https://topick.hket.com/article/4055776/%E9%98%BF%E5%87%A1%E9%81%943%EF%B8%B1%E5%8D%A0%E5%A3%AB%E9%87%91%E9%A6%AC%E5%80%AB%E3%80%8A%E9%98%BF%E5%87%A1%E9%81%943%E3%80%8B%E8%90%BD%E5%AF%A6%E9%A6%99%E6%B8%AF%E4%B8%8A%E6%98%A0%E6%97%A5%E6%9C%9F%E3%80%80%E6%96%B0%E6%B5%B7%E5%A0%B1%E5%88%AA%E9%99%A4%E6%9C%89%E9%97%9C%E7%81%AB%E4%B8%BB%E9%A1%8C%E5%85%83%E7%B4%A0?mtc=20023</id><title>阿凡達3︱占士金馬倫《阿凡達3》落實香港上映日期　新海報刪除有關火主題元素</title><updated>2025-12-18T12:11:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-12-18T09:43:38+08:00 Updated on: 2025-12-18T09:45:37.168+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-12-18T12:11:45.455+08:00 Updated on: 2025-12-18T12:11:45.455+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;臥安機器人				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG06600/?mtc=20048"&gt;（新上市編號：06600）&lt;/a&gt;
-12月18日起至23日招股。家庭機器人系統的全球提供商臥安機器人計劃發行2222.2萬股H股，一成於香港作公開發售，招股價介乎63元至81元，集資最多18億元，每手100股，一手入場費8181.7元。臥安機器人預期將於12月30日掛牌買賣。國泰君安國際、華泰國際為聯席保薦人。&lt;/p&gt;&lt;div&gt; &lt;div class="grouped-image-container"&gt;
+&lt;p&gt;【阿凡達 / 占士金馬倫 / 荷里活】金像大導演占士金馬倫（James Cameron）新作《阿凡達：火與燼》（Avatar: Fire and Ash）在原定於12月18日在香港上映，但因為因大埔宏福苑發生火災，而今集《阿凡達》片名及內容與火有關，故此早前宣布延期至2026年上映，並把片名改稱為《阿凡達3》。&lt;/p&gt;&lt;p&gt;當時，電影公司發發聲明指：「鑒於大埔近日發生的不幸事件，並出於對香港社區的尊重，原定於下星期上映的《阿凡達3》將延期至2026年推出。我們對所有受影響的市民致以最深切的慰問。新的上映日期將會盡快公布，感謝您的理解與一直以來的支持。」&lt;/p&gt;&lt;p&gt;在今日（12月18日），香港官方透過&lt;a href="https://www.facebook.com/share/p/1A34wJfiV1/" target="_blank"&gt;社交平台&lt;/a&gt;落實《阿凡達3》將於明年1月8日在香港戲院上映，各院線將公布戲票發售日期。同時香港新海報，刪減「火與燼」字眼及相關元素。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://news.hket.com/article/4049612/?lcc=at" title="大埔宏福苑五級火｜《阿凡達3》延至2026年上映　片商：鑒於大埔發生不幸事件"&gt;大埔宏福苑五級火｜《阿凡達3》延至2026年上映　片商：鑒於大埔發生不幸事件&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;div&gt; &lt;div class="grouped-image-container"&gt;
 &lt;span class="click-to-enlarge"&gt;&lt;span&gt;▼&lt;/span&gt;點擊圖片放大&lt;/span&gt;
 &lt;div class="grouped-image-wrapper"&gt;
 &lt;div class="article-detail_grouped-image block"&gt;
 &lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_0_600.png" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_0_300.png" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_0_600.png" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_0_300.png" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="新股IPO｜臥安機器人6600招股集資最多18億元　一手入場費8182元" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_0_600.png" src="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_0_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/Avatar_20251218_00005_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/Avatar_20251218_00005_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/Avatar_20251218_00005_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/Avatar_20251218_00005_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4055000/4055776/Avatar_20251218_00005_600.jpg" src="https://static04.hket.com/res/v3/image/content/4055000/4055776/Avatar_20251218_00005_600.jpg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
 &lt;/div&gt;
 &lt;div class="article-detail_grouped-image block"&gt;
 &lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_1_600.png" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_1_300.png" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_1_600.png" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_1_300.png" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="新股IPO｜臥安機器人6600招股集資最多18億元　一手入場費8182元" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_1_600.png" src="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_1_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/584316949_1309745541186481_3776077799101053006_n_1200_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/584316949_1309745541186481_3776077799101053006_n_1200_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/584316949_1309745541186481_3776077799101053006_n_1200_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/584316949_1309745541186481_3776077799101053006_n_1200_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="《阿凡達3》原本港版海報。" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4055000/4055776/584316949_1309745541186481_3776077799101053006_n_1200_600.jpg" src="https://static04.hket.com/res/v3/image/content/4055000/4055776/584316949_1309745541186481_3776077799101053006_n_1200_600.jpg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
 &lt;/div&gt;
 &lt;div class="mobile-last article-detail_grouped-image block"&gt;
 &lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_2_600.png" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_2_300.png" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_2_600.png" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_2_300.png" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="新股IPO｜臥安機器人6600招股集資最多18億元　一手入場費8182元" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_2_600.png" src="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_2_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/585393959_1309745594519809_9089742279023437592_n_1200_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/585393959_1309745594519809_9089742279023437592_n_1200_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/585393959_1309745594519809_9089742279023437592_n_1200_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/585393959_1309745594519809_9089742279023437592_n_1200_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="《阿凡達3》原本港版海報。" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4055000/4055776/585393959_1309745594519809_9089742279023437592_n_1200_600.jpg" src="https://static04.hket.com/res/v3/image/content/4055000/4055776/585393959_1309745594519809_9089742279023437592_n_1200_600.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;span&gt;+3&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="desktop-last article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/585413436_1309745641186471_2567781115395017288_n_1200_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/585413436_1309745641186471_2567781115395017288_n_1200_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/585413436_1309745641186471_2567781115395017288_n_1200_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/585413436_1309745641186471_2567781115395017288_n_1200_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="《阿凡達3》原本港版海報。" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4055000/4055776/585413436_1309745641186471_2567781115395017288_n_1200_600.jpg" src="https://static04.hket.com/res/v3/image/content/4055000/4055776/585413436_1309745641186471_2567781115395017288_n_1200_600.jpg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
 &lt;span&gt;+2&lt;/span&gt;
 &lt;/div&gt;
 &lt;div class="article-detail_grouped-image block"&gt;
 &lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_3_600.png" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_3_300.png" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_3_600.png" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_3_300.png" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="新股IPO｜臥安機器人6600招股集資最多18億元　一手入場費8182元" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_3_600.png" src="https://static04.hket.com/res/v3/image/content/4055000/4055679/06600_3_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/598969695_1334432195384482_8615233241808154138_n_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/598969695_1334432195384482_8615233241808154138_n_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/598969695_1334432195384482_8615233241808154138_n_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055776/598969695_1334432195384482_8615233241808154138_n_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="《阿凡達3》最新港版海報。" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4055000/4055776/598969695_1334432195384482_8615233241808154138_n_600.jpg" src="https://static04.hket.com/res/v3/image/content/4055000/4055776/598969695_1334432195384482_8615233241808154138_n_600.jpg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
 &lt;/div&gt;
 &lt;div class="last"&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;臥安機器人主要市場包括日本、歐洲及北美，並致力於構建以智慧家庭機器人產品為核心的生態系統，在全球擁有311項專利，其中包括56項發明專利。產品主要包括&lt;/p&gt;&lt;p&gt;（i）增強型執行機器人，包括靈活型技巧機器人（如門鎖機器人、窗簾機器人及手指機器人）、增強型移動機器人（如多功能家用機器人）以及運動機器人；&lt;/p&gt;&lt;p&gt;（ii）感知與決策系統，包括智能中樞、智能傳感器及智能攝像頭；及（iii）其他智能家庭產品與服務，如照明及電動工具及智能家電。&lt;/p&gt;&lt;p&gt;產品的品牌名稱為SwitchBot及Acemate。用戶可以主要通過SwitchBot App隨時與產品互動，臥安機器人的家庭機器人系統產品共有涉及47個SPU的七個產品類別。&lt;/p&gt;&lt;p&gt;2017年，公司推出智能電掣開關裝置「SwitchBot Bot」，2020年推出智能窗簾裝置「SwitchBot Curtain」，並在2022年、2023年分別推出智能門鎖「SwitchBot Lock」和掃地機械人「SwitchBot S10」。&lt;/p&gt;&lt;p&gt;臥安機器人與Amazon的重要業務關係始於2018年，主要通過Amazon電商平台的兩個獨立計劃（即Amazon SC及Amazon VC）銷售產品。於往績記錄期間，絕大部分收入產生自通過該等Amazon計劃進行的銷售。&lt;/p&gt;&lt;p&gt;今年上半年收入近4億元（人民幣，下同），按年升44.1%，期內扭虧為盈，母公司擁有人應佔溢利2790.3萬元，相對2024年同期虧損1364.1萬元。&lt;/p&gt;&lt;p&gt;股權結構方面，臥安機器人創辦人李志晨持有44.53%股權及投票權，為最大股東，高瓴、源碼資本、達晨等知名機構為上市前股東。至於有「大疆教父」之稱、香港科技大學教授李澤湘和高秉強出任臥安機器人的非執行董事。&lt;/p&gt;&lt;p&gt;臥安機器人引入HACF， LP、Cithara、Infini、China Orient EIF、China Orient MSMF、Wind Sabre、Yield Royal、Sage Partners、Sage Sunshine為基石投資者，認購金額8998萬美元。&lt;/p&gt;&lt;h2&gt;所得款項淨額用途&lt;/h2&gt;&lt;p&gt;66.5%：持續提升研發能力，以進一步開發與我們家庭機器人系統相關的關鍵技術及產品&lt;br&gt;19.8%：擴大銷售渠道及地區覆蓋及提升我們品牌的全球知名度&lt;br&gt;3.8%：償還上市後24個月內的部分未償還銀行貸款&lt;br&gt;10%：一般營運資金及公司用途&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;&lt;p&gt;資料來源：&lt;a href="https://www.hkexnews.hk/listedco/listconews/sehk/2025/1218/2025121800168_c.pdf" target="_blank"&gt;臥安機器人&lt;/a&gt;公告&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;最新影片推介：&lt;/p&gt;
+&lt;div class="listing-widget-126"&gt;
+&lt;div class="video-channel-info"&gt;
+&lt;a href="https://video.hket.com/srvv032-2/Sick問識答"&gt;
+&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/055002.png);"&gt;&lt;/div&gt;
+&lt;span&gt;Sick問識答&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4052276" data-content-type="EGC" data-formaltag="親子,家庭關係,夫妻之道,時事,兩性關係,結婚,生育,備孕,實體詞,食品,生蠔,健康醫療,健康養生,壓力,懷孕,工種,醫生" data-length="257" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4052276/hls/4052276_1765440525305.m3u8" data-rel="4052276" data-source="055" data-thumbnail="SVP.jpeg" data-videoid="4052276" data-videoprogram="Sick問識答" data-videopublishdate="2025-12-15" data-videosection="Sick問識答,Sick問識答" data-videotitle="Sick問識答｜高齡備孕狂食生蠔提升生育能力？ 事前準備1關鍵增自然懷孕機率" data-videotype="video" id="player-4055776-4052276"&gt;&lt;/video&gt;
+&lt;div class="listing-title"&gt;
+&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4052276" title="Sick問識答｜高齡備孕狂食生蠔提升生育能力？ 事前準備1關鍵增自然懷孕機率"&gt;Sick問識答｜高齡備孕狂食生蠔提升生育能力？ 事前準備1關鍵增自然懷孕機率&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://topick.hket.com/article/4055776/%E9%98%BF%E5%87%A1%E9%81%943%EF%B8%B1%E5%8D%A0%E5%A3%AB%E9%87%91%E9%A6%AC%E5%80%AB%E3%80%8A%E9%98%BF%E5%87%A1%E9%81%943%E3%80%8B%E8%90%BD%E5%AF%A6%E9%A6%99%E6%B8%AF%E4%B8%8A%E6%98%A0%E6%97%A5%E6%9C%9F%E3%80%80%E6%96%B0%E6%B5%B7%E5%A0%B1%E5%88%AA%E9%99%A4%E6%9C%89%E9%97%9C%E7%81%AB%E4%B8%BB%E9%A1%8C%E5%85%83%E7%B4%A0?mtc=20023"/><published>2025-12-18T12:11:00+08:00</published></entry><entry><id>https://ps.hket.com/article/4055778/%E8%9D%95%E8%AE%93%E6%88%90%E4%BA%A4%EF%BD%9C%E6%96%B0%E4%BE%86%E6%B8%AF%E5%AE%B6%E5%BA%AD%E7%82%BA%E6%96%B9%E4%BE%BF%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%B8%8A%E5%AD%B8%20%20692%E8%90%AC%E5%85%83%E5%85%A5%E5%B8%82%E7%81%A3%E4%BB%94%E6%85%A7%E8%B3%A2%E8%BB%922%E6%88%BF?mtc=20023</id><title>蝕讓成交｜新來港家庭為方便小朋友上學  692萬元入市灣仔慧賢軒2房</title><updated>2025-12-18T12:12:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4055778/%E8%9D%95%E8%AE%93%E6%88%90%E4%BA%A4%EF%BD%9C%E6%96%B0%E4%BE%86%E6%B8%AF%E5%AE%B6%E5%BA%AD%E7%82%BA%E6%96%B9%E4%BE%BF%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%B8%8A%E5%AD%B8%20%20692%E8%90%AC%E5%85%83%E5%85%A5%E5%B8%82%E7%81%A3%E4%BB%94%E6%85%A7%E8%B3%A2%E8%BB%922%E6%88%BF?mtc=20023"/><published>2025-12-18T12:12:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4055781/%E6%81%92%E9%9A%86%E7%B3%BB%EF%BD%9C%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81%E7%9B%A7%E9%9F%8B%E6%9F%8F%E5%B0%87%E6%96%BC2026%E5%B9%B48%E6%9C%8831%E6%97%A5%E6%88%96%E4%B9%8B%E5%89%8D%E6%A6%AE%E4%BC%91%E3%80%80%E6%AD%A3%E9%80%B2%E8%A1%8C%E5%85%A8%E9%9D%A2%E7%94%84%E9%81%B8%E7%89%A9%E8%89%B2%E7%B9%BC%E4%BB%BB%E4%BA%BA?mtc=20023</id><title>恒隆系｜行政總裁盧韋柏將於2026年8月31日或之前榮休　正進行全面甄選物色繼任人</title><updated>2025-12-18T12:16:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-12-18T12:16:13+08:00 Updated on: 2025-12-18T12:20:01.117+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;恒隆集團				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00010/?mtc=20048"&gt;（00010）&lt;/a&gt;
+、恒隆集團				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00101/?mtc=20048"&gt;（00101）&lt;/a&gt;
+聯合公布，集團盧韋柏將於2026年8月31日或之前榮休，並不再擔任集團行政總裁及執行董事職位。董事會正進行全面的甄選，以物色盧韋柏繼任人，而盧韋柏將協助並促進領導層順利交接。&lt;/p&gt;&lt;p&gt;集團表示，盧韋柏在任期間，憑誠信、遠見卓識、以及對卓越的不懈追求，帶領集團前行。董事會對他的領導及對集團堅定不移的貢獻，表達深切的謝意，並同時期待盧韋柏榮休後，能以待定的正式崗位，繼續為集團提供顧問支持。&lt;/p&gt;&lt;p&gt;資料來源：恒隆集團、恒隆地產&lt;a href="https://www.hkexnews.hk/listedco/listconews/sehk/2025/1218/2025121800424_c.pdf" target="_blank"&gt;公告&lt;/a&gt;&lt;/p&gt;
 &lt;div class="listing-widget-126"&gt;
 &lt;div class="video-channel-info"&gt;
 &lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
@@ -353,130 +462,79 @@
 &lt;span&gt;財經Hot Talk&lt;/span&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4054544" data-content-type="EGC" data-formaltag="消費,消費種類,科技產品,科技通訊,創新科技及應用,人工智能,實體詞,物業,雲端,市場交易,特殊目的收購公司（SPAC）,天體,月球,美國政府及法定機構,美國太空總署,品牌,Tesla,富豪,環保,環保措施,新能源,汽車,投資,投資產品,虛擬貨幣,網絡通訊,5G,股票,美股,科技硬件,數據中心,IPO,集資,SpaceX,人物,馬斯克" data-length="123" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4054544/hls/4054544_1765862742978.m3u8" data-rel="4054544" data-source="051" data-thumbnail="20251216_1min_SpaceX.jpg" data-videoid="4054544" data-videoprogram="財經Hot Talk" data-videopublishdate="2025-12-16" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="史上最巨型新股SpaceX擬上市  馬斯克「太空夢」值過萬億？" data-videotype="video" id="player-4055679-4054544"&gt;&lt;/video&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4054544" data-content-type="EGC" data-formaltag="消費,消費種類,科技產品,科技通訊,創新科技及應用,人工智能,實體詞,物業,雲端,市場交易,特殊目的收購公司（SPAC）,天體,月球,美國政府及法定機構,美國太空總署,品牌,Tesla,富豪,環保,環保措施,新能源,汽車,投資,投資產品,虛擬貨幣,網絡通訊,5G,股票,美股,科技硬件,數據中心,IPO,集資,SpaceX,人物,馬斯克" data-length="123" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4054544/hls/4054544_1765862742978.m3u8" data-rel="4054544" data-source="051" data-thumbnail="20251216_1min_SpaceX.jpg" data-videoid="4054544" data-videoprogram="財經Hot Talk" data-videopublishdate="2025-12-16" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="史上最巨型新股SpaceX擬上市  馬斯克「太空夢」值過萬億？" data-videotype="video" id="player-4055781-4054544"&gt;&lt;/video&gt;
 &lt;div class="listing-title"&gt;
 &lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4054544" title="史上最巨型新股SpaceX擬上市  馬斯克「太空夢」值過萬億？"&gt;史上最巨型新股SpaceX擬上市  馬斯克「太空夢」值過萬億？&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/4055679/OneRobotics-6600-ipo-2025?mtc=20023"/><published>2025-12-18T09:43:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4052498/%E6%B8%AF%E5%85%83%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE%EF%BD%9C25%E5%8E%98%E5%B9%B4%E6%81%AF%205%E8%90%AC2%E5%91%A8%E8%BF%91480%E5%85%83%E9%80%B2%E5%B8%B3?mtc=20023</id><title>收息鐵算 - 港元定期存款｜25厘年息 5萬2周近480元進帳</title><updated>2025-12-18T09:45:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4052498/%E6%B8%AF%E5%85%83%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE%EF%BD%9C25%E5%8E%98%E5%B9%B4%E6%81%AF%205%E8%90%AC2%E5%91%A8%E8%BF%91480%E5%85%83%E9%80%B2%E5%B8%B3?mtc=20023"/><published>2025-12-18T09:45:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4054683/%E7%A6%8F%E7%89%B9%E9%9B%BB%E5%8B%95%E8%BB%8A%E3%80%8C%E5%A4%A7%E5%90%90%E8%A1%80%E3%80%8D%EF%BC%9A%E7%BE%8E%E7%B3%BB%E8%80%81%E5%A4%A7%E5%93%A5%E7%82%BA%E4%BD%95%E6%80%A5%E8%BD%89%E5%BD%8E%EF%BC%9F?mtc=20023</id><title>福特電動車「大吐血」：美系老大哥為何急轉彎？</title><updated>2025-12-18T09:45:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4055781/%E6%81%92%E9%9A%86%E7%B3%BB%EF%BD%9C%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81%E7%9B%A7%E9%9F%8B%E6%9F%8F%E5%B0%87%E6%96%BC2026%E5%B9%B48%E6%9C%8831%E6%97%A5%E6%88%96%E4%B9%8B%E5%89%8D%E6%A6%AE%E4%BC%91%E3%80%80%E6%AD%A3%E9%80%B2%E8%A1%8C%E5%85%A8%E9%9D%A2%E7%94%84%E9%81%B8%E7%89%A9%E8%89%B2%E7%B9%BC%E4%BB%BB%E4%BA%BA?mtc=20023"/><published>2025-12-18T12:16:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4055519/%E5%8C%97%E6%B0%B4%E5%8F%8D%E6%89%8B%E5%95%9F%E7%A4%BA%EF%BD%9C%E7%B7%8A%E7%9B%AF%E3%80%8C%E8%B3%A3%E6%B0%B4%E4%BA%BA%E3%80%8D%E6%93%8D%E4%BD%9C?mtc=20023</id><title>北水反手啟示｜緊盯「賣水人」操作</title><updated>2025-12-18T12:18:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4055519/%E5%8C%97%E6%B0%B4%E5%8F%8D%E6%89%8B%E5%95%9F%E7%A4%BA%EF%BD%9C%E7%B7%8A%E7%9B%AF%E3%80%8C%E8%B3%A3%E6%B0%B4%E4%BA%BA%E3%80%8D%E6%93%8D%E4%BD%9C?mtc=20023"/><published>2025-12-18T12:18:00+08:00</published></entry><entry><id>https://knowledge.hket.com/article/4054669/%E5%85%A7%E9%8A%80%E6%96%B0%E8%A6%8F%EF%BD%9C%E5%9C%8B%E5%85%A7%E6%8F%90%E6%AC%BE5%E8%90%AC%E5%85%83%E4%BA%BA%E6%B0%91%E5%B9%A3%20%20%E5%85%8D%E4%BE%86%E6%BA%90%E7%94%A8%E9%80%94%E8%AA%AA%E6%98%8E?mtc=20023</id><title>內銀新規｜國內提款5萬元人民幣  免來源用途說明</title><updated>2025-12-18T12:23:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-12-18T09:45:27+08:00 Updated on: 2025-12-18T09:35:33.583+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-12-18T12:23:06+08:00 Updated on: 2025-12-18T12:23:07.733+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;作為美國汽車業的百年老店，福特（Ford， 美：F）在2025年12月15日宣布重組電動車業務，取消純電F系列卡車計畫，將標誌性F-150 Lightning改成增程式混動，還把電池廠轉產儲能電池。這不只是一場財務「減肥」，更像是傳統燃油車大佬對電動革命的集體醒悟。&lt;/p&gt;
+&lt;p&gt;在內地有銀行戶口的港人要注意！中國內地銀行個人取款新規將自2026年1月1日起實施，屆時將取消「一刀切」的5萬人民幣現金登記來源或用途要求，改為「風險導向」管理，即低風險客戶（如固定領退休金）簡化流程，銀行只需核實身份便可提取5萬元人民幣。&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;...&lt;/p&gt;
 &lt;div class="fqa_widget"&gt;&lt;/div&gt;
 &lt;div class="article-detail_login"&gt;
 &lt;div class="container"&gt;
-&lt;p&gt;【南記粉麵 x hketPRO 聯乘】 訂閲 送「麻芝菇姬松茸米線套餐」4張 (價值$228)❗&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4044286?utm_content=4054683&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;【hketPRO 聖誕獎賞】 訂閲 送「東薈城名店倉 x BIG HUGS 抱抱人特別版Venchi 聖誕迷你薄片巧克力禮盒」(價值$120)❗&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4055270?utm_content=4054669&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
 &lt;div class="login-btn-container"&gt;
 &lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
-&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202511_NamKee_contentblock&amp;amp;utm_content=4054683&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202512_Citygate_contentblock&amp;amp;utm_content=4054669&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
 									歡迎訂閱
 								&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
-&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4044286" title="【南記粉麵 x hketPRO 聯乘】訂閲 送「麻芝菇姬松茸米線套餐」4張 (價值$228)❗"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4055270" title="【hketPRO 聖誕獎賞】訂閲 送「東薈城名店倉 x BIG HUGS 抱抱人特別版Venchi 聖誕迷你薄片巧克力禮盒」(價值$120)❗"&gt;
 &lt;div class="listing-banner"&gt;
 &lt;picture&gt;
-&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251104_namkee_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251104_namkee_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251128_Citygate_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251128_Citygate_1024.jpg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
 &lt;/div&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4054683/%E7%A6%8F%E7%89%B9%E9%9B%BB%E5%8B%95%E8%BB%8A%E3%80%8C%E5%A4%A7%E5%90%90%E8%A1%80%E3%80%8D%EF%BC%9A%E7%BE%8E%E7%B3%BB%E8%80%81%E5%A4%A7%E5%93%A5%E7%82%BA%E4%BD%95%E6%80%A5%E8%BD%89%E5%BD%8E%EF%BC%9F?mtc=20023"/><published>2025-12-18T09:45:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4054159/%E6%B8%AF%E5%85%83%E6%B4%BB%E6%9C%9F%E5%AD%98%E6%AC%BE%EF%BD%9C%E9%8A%80%E8%A1%8C%E3%80%8C%E4%BB%BB%E5%8B%99%E5%BC%8F%E3%80%8D%E5%84%AA%E6%83%A0%E6%AF%94%E6%8B%BC%205%E5%8E%98%E6%81%AF?mtc=20023</id><title>收息鐵算 - 港元活期存款｜銀行「任務式」優惠比拼 5厘息</title><updated>2025-12-18T09:47:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4054159/%E6%B8%AF%E5%85%83%E6%B4%BB%E6%9C%9F%E5%AD%98%E6%AC%BE%EF%BD%9C%E9%8A%80%E8%A1%8C%E3%80%8C%E4%BB%BB%E5%8B%99%E5%BC%8F%E3%80%8D%E5%84%AA%E6%83%A0%E6%AF%94%E6%8B%BC%205%E5%8E%98%E6%81%AF?mtc=20023"/><published>2025-12-18T09:47:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4055523/%E6%B3%A2%E7%BE%85%E7%9A%84%E6%B5%B7%E6%8C%87%E6%95%B8%EF%BD%9CBDI%E8%80%83%E9%A9%972100%E9%BB%9E%E6%94%AF%E6%8C%81%20%20BDTI%E9%87%8D%E8%BF%941400%E9%BB%9E?mtc=20023</id><title>波羅的海指數｜BDI考驗2100點支持  BDTI重返1400點</title><updated>2025-12-18T09:48:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://knowledge.hket.com/article/4054669/%E5%85%A7%E9%8A%80%E6%96%B0%E8%A6%8F%EF%BD%9C%E5%9C%8B%E5%85%A7%E6%8F%90%E6%AC%BE5%E8%90%AC%E5%85%83%E4%BA%BA%E6%B0%91%E5%B9%A3%20%20%E5%85%8D%E4%BE%86%E6%BA%90%E7%94%A8%E9%80%94%E8%AA%AA%E6%98%8E?mtc=20023"/><published>2025-12-18T12:23:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4054606/%E9%98%BF%E9%87%8C%E9%A8%B0%E8%A8%8A%E7%99%BE%E5%BA%A6%20%E7%AC%AC2%E6%88%90%E9%95%B7%E6%9B%B2%E7%B6%AB%E4%B9%8B%E7%88%AD?mtc=20023</id><title>阿里騰訊百度 第2成長曲綫之爭</title><updated>2025-12-18T12:23:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4054606/%E9%98%BF%E9%87%8C%E9%A8%B0%E8%A8%8A%E7%99%BE%E5%BA%A6%20%E7%AC%AC2%E6%88%90%E9%95%B7%E6%9B%B2%E7%B6%AB%E4%B9%8B%E7%88%AD?mtc=20023"/><published>2025-12-18T12:23:00+08:00</published></entry><entry><id>https://knowledge.hket.com/article/4053822/%E6%9C%88%E5%85%A5%E5%B9%BE%E5%A4%9A%E7%AE%97%E4%B8%AD%E7%94%A2%EF%BC%882025%E7%AC%AC%E5%9B%9B%E5%AD%A3%EF%BC%89?mtc=20023</id><title>月入幾多算中產（2025第四季）</title><updated>2025-12-18T12:23:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-12-18T09:48:43+08:00 Updated on: 2025-12-18T09:48:44.97+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-12-18T12:23:16+08:00 Updated on: 2025-12-18T12:23:17.264+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;波羅的海乾散貨指數（BDI）考驗2100點支持  ；波羅的海原油運價指數（BDTI）重返1400點；最新一期上海航交所出口運價指數SCFI（12日）反彈108.83點至1506.46點，漲幅7.79%。四大航綫一起上揚，其中地中海航綫漲幅19%，美西、美東漲幅皆逾一成。&lt;/p&gt;
+&lt;p&gt;本港最新失業率回落至3.8%，期內失業人數減少約6000人，港人每月收入有沒有明顯變化？成為中產的門檻會否重新上升？本文綜合今年7月至9月統計處數字，看本港就業及家庭收入數據最新表現，並比對與第二季之間變化。&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;...&lt;/p&gt;
 &lt;div class="fqa_widget"&gt;&lt;/div&gt;
 &lt;div class="article-detail_login"&gt;
 &lt;div class="container"&gt;
-&lt;p&gt;【南記粉麵 x hketPRO 聯乘】 訂閲 送「麻芝菇姬松茸米線套餐」4張 (價值$228)❗&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4044286?utm_content=4055523&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;【hketPRO 聖誕獎賞】 訂閲 送「東薈城名店倉 x BIG HUGS 抱抱人特別版Venchi 聖誕迷你薄片巧克力禮盒」(價值$120)❗&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4055270?utm_content=4053822&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
 &lt;div class="login-btn-container"&gt;
 &lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
-&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202511_NamKee_contentblock&amp;amp;utm_content=4055523&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202512_Citygate_contentblock&amp;amp;utm_content=4053822&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
 									歡迎訂閱
 								&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
-&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4044286" title="【南記粉麵 x hketPRO 聯乘】訂閲 送「麻芝菇姬松茸米線套餐」4張 (價值$228)❗"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4055270" title="【hketPRO 聖誕獎賞】訂閲 送「東薈城名店倉 x BIG HUGS 抱抱人特別版Venchi 聖誕迷你薄片巧克力禮盒」(價值$120)❗"&gt;
 &lt;div class="listing-banner"&gt;
 &lt;picture&gt;
-&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251104_namkee_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251104_namkee_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251128_Citygate_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251128_Citygate_1024.jpg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
 &lt;/div&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4055523/%E6%B3%A2%E7%BE%85%E7%9A%84%E6%B5%B7%E6%8C%87%E6%95%B8%EF%BD%9CBDI%E8%80%83%E9%A9%972100%E9%BB%9E%E6%94%AF%E6%8C%81%20%20BDTI%E9%87%8D%E8%BF%941400%E9%BB%9E?mtc=20023"/><published>2025-12-18T09:48:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4054098/%E8%82%A1%E5%B8%8259%E5%B9%B477-%E5%8B%9D%E7%8E%87%E7%9A%84%E8%81%96%E8%AA%95%E6%AA%94%E6%9C%9F%20%202025%E6%B3%A1%E6%B9%AF%E4%BA%86%EF%BC%9F?mtc=20023</id><title>股市59年77%勝率的聖誕檔期  2025泡湯了？</title><updated>2025-12-18T09:50:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4054098/%E8%82%A1%E5%B8%8259%E5%B9%B477-%E5%8B%9D%E7%8E%87%E7%9A%84%E8%81%96%E8%AA%95%E6%AA%94%E6%9C%9F%20%202025%E6%B3%A1%E6%B9%AF%E4%BA%86%EF%BC%9F?mtc=20023"/><published>2025-12-18T09:50:00+08:00</published></entry><entry><id>https://knowledge.hket.com/article/4054648/%E7%82%BA%E4%BB%80%E9%BA%BD%E5%88%B0%E8%81%96%E8%AA%95%20%E6%BB%99%E8%B1%90%E5%B0%B1%E5%8D%87%EF%BC%9F?mtc=20023</id><title>為什麽到聖誕 滙豐就升？</title><updated>2025-12-18T09:52:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://knowledge.hket.com/article/4053822/%E6%9C%88%E5%85%A5%E5%B9%BE%E5%A4%9A%E7%AE%97%E4%B8%AD%E7%94%A2%EF%BC%882025%E7%AC%AC%E5%9B%9B%E5%AD%A3%EF%BC%89?mtc=20023"/><published>2025-12-18T12:23:00+08:00</published></entry><entry><id>https://ps.hket.com/article/4055789/%E9%87%8F%E5%8C%96%E6%8A%95%E8%B3%87%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8QRT%E4%B8%80%E5%8F%A3%E6%B0%A3%E7%A7%9F%E5%9C%8B%E9%87%91%E4%BA%8C%E6%9C%9F14%E8%90%AC%E5%91%8E%E8%BE%A6%E5%85%AC%E5%AE%A4%20%20%E5%B0%87%E6%88%90%E4%B8%BB%E8%A6%81%E5%95%86%E6%88%B6?mtc=20023</id><title>量化投資管理公司QRT一口氣租國金二期14萬呎辦公室  將成主要商戶</title><updated>2025-12-18T12:24:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4055789/%E9%87%8F%E5%8C%96%E6%8A%95%E8%B3%87%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8QRT%E4%B8%80%E5%8F%A3%E6%B0%A3%E7%A7%9F%E5%9C%8B%E9%87%91%E4%BA%8C%E6%9C%9F14%E8%90%AC%E5%91%8E%E8%BE%A6%E5%85%AC%E5%AE%A4%20%20%E5%B0%87%E6%88%90%E4%B8%BB%E8%A6%81%E5%95%86%E6%88%B6?mtc=20023"/><published>2025-12-18T12:24:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4055788/%E7%89%B9%E6%9C%97%E6%99%AE%EF%BD%9C%E8%87%AA%E8%A9%A1%E9%99%8D%E7%89%A9%E5%83%B9%E6%9C%89%E5%8A%9F%20%E9%99%B32025%E6%88%90%E5%B0%B1?mtc=20023</id><title>特朗普｜自詡降物價有功 陳2025成就</title><updated>2025-12-18T12:24:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-12-18T09:52:28+08:00 Updated on: 2025-12-18T09:54:12.487+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-12-18T12:24:56+08:00 Updated on: 2025-12-18T12:27:40.635+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;你是否聽過這句本港股壇的經典諺語：「聖誕鐘，買滙豐」？指在聖誕月買入滙豐控股				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00005/?mtc=g0018"&gt;（00005）&lt;/a&gt;
-，一般能獲利。這並非空穴來風，而是基於3大關鍵因素：高股息、機構行爲及派息資金流動。&lt;/p&gt;
+&lt;p&gt;美國總統特朗普（Donald Trump）周三（17日）發表演說，聲稱自己成功降低美國物價，並列舉上任後公布的政策為美國帶來的改變。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;美國｜白宮幕僚長點評特朗普班子引爭議 反駁媒體誤導 &lt;a href="https://inews.hket.com/article/4055299/?lcc=an" title="【下一頁】"&gt;【下一頁】&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;特朗普罕有地發表全國講話，直言自己11個月前上任時承接前屆政府的爛攤子，但他已在修正，聲稱美國在其政府帶領下已快速及大幅降低物價，稱能源價格未來將進一步下降。&lt;/p&gt;&lt;p&gt;特朗普把美國現時問題的矛頭指向前總統拜登（Joe Biden）﹑過去的貿易協議﹑移民及被他形容為腐敗的系統。他讚揚自己上任後取得眾多成就，如降低非法移民及物價等。&lt;/p&gt;&lt;p&gt;同時，特朗普聲稱已為美國吸引18萬億美元投資（約140.1萬億港元），將創造更多就業機會及工廠開設，讚揚自己的關稅政策為主要推手，聲稱一年的美國如瀕死國家，現時卻是最炙手可熱的國家。&lt;/p&gt;&lt;p&gt;特朗普亦公布，未來數周將向145萬名美軍派發1,776美元（約1.4萬港元）的「戰士股息」（warrior dividend）。他亦稱支持共和黨的醫保建議，希望直接向民眾派錢，而非延長平價醫療法案的補貼。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;委內瑞拉｜油輪遭美扣押後 傳石油買家要求減價 &lt;a href="https://inews.hket.com/article/4055240/?lcc=an" title="【下一頁】"&gt;【下一頁】&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;特朗普表示，即將公布新任聯邦儲備局局長人選，稱對方將支持大幅減息，聲稱美國未來的按揭還款額將顯著下降。他亦宣稱，美國即將迎來繁榮經濟。&lt;/p&gt;&lt;p&gt;雖然特朗普多次聲稱自己的成就鮮獲讚頌，但最新民調顯示，僅33%受訪美國選民認同特朗普的經濟政策表現。美國通脹亦在2025年4月，即特朗普上任僅3個月時降至4年新低的2.3%，惟及後持續上升。&lt;/p&gt;&lt;p&gt;而且，特朗普關稅政策對通脹的影響仍未如經濟學家預測般開始廣泛散播，進口關稅成本暫時由外國生產商﹑進口商及終端用家包括消費者各自分攤。&lt;/p&gt;&lt;p&gt;美國將在2026年舉行中期選舉，共和黨希望維持國會兩院的控制權，但最新的經濟數據及狀況已衝擊共和黨選情。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;緊貼地緣政治變化，立即免費下載《香港經濟日報》App【&lt;a href="http://onelink.to/knpjgk"&gt;按此&lt;/a&gt;】&lt;/strong&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;...&lt;/p&gt;
-&lt;div class="fqa_widget"&gt;&lt;/div&gt;
-&lt;div class="article-detail_login"&gt;
-&lt;div class="container"&gt;
-&lt;p&gt;【南記粉麵 x hketPRO 聯乘】 訂閲 送「麻芝菇姬松茸米線套餐」4張 (價值$228)❗&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4044286?utm_content=4054648&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;div class="login-btn-container"&gt;
-&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
-&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202511_NamKee_contentblock&amp;amp;utm_content=4054648&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
-									歡迎訂閱
-								&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
-&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4044286" title="【南記粉麵 x hketPRO 聯乘】訂閲 送「麻芝菇姬松茸米線套餐」4張 (價值$228)❗"&gt;
-&lt;div class="listing-banner"&gt;
-&lt;picture&gt;
-&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251104_namkee_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251104_namkee_1024.jpg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://knowledge.hket.com/article/4054648/%E7%82%BA%E4%BB%80%E9%BA%BD%E5%88%B0%E8%81%96%E8%AA%95%20%E6%BB%99%E8%B1%90%E5%B0%B1%E5%8D%87%EF%BC%9F?mtc=20023"/><published>2025-12-18T09:52:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4051069/HSBC%E6%BB%99%E8%B1%90%E5%B8%82%E5%80%BC%E7%A0%B42%E8%90%AC%E5%84%84%20%E9%9B%99%E5%BC%95%E6%93%8E%E7%99%BC%E5%8A%9B%20%E5%A4%A7%E8%B1%A1%E8%AE%8A%E7%8D%85%E5%AD%90%E7%8E%8B%EF%BC%9F?mtc=20023</id><title>HSBC滙豐市值破2萬億 雙引擎發力 大象變獅子王？</title><updated>2025-12-18T09:55:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4051069/HSBC%E6%BB%99%E8%B1%90%E5%B8%82%E5%80%BC%E7%A0%B42%E8%90%AC%E5%84%84%20%E9%9B%99%E5%BC%95%E6%93%8E%E7%99%BC%E5%8A%9B%20%E5%A4%A7%E8%B1%A1%E8%AE%8A%E7%8D%85%E5%AD%90%E7%8E%8B%EF%BC%9F?mtc=20023"/><published>2025-12-18T09:55:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4055519/%E5%8C%97%E6%B0%B4%E6%93%8D%E4%BD%9C%EF%BD%9C%E5%8C%97%E6%B0%B4%E5%A4%A7%E6%89%8B%E8%B2%B7%E8%BF%94%20%E9%95%B7%E9%A3%9B%E8%82%A1%E5%83%B9%E6%9C%89%E6%92%91%E5%8A%9B?mtc=20023</id><title>北水操作｜北水大手買返 長飛股價有撑力</title><updated>2025-12-18T09:57:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4055519/%E5%8C%97%E6%B0%B4%E6%93%8D%E4%BD%9C%EF%BD%9C%E5%8C%97%E6%B0%B4%E5%A4%A7%E6%89%8B%E8%B2%B7%E8%BF%94%20%E9%95%B7%E9%A3%9B%E8%82%A1%E5%83%B9%E6%9C%89%E6%92%91%E5%8A%9B?mtc=20023"/><published>2025-12-18T09:57:00+08:00</published></entry><entry><id>https://ps.hket.com/article/4055455/%E5%90%8D%E4%BA%BA%E5%85%A5%E5%B8%82%EF%BD%9C%E5%9D%87%E8%BC%9D%E9%9B%86%E5%9C%98%E8%91%A3%E4%BA%8B%E6%96%A51.36%E5%84%84%20%E8%B3%BC%E5%A4%A9%E5%BE%A1%E9%AB%98%E5%B1%A44%E6%88%BF?mtc=20023</id><title>名人入市｜均輝集團董事斥1.36億 購天御高層4房</title><updated>2025-12-18T10:00:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4055455/%E5%90%8D%E4%BA%BA%E5%85%A5%E5%B8%82%EF%BD%9C%E5%9D%87%E8%BC%9D%E9%9B%86%E5%9C%98%E8%91%A3%E4%BA%8B%E6%96%A51.36%E5%84%84%20%E8%B3%BC%E5%A4%A9%E5%BE%A1%E9%AB%98%E5%B1%A44%E6%88%BF?mtc=20023"/><published>2025-12-18T10:00:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4053505/AI%E6%98%AF%E5%90%A6%E6%B3%A1%E6%B2%AB%EF%BC%9F%E5%8F%AA%E7%9C%8B%E5%85%A9%E5%AE%B6%E5%85%AC%E5%8F%B8?mtc=20023</id><title>AI是否泡沫？只看兩家公司</title><updated>2025-12-18T10:02:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4055788/%E7%89%B9%E6%9C%97%E6%99%AE%EF%BD%9C%E8%87%AA%E8%A9%A1%E9%99%8D%E7%89%A9%E5%83%B9%E6%9C%89%E5%8A%9F%20%E9%99%B32025%E6%88%90%E5%B0%B1?mtc=20023"/><published>2025-12-18T12:24:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4055782/%E7%BE%8E%E8%82%A1%E5%88%86%E6%9E%90%EF%BD%9C%E7%BE%8E%E8%82%A1%E5%86%8D%E5%8F%97%E7%B4%AF%E7%A7%91%E6%8A%80%E8%82%A1%E3%80%81%E7%B4%8D%E6%8C%87%E8%B7%8C%E8%BF%912-%E3%80%80%E5%88%86%E6%9E%90%EF%BC%9A%E5%B1%AC%E5%81%A5%E5%BA%B7%E8%AA%BF%E6%95%B4%E3%80%81%E7%A7%91%E6%8A%80%E8%82%A1%E4%BC%B0%E5%80%BC%E5%B0%87%E4%B8%BB%E5%B0%8E%E5%BE%8C%E5%B8%82%E3%80%80%E7%9B%B8%E4%BF%A1%E4%B8%AD%E7%B7%9A%E5%8D%87%E6%B5%AA%E6%9C%AA%E5%AE%8C?mtc=20023</id><title>美股分析｜美股再受累科技股、納指跌近2%　分析：屬健康調整、科技股估值將主導後市　相信中線升浪未完</title><updated>2025-12-18T12:25:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2025-12-18T10:02:05+08:00 Updated on: 2025-12-18T10:03:08.897+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2025-12-18T12:25:14.122+08:00 Updated on: 2025-12-18T12:25:14.122+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;市場最近吵得最厲害的，AI到底是不是泡沫？AI是顛覆性技術，這點無用置疑。但泡沫不是技術問題，而是價錢問題，關鍵全看夢想兌現得夠不夠快，而且只看兩家公司就够了，懂的都懂。&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;...&lt;/p&gt;
-&lt;div class="fqa_widget"&gt;&lt;/div&gt;
-&lt;div class="article-detail_login"&gt;
-&lt;div class="container"&gt;
-&lt;p&gt;【南記粉麵 x hketPRO 聯乘】 訂閲 送「麻芝菇姬松茸米線套餐」4張 (價值$228)❗&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4044286?utm_content=4053505&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;div class="login-btn-container"&gt;
-&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
-&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202511_NamKee_contentblock&amp;amp;utm_content=4053505&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
-									歡迎訂閱
-								&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
-&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4044286" title="【南記粉麵 x hketPRO 聯乘】訂閲 送「麻芝菇姬松茸米線套餐」4張 (價值$228)❗"&gt;
-&lt;div class="listing-banner"&gt;
-&lt;picture&gt;
-&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251104_namkee_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251104_namkee_1024.jpg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4053505/AI%E6%98%AF%E5%90%A6%E6%B3%A1%E6%B2%AB%EF%BC%9F%E5%8F%AA%E7%9C%8B%E5%85%A9%E5%AE%B6%E5%85%AC%E5%8F%B8?mtc=20023"/><published>2025-12-18T10:02:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4055694/AI%E5%A4%A7%E6%88%B0%EF%BD%9COpenAI%E6%93%AC%E4%BB%A57500%E5%84%84%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC%E5%8B%9F%E9%9B%86%E8%B3%87%E9%87%91%E3%80%80%E6%93%9A%E5%A0%B1%E5%B0%8B%E6%B1%822026%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%B8%8A%E5%B8%82?mtc=20023</id><title>AI大戰｜OpenAI擬以7500億美元估值募集資金　據報尋求2026年下半年上市</title><updated>2025-12-18T10:02:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2025-12-18T10:02:42+08:00 Updated on: 2025-12-18T10:03:12.877+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;外電引述消息人士報道，ChatGPT開發商OpenAI已與部分投資者就以約7500億美元估值募集資金進行磋商，集資金額最多約1000億美元（約7800億港元）。&lt;/p&gt;&lt;p&gt;若談判落實，OpenAI的估值將較去年10月公布的5000億美元，急增50%。&lt;/p&gt;&lt;h2&gt;OpenAI上市潛在估值可達1萬億美元&lt;/h2&gt;&lt;p&gt;與此同時，OpenAI正籌備可能創史上最大規模的首次公開發行（IPO），潛在估值可達1萬億美元，預期最快2026年下半年向美國證交會（SEC）遞交上市申請。&lt;/p&gt;&lt;p&gt;今年包括英偉達Nvidia（美：NVDA）、甲骨文Oracle（美：ORCL）等企業，已與OpenAI簽訂數十億美元規模的人工智能（AI）合作協議。&lt;/p&gt;
+&lt;p&gt;美股周三走勢先高後低，道指高開後曾升273點，但高位轉跌，收市跌228點，報47885點，標指和納指緊貼全日低位收市，標指跌逾1%，報6721點，納指跌1.8%，報22693點。&lt;/p&gt;&lt;p&gt;有本港的分析員表示，美股市場繼續關注AI股是否出現泡沫，相關股份過去一年多升幅大，一旦有泡沫憂慮，回調幅度亦較明顯。美股三大指數目前屬於健康調整，預料短線會持續整固，未必有很大下跌空間，科技股估值將主導後市走勢。&lt;/p&gt;&lt;p&gt;分析認為，AI泡沫問題不算明顯，科技股業績普遍顯示較高速增長，若盈利繼續向好，可紓緩市場對高估值的憂慮，有助美股市況回穩，中線來看，相信美股的升浪尚未完結。&lt;/p&gt;&lt;p&gt;另外，歐洲央行、英倫銀行和日本央行分別於今明兩日議息，市場普遍預料歐央行大機會維持不變、英國可能減息25點子、日本或加息25點子。該分析員指，近期亞太區股市波動，部份原因擔心日央行加息，將導致日圓拆倉潮，一旦落實加息，不排除短線出現回落後的反彈機會。&lt;/p&gt;
 &lt;div class="listing-widget-126"&gt;
 &lt;div class="video-channel-info"&gt;
 &lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
@@ -484,10 +542,85 @@
 &lt;span&gt;財經Hot Talk&lt;/span&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4054544" data-content-type="EGC" data-formaltag="消費,消費種類,科技產品,科技通訊,創新科技及應用,人工智能,實體詞,物業,雲端,市場交易,特殊目的收購公司（SPAC）,天體,月球,美國政府及法定機構,美國太空總署,品牌,Tesla,富豪,環保,環保措施,新能源,汽車,投資,投資產品,虛擬貨幣,網絡通訊,5G,股票,美股,科技硬件,數據中心,IPO,集資,SpaceX,人物,馬斯克" data-length="123" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4054544/hls/4054544_1765862742978.m3u8" data-rel="4054544" data-source="051" data-thumbnail="20251216_1min_SpaceX.jpg" data-videoid="4054544" data-videoprogram="財經Hot Talk" data-videopublishdate="2025-12-16" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="史上最巨型新股SpaceX擬上市  馬斯克「太空夢」值過萬億？" data-videotype="video" id="player-4055694-4054544"&gt;&lt;/video&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4054544" data-content-type="EGC" data-formaltag="消費,消費種類,科技產品,科技通訊,創新科技及應用,人工智能,實體詞,物業,雲端,市場交易,特殊目的收購公司（SPAC）,天體,月球,美國政府及法定機構,美國太空總署,品牌,Tesla,富豪,環保,環保措施,新能源,汽車,投資,投資產品,虛擬貨幣,網絡通訊,5G,股票,美股,科技硬件,數據中心,IPO,集資,SpaceX,人物,馬斯克" data-length="123" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4054544/hls/4054544_1765862742978.m3u8" data-rel="4054544" data-source="051" data-thumbnail="20251216_1min_SpaceX.jpg" data-videoid="4054544" data-videoprogram="財經Hot Talk" data-videopublishdate="2025-12-16" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="史上最巨型新股SpaceX擬上市  馬斯克「太空夢」值過萬億？" data-videotype="video" id="player-4055782-4054544"&gt;&lt;/video&gt;
 &lt;div class="listing-title"&gt;
 &lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4054544" title="史上最巨型新股SpaceX擬上市  馬斯克「太空夢」值過萬億？"&gt;史上最巨型新股SpaceX擬上市  馬斯克「太空夢」值過萬億？&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/4055694/AI%E5%A4%A7%E6%88%B0%EF%BD%9COpenAI%E6%93%AC%E4%BB%A57500%E5%84%84%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC%E5%8B%9F%E9%9B%86%E8%B3%87%E9%87%91%E3%80%80%E6%93%9A%E5%A0%B1%E5%B0%8B%E6%B1%822026%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%B8%8A%E5%B8%82?mtc=20023"/><published>2025-12-18T10:02:00+08:00</published></entry></feed>
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4055782/%E7%BE%8E%E8%82%A1%E5%88%86%E6%9E%90%EF%BD%9C%E7%BE%8E%E8%82%A1%E5%86%8D%E5%8F%97%E7%B4%AF%E7%A7%91%E6%8A%80%E8%82%A1%E3%80%81%E7%B4%8D%E6%8C%87%E8%B7%8C%E8%BF%912-%E3%80%80%E5%88%86%E6%9E%90%EF%BC%9A%E5%B1%AC%E5%81%A5%E5%BA%B7%E8%AA%BF%E6%95%B4%E3%80%81%E7%A7%91%E6%8A%80%E8%82%A1%E4%BC%B0%E5%80%BC%E5%B0%87%E4%B8%BB%E5%B0%8E%E5%BE%8C%E5%B8%82%E3%80%80%E7%9B%B8%E4%BF%A1%E4%B8%AD%E7%B7%9A%E5%8D%87%E6%B5%AA%E6%9C%AA%E5%AE%8C?mtc=20023"/><published>2025-12-18T12:25:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4054631/%E7%AE%97%E5%8A%9B%E5%A4%A7%E6%93%B4%E5%BC%B5%20%E8%AA%B0%E5%9C%A8%E6%82%84%E6%82%84%E8%B3%BA%EF%BC%9F?mtc=20023</id><title>算力大擴張 誰在悄悄賺？</title><updated>2025-12-18T12:25:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4054631/%E7%AE%97%E5%8A%9B%E5%A4%A7%E6%93%B4%E5%BC%B5%20%E8%AA%B0%E5%9C%A8%E6%82%84%E6%82%84%E8%B3%BA%EF%BC%9F?mtc=20023"/><published>2025-12-18T12:25:00+08:00</published></entry><entry><id>https://wealth.hket.com/article/4055767/%E3%80%8C%E6%8F%9B%E8%A1%80%E9%80%86%E9%BD%A1%E3%80%8D%E7%A7%91%E6%8A%80%E5%AF%8C%E8%B1%AA%20%EF%BC%9A2039%E5%B9%B4%E5%89%8D%E4%BD%BF%E4%BA%BA%E9%A1%9E%E6%B0%B8%E7%94%9F%E3%80%80%E6%97%A5%E5%90%8361%E9%A1%86%E8%97%A5%E3%80%80%E5%88%86%E4%BA%AB%E6%9C%80%E6%96%B0%E5%AE%B9%E8%B2%8C%E8%AE%8A%E5%8C%96?mtc=20023</id><title>「換血逆齡」科技富豪 ：2039年前使人類永生　日吃61顆藥　分享最新容貌變化</title><updated>2025-12-18T12:25:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-12-18T12:25:49+08:00 Updated on: 2025-12-18T12:28:24.728+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;blockquote&gt;&lt;p&gt;曾以「換血逆齡」著稱的科技富豪Bryan Johnson每年耗資數百萬美元試圖減緩自身衰老，如今有了新目標︰要在2039年前實現人類永生。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;計劃2039年前使人類永生&lt;br&gt;藉助AI改進現有療法&lt;/br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;他在X和Facebook寫道︰「尋找青春之泉是人類史上最古老的故事。在過去的24個月裡，地球生命史上第一次，一個有意識的生命體有機會真正地去追求這個目標。這絕對是一個瘋狂的時刻。」&lt;/p&gt;&lt;p&gt;現年48歲的Johnson表示，這項14年的目標是基於「能夠逆轉幾十年時光的新的、有前景的療法」，並強調藉助AI，這實際上是個非常「合理的目標」。&lt;/p&gt;&lt;p&gt;他首先指出，其團隊會嘗試修復一些「有缺陷的」問題，例如那些「錯誤地致癌」的逆齡療法。&lt;/p&gt;&lt;p&gt;他承認，其團隊「目前尚不清楚」如何實現2039年永生計劃，但他透露正透過研究水母細胞與龍蝦酶（兩者皆與延緩衰老相關）來推進目標，希望這套系統移植到人類身上。他認為，結合「AI驅動的創新速度」及以自身身體作為試驗對象，將真正加速突破。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;年花百萬美元抗衰老&lt;br&gt;曾嘗試三代換血&lt;/br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bryan Johnson生於1977年，《財富》估計其淨資產約為4億美元（約31.2億港元）。他在2007年創立電子支付公司Braintree，2013年被PayPal以8億美元（約62.4億港元）收購，因而致富。&lt;/p&gt;&lt;p&gt;2021年，Johnson啓動名為「藍圖計劃」（Blueprint）的抗衰老治療，受到媒體關注。他曾因與時年17歲的兒子、70歲父親進行「全球首例跨代血漿置換」而登上頭條。他每年亦花費約200萬美元進行療程，據稱因此擁有28歲的肌膚狀態與18歲的肺活量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享最新容貌變化&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;經過6年反覆試驗和測試，他堅稱自己的生理年齡未增長一天，並在X帖文附上2018年至2025年的容貌變化相片。他回應網民疑問指，他的所有面部變化都來自營養、運動、皮膚治療（雷射+超音波）、少量 PRP、臉部脂肪注射、紅光/近紅外線治療、桑拿、氫氧療法等，沒有進行手術。&lt;/p&gt;&lt;p&gt; &lt;span class="article-detail_inline-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055767/G8UzS0paUAA0urR_1200.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055767/G8UzS0paUAA0urR_600.jpg" media="(min-width: 992px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055767/G8UzS0paUAA0urR_1024.jpg" media="(min-width: 630px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055767/G8UzS0paUAA0urR_600.jpg" media="(min-width: 330px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055767/G8UzS0paUAA0urR_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="Bryan Johnson 2018年至2025年容貌變化（來源：X @bryan_johnson ）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4055000/4055767/G8UzS0paUAA0urR_1200.jpg" src="https://static04.hket.com/res/v3/image/content/4055000/4055767/G8UzS0paUAA0urR_1200.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/span&gt;
+&lt;span class="article-detail_caption block"&gt;&lt;span&gt;▲&lt;/span&gt; Bryan Johnson 2018年至2025年容貌變化（來源：X @bryan_johnson ）&lt;/span&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;克隆數千個自身器官做測試&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Johnson在X帖文中寫道：「為加快進度，我現正培養數千個自身器官克隆體，這將能我能夠測試藥物和其他分子與我自身生物體的相互作用，加速研究並保護我的身體免受潛在傷害。」他坦言過程可能會出錯，「但願這些錯誤不會致命」，並承諾將在Blueprint平台免費公開研究成果。&lt;/p&gt;&lt;p&gt;他將普通人類稱為「自殺物種」，認為他們「通過飲食和生活方式不必要地殺死自己」。Johnson表示，將向這些普通人詳細介紹如何以「極低的成本和精力」複製他價值百萬美元的日常安排。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;每日食61顆藥、2.3磅蔬菜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在追求永生的道路上，Johnson將高強度生活模式推向極致。他先前向《財富》透露，他每日清晨4:30起床，每小時行程皆由根據嚴密身體監測及逾2000份學術文献建立的演算法規劃。&lt;/p&gt;&lt;p&gt;他每天早上都會以35組不同的運動鍛煉身體，然後服用一系列補充劑，最後載喝一杯冰沙。在30人專家團隊的協助下，他每日接受體脂掃描、常規磁力共振成像檢查，並經常接受侵入性血液與糞便樣本測試，以評估器官生理年齡。&lt;/p&gt;&lt;p&gt;在檢測間隙，他每日服用61顆藥丸，並嚴格按照五小時的時間間隔吃三餐，通常包括一份超級蔬菜沙拉、堅果布丁及大量綠葉蔬菜。這位科技企業家每月攝食逾70磅蔬菜（相當於平均每日食用逾2.3磅蔬菜）。大多數人在睡前數小時用晚餐，但Johnson堅持晚上8:30就寢，為確保食物完全消化，他每日最後一餐定於上午11點進食。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;相關文章：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://wealth.hket.com/article/3867348/?lcc=aw" title="換血逆齡富豪赴印度旅行 隨身帶6日「長壽食物」 稱「全球食品供應受污染」"&gt;換血逆齡富豪赴印度旅行 隨身帶6日「長壽食物」 稱「全球食品供應受污染」&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://wealth.hket.com/article/3741041/?lcc=aw" title="「換血逆齡」富豪晒相分享6年容貌變化　網友：「老得更快」"&gt;「換血逆齡」富豪晒相分享6年容貌變化　網友：「老得更快」&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://wealth.hket.com/article/4052959/?lcc=aw" title="退休後的長壽基礎　5大生活習慣　有助累積財富"&gt;退休後的長壽基礎　5大生活習慣　有助累積財富&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;＝＝＝＝＝&lt;/p&gt;
+&lt;div class="listing-widget-126"&gt;
+&lt;div class="video-channel-info"&gt;
+&lt;a href="https://video.hket.com/srvv029-1/ET至高息"&gt;
+&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/052001.png);"&gt;&lt;/div&gt;
+&lt;span&gt;ET至高息&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4052878" data-content-type="EGC" data-formaltag="投資,股票,美股,實體詞,產品,投資策略,沽出,港股,投資產品,ETF,基金,期權,理財,收息產品,派息基金,ETF產品,主動型ETF,市場交易,派息,買入,指數,恒生中國企業指數" data-length="138" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4052878/hls/4052878_1765523596601.m3u8" data-rel="4052878" data-source="052" data-thumbnail="20251205_Saving_EP145.jpg" data-videoid="4052878" data-videoprogram="ET至高息" data-videopublishdate="2025-12-12" data-videosection="ET至高息,ET至高息" data-videotitle="全新月月派息ETF！什麼是「備兌認購期權」策略？詳細優劣分析" data-videotype="video" id="player-4055767-4052878"&gt;&lt;/video&gt;
+&lt;div class="listing-title"&gt;
+&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4052878" title="全新月月派息ETF！什麼是「備兌認購期權」策略？詳細優劣分析"&gt;全新月月派息ETF！什麼是「備兌認購期權」策略？詳細優劣分析&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;理財真實個案分析，立即免費&lt;a href="https://apps.apple.com/hk/app/香港經濟日報/id485623995"&gt;下載《香港經濟日報》App&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://wealth.hket.com/article/4055767/%E3%80%8C%E6%8F%9B%E8%A1%80%E9%80%86%E9%BD%A1%E3%80%8D%E7%A7%91%E6%8A%80%E5%AF%8C%E8%B1%AA%20%EF%BC%9A2039%E5%B9%B4%E5%89%8D%E4%BD%BF%E4%BA%BA%E9%A1%9E%E6%B0%B8%E7%94%9F%E3%80%80%E6%97%A5%E5%90%8361%E9%A1%86%E8%97%A5%E3%80%80%E5%88%86%E4%BA%AB%E6%9C%80%E6%96%B0%E5%AE%B9%E8%B2%8C%E8%AE%8A%E5%8C%96?mtc=20023"/><published>2025-12-18T12:25:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4051593/%E4%BA%BA%E5%88%B040%EF%BD%9C%E5%A4%A9%E8%8A%B1%E6%9D%BF%E8%88%87%E8%AD%B7%E5%9F%8E%E6%B2%B3?mtc=20023</id><title>人到40｜天花板與護城河</title><updated>2025-12-18T12:28:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4051593/%E4%BA%BA%E5%88%B040%EF%BD%9C%E5%A4%A9%E8%8A%B1%E6%9D%BF%E8%88%87%E8%AD%B7%E5%9F%8E%E6%B2%B3?mtc=20023"/><published>2025-12-18T12:28:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4055790/%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%8D%87%20%E6%B8%AF%E8%82%A1HSI%E5%8F%AF%E5%A5%BD%EF%BC%9F?mtc=20023</id><title>人民幣升 港股HSI可好？</title><updated>2025-12-18T12:30:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4055790/%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%8D%87%20%E6%B8%AF%E8%82%A1HSI%E5%8F%AF%E5%A5%BD%EF%BC%9F?mtc=20023"/><published>2025-12-18T12:30:00+08:00</published></entry><entry><id>https://wealth.hket.com/article/4055754/%E6%B8%AF%E5%85%83%E5%AE%9A%E5%AD%98%EF%BD%9C%E6%9C%80%E5%B0%9110%E9%8A%80%E8%A1%8C%E6%9C%AC%E5%91%A8%E5%8A%A0%E5%AD%98%E6%81%AF%E3%80%80%E4%B8%AD%E8%B3%87%E8%A1%8C%E9%87%8D%E4%B8%8A3%E5%8E%98%E3%80%801%E8%87%B33%E5%80%8B%E6%9C%88%E6%9C%80%E6%90%B6%E6%89%8B?mtc=20023</id><title>港元定存｜最少10銀行本周加存息　中資行重上3厘　1至3個月最搶手</title><updated>2025-12-18T12:35:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-12-18T12:35:04.783+08:00 Updated on: 2025-12-18T12:35:04.783+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;銀行的存款定價，主要視乎自身的商業策略及市場利率走勢，這兩項因素在近日促成一場小型加息潮，懶理美國聯儲局一再減息，最少10間銀行在近一周上調港元定期存款年利率。&lt;/p&gt;&lt;p&gt;加息集中在1個月至3個月存款期，反映年結臨近，銀行的資金壓力，部分要透過吸納存款而解決。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;HIBOR高企在3厘以上&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;雖然美國減息長遠會促使港元利率下調，但年結將至，近日HIBOR（香港銀行同業拆息）不跌反升，隔夜HIBOR連升5天，與供樓利息相關的1個月HIBOR企在3.1厘之上。由1個月至12個月期限，結算率都在3厘水平。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;最少10銀行加港元存息&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;集友銀行3個月年利率2.85厘&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;集友銀行亦是集中加1個月及3個月存息。1個月港元定存由1.8厘加至2厘，3個月則由本周初期的2.75厘加至最新的2.85厘。&lt;/p&gt;&lt;p&gt;以上適用於100萬元新資金，至於現有資金亦相應加至1.9厘及2.65厘。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;集友銀行港元定存&lt;/li&gt;&lt;li&gt;3個月港元定存︰最高2.85厘&lt;/li&gt;&lt;li&gt;1個月港元定存︰最高2.0厘&lt;/li&gt;&lt;li&gt;起存額︰100萬元新資金&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;資料來源︰&lt;a href="https://www.chiyubank.com/cyb/attachDir/2025/12/2025121713572323565.pdf"&gt;集友銀行&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;建行亞洲全線加息&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;建行亞洲亦是連環加息，且全線都有所上調，現有客戶100萬元網上新資金，3個月年利率2.65厘，6個月及12個月均加至2.45厘，以上均在本周累計加息15點子。&lt;/p&gt;&lt;p&gt;1個月及2個月年利率的加幅更大，最新分別有2.55厘及2.5厘，近一周累計上調105點子及60點子。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;建行亞洲港元定存&lt;/li&gt;&lt;li&gt;3/6/12個月年利率︰最高2.65厘/2.45厘/2.45厘&lt;/li&gt;&lt;li&gt;1/2個月年利率︰最高2.55厘/2.5厘&lt;/li&gt;&lt;li&gt;起存額︰100萬元新資金&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;資料來源︰&lt;a href="https://www.asia.ccb.com/hongkong_tc/personal/accounts/dep_rates.html"&gt;建行亞洲&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;南洋商業銀行重上3厘&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;南商本周急搶短期存款，1個月港元定存由2.25厘大幅加至3厘，其他存款期維持不變，3個月年利率有2.9厘。&lt;/p&gt;&lt;p&gt;該行近日下調定存門檻，最高息由以往需100萬元減至10萬元，亦無理財戶口要求。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;南洋商業銀行港元定存&lt;/li&gt;&lt;li&gt;1個月年利率︰3.0厘&lt;/li&gt;&lt;li&gt;3個月年利率︰2.9厘&lt;/li&gt;&lt;li&gt;起存額︰10萬元新資金&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;資料來源︰&lt;a href="https://www.ncb.com.hk/nanyang_bank/popup1/deposit.html"&gt;南洋商業銀行&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信銀國際3個月加至2.83厘&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;信銀國際本周連環加息，3個月港元定期年利率由上周的2.65厘加至2.83厘，適用於10萬元新資金，而現有資金也有2.78厘。&lt;/p&gt;&lt;p&gt;至於1個月及2個月存款期亦先減後加，最新加至2.8厘，均為全城次高，10萬元起存，新舊資金同等年利率。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;信銀國際港元定存&lt;/li&gt;&lt;li&gt;3個月港元定存︰最高2.83厘&lt;/li&gt;&lt;li&gt;1個月/2個月港元定存︰最高2.8厘&lt;/li&gt;&lt;li&gt;起存額︰10萬元新資金&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;交銀香港1個月存期加至2.6厘&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;交銀香港本周集中加1個月港元定存，由上周的1.9厘逐步加至2.6厘，適用於理財客戶的100萬元網上新資金。&lt;/p&gt;&lt;p&gt;至於一般客戶2萬元起存，亦相應加至2.3厘。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;交銀香港港元定存&lt;/li&gt;&lt;li&gt;1個月年利率︰2.6厘&lt;/li&gt;&lt;li&gt;3個月年利率︰2.8厘&lt;/li&gt;&lt;li&gt;起存額︰100萬元新資金&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;資料來源︰&lt;a href="https://www.hk.bankcomm.com/hk/hk/cn/file/getContentPath.html?fileId=2600167"&gt;交銀香港&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;匯立銀行重新加息最高2.5厘&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;匯立銀行本月初撤走3厘高息後，12個月年利率一度減至2厘，最新反覆見2.3厘；3個月及6個月年利率，則一律加至2.5厘。&lt;/p&gt;&lt;p&gt;該行的定存門檻偏低，10元可起存，毋需新資金。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;匯立銀行港元定存&lt;/li&gt;&lt;li&gt;3/6個月年利率︰2.5厘&lt;/li&gt;&lt;li&gt;12個月年利率︰2.3厘&lt;/li&gt;&lt;li&gt;起存額︰10元&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;資料來源︰&lt;a href="https://www.welab.bank/zh/feature/gosave_2/"&gt;匯立銀行&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;富融銀行快閃定存2個月2.9厘&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;富融銀行本周的快閃定存優惠，繼續設有2星期25厘及1個月5厘高息，但存款期短、而且本金限制，實際收息不多。&lt;/p&gt;&lt;p&gt;反而一款2個月2.9厘，目前是全城最高，且每人最多可以300萬元新資金開立，適合大戶短期收息。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;富融銀行港元定存&lt;/li&gt;&lt;li&gt;2個月年利率︰2.9厘&lt;/li&gt;&lt;li&gt;起存額︰5萬元新資金（每人最多60份）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;資料來源︰&lt;a href="https://www.fusionbank.com/common/detail.html?key=fusionflash&amp;amp;lang=tc"&gt;富融銀行&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;大新銀行3個月及6個月一律加至2.9厘&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;大新銀行的新舊客戶齊齊加息，全新VIP客戶，10萬元至50萬元存款額，3個月及6個月港元定存年利率，均加息10點子至2.9厘。&lt;/p&gt;&lt;p&gt;現有VIP客戶100萬元新資金起存，亦一律加至2.9厘。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;大新銀行港元定存&lt;/li&gt;&lt;li&gt;3/6個月年利率︰2.9厘&lt;/li&gt;&lt;li&gt;全新VIP客戶起存額︰10萬元新資金&lt;/li&gt;&lt;li&gt;現有VIP客戶起存額︰100萬元新資金&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;其他如大眾銀行、上海商業銀行及livibank等，亦先後上調港元定存年利率，集中在1個月至3個月存款期，令近一周加存息的銀行增至逾10間。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;1個月港元定存大比併&lt;/strong&gt;&lt;/p&gt;&lt;div class="table-wrapper"&gt;&lt;table border="1" style="width:100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan="4" style="text-align: center;"&gt;&lt;strong&gt;1個月港元定期存款（不計全新客戶/兌換資金）&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;銀行&lt;/strong&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;最高年利率&lt;/strong&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;存款額&lt;/strong&gt;&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;strong&gt;條件&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;富融銀行&lt;/td&gt;&lt;td style="text-align: center;"&gt;5.0厘&lt;/td&gt;&lt;td style="text-align: center;"&gt;1萬元（固定）&lt;/td&gt;&lt;td style="text-align: center;"&gt;新資金快閃優惠&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;南洋商業銀行&lt;/td&gt;&lt;td style="text-align: center;"&gt;3.0厘&lt;/td&gt;&lt;td style="text-align: center;"&gt;10萬元&lt;/td&gt;&lt;td style="text-align: center;"&gt;所有客戶新資金&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;信銀國際&lt;/td&gt;&lt;td style="text-align: center;"&gt;2.8厘&lt;/td&gt;&lt;td style="text-align: center;"&gt;10萬元&lt;/td&gt;&lt;td style="text-align: center;"&gt;手機銀行開立，不論新舊資金&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;華僑銀行&lt;/td&gt;&lt;td style="text-align: center;"&gt;2.68厘&lt;/td&gt;&lt;td style="text-align: center;"&gt;10萬元&lt;/td&gt;&lt;td style="text-align: center;"&gt;理財客戶新資金&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;交銀香港&lt;/td&gt;&lt;td style="text-align: center;"&gt;2.6厘&lt;/td&gt;&lt;td style="text-align: center;"&gt;100萬元&lt;/td&gt;&lt;td style="text-align: center;"&gt;指定理財客戶網上新資金&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;富邦銀行&lt;/td&gt;&lt;td style="text-align: center;"&gt;2.6厘&lt;/td&gt;&lt;td style="text-align: center;"&gt;50萬元&lt;/td&gt;&lt;td style="text-align: center;"&gt;手機銀行開立，不論新舊資金&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;建行亞洲&lt;/td&gt;&lt;td style="text-align: center;"&gt;2.55厘&lt;/td&gt;&lt;td style="text-align: center;"&gt;100萬元&lt;/td&gt;&lt;td style="text-align: center;"&gt;網上新資金&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;創興銀行&lt;/td&gt;&lt;td style="text-align: center;"&gt;2.3厘&lt;/td&gt;&lt;td style="text-align: center;"&gt;50萬元&lt;/td&gt;&lt;td style="text-align: center;"&gt;網上或手機銀行開立，不論新舊資金&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;集友銀行&lt;/td&gt;&lt;td style="text-align: center;"&gt;2.0厘&lt;/td&gt;&lt;td style="text-align: center;"&gt;100萬元&lt;/td&gt;&lt;td style="text-align: center;"&gt;分行新資金&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;大眾銀行&lt;/td&gt;&lt;td style="text-align: center;"&gt;2.0厘&lt;/td&gt;&lt;td style="text-align: center;"&gt;50萬元&lt;/td&gt;&lt;td style="text-align: center;"&gt;不論新舊資金&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;螞蟻銀行&lt;/td&gt;&lt;td style="text-align: center;"&gt;2.0厘&lt;/td&gt;&lt;td style="text-align: center;"&gt;10萬元&lt;/td&gt;&lt;td style="text-align: center;"&gt;新資金&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;港元定存高息排行榜&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;36個月︰Mox Bank 3.0厘&lt;/li&gt;&lt;li&gt;24個月︰匯立銀行2.2厘&lt;/li&gt;&lt;li&gt;12個月︰Mox Bank 2.8厘&lt;/li&gt;&lt;li&gt;9個月︰招商永隆2.5厘&lt;/li&gt;&lt;li&gt;6個月︰星展銀行3.0厘&lt;/li&gt;&lt;li&gt;5個月︰南洋商業銀行2.8厘&lt;/li&gt;&lt;li&gt;4個月︰星展銀行3.0厘&lt;/li&gt;&lt;li&gt;3個月（全新客戶）建行亞洲6.88厘&lt;/li&gt;&lt;li&gt;3個月（現有客戶）創興銀行3.1厘&lt;/li&gt;&lt;li&gt;2個月︰富融銀行2.9厘&lt;/li&gt;&lt;li&gt;1個月（全新客戶）PAObank18厘&lt;/li&gt;&lt;li&gt;1個月（現有客戶）南洋商業銀行3.0厘&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;本文最後更新日期︰2025年12月18日&lt;/p&gt;&lt;p&gt; &lt;span class="article-detail_inline-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055754/hsbc-building-02_1_1200.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055754/hsbc-building-02_1_600.jpg" media="(min-width: 992px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055754/hsbc-building-02_1_1024.jpg" media="(min-width: 630px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055754/hsbc-building-02_1_600.jpg" media="(min-width: 330px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4055000/4055754/hsbc-building-02_1_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="港元定存｜最少10銀行本周加存息　中資行重上3厘　1至3個月最搶手" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4055000/4055754/hsbc-building-02_1_1200.jpg" src="https://static04.hket.com/res/v3/image/content/4055000/4055754/hsbc-building-02_1_1200.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/span&gt;
+&lt;span class="article-detail_caption block"&gt;&lt;span&gt;▲&lt;/span&gt; 港元定存｜最少10銀行本周加存息　中資行重上3厘　1至3個月最搶手&lt;/span&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;更多高息存款︰&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://wealth.hket.com/article/4054484/?lcc=aw" title="港元定存新動向　1個月年利率重上3厘　2個月2.9厘新高"&gt;港元定存新動向　1個月年利率重上3厘　2個月2.9厘新高&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://wealth.hket.com/article/4053852/?lcc=aw" title="港元定存｜5銀行降門檻吸客　20厘「平民高息」低入場費、高年利率"&gt;港元定存｜5銀行降門檻吸客　20厘「平民高息」低入場費、高年利率&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://wealth.hket.com/article/4052939/?lcc=aw" title="港元定期存款｜3個月年利率4.8厘！50萬元起存3.63厘"&gt;港元定期存款｜3個月年利率4.8厘！50萬元起存3.63厘&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://wealth.hket.com/article/4055754/%E6%B8%AF%E5%85%83%E5%AE%9A%E5%AD%98%EF%BD%9C%E6%9C%80%E5%B0%9110%E9%8A%80%E8%A1%8C%E6%9C%AC%E5%91%A8%E5%8A%A0%E5%AD%98%E6%81%AF%E3%80%80%E4%B8%AD%E8%B3%87%E8%A1%8C%E9%87%8D%E4%B8%8A3%E5%8E%98%E3%80%801%E8%87%B33%E5%80%8B%E6%9C%88%E6%9C%80%E6%90%B6%E6%89%8B?mtc=20023"/><published>2025-12-18T12:35:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4055559/%E6%9C%89%E5%9C%96%E6%9C%89%E5%8B%A2%EF%BD%9CHSI%E5%8D%B1%E6%A9%9F%E9%86%9E%E9%87%80%20%E7%BE%8E%E6%97%A5%E6%81%AF%E5%B7%AE%E5%9A%87%E8%B5%B0%E7%92%B0%E7%90%83%E8%B3%87%E9%87%91%EF%BC%9F%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023</id><title>有圖有勢｜HSI危機醞釀 美日息差嚇走環球資金？（持續更新）</title><updated>2025-12-18T12:35:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4055559/%E6%9C%89%E5%9C%96%E6%9C%89%E5%8B%A2%EF%BD%9CHSI%E5%8D%B1%E6%A9%9F%E9%86%9E%E9%87%80%20%E7%BE%8E%E6%97%A5%E6%81%AF%E5%B7%AE%E5%9A%87%E8%B5%B0%E7%92%B0%E7%90%83%E8%B3%87%E9%87%91%EF%BC%9F%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023"/><published>2025-12-18T12:35:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4054622/%E8%B4%8F%E5%92%97Thanos%20%E5%8D%BB%E8%BC%B8%E6%AF%94Sora%EF%BC%9A%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B5%82%E6%96%BC%E4%BD%8E%E9%A0%AD%C2%A0%20Marvel%E8%8B%B1%E9%9B%84%E7%9A%84AI%E8%BC%93%E6%AD%8C?mtc=20023</id><title>贏咗Thanos 卻輸比Sora：迪士尼終於低頭  Marvel英雄的AI輓歌</title><updated>2025-12-18T12:37:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2025-12-18T12:37:17+08:00 Updated on: 2025-12-18T12:37:19.584+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;在電影《復仇者聯盟：終局之戰》（Avengers： Endgame）裡，Iron Man彈指之間犧牲了自己，拯救了宇宙免於薩諾斯（Thanos）的統政。但在現實的平行時空裡，這群超級英雄卻迎來了另一個結局：他們沒有戰死沙場，而是被打包「獻祭」給了人工智能（AI）。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;【hketPRO 聖誕獎賞】 訂閲 送「東薈城名店倉 x BIG HUGS 抱抱人特別版Venchi 聖誕迷你薄片巧克力禮盒」(價值$120)❗&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4055270?utm_content=4054622&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202512_Citygate_contentblock&amp;amp;utm_content=4054622&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4055270" title="【hketPRO 聖誕獎賞】訂閲 送「東薈城名店倉 x BIG HUGS 抱抱人特別版Venchi 聖誕迷你薄片巧克力禮盒」(價值$120)❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251128_Citygate_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20251128_Citygate_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4054622/%E8%B4%8F%E5%92%97Thanos%20%E5%8D%BB%E8%BC%B8%E6%AF%94Sora%EF%BC%9A%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B5%82%E6%96%BC%E4%BD%8E%E9%A0%AD%C2%A0%20Marvel%E8%8B%B1%E9%9B%84%E7%9A%84AI%E8%BC%93%E6%AD%8C?mtc=20023"/><published>2025-12-18T12:37:00+08:00</published></entry></feed>
