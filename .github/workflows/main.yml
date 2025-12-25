@@ -54,12 +54,12 @@ jobs:
         run: |
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
             #python hkdiscuss.py --feeds money house hottopics
-            python hkdiscuss.py --feeds money house
+            #python hkdiscuss.py --feeds money house
           elif [[ "${{ github.event.schedule }}" == "0 */4 * * *" ]]; then
-            python hkdiscuss.py --feeds money house
+            #python hkdiscuss.py --feeds money house
             python hknet.py
           else
-            python hkdiscuss.py --feeds hottopics
+            #python hkdiscuss.py --feeds hottopics
           fi
               
       - name: Check generated files
