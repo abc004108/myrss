@@ -52,16 +52,8 @@ jobs:
 
       - name: Generate RSS feeds
         run: |
-          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
-            #python hkdiscuss.py --feeds money house hottopics
-            #python hkdiscuss.py --feeds money house
-          elif [[ "${{ github.event.schedule }}" == "0 */4 * * *" ]]; then
-            #python hkdiscuss.py --feeds money house
-            python hknet.py
-          else
-            #python hkdiscuss.py --feeds hottopics
-          fi
-              
+          python hknet.py
+             
       - name: Check generated files
         run: |
           xml_count=$(find . -maxdepth 1 -name "*.xml" | wc -l)
