@@ -1,184 +1,98 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080</id><title>HKET News Feed</title><updated>2026-05-25T23:19:02.139985+08:00</updated><link href="https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>Latest news</subtitle><entry><id>https://inews.hket.com/article/4133713/toshifumi-suzuki-7-eleven-retail-legend-passed-away-2026?mtc=20023</id><title>【7-11教父】7-Eleven靈魂人物鈴木敏文辭世　享年93歲　一次轉工改寫全球便利店歷史？</title><updated>2026-05-25T18:02:00+08:00</updated><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080</id><title>HKET News Feed</title><updated>2026-05-26T01:47:22.204246+08:00</updated><link href="https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>Latest news</subtitle><entry><id>https://ps.hket.com/article/4133790/%E6%9F%B4%E7%81%A3%E6%B5%B7%E5%BE%B7%E5%9C%92%E6%96%BC%E4%BD%9B%E8%AA%95%E9%95%B7%E5%91%A8%E6%9C%AB%E9%80%A3%E6%B2%BD6%E4%BC%99%20%E5%90%88%E5%85%B1%E5%A5%97%E7%8F%BE%E9%80%BE5,100%E8%90%AC%E5%85%83?mtc=20023</id><title>柴灣海德園於佛誕長周末連沽6伙 合共套現逾5,100萬元</title><updated>2026-05-26T20:18:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4133790/%E6%9F%B4%E7%81%A3%E6%B5%B7%E5%BE%B7%E5%9C%92%E6%96%BC%E4%BD%9B%E8%AA%95%E9%95%B7%E5%91%A8%E6%9C%AB%E9%80%A3%E6%B2%BD6%E4%BC%99%20%E5%90%88%E5%85%B1%E5%A5%97%E7%8F%BE%E9%80%BE5,100%E8%90%AC%E5%85%83?mtc=20023"/><published>2026-05-26T20:18:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4132797/%E3%80%90ESG%E3%80%91%E8%B2%A1%E5%BA%AB%E5%B1%80%EF%BC%9A%E9%A6%96%E5%AD%A3190%E9%9A%BBESG%E5%9F%BA%E9%87%91%20%E7%AE%A1%E7%90%86%E8%B3%87%E7%94%A2%E8%A6%8F%E6%A8%A1%E9%80%BE%E8%90%AC%E5%84%84%E5%85%83?mtc=20023</id><title>【ESG】財庫局：首季190隻ESG基金 管理資產規模逾萬億元</title><updated>2026-05-26T20:29:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2026-05-25T18:02:52+08:00 Updated on: 2026-05-25T21:03:47.862+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2026-05-25T20:29:45.137+08:00 Updated on: 2026-05-25T20:29:45.137+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;便利店7-Eleven的日本母公司Seven &amp;amp; i控股公司（Seven &amp;amp; i Holdings Co.， Ltd.）名譽顧問鈴木敏文（Toshifumi Suzuki），於2026年5月18日因心臟衰竭與世長辭，享年93歲。&lt;/p&gt;&lt;p&gt;Seven &amp;amp; i發聲明指，對鈴木敏文一生為集團及零售業做出的卓越貢獻致以最崇高的敬意，並對其生前獲得的各界支持與厚愛表達由衷感謝。遵照其家屬的意願，喪禮已由至親低調舉行，謝絕一切弔唁、電報、奠儀、香油錢、慰問禮品及花圈，未來將在適當的時候為鈴木敏文舉行正式的追思會，讓各界共同緬懷這位零售巨擘的傳奇一生。&lt;/p&gt;&lt;h2&gt;揭秘7-Eleven的本土化推手　如何從美國引進模式，最終反向收購美國母企的傳奇一生&lt;/h2&gt;&lt;p&gt;出生於1932年12月1日日本長野縣的鈴木敏文，被譽為「日本零售教父」與「便利店教父」，其一生可謂是全球零售連鎖產業的發展縮影。他於1956年從日本中央大學經濟學部畢業後，隨即進入東京出版販賣（現為東販公司TOHAN）工作，並於1963年轉投伊藤洋華堂（Ito-Yokado）。這次轉工，徹底改寫全球便利店歷史。&lt;/p&gt;&lt;p&gt;1970年代，鈴木敏文獨具慧眼，克服重重反對聲音，堅決引入美國南蘭公司（The Southland Corporation）的單店經營模式，並在1973年成立日本7-Eleven（SEVEN-ELEVEN JAPAN CO.， LTD.）的前身，在翌年5月日本首間7-Eleven在東京都豐洲地區開幕，除了24小時營業外，也利用銷售時點情報系統（POS），因應顧客喜好變化，調整商品陳列。便利商店事業上軌道之後，於1978年出任SEVEN-ELEVEN JAPAN社長。隨後在1991年，更反向收購了陷入財務危機的美國母公司南蘭公司，出任其副董事長，並於2003年全面接掌美國7-Eleven董事長一職。&lt;/p&gt;&lt;p&gt;鈴木敏文不僅是日本7-Eleven的開創者，更是將便利商店本土化、精緻化的重要推手，不單推動單品管理（Item-by-item Management）體系、飯糰等鮮食供應鏈，以及深入大眾生活的POS系統和ATM繳費等創新服務，將7-Eleven從單純的社區小雜貨店，轉型為不可或缺的社會基礎設施。&lt;/p&gt;&lt;p&gt;2005年9月，隨着集團架構重組，他正式出任Seven &amp;amp; i控股公司的董事長兼行政總裁（CEO），成為這家跨國零售巨頭的掌舵人，直到2016年5月才轉任名譽顧問，正式退居幕後，並持續兼任母校中央大學的名譽評議員與東販公司的資深顧問。&lt;/p&gt;&lt;h2&gt;曾任日本經團聯副會長、內閣府委員&lt;/h2&gt;&lt;p&gt;除了在商業界運籌帷幄，鈴木敏文在日本財經界、學術界及政府公共事務中亦發揮舉足輕重的影響力，曾先後擔任日本經濟團體聯合會（經團聯Keidanren）副會長及顧問，並長期出任母校中央大學的理事、理事長兼評議會主席，於 2003 年獲頒中央大學名譽博士學位。在公共政策領域，他亦曾受邀出任日本內閣府「高度資訊通訊網路社會推進戰略本部」的委員。&lt;/p&gt;&lt;p&gt;鈴木敏文一生在經濟與社會的成就，讓他屢獲日本政府與國際社會的肯定。他曾於1997年與1999年分別獲日本政府頒發「藍綬褒章」與「紺綬褒章」，更在2003 年頒發極具殊榮的「旭日大綬章」（Grand Cordon of the Order of the Sacred Treasure），以表彰他對日本流通產業現代化及國家經濟發展的功勳。&lt;/p&gt;&lt;p&gt;資料來源：&lt;a href="https://www.7andi.com/library/dbps_data/_material_/localhost/en/release_pdf/2026_0525_01en.pdf"&gt;Seven &amp;amp; i公告&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/4133713/toshifumi-suzuki-7-eleven-retail-legend-passed-away-2026?mtc=20023"/><published>2026-05-25T18:02:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4133382/%E5%A4%A7%E6%88%B6%E6%89%8B%E5%BD%B1%EF%BD%9C%E4%B8%AD%E8%B3%87%E5%9F%BA%E9%87%91%E4%BD%8E%E5%83%B9%E5%A4%A7%E6%89%8B%E6%B8%9B%E6%8C%81%E4%B8%80%E8%97%8D%E7%B1%8C%E8%97%A5%E8%82%A1?mtc=20023</id><title>大戶手影｜中資基金低價大手減持一藍籌藥股</title><updated>2026-05-25T18:10:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4133382/%E5%A4%A7%E6%88%B6%E6%89%8B%E5%BD%B1%EF%BD%9C%E4%B8%AD%E8%B3%87%E5%9F%BA%E9%87%91%E4%BD%8E%E5%83%B9%E5%A4%A7%E6%89%8B%E6%B8%9B%E6%8C%81%E4%B8%80%E8%97%8D%E7%B1%8C%E8%97%A5%E8%82%A1?mtc=20023"/><published>2026-05-25T18:10:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4131776/%E5%B0%8F%E7%B1%B3%E8%90%BD%E9%9B%A3%E5%83%B930%E5%85%83%20%20%20%E9%9B%B7%E8%BB%8D%E5%87%BA%E6%89%8B%E8%AD%B7%E3%80%8C%E5%83%B9%E3%80%8D%EF%BC%9F?mtc=20023</id><title>小米落難價30元   雷軍出手護「價」？</title><updated>2026-05-25T18:10:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4131776/%E5%B0%8F%E7%B1%B3%E8%90%BD%E9%9B%A3%E5%83%B930%E5%85%83%20%20%20%E9%9B%B7%E8%BB%8D%E5%87%BA%E6%89%8B%E8%AD%B7%E3%80%8C%E5%83%B9%E3%80%8D%EF%BC%9F?mtc=20023"/><published>2026-05-25T18:10:00+08:00</published></entry><entry><id>https://ps.hket.com/article/4133741/%E5%A4%A7%E5%9C%8D%E6%9F%8F%E5%82%B2%E8%8E%8AIII%E5%94%AE%E5%87%BA2%E4%BC%99%E6%B2%B3%E6%99%AF%E5%A4%A7%E6%88%B6%20%E5%A5%97%E7%8F%BE%E9%80%BE3,800%E8%90%AC%E5%85%83?mtc=20023</id><title>大圍柏傲莊III售出2伙河景大戶 套現逾3,800萬元</title><updated>2026-05-25T18:20:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4133741/%E5%A4%A7%E5%9C%8D%E6%9F%8F%E5%82%B2%E8%8E%8AIII%E5%94%AE%E5%87%BA2%E4%BC%99%E6%B2%B3%E6%99%AF%E5%A4%A7%E6%88%B6%20%E5%A5%97%E7%8F%BE%E9%80%BE3,800%E8%90%AC%E5%85%83?mtc=20023"/><published>2026-05-25T18:20:00+08:00</published></entry><entry><id>https://ps.hket.com/article/4133715/%E5%95%9F%E5%BE%B7%E7%B6%AD%E6%B8%AF%E2%80%A7%E7%81%A3%E7%95%94%E9%8C%84%E5%A4%A7%E6%89%8B%E5%AE%A2%E9%80%A3%E8%B3%BC3%E4%BC%99%20%E6%B6%89%E8%B3%87%E9%80%BE5,000%E8%90%AC%E5%85%83?mtc=20023</id><title>啟德維港‧灣畔錄大手客連購3伙 涉資逾5,000萬元</title><updated>2026-05-25T18:21:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4133715/%E5%95%9F%E5%BE%B7%E7%B6%AD%E6%B8%AF%E2%80%A7%E7%81%A3%E7%95%94%E9%8C%84%E5%A4%A7%E6%89%8B%E5%AE%A2%E9%80%A3%E8%B3%BC3%E4%BC%99%20%E6%B6%89%E8%B3%87%E9%80%BE5,000%E8%90%AC%E5%85%83?mtc=20023"/><published>2026-05-25T18:21:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4133744/%E3%80%90%E5%A4%AA%E5%8F%A4%E7%B3%BB%E3%80%91%E5%A4%AA%E5%8F%A4%E5%9C%B0%E7%94%A2%E3%80%8C%E6%9B%B8%E5%87%BA%E6%84%9B%E5%BF%83%20%E5%8D%81%E5%85%83%E7%BE%A9%E8%B3%A3%E3%80%8D%E7%B1%8C%E9%80%BE172%E8%90%AC%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98%E3%80%80%E6%AD%B7%E5%B9%B4%E7%B1%8C%E6%AC%BE%E7%B8%BD%E9%A1%8D%E7%AA%81%E7%A0%B4%E5%8D%83%E8%90%AC%E5%85%83?mtc=20023</id><title>【太古系】太古地產「書出愛心 十元義賣」籌逾172萬元創新高　歷年籌款總額突破千萬元</title><updated>2026-05-25T18:24:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2026-05-25T18:24:16.712+08:00 Updated on: 2026-05-25T18:24:16.712+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;太古地產				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01972/?mtc=20048"&gt;（01972）&lt;/a&gt;
-年度大型社區慈善活動「書出愛心 十元義賣」8天實體書籍義賣圓滿結束，本年度實體義賣及於3月舉行的網上二手兒童書義賣，合共籌得超過172萬元，並獲逾58,000人次到訪，打破自2009年舉辦以來的紀錄，歷年籌款總額更突破1,000萬元。&lt;/p&gt;&lt;p&gt;義賣活動明年將再接再厲，並將於2027年1月再次展開全港書本收集活動，鼓勵愛書人士捐出狀態良好的二手書作慈善義賣用途。&lt;/p&gt;&lt;p&gt;「書出愛心 十元義賣」由太古地產贊助，並由「太古地產愛心大使」企業義工團隊，聯同香港小童群益會及義務工作發展局合辦，籌得善款全數用於支持香港小童群益會「群益寶庫」計劃，以及義務工作發展局推動義務工作的持續發展。&lt;/p&gt;
-&lt;div class="listing-widget-126"&gt;
-&lt;div class="video-channel-info"&gt;
-&lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
-&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/051008.png);"&gt;&lt;/div&gt;
-&lt;span&gt;財經Hot Talk&lt;/span&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4131326" data-content-type="EGC" data-formaltag="投資,經濟,經濟數據表現,股票,投資產品,外滙,市況分析,大行報告,科技通訊,創新科技及應用,人工智能,市場動向,宏觀分析,債券,經濟衰退,實體詞,財金政策,減息,美股,加息,美國政府及法定機構,美國聯儲局,地域及地區,日本,美國,經濟數據及調查,通脹,PPI,CPI,債券種類,國債" data-length="125" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4131326/hls/4131326_1779186229491.m3u8" data-rel="4131326" data-source="051" data-thumbnail="20260519_1min_US.jpg" data-videoid="4131326" data-videoprogram="財經Hot Talk" data-videopublishdate="2026-05-19" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？" data-videotype="video" id="player-4133744-4131326"&gt;&lt;/video&gt;
-&lt;div class="listing-title"&gt;
-&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4131326" title="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？"&gt;美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/4133744/%E3%80%90%E5%A4%AA%E5%8F%A4%E7%B3%BB%E3%80%91%E5%A4%AA%E5%8F%A4%E5%9C%B0%E7%94%A2%E3%80%8C%E6%9B%B8%E5%87%BA%E6%84%9B%E5%BF%83%20%E5%8D%81%E5%85%83%E7%BE%A9%E8%B3%A3%E3%80%8D%E7%B1%8C%E9%80%BE172%E8%90%AC%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98%E3%80%80%E6%AD%B7%E5%B9%B4%E7%B1%8C%E6%AC%BE%E7%B8%BD%E9%A1%8D%E7%AA%81%E7%A0%B4%E5%8D%83%E8%90%AC%E5%85%83?mtc=20023"/><published>2026-05-25T18:24:00+08:00</published></entry><entry><id>https://ps.hket.com/article/4133743/%E4%BD%95%E6%96%87%E7%94%B0%E8%AD%BD%E6%9E%97%E9%8C%84%E6%8B%9B%E6%A8%99%E6%88%90%E4%BA%A4%203%E6%88%BF1,550%E8%90%AC%E5%85%83%E6%B2%BD?mtc=20023</id><title>何文田譽林錄招標成交 3房1,550萬元沽</title><updated>2026-05-25T18:25:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4133743/%E4%BD%95%E6%96%87%E7%94%B0%E8%AD%BD%E6%9E%97%E9%8C%84%E6%8B%9B%E6%A8%99%E6%88%90%E4%BA%A4%203%E6%88%BF1,550%E8%90%AC%E5%85%83%E6%B2%BD?mtc=20023"/><published>2026-05-25T18:25:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4133750/citic-cross-border-trading-impact-futu-buyback-2026?mtc=20023</id><title>【禁跨境炒股分析】中信證券料波及2500億元資產　港股衝擊可控</title><updated>2026-05-25T18:43:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2026-05-25T18:43:50+08:00 Updated on: 2026-05-25T18:54:26.19+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;中國證監會上周五（22日）祭出重拳，明令禁止境外券商在內地非法提供開戶及交易服務，並啟動為期2年的跨境業務整頓方案。新規要求現有的中國內地存量帳戶必須在兩年之內逐步完成清倉，期間只准單向的「沽貨（賣出）」及「轉出資金」。&lt;/p&gt;&lt;p&gt;市場關注港股會否出現拋售潮。中信証券根據富途證券（FUTU）及老虎證券的數據估算，富途受影響的內地存量資產規模約1,500億至1,800億港元，老虎證券受影響規模則約為450億至500億港元。如果計及其他受影響券商，整體市場受監管波及的資產總規模預計達到2,000億至2,500億港元。&lt;/p&gt;&lt;p&gt;不過，中信証券強調，這些存量戶口的資產配置多元，不單持有港股，還包括現金、貨幣基金、各類基金產品及期權等多類金融資產。因此，上述估算數字絕非代表存量戶口持有港股的實際規模，市場不能簡單地將其理解為港股市場的潛在沽盤或拋售壓力。&lt;/p&gt;&lt;h2&gt;中信：逐步清倉對港股衝擊可控&lt;/h2&gt;&lt;p&gt;對於市場擔憂的流動性衝擊，大行抱持相對樂觀態度。中信証券分析指出，儘管內地存量戶的持倉被要求在2年內出清，但只要在整改期內以逐步消化方式完成即可，並非強制性的一次性清倉。加上部分客戶在過渡期內，可能擁有調整身份或合法化申報的機會，因此新規在短期內對港股市場的衝擊可控。&lt;/p&gt;&lt;p&gt;國際投行摩根士丹利（大摩）亦認為，新措施雖然短期帶來波動，但實際上徹底消除了困擾市場長達數年之久的最大監管隱憂。&lt;/p&gt;
-&lt;div class="listing-widget-126"&gt;
-&lt;div class="video-channel-info"&gt;
-&lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
-&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/051008.png);"&gt;&lt;/div&gt;
-&lt;span&gt;財經Hot Talk&lt;/span&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4131326" data-content-type="EGC" data-formaltag="投資,經濟,經濟數據表現,股票,投資產品,外滙,市況分析,大行報告,科技通訊,創新科技及應用,人工智能,市場動向,宏觀分析,債券,經濟衰退,實體詞,財金政策,減息,美股,加息,美國政府及法定機構,美國聯儲局,地域及地區,日本,美國,經濟數據及調查,通脹,PPI,CPI,債券種類,國債" data-length="125" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4131326/hls/4131326_1779186229491.m3u8" data-rel="4131326" data-source="051" data-thumbnail="20260519_1min_US.jpg" data-videoid="4131326" data-videoprogram="財經Hot Talk" data-videopublishdate="2026-05-19" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？" data-videotype="video" id="player-4133750-4131326"&gt;&lt;/video&gt;
-&lt;div class="listing-title"&gt;
-&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4131326" title="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？"&gt;美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/4133750/citic-cross-border-trading-impact-futu-buyback-2026?mtc=20023"/><published>2026-05-25T18:43:00+08:00</published></entry><entry><id>https://news.hket.com/article/4133755/%E7%8C%B4%E7%97%98%EF%BD%9C%E5%85%A9%E5%85%A7%E5%9C%B0%E7%94%B7%E6%9C%88%E5%88%9D%E5%88%B0%E8%A8%AA%E6%97%BA%E8%A7%92%E5%90%8C%E5%BF%97%E6%A1%91%E6%8B%BF%E5%BE%8C%E4%B8%AD%E6%8B%9B%E3%80%80%E9%98%B2%E8%AD%B7%E4%B8%AD%E5%BF%83%E8%AD%89%E6%9B%BE%E5%90%8C%E6%97%A5%E5%85%89%E9%A1%A7%E3%80%80%E6%9C%9F%E9%96%93%E6%9C%89%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%8E%A5%E8%A7%B8?mtc=20023</id><title>猴痘｜兩內地男月初到訪旺角同志桑拿後中招　防護中心證曾同日光顧　期間有高風險接觸</title><updated>2026-05-25T18:56:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2026-05-25T18:56:25.047+08:00 Updated on: 2026-05-25T18:56:25.047+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;衞生署衞生防護中心今日(25日)通報，中心通過聯防聯控機制，接獲中國內地衞生當局通報2宗曾在港有有高風險接觸的猴痘確診個案。涉事的28歲男子和30歲男子，均曾光顧位於旺角上海街一所名為「胡同」處所，二人互不相識，但曾同日在處所逗留數小時，且逗留期間曾有高風險接觸。中心指，按中國內地衞生當局調查，他們發病後對猴痘病毒呈陽性反應，現正在內地接受治療。&lt;/p&gt;&lt;p&gt;中心指，由2022年起至今，本港共錄得86宗猴痘個案，患者均為男性。流行病學調查顯示，絕大部分個案曾進行高風險性行為，包括與陌生人發生性行為，或在沒有佩戴安全套的情況下進行性行為。而涉事的28歲男子，在本月3日曾前往「胡同」，5日後發燒、腹股溝部位腫痛；另一名30歲男子，也在本月1日和3日到訪「胡同」，並作高風險接觸，至本月15日下肢雙側出現皮疹。&lt;/p&gt;&lt;p&gt;中心認為兩人可能於該處所與受猴痘感染人士有高風險接觸而受到感染，已進行實地考察及展開接觸者追蹤工作。中心指，曾嘗試獲取在當日曾光顧「胡同」的顧客名單，然而處所的負責人未能掌握相關資料，而「胡同」所有員工至今均無出現病徵。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://news.hket.com/article/4133755/%E7%8C%B4%E7%97%98%EF%BD%9C%E5%85%A9%E5%85%A7%E5%9C%B0%E7%94%B7%E6%9C%88%E5%88%9D%E5%88%B0%E8%A8%AA%E6%97%BA%E8%A7%92%E5%90%8C%E5%BF%97%E6%A1%91%E6%8B%BF%E5%BE%8C%E4%B8%AD%E6%8B%9B%E3%80%80%E9%98%B2%E8%AD%B7%E4%B8%AD%E5%BF%83%E8%AD%89%E6%9B%BE%E5%90%8C%E6%97%A5%E5%85%89%E9%A1%A7%E3%80%80%E6%9C%9F%E9%96%93%E6%9C%89%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%8E%A5%E8%A7%B8?mtc=20023"/><published>2026-05-25T18:56:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4133756/%E3%80%90AI%E8%8A%AF%E7%89%87%E3%80%91%E8%8F%AF%E7%82%BA%E7%99%BC%E5%B8%83%E6%96%B0%E8%8A%AF%E7%89%87%E6%8A%80%E8%A1%93%E3%80%8C%E9%9F%9C%EF%BC%88%CF%84%EF%BC%89%E5%AE%9A%E5%BE%8B%E3%80%8D%E3%80%80%E7%A8%B15%E5%B9%B4%E5%BE%8C%E5%8F%AF%E7%94%9F%E7%94%A21.4%E7%B4%8D%E7%B1%B3%E8%8A%AF%E7%89%87%E3%80%81%E8%BF%BD%E4%B8%8A%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B8%89%E6%98%9F%E3%80%80A%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E6%80%A5%E5%8D%87?mtc=20023</id><title>【AI芯片】華為發布新芯片技術「韜（τ）定律」　稱5年後可生產1.4納米芯片、追上台積電三星　A股芯片股急升</title><updated>2026-05-25T18:59:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2026-05-25T18:59:32+08:00 Updated on: 2026-05-25T19:44:28.471+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;華為周一（25日）發布一篇論文，提及一套全新的芯片設計原理「韜（τ）定律」，宣稱可突破摩爾定律瓶頸，不再只靠縮小電晶體尺寸來提升效能，而是聚焦壓縮訊號延遲，目標為2031年開始生產1.4納米芯片，消息刺激A股芯片股全綫急升，龍頭股升幅普遍更超過1成。&lt;/p&gt;&lt;p&gt;港股周一休市，A股全日則升超過1%，主要受惠芯片股向好，華虹半導體				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01347/?mtc=20048"&gt;（01347）&lt;/a&gt;
-母企華虹公司（滬：688347）升2成漲停、中芯國際（滬：688981）升17.8%、兆易創新（滬：603986）及寒武紀（滬：688256）分別升1成及9.4%。&lt;/p&gt;&lt;h2&gt;過去6年已根據韜定律量產381款芯片&lt;/h2&gt;&lt;p&gt;華為公司董事、半導體業務部總裁何庭波發布一篇名為《A Time Scaling Theory for Multi-Layer Electronic Systems》的論文，提及已開發出一種替代技術方案，他在公開場合演講時，亦正式發表相關的「韜（τ）定律」（Tau Scaling Law），強調該方案「走得通，走得遠」。&lt;/p&gt;&lt;p&gt;他指出，基於該定律，華為過去六年已成功設計並量產381款芯片。今年秋季，華為將發布新的麒麟手機芯片，完整採用邏輯折疊技術，大幅提升相關性能。&lt;/p&gt;&lt;p&gt;他提到，「韜定律」提出以「時間縮微」替代「幾何縮微」，以系統性降低時間常數（韜τ）為目標，通過邏輯折疊（LogicFolding）等創新技術，持續壓縮信號傳播時延，不斷提升晶體管密度，實現半導體與電子系統的持續演進。&lt;/p&gt;&lt;p&gt;何庭波又預計，到2031年，基於該定律的高端芯片晶體管密度將達到1.4納米制程的同等水平，追上英特爾（美：INTC）等全球行業龍頭。台積電（台：02330）早前宣布，2028年啟動該1.4納米製程芯片的量產，將以荷蘭阿斯麥（ASML）的專用機器量產該款芯片。&lt;/p&gt;&lt;p&gt;如果華為能夠大規模生產高階晶片，將顛覆業內普遍存在的一種觀念，即製造頂級芯片必須依賴先進製程技術和機器。中美科技競爭中將會出現新突破，技術也可能使華為芯片的生產成本低於其為他競爭對手。&lt;/p&gt;&lt;p&gt;研究公司Omdia表示，目前還不確定華為在這方面的優勢會不會特別明顯，但至少是一條思路，顯示公司在面對供應鏈挑戰的情況下找到新的突破口。&lt;/p&gt;
-&lt;div class="listing-widget-126"&gt;
-&lt;div class="video-channel-info"&gt;
-&lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
-&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/051008.png);"&gt;&lt;/div&gt;
-&lt;span&gt;財經Hot Talk&lt;/span&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4131326" data-content-type="EGC" data-formaltag="投資,經濟,經濟數據表現,股票,投資產品,外滙,市況分析,大行報告,科技通訊,創新科技及應用,人工智能,市場動向,宏觀分析,債券,經濟衰退,實體詞,財金政策,減息,美股,加息,美國政府及法定機構,美國聯儲局,地域及地區,日本,美國,經濟數據及調查,通脹,PPI,CPI,債券種類,國債" data-length="125" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4131326/hls/4131326_1779186229491.m3u8" data-rel="4131326" data-source="051" data-thumbnail="20260519_1min_US.jpg" data-videoid="4131326" data-videoprogram="財經Hot Talk" data-videopublishdate="2026-05-19" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？" data-videotype="video" id="player-4133756-4131326"&gt;&lt;/video&gt;
-&lt;div class="listing-title"&gt;
-&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4131326" title="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？"&gt;美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/4133756/%E3%80%90AI%E8%8A%AF%E7%89%87%E3%80%91%E8%8F%AF%E7%82%BA%E7%99%BC%E5%B8%83%E6%96%B0%E8%8A%AF%E7%89%87%E6%8A%80%E8%A1%93%E3%80%8C%E9%9F%9C%EF%BC%88%CF%84%EF%BC%89%E5%AE%9A%E5%BE%8B%E3%80%8D%E3%80%80%E7%A8%B15%E5%B9%B4%E5%BE%8C%E5%8F%AF%E7%94%9F%E7%94%A21.4%E7%B4%8D%E7%B1%B3%E8%8A%AF%E7%89%87%E3%80%81%E8%BF%BD%E4%B8%8A%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B8%89%E6%98%9F%E3%80%80A%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E6%80%A5%E5%8D%87?mtc=20023"/><published>2026-05-25T18:59:00+08:00</published></entry><entry><id>https://ps.hket.com/article/4133757/%E5%84%AA%E6%83%A0%E6%83%85%E5%A0%B1%EF%BD%9C%E6%A2%B3%E5%8C%96%E5%80%89%E5%B1%AF%E9%96%80%E5%BA%97%E7%B5%90%E6%A5%AD%E5%8A%88%E5%83%B9%E6%B8%85%E8%B2%A8%20%E6%A2%B3%E5%8C%96%E6%9C%80%E5%B9%B3%E6%B8%9B%E8%87%B3-990?mtc=20023</id><title>優惠情報｜梳化倉屯門店結業劈價清貨 梳化最平減至$990</title><updated>2026-05-25T19:05:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4133757/%E5%84%AA%E6%83%A0%E6%83%85%E5%A0%B1%EF%BD%9C%E6%A2%B3%E5%8C%96%E5%80%89%E5%B1%AF%E9%96%80%E5%BA%97%E7%B5%90%E6%A5%AD%E5%8A%88%E5%83%B9%E6%B8%85%E8%B2%A8%20%E6%A2%B3%E5%8C%96%E6%9C%80%E5%B9%B3%E6%B8%9B%E8%87%B3-990?mtc=20023"/><published>2026-05-25T19:05:00+08:00</published></entry><entry><id>https://ps.hket.com/article/4133700/%E7%9B%B4%E6%93%8A%E5%96%AE%E4%BD%8D%EF%BD%9C4%E6%88%BF%E9%9B%99%E5%A5%97-%E8%87%A8%E6%B5%B7%E5%84%AA%E5%8B%A2-%E5%89%B5%E5%B1%8B%E8%8B%91%E5%88%86%E5%B1%A4%E6%96%B0%E9%AB%98%E5%83%B9%C2%A0%20%E5%B0%87%E8%BB%8D%E6%BE%B3%E8%87%A8%E6%B5%B7%E5%A4%A7%E5%AE%852350%E8%90%AC%E6%98%93%E6%89%8B?mtc=20023</id><title>直擊單位｜4房雙套+臨海優勢=創屋苑分層新高價  將軍澳臨海大宅2350萬易手</title><updated>2026-05-25T19:09:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4133700/%E7%9B%B4%E6%93%8A%E5%96%AE%E4%BD%8D%EF%BD%9C4%E6%88%BF%E9%9B%99%E5%A5%97-%E8%87%A8%E6%B5%B7%E5%84%AA%E5%8B%A2-%E5%89%B5%E5%B1%8B%E8%8B%91%E5%88%86%E5%B1%A4%E6%96%B0%E9%AB%98%E5%83%B9%C2%A0%20%E5%B0%87%E8%BB%8D%E6%BE%B3%E8%87%A8%E6%B5%B7%E5%A4%A7%E5%AE%852350%E8%90%AC%E6%98%93%E6%89%8B?mtc=20023"/><published>2026-05-25T19:09:00+08:00</published></entry><entry><id>https://ps.hket.com/article/4094840/%E5%90%8D%E4%BA%BA%E5%AE%B6%E5%B1%85%EF%BD%9C%E3%80%8A%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E3%80%8B%E8%8E%AB%E5%AE%B6%E6%B7%A6%E3%80%8C%E6%AD%BB%E4%BA%A1%E4%B9%8B%E6%AD%8C%E3%80%8D16%E5%BC%B7%E5%87%BA%E5%B1%80%20%E7%AF%A4%E4%BF%A1%E9%A2%A8%E6%B0%B4%E6%90%AC%E5%85%A5%E3%80%8C%E9%A2%A8%E6%B0%B4%E5%AF%B6%E5%9C%B0%E3%80%8D%E5%B1%85%E4%BD%8F?mtc=20023</id><title>名人家居｜《中年好聲音4》莫家淦「死亡之歌」16強出局 篤信風水搬入「風水寶地」居住</title><updated>2026-05-25T19:11:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4094840/%E5%90%8D%E4%BA%BA%E5%AE%B6%E5%B1%85%EF%BD%9C%E3%80%8A%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E3%80%8B%E8%8E%AB%E5%AE%B6%E6%B7%A6%E3%80%8C%E6%AD%BB%E4%BA%A1%E4%B9%8B%E6%AD%8C%E3%80%8D16%E5%BC%B7%E5%87%BA%E5%B1%80%20%E7%AF%A4%E4%BF%A1%E9%A2%A8%E6%B0%B4%E6%90%AC%E5%85%A5%E3%80%8C%E9%A2%A8%E6%B0%B4%E5%AF%B6%E5%9C%B0%E3%80%8D%E5%B1%85%E4%BD%8F?mtc=20023"/><published>2026-05-25T19:11:00+08:00</published></entry><entry><id>https://news.hket.com/article/4133759/%E4%BD%9B%E8%AA%952026%EF%BD%9C32%E5%BA%A6%E9%AB%98%E6%BA%AB%E7%84%A1%E9%98%BB%E5%85%A7%E5%9C%B0%E5%AE%A2%E4%BE%86%E6%B8%AF%E3%80%80%E6%9C%89%E4%BA%BA%E9%85%92%E5%BA%97%E3%80%8C%E9%81%BF%E6%9A%91%E3%80%8D%E4%B8%8B%E5%8D%88%E5%A7%8B%E5%87%BA%E9%96%80%E3%80%80%E6%9C%89%E4%BA%BA%E8%AE%9A%E5%95%86%E5%A0%B4%E5%86%B7%E6%B0%A3%E3%80%8C%E5%BE%88%E7%B5%A6%E5%8A%9B%E3%80%8D?mtc=20023</id><title>佛誕2026｜32度高溫無阻內地客來港　有人酒店「避暑」下午始出門　有人讚商場冷氣「很給力」</title><updated>2026-05-25T19:26:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2026-05-25T19:26:07+08:00 Updated on: 2026-05-25T19:38:08.513+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;三日佛誕假期踏入最後一天，天文台總部今日（25日）下午一度錄得32度高溫。雖然佛誕並非內地官方假期，但炎熱天氣無阻內地旅客來港遊覽。&lt;/p&gt;&lt;p&gt;本報記者下午約4時在尖沙咀海濱一帶觀察，人流較一般假日稍少，沿岸及鐘樓一帶仍有不少旅客拍照留念，部分旅客更模仿本港首富李嘉誠經典的「打招呼動作」在海邊拍照。&lt;/p&gt;&lt;h2&gt;內地客：在澳門看演唱會順道遊港&lt;/h2&gt;&lt;p&gt;首次訪港的浙江旅客詹小姐及李小姐表示，由於早前到澳門觀看演唱會，因此順道來港旅遊4天。詹小姐指，今次出發前特意參考網上「攻略」，主要到訪堅尼地城、中環及油尖旺一帶的熱門打卡景點。&lt;/p&gt;&lt;div&gt; &lt;div class="grouped-image-container"&gt;
+&lt;p&gt;雖然市場資金繼續熱捧半導體及芯片類、以至人工智能（AI）供應鏈等「賣鏟子」股，但ESG（環境、社會及管冶）基金仍有一定捧場客，首季資產總額穩守萬億元。&lt;/p&gt;&lt;h2 style="text-align: center;"&gt;按圖👇👇👇👇即睇ESG最新資訊&lt;/h2&gt;&lt;div&gt; &lt;div class="grouped-image-container"&gt;
 &lt;span class="click-to-enlarge"&gt;&lt;span&gt;▼&lt;/span&gt;點擊圖片放大&lt;/span&gt;
 &lt;div class="grouped-image-wrapper"&gt;
 &lt;div class="article-detail_grouped-image block"&gt;
 &lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2024-12-01at2114052_600.jpeg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2024-12-01at2114052_300.jpeg" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2024-12-01at2114052_600.jpeg" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2024-12-01at2114052_300.jpeg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2024-12-01at2114052_600.jpeg" src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2024-12-01at2114052_600.jpeg" style="max-width:100%; height:auto;"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_1_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_1_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_1_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_1_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="ESG最新資訊" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_1_600.jpg" src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_1_600.jpg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
 &lt;/div&gt;
 &lt;div class="article-detail_grouped-image block"&gt;
 &lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at174855_1_600.jpeg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at174855_1_300.jpeg" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at174855_1_600.jpeg" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at174855_1_300.jpeg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="本港今日（25日）天氣炎熱，但無阻內地旅客來港遊覽。（陳靜儀攝）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at174855_1_600.jpeg" src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at174855_1_600.jpeg" style="max-width:100%; height:auto;"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_2_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_2_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_2_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_2_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="ESG最新資訊" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_2_600.jpg" src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_2_600.jpg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
 &lt;/div&gt;
 &lt;div class="mobile-last article-detail_grouped-image block"&gt;
 &lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at1748541_1_600.jpeg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at1748541_1_300.jpeg" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at1748541_1_600.jpeg" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at1748541_1_300.jpeg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="本港今日（25日）天氣炎熱，但無阻內地旅客來港遊覽。（陳靜儀攝）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at1748541_1_600.jpeg" src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at1748541_1_600.jpeg" style="max-width:100%; height:auto;"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_3_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_3_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_3_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_3_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="ESG最新資訊" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_3_600.jpg" src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_3_600.jpg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
-&lt;span&gt;+2&lt;/span&gt;
+&lt;span&gt;+7&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="desktop-last article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_4_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_4_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_4_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_4_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="ESG最新資訊" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_4_600.jpg" src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_4_600.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;span&gt;+6&lt;/span&gt;
 &lt;/div&gt;
 &lt;div class="article-detail_grouped-image block"&gt;
 &lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at1748551_1_600.jpeg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at1748551_1_300.jpeg" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at1748551_1_600.jpeg" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at1748551_1_300.jpeg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="本港今日（25日）天氣炎熱，但無阻內地旅客來港遊覽。（陳靜儀攝）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at1748551_1_600.jpeg" src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at1748551_1_600.jpeg" style="max-width:100%; height:auto;"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_5_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_5_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_5_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_5_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="ESG最新資訊" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_5_600.jpg" src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_5_600.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;div class="article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_6_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_6_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_6_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_6_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="ESG最新資訊" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_6_600.jpg" src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_6_600.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;div class="article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_7_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_7_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_7_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_7_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="ESG最新資訊" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_7_600.jpg" src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_7_600.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;div class="article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_8_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_8_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_8_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_8_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="ESG最新資訊" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_8_600.jpg" src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_8_600.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;div class="article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_9_600.jpg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_9_300.jpg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_9_600.jpg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_9_300.jpg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="ESG最新資訊" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_9_600.jpg" src="https://static04.hket.com/res/v3/image/content/4130000/4132797/ESGD_9_600.jpg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
 &lt;/div&gt;
 &lt;div class="last"&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h2&gt;遊客：天氣太熱放棄由尖沙咀行到旺角&lt;/h2&gt;&lt;p&gt;她續稱，原本昨日計劃由尖沙咀沿途步行至旺角，惟天氣過於炎熱，走到油麻地後便決定放棄行程。李小姐則表示，今次訪港期間特意到中古店選購動漫周邊商品，整個旅程消費約6,000元。她透露，原本有意參觀《香港國際動漫展》，惟活動時間與行程未能配合，最終未有成行。&lt;/p&gt;&lt;p&gt;另外兩名同樣來自浙江的李小姐則計劃在港停留3天，行程以遊覽熱門景點及拍照為主。其中一人表示，「香港整體打卡也是挺『出片』的」。她們明日計劃到香港大學參觀及拍照，笑言希望感受大學校園氛圍，「要感受一下高校的氛圍，要熏陶一下」。&lt;/p&gt;&lt;p&gt;不過，李小姐亦坦言本港天氣炎熱，今日上午大部分時間都留在酒店休息，待下午氣溫稍為回落後才外出活動。&lt;/p&gt;&lt;div&gt; &lt;div class="grouped-image-container"&gt;
-&lt;span class="click-to-enlarge"&gt;&lt;span&gt;▼&lt;/span&gt;點擊圖片放大&lt;/span&gt;
-&lt;div class="grouped-image-wrapper"&gt;
-&lt;div class="article-detail_grouped-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2024-12-01at2114052_600.jpeg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2024-12-01at2114052_300.jpeg" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2024-12-01at2114052_600.jpeg" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2024-12-01at2114052_300.jpeg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2024-12-01at2114052_600.jpeg" src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2024-12-01at2114052_600.jpeg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;div class="article-detail_grouped-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at175027_1_600.jpeg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at175027_1_300.jpeg" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at175027_1_600.jpeg" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at175027_1_300.jpeg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="首次訪港的浙江旅客詹小姐及李小姐。（陳靜儀攝）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at175027_1_600.jpeg" src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at175027_1_600.jpeg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;div class="mobile-last article-detail_grouped-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at175049_1_600.jpeg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at175049_1_300.jpeg" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at175049_1_600.jpeg" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at175049_1_300.jpeg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="來自浙江的2位李小姐。（陳靜儀攝）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at175049_1_600.jpeg" src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at175049_1_600.jpeg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;span&gt;+2&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class="article-detail_grouped-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at174953_1_600.jpeg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at174953_1_300.jpeg" media="(min-width: 1024px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at174953_1_600.jpeg" media="(min-width: 600px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at174953_1_300.jpeg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="選擇即日來回的廣州旅客孫小姐及馬小姐。（陳靜儀攝）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at174953_1_600.jpeg" src="https://static04.hket.com/res/v3/image/content/4130000/4133759/WhatsAppImage2026-05-25at174953_1_600.jpeg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/div&gt;
-&lt;div class="last"&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h2&gt;廣州旅客讚：一入商場可迅速消暑&lt;/h2&gt;&lt;p&gt;至於選擇即日來回的廣州旅客孫小姐及馬小姐，則趁今日沒有課堂來港遊玩。曾多次訪港的馬小姐特意帶同首次訪港的孫小姐四處遊覽。馬小姐表示，二人都是「抹茶控」，因此專程到日式超市選購抹茶零食，合共消費約500元。&lt;/p&gt;&lt;p&gt;首次訪港的孫小姐則對香港商場的冷氣印象深刻，笑稱香港商場的冷氣「很給力」，即使室外天氣炎熱，進入商場後亦能迅速消暑。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://news.hket.com/article/4133759/%E4%BD%9B%E8%AA%952026%EF%BD%9C32%E5%BA%A6%E9%AB%98%E6%BA%AB%E7%84%A1%E9%98%BB%E5%85%A7%E5%9C%B0%E5%AE%A2%E4%BE%86%E6%B8%AF%E3%80%80%E6%9C%89%E4%BA%BA%E9%85%92%E5%BA%97%E3%80%8C%E9%81%BF%E6%9A%91%E3%80%8D%E4%B8%8B%E5%8D%88%E5%A7%8B%E5%87%BA%E9%96%80%E3%80%80%E6%9C%89%E4%BA%BA%E8%AE%9A%E5%95%86%E5%A0%B4%E5%86%B7%E6%B0%A3%E3%80%8C%E5%BE%88%E7%B5%A6%E5%8A%9B%E3%80%8D?mtc=20023"/><published>2026-05-25T19:26:00+08:00</published></entry><entry><id>https://china.hket.com/article/4133782/%E5%85%A7%E5%9C%B0%E6%9A%B4%E9%9B%A8%20-%20%E9%87%8D%E6%85%B6%E6%B0%B8%E5%B7%9D%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%20%E9%80%A0%E6%88%909%E6%AD%BB11%E4%BA%BA%E5%A4%B1%E8%81%AF?mtc=20023</id><title>內地暴雨 | 重慶永川特大暴雨 造成9死11人失聯</title><updated>2026-05-25T19:26:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2026-05-25T19:26:49.176+08:00 Updated on: 2026-05-25T19:26:49.176+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;據新華社報道，截至25日15時30分，重慶永川特大暴雨已致9人死亡、11人失聯。永川區已緊急避險轉移2270人，當前搶險救災工作仍在繼續。&lt;br&gt;　　&lt;br&gt;5月23日夜間至24日凌晨，重慶市永川區突發瞬時極端特大暴雨引發山洪和地質災害，導致轄區茶山竹海街道、中山路街道、雙石鎮等多地出現散點式災情。&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://china.hket.com/article/4132453/?lcc=ac" title="內地暴雨 | 廣東「龍舟水」首日遭遇暴雨 陽江一水文站日雨量達1053.5毫米"&gt;內地暴雨 | 廣東「龍舟水」首日遭遇暴雨 陽江一水文站日雨量達1053.5毫米&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://china.hket.com/article/4131644/?lcc=ac" title="內地暴雨 | 湖南石門縣暴雨釀5死11失聯 逾10萬人受災"&gt;內地暴雨 | 湖南石門縣暴雨釀5死11失聯 逾10萬人受災&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://china.hket.com/article/4131110/?lcc=ac" title="內地暴雨 | 廣西車輛墜河事件增至6死 鄂湘多地強降雨釀死傷"&gt;內地暴雨 | 廣西車輛墜河事件增至6死 鄂湘多地強降雨釀死傷&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://china.hket.com/article/4133782/%E5%85%A7%E5%9C%B0%E6%9A%B4%E9%9B%A8%20-%20%E9%87%8D%E6%85%B6%E6%B0%B8%E5%B7%9D%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%20%E9%80%A0%E6%88%909%E6%AD%BB11%E4%BA%BA%E5%A4%B1%E8%81%AF?mtc=20023"/><published>2026-05-25T19:26:00+08:00</published></entry><entry><id>https://ps.hket.com/article/4133784/%E7%BE%8E%E8%81%AF%EF%BC%9A%E4%B8%80%E6%89%8B%E5%A0%B1%E6%8D%B7%20%E4%BA%8C%E6%89%8B%E8%B2%B7%E5%AE%B6%E5%8A%A0%E5%BF%AB%E5%B0%8B%E5%AF%B6%20%E5%91%A8%E6%9C%AB10%E5%A4%A7%E5%B1%8B%E8%8B%91%E9%8C%8419%E5%AE%97%E8%B2%B7%E8%B3%A3%2016%E5%91%A8%E9%AB%98%E4%BD%8D?mtc=20023</id><title>美聯：一手報捷 二手買家加快尋寶 周末10大屋苑錄19宗買賣 16周高位</title><updated>2026-05-25T19:33:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4133784/%E7%BE%8E%E8%81%AF%EF%BC%9A%E4%B8%80%E6%89%8B%E5%A0%B1%E6%8D%B7%20%E4%BA%8C%E6%89%8B%E8%B2%B7%E5%AE%B6%E5%8A%A0%E5%BF%AB%E5%B0%8B%E5%AF%B6%20%E5%91%A8%E6%9C%AB10%E5%A4%A7%E5%B1%8B%E8%8B%91%E9%8C%8419%E5%AE%97%E8%B2%B7%E8%B3%A3%2016%E5%91%A8%E9%AB%98%E4%BD%8D?mtc=20023"/><published>2026-05-25T19:33:00+08:00</published></entry><entry><id>https://ps.hket.com/article/4133785/%E5%88%A9%E5%98%89%E9%96%A3%EF%BC%9A%E5%81%87%E6%97%A5%E5%A4%96%E9%81%8A%20%E4%BA%8C%E6%89%8B%E5%B8%82%E5%A0%B4%E4%BB%8D%E4%BF%9D%E5%B9%B3%E7%A9%A9%20%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E5%91%A8%E6%9C%AB13%E5%AE%97%E6%88%90%E4%BA%A4?mtc=20023</id><title>利嘉閣：假日外遊 二手市場仍保平穩 十大屋苑周末13宗成交</title><updated>2026-05-25T19:45:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4133785/%E5%88%A9%E5%98%89%E9%96%A3%EF%BC%9A%E5%81%87%E6%97%A5%E5%A4%96%E9%81%8A%20%E4%BA%8C%E6%89%8B%E5%B8%82%E5%A0%B4%E4%BB%8D%E4%BF%9D%E5%B9%B3%E7%A9%A9%20%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E5%91%A8%E6%9C%AB13%E5%AE%97%E6%88%90%E4%BA%A4?mtc=20023"/><published>2026-05-25T19:45:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4133787/%E6%97%A5%E6%9C%AC%EF%BD%9C%E6%9D%B1%E4%BA%AC%E9%8A%80%E5%BA%A7%E5%82%B3%E5%88%BA%E6%BF%80%E6%B0%A3%E5%91%B3%20%E9%80%BE20%E4%BA%BA%E5%A0%B1%E7%A8%B1%E4%B8%8D%E9%81%A9?mtc=20023</id><title>日本｜東京銀座傳刺激氣味 逾20人報稱不適</title><updated>2026-05-25T19:46:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2026-05-25T19:46:55+08:00 Updated on: 2026-05-25T19:57:11.583+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;日本東京銀座一所商場懷疑有人噴灑刺激性氣體，導致25人身體不適，年齡介乎20至90歲，其中19人需送醫治療，警方正調查事件是否涉及噴灑不明物質。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;南韓｜倡徵遊客稅 緩過度旅遊滋擾民生 &lt;a href='https://inews.hket.com/article/“4133708"/?lcc=an' title="【下一頁】"&gt;【下一頁】&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;綜合日媒報道，當地警方於周一（25日）中午前後接報，指東京地鐵銀座站西南方向對出約200米的商場「GINZA SIX」突然傳出刺激氣味，多名路人表示喉嚨感到痕癢或刺痛，需捂著口鼻離開。&lt;/p&gt;&lt;p&gt;有目擊者稱，當時商場前有外籍人士發生爭執，其中1人在噴灑噴霧後逃離現場。當地屬於知名地標及觀光景點，且適逢午餐時間，有多名傷者面露難色，「搖搖晃晃、甚至開始嘔吐」。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;伊朗｜傳最高領袖仰賴信使網 決策速度慢 &lt;a href='https://inews.hket.com/article/“4133698"/?lcc=an' title="【下一頁】"&gt;【下一頁】&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;當局隨後出動大批警員及消防員封鎖現場及對不適人士作分流處理，期間一度實施交通管制，超過50輛警車及消防車抵達現場，更派出災害派遣醫療團隊「DMAT」以及配備特殊設備的大型救護車「Super Ambulance」。&lt;/p&gt;&lt;p&gt;警方翻查閉路電視發現，1名身穿黑色外衣、配戴白色口罩的男子在商場一樓的三井住友銀行自動櫃員機區域噴灑不明物質，之後離開現場，認為與事件有關聯，正追查其下落。另據警方初步成分分析，噴霧內含有辣椒素成分。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;追蹤國際熱話，立即免費下載《香港經濟日報》App【&lt;a href="http://onelink.to/knpjgk"&gt;按此&lt;/a&gt;】&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/4133787/%E6%97%A5%E6%9C%AC%EF%BD%9C%E6%9D%B1%E4%BA%AC%E9%8A%80%E5%BA%A7%E5%82%B3%E5%88%BA%E6%BF%80%E6%B0%A3%E5%91%B3%20%E9%80%BE20%E4%BA%BA%E5%A0%B1%E7%A8%B1%E4%B8%8D%E9%81%A9?mtc=20023"/><published>2026-05-25T19:46:00+08:00</published></entry><entry><id>https://ps.hket.com/article/4133788/DEEP%20WATER%20SOUTH%206A%E6%9C%9F1%E6%88%BF%E7%B4%84910%E8%90%AC%E5%85%83%E6%B2%BD%20%20%E6%95%B4%E5%80%8B%E7%B3%BB%E5%88%97%E7%B4%AF%E5%94%AE170%E4%BC%99?mtc=20023</id><title>DEEP WATER SOUTH 6A期1房約910萬元沽  整個系列累售170伙</title><updated>2026-05-25T19:52:00+08:00</updated><content type="html"/><link href="https://ps.hket.com/article/4133788/DEEP%20WATER%20SOUTH%206A%E6%9C%9F1%E6%88%BF%E7%B4%84910%E8%90%AC%E5%85%83%E6%B2%BD%20%20%E6%95%B4%E5%80%8B%E7%B3%BB%E5%88%97%E7%B4%AF%E5%94%AE170%E4%BC%99?mtc=20023"/><published>2026-05-25T19:52:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4133758/futu-founder-leaf-hua-wealth-evaporated-132-billion-buyback-2026?mtc=20023</id><title>【FUTU】中證監重罰引爆股災！富途創辦人李華身家單日蒸發132億元　公司回購1.6億美元　摩通評級降至「中性」</title><updated>2026-05-25T19:54:00+08:00</updated><content type="html">
-
-&lt;p&gt;Published on: 2026-05-25T19:54:56+08:00 Updated on: 2026-05-25T21:26:29.018+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
-&lt;div class="non-paywall"&gt;
-&lt;p&gt;富途控股（Futu Holdings）遭中國證監會（CSRC）點名非法跨境開業，並重罰18.5億元人民幣，引發其納斯達克股價於上周五（22日）暴跌近28%，收市創13個月新低。&lt;/p&gt;&lt;p&gt;拖累富途創辦人兼首席執行官李華身家單日縮水17億美元（約132.6億港元）。按Forbes實時億萬富豪榜數據，李華的個人身家已暴跌至46億美元，對比2026年3月剛公布的年度富豪榜，當時其身家高達76億美元。這意味僅在過去兩個月內，李華的財富便大幅蒸發了30億美元（約234億港元）。&lt;/p&gt;&lt;p&gt;中證監指控富途在未取得境內牌照的情況下非法經營證券及期權業務，同時針對李華個人處以125萬元人民幣的罰款。&lt;/p&gt;&lt;p&gt;畢業於湖南大學計算機科學系的李華，曾是騰訊控股				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00700/?mtc=20048"&gt;（00700）&lt;/a&gt;
-（Tencent）早期開國元勳及第18號創始員工，參與即時通信軟件QQ早期研發，並創辦騰訊視頻。離職後，於2012年在香港創立富途。&lt;/p&gt;&lt;p&gt;富途業務遭重挫，但公司指，截至2026年首季，中國內地有資產客戶數佔全集團有資產客戶總數的比例已降至13%，同時海外有資產客戶數持續攀升。&lt;/p&gt;&lt;h2&gt;富途周六回購1.6億美元股份&lt;/h2&gt;&lt;p&gt;另外，富途控股（美：FUTU）在上周六（23日）宣布，已回購約1.6億美元美國存託憑證（ADS）。公司表示，將視市場狀況，不時進行股份回購。&lt;/p&gt;&lt;h2&gt;摩通評級降至「中性」&lt;/h2&gt;&lt;p&gt;值得留意的是，在未公布罰款及公司回購股份時，摩根大通曾因應監管收緊大幅增加盈利風險，將富途的投資評級由原先的「增持」下調至「中性」，並將目標價由300美元大幅調低71%至87美元。不過，隨着處罰細節曝光，利淡消息出盡，摩通將目標價由87美元調高15%至100美元，維持「中性」評級。&lt;/p&gt;&lt;p&gt;該行在報告中解釋，雖然罰款金額巨大，但反而令市場擺脫最壞猜測，加上富途隨即拋出1.6億美元的回購行動護盤，預期股價有望止跌回穩，而消息出台後，市場情緒已轉為更為樂觀。&lt;/p&gt;&lt;p&gt;摩通指，18.5億元罰款雖佔富途2026年彭博市場預期稅前利潤（PBT）約13%，或相當於公司市值的2%，但未公布具體金額前，市場最悲觀預期罰款或高達20億至200億元。現時罰款額近預期下限，對對沖基金等機構投資者而言，反而排除了業務被徹底「抄家」的極端風險。另外，富途在風口浪尖上回購，向市場釋放出強烈的信心訊號。&lt;/p&gt;&lt;p&gt;不過，摩通在報告透露，在與投資者交流後發現， 買方（Buy-side）看法仍有分歧。所接觸的對沖基金客戶較為樂觀，認同富途市盈率10倍的看法，並正尋求增持機會。至於長期投資者則較為謹慎，憂慮富途是否積極有效地與監管機構溝通，因為監管機構的公告對市場和公司而言都是一個意外。&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;財經事務及庫務局表示，截至今年第一季，共有190隻獲證監會認可的ESG基金，資產管理規模約1391億美元（折合約10849億港元）。&lt;/p&gt;&lt;p&gt;至於綠色債券，財庫局發言人說，2025年在香港發行的綠色和可持續債務總額超過760億美元。其中，根據國際資本市場協會統計，在香港安排發行的亞洲國際綠色和可持續債券總額約380億美元，佔區內總額的40%，並自2018年起連續八年居亞洲區市場的首位。&lt;/p&gt;&lt;p&gt;此外，政府會與金融監管機構和業界，繼續以多管齊下的策略，推動香港綠色和可持續金融，提供有助市場發展的基建和動力。具體而言，最新措施的進展包括：&lt;/p&gt;&lt;p&gt;&lt;strong&gt;（1）綠色和可持續金融跨機構督導小組（簡稱：督導小組）：&lt;/strong&gt;督導小組在2023至2025年工作計劃所奠定的堅實基礎上，於今年1月訂立了2026至2028年策略重點，圍繞兩大方面：第一，鞏固及深化香港作為可持續金融中心的工作；第二，拓展香港在新興領域的優勢兩大支柱，進一步鞏固本港作為具競爭力及面向未來的可持續金融中心的角色。&lt;/p&gt;&lt;p&gt;督導小組的轉型金融工作組，轄下的行業工作小組剛於5月發布，以行業為本的首階段轉型金融實務指引。以資訊及通訊科技業作為編製此項指引的首個行業範例，報告首階段著重探討機構層面的融資與投資實務，並分析金融機構應如何透過常規企業用途融資，支援其整體氣候轉型戰略，為金融機構及企業落實轉型金融相關的國際框架、以及原則提供實用工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;（2）政府可持續債券計劃：&lt;/strong&gt;截至2026年5月中，政府已成功發行合共約2580億港元等值的綠色債券，為香港和區內的潛在發行人提供重要的基準。&lt;/p&gt;&lt;p&gt;其中，政府於2025年11月在「政府可持續債券計劃」下，發行約100億港元等值的數碼綠色債券，涵蓋港元、人民幣、美元及歐元。是次發行吸引廣泛類別的環球機構投資者認購，包括資產管理公司、銀行、保險公司、私人銀行及其他機構，當中亦有首次認購數碼債券的投資者。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;（3）可持續披露：&lt;/strong&gt;財經事務及庫務局（財庫局）於2024年12月推出《香港可持續披露路線圖》，就大型公眾責任實體，不遲於2028年全面採用國際財務報告可持續披露準則（ISSB準則），提供清晰的路徑。香港會計師公會已於2024年12月發布，全面銜接ISSB準則的《香港可持續披露準則》國際財務報告準則，會於2025年6月確認香港為首批以全面採用ISSB準則為目標的司法管轄區，顯示香港致力提升資本市場就可持續發展的資訊透明度，便利投資者作出投資決策，促進全球資金融通。&lt;/p&gt;&lt;p&gt;會計及財務匯報局已於2025年12月至2026年3月，就可持續核證的本地監管框架建議進行公眾諮詢，並預期於2026年下半年公布結果。建議框架旨在透過採納國際準則，推動高質量核證；提升可持續披露的可信度及可靠性，並確保所有核證服務提供者在公平競爭環境下運作。&lt;/p&gt;&lt;p&gt;財庫局將聯同金融監管機構及持份者，繼續優化可持續披露配套工具，以及推廣科技應用，例如人工智能，協助機構進行可持續披露及採取可持續措施；以及擴展有關可持續披露及核證的培訓，特別是提供針對具體行業的支援。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;（4）「綠色和可持續金融資助計劃」：&lt;/strong&gt; 為鼓勵更多綠色融資活動在港進行，政府於2021年5月推出「綠色和可持續金融資助計劃」（簡稱「計劃」），資助合資格綠色和可持續債券發行人，以及貸款借款人的部分發債和外部評審服務支出。資助計劃已於2024年5月延長三年，至2027年，並擴大資助範圍至轉型債券及貸款，以進一步鼓勵區內相關行業更多利用香港的轉型融資平台逐步減碳。截至今年4月，在計劃下已資助超過680筆在香港發行的綠色和可持續債務工具，涉及的債務總額超過1900億美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;（5）可持續分類目錄：&lt;/strong&gt;金管局於2024年5月發布第一階段的《香港可持續金融分類目錄》（香港分類目錄），旨在為業界提供評估工具，令市場參與者在綠色和可持續金融的決策中有據可依，釋除「漂綠」的憂慮，從而促進更多資金流向相關活動。&lt;/p&gt;&lt;p&gt;為支持區內低碳轉型，金管局經公眾諮詢後，於今年1月發布第2A階段的香港分類目錄。第2A階段的主要更新，包括擴大行業範圍至六個行業、由12項經濟活動增至25項、引入轉型元素，以及加入適應氣候變化為新環境目標，以應對日益增加的實體氣候風險和極端天氣挑戰。&lt;/p&gt;&lt;p&gt;金管局已展開下一階段工作以擴大香港分類目錄的涵蓋範圍，包括引入更多綠色和轉型活動，以及增加適應氣候變化的相關措施。金管局將繼續以市場發展、公共政策、行業重點及最新科技進展為主導，在過程中積極與市場參與者及持份者保持溝通。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;（6）銀行轉型規劃：&lt;/strong&gt;金管局於2025年完成《監管政策手冊》單元GS-2「轉型規劃」擬稿的首次業界諮詢。該指引擬稿列出金管局對銀行進行轉型規劃的要求，包括訂立氣候風險管治架構、對客戶進行諮詢，以了解其轉型計劃等，從而協助銀行應對經濟的淨零轉型及更妥善管理相關風險。根據收集到的意見，金管局對擬稿作出了修訂，進行了第二輪業界諮詢，並爭取於2026年內確定該指引。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;（7）綠色科技與金融創新：&lt;/strong&gt;財庫局將支持與內地和國際多邊金融機構，探討在香港設立綠色科技項目加速器，支持綠色科技項目在「一帶一路」地區孵化、加速與發展，為香港的綠色金融服務提供創新案例。亦會研究在企業同意下，便利金融機構獲取公用事業用量相關數據，提升綠色融資及風險評估效率。&lt;/p&gt;&lt;p&gt;延續過往兩屆活動的良好勢頭，金管局將再度舉辦「綠色金融科技研討會」，作為本年9月香港綠色周的壓軸活動。研討會旨在促進金融界與科技界的合作與交流，提升綠色金融科技應用能力，進一步鞏固香港作為綠色金融樞紐的領先地位。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;（8）人才培訓：&lt;/strong&gt;政府於2022年12月推出了為期3年的「綠色和可持續金融培訓先導計劃」（先導計劃），供本地合資格從業員、相關專業人士和修讀相關學科的學生及畢業生申請。申請人在完成合資格培訓或取得資歷後，可申領最多一萬元的資助。為持續支持本地綠色金融人才的培訓，先導計劃已延長至2028年。截至今年4月，合資格培訓課程及資歷達117個，由本地大學的專業進修學院、專業機構、國際培訓機構等提供，並會不斷更新。先導計劃已批出超過10400宗申請，涉及的總資助金額超過5900萬港元。&lt;/p&gt;&lt;h2&gt;渣打發首筆20億綠色雲吞債&lt;/h2&gt;&lt;p&gt;順帶一提，上周四渣打銀行宣布發行首筆20億元綠色雲吞債，為首間金融機構公開發行港元計價的綠色債券，在港元市場獲熱烈追捧，反映該行具備跨幣種及跨地區的集資能力。&lt;/p&gt;&lt;p&gt;是次為渣打歷來最大規模的港元債券發行，高於此前15億元的紀錄。市場反應熱烈，最高峰認購金額破紀錄超過38億元，反映全球市場對債券及其獨特的可持續金融資產組合需求。&lt;/p&gt;&lt;p&gt;是次發行所得將主要用於亞洲地區的可再生能源、綠色建築及循環經濟項目，支持更潔淨的電力供應、更高效的商業房地產發展及減少污染，符合渣打的《可持續發展債券框架》。&lt;/p&gt;
 &lt;div class="listing-widget-126"&gt;
 &lt;div class="video-channel-info"&gt;
 &lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
@@ -186,15 +100,125 @@
 &lt;span&gt;財經Hot Talk&lt;/span&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4131326" data-content-type="EGC" data-formaltag="投資,經濟,經濟數據表現,股票,投資產品,外滙,市況分析,大行報告,科技通訊,創新科技及應用,人工智能,市場動向,宏觀分析,債券,經濟衰退,實體詞,財金政策,減息,美股,加息,美國政府及法定機構,美國聯儲局,地域及地區,日本,美國,經濟數據及調查,通脹,PPI,CPI,債券種類,國債" data-length="125" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4131326/hls/4131326_1779186229491.m3u8" data-rel="4131326" data-source="051" data-thumbnail="20260519_1min_US.jpg" data-videoid="4131326" data-videoprogram="財經Hot Talk" data-videopublishdate="2026-05-19" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？" data-videotype="video" id="player-4133758-4131326"&gt;&lt;/video&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4131326" data-content-type="EGC" data-formaltag="投資,經濟,經濟數據表現,股票,投資產品,外滙,市況分析,大行報告,科技通訊,創新科技及應用,人工智能,市場動向,宏觀分析,債券,經濟衰退,實體詞,財金政策,減息,美股,加息,美國政府及法定機構,美國聯儲局,地域及地區,日本,美國,經濟數據及調查,通脹,PPI,CPI,債券種類,國債" data-length="125" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4131326/hls/4131326_1779186229491.m3u8" data-rel="4131326" data-source="051" data-thumbnail="20260519_1min_US.jpg" data-videoid="4131326" data-videoprogram="財經Hot Talk" data-videopublishdate="2026-05-19" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？" data-videotype="video" id="player-4132797-4131326"&gt;&lt;/video&gt;
 &lt;div class="listing-title"&gt;
 &lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4131326" title="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？"&gt;美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/4133758/futu-founder-leaf-hua-wealth-evaporated-132-billion-buyback-2026?mtc=20023"/><published>2026-05-25T19:54:00+08:00</published></entry><entry><id>https://news.hket.com/article/4133807/%E4%BD%9B%E8%AA%952026%EF%BD%9C%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E5%9B%9E%E6%B8%AF%E6%8E%92%E9%9A%8A%E7%B4%84500%E7%B1%B3%E3%80%80%E8%BC%AA%E5%80%99%E6%99%82%E9%95%B740%E5%88%86%E9%90%98%E9%81%94%E3%80%8C%E6%A5%B5%E5%BA%A6%E9%AB%98%E5%B3%B0%E3%80%8D?mtc=20023</id><title>佛誕2026｜港珠澳大橋回港排隊約500米　輪候時長40分鐘達「極度高峰」</title><updated>2026-05-25T22:45:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4132797/%E3%80%90ESG%E3%80%91%E8%B2%A1%E5%BA%AB%E5%B1%80%EF%BC%9A%E9%A6%96%E5%AD%A3190%E9%9A%BBESG%E5%9F%BA%E9%87%91%20%E7%AE%A1%E7%90%86%E8%B3%87%E7%94%A2%E8%A6%8F%E6%A8%A1%E9%80%BE%E8%90%AC%E5%84%84%E5%85%83?mtc=20023"/><published>2026-05-26T20:29:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4133791/unitree-robotics-star-market-ipo-june-1?mtc=20023</id><title>【新股IPO】宇樹科技科創板IPO 6月1日上會！首季營收增68%　扣非利潤跌52%</title><updated>2026-05-26T20:48:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2026-05-25T22:45:49+08:00 Updated on: 2026-05-25T23:13:00.229+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2026-05-25T20:48:36+08:00 Updated on: 2026-05-25T21:38:16.994+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;正籌備在上海證券交易所科創板上市的內地獨角獸「杭州六小龍」之一、智能機械人製造商宇樹科技，將於6月1日上會（即本港的上市聆訊）。若能順利通過（內地稱為「過會」），將可以進行下一步的融資工作，如路演、招股等。&lt;/p&gt;&lt;p&gt;上海證券交易所上市審核委員會公布，將於6月1日召開2026年第31次上市審核委員會審議會議，審議宇樹科技上市申請。宇樹科技申請在上交所科創板上市於今年3月20日受理，計劃集資42.02億元人民幣（下同），中信証券任是次上市保薦機構。&lt;/p&gt;&lt;h2&gt;今年首季收入增68%&lt;/h2&gt;&lt;p&gt;另外，宇樹科技在科創板上市申請文件審核中心意見落實函回覆中提到，今年1至3月實現營業收入4.23億元，按年增長68.49%，增幅較上年度的332.64%回落。同時因研發費用、銷售費用等期間費用大幅增加，扣除非經常性損益後的凈利潤4,025.36萬元，按年減少52.55%。&lt;/p&gt;&lt;p&gt;該公司預計，今年上半年營業收入約為10.52億元至11.28億元，按年升35.62%至45.41%，亦因研發投入等期間費用快速增加，扣除非經常性損益後的凈利潤預計約為2.36億元至2.83億元，較上年同期跌約6.43%至21.97%。&lt;/p&gt;&lt;p&gt;宇樹科技董事長王興興在招股書表示，上市旨在通過增強資本實力，提升公司在具身智能領域的全產業鏈自主創新能力，和綜合領先優勢。&lt;/p&gt;&lt;p&gt;追蹤新股消息，可瀏覽【&lt;a href="https://inews.hket.com/sran009-2/新股IPO?lcc=an"&gt;新股IPO&lt;/a&gt;】&lt;/p&gt;
+&lt;div class="listing-widget-126"&gt;
+&lt;div class="video-channel-info"&gt;
+&lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
+&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/051008.png);"&gt;&lt;/div&gt;
+&lt;span&gt;財經Hot Talk&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4131326" data-content-type="EGC" data-formaltag="投資,經濟,經濟數據表現,股票,投資產品,外滙,市況分析,大行報告,科技通訊,創新科技及應用,人工智能,市場動向,宏觀分析,債券,經濟衰退,實體詞,財金政策,減息,美股,加息,美國政府及法定機構,美國聯儲局,地域及地區,日本,美國,經濟數據及調查,通脹,PPI,CPI,債券種類,國債" data-length="125" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4131326/hls/4131326_1779186229491.m3u8" data-rel="4131326" data-source="051" data-thumbnail="20260519_1min_US.jpg" data-videoid="4131326" data-videoprogram="財經Hot Talk" data-videopublishdate="2026-05-19" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？" data-videotype="video" id="player-4133791-4131326"&gt;&lt;/video&gt;
+&lt;div class="listing-title"&gt;
+&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4131326" title="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？"&gt;美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4133791/unitree-robotics-star-market-ipo-june-1?mtc=20023"/><published>2026-05-26T20:48:00+08:00</published></entry><entry><id>https://china.hket.com/article/4133793/%E4%BC%8A%E6%9C%97%E5%8D%B1%E6%A9%9F%20-%20%E7%8E%8B%E6%AF%85%E6%99%A4%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BB%8D%E6%96%B9%E8%AE%9A%E6%96%A1%E6%97%8B%E4%BD%9C%E7%94%A8%20%E7%A8%B1%E5%92%8C%E5%B9%B3%E7%B5%82%E5%B0%87%E5%88%B0%E4%BE%86?mtc=20023</id><title>伊朗危機 | 王毅晤巴基斯坦軍方讚斡旋作用 稱和平終將到來</title><updated>2026-05-26T21:02:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-25T21:02:30.582+08:00 Updated on: 2026-05-25T21:02:30.582+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;中共中央政治局委員、外交部長王毅今日（25日）在北京會見巴基斯坦國防軍司令兼陸軍參謀長穆尼爾。穆尼爾隨巴國總理夏巴茲一同訪華。&lt;/p&gt;&lt;p&gt;據中國外交部公佈，穆尼爾介紹了斡旋美伊戰事的最新情況，表示協議已接近達成，巴方願繼續全力以赴，也希中方進一步發揮作用。王毅表示巴方是值得各方信任的合格斡旋方，中方讚賞並支持巴方所做的努力。和平雖然艱難但終將到來。&lt;/p&gt;&lt;p&gt;就中巴關係，王毅表示，今年是中巴建交75周年。「疾風知勁草，烈火見真金」。無論國際地區形勢如何變化，中巴友誼始終堅如磐石、牢不可破。兩國保持高水平政治互信、高水平務實合作、高水平國際協作，樹立了國與國關係的典範。巴基斯坦軍方一直是促進中巴合作的重要力量，相信將為深化中巴傳統友誼和命運共同體建設作出新的貢獻。&lt;/p&gt;&lt;p&gt;穆尼爾表示，近年來，中國國際地位與影響力日益提升，習近平主席提出的四大全球倡議和「一帶一路」倡議為促進世界和平與發展發揮了關鍵作用，受到國際社會廣泛歡迎，巴方堅定支持並積極參與。巴軍方將繼續全力推動構建巴中命運共同體和中巴經濟走廊建設。&lt;/p&gt;&lt;p&gt;&lt;a href="https://china.hket.com/article/4133702/?lcc=ac" title="伊朗危機 | 超大型油輪滯留近三個月後前往中國 料下月抵寧波"&gt;伊朗危機 | 超大型油輪滯留近三個月後前往中國 料下月抵寧波&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://china.hket.com/article/4133691/?lcc=ac" title="伊朗危機 | 美伊有望達成協議 外交部：對話大門既然打開就不應當再此關上"&gt;伊朗危機 | 美伊有望達成協議 外交部：對話大門既然打開就不應當再此關上&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://china.hket.com/article/4133793/%E4%BC%8A%E6%9C%97%E5%8D%B1%E6%A9%9F%20-%20%E7%8E%8B%E6%AF%85%E6%99%A4%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BB%8D%E6%96%B9%E8%AE%9A%E6%96%A1%E6%97%8B%E4%BD%9C%E7%94%A8%20%E7%A8%B1%E5%92%8C%E5%B9%B3%E7%B5%82%E5%B0%87%E5%88%B0%E4%BE%86?mtc=20023"/><published>2026-05-26T21:02:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4133796/759-store-world-cup-2026-promotion-lucky-draw?mtc=20023</id><title>【世界盃2026+優惠】759阿信屋推最長單據挑戰賽！有機會贏FIFA世界盃4K賽事通行證、Netflix禮品卡</title><updated>2026-05-26T21:51:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-25T21:51:27+08:00 Updated on: 2026-05-25T21:55:29.66+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;世界盃2026將於6月12日開，CEC國際控股				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00759/?mtc=20048"&gt;（00759）&lt;/a&gt;
+旗下連鎖零售銷售商759阿信屋推出購物活動「2026世界盃最長單據挑戰大賽」，有機會贏走「FIFA世界盃2026賽事通行證」，104場4K賽事任睇。&lt;/p&gt;&lt;h2&gt;世界盃單據王玩法與資格&lt;/h2&gt;&lt;p&gt;參與資格：在759阿信屋購物，並保留單據，每張單據需包括5款或以上不同產品&lt;/p&gt;&lt;p&gt;玩法：&lt;/p&gt;&lt;p&gt;-Instagram用戶出Post，並標明收據長度，Tag「@759store」，並加上指定HASHTAG#759阿信屋世界盃單據王&lt;/p&gt;&lt;p&gt;-Facebook/Threads用戶在指定貼文下留言，並標明收據長度，附上照片Tag「@759store」及指定HASHTAG#759阿信屋世界盃單據王&lt;/p&gt;&lt;h2&gt;活動日期&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;進行日期：5月22日至6月7日&lt;/li&gt;&lt;li&gt;截止日期：6月7日至晚上11時59分59秒&lt;/li&gt;&lt;li&gt;公布結果：6月8日&lt;/li&gt;&lt;li&gt;註：759阿信屋將以INBOX訊息聯絡得獎者&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;獎品&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;頭獎（5名）：FIFA世界盃2026賽事通行證（價值980元）&lt;/li&gt;&lt;li&gt;二獎（10名）：QA高級大理石紋中炒鑊32CM（價值220元）&lt;/li&gt;&lt;li&gt;三獎（15名）：Netflix禮品卡（價值120元）&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;領獎安排&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;頭獎及三獎：6月9日前以電子方式領取&lt;/li&gt;&lt;li&gt;二獎：6月30日前親身到觀塘店領取簽收（星期六、日及公眾假期除外）&lt;/li&gt;&lt;li&gt;註：逾期不侯，視作放棄&lt;/li&gt;&lt;/ul&gt;
+&lt;div class="listing-widget-126"&gt;
+&lt;div class="video-channel-info"&gt;
+&lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
+&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/051008.png);"&gt;&lt;/div&gt;
+&lt;span&gt;財經Hot Talk&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4131326" data-content-type="EGC" data-formaltag="投資,經濟,經濟數據表現,股票,投資產品,外滙,市況分析,大行報告,科技通訊,創新科技及應用,人工智能,市場動向,宏觀分析,債券,經濟衰退,實體詞,財金政策,減息,美股,加息,美國政府及法定機構,美國聯儲局,地域及地區,日本,美國,經濟數據及調查,通脹,PPI,CPI,債券種類,國債" data-length="125" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4131326/hls/4131326_1779186229491.m3u8" data-rel="4131326" data-source="051" data-thumbnail="20260519_1min_US.jpg" data-videoid="4131326" data-videoprogram="財經Hot Talk" data-videopublishdate="2026-05-19" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？" data-videotype="video" id="player-4133796-4131326"&gt;&lt;/video&gt;
+&lt;div class="listing-title"&gt;
+&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4131326" title="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？"&gt;美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4133796/759-store-world-cup-2026-promotion-lucky-draw?mtc=20023"/><published>2026-05-26T21:51:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4133805/bond-connect-northbound-turnover-april-2026?mtc=20023</id><title>【債券通】北向通4月成交9848億人幣　按月跌近20%</title><updated>2026-05-26T22:17:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-25T22:17:48+08:00 Updated on: 2026-05-25T23:59:22.27+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;債券通公司公布，4月債券通北向通成交達9,848億元人民幣（下同），按月減少19.55%，按年跌2.39%；日均成交469億元，按月少15.65%，按年增加2.18%。&lt;/p&gt;&lt;p&gt;其中，政策性金融債券（PFB）和中國政府債券是成交量最大的債券類型，分別佔成交量的58%和22%。&lt;/p&gt;&lt;p&gt;北向互換通方面，4月共成交828筆交易，按月減少43.33%，按年少6.55%；成交額4,401.26億元，按月少46.38%，按年跌9.2%。截至4月底，有96間境外機構經北向互換通參與。&lt;/p&gt;&lt;p&gt;債券通公司指，旗下境外債券發行系統新債易（ePrime）於4月成功促成7筆債券發行，總發行規模為82.71億元。另外，債信息通（PMIP）月內共披露99筆一級債券的發行前後資訊。&lt;/p&gt;
+&lt;div class="listing-widget-126"&gt;
+&lt;div class="video-channel-info"&gt;
+&lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
+&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/051008.png);"&gt;&lt;/div&gt;
+&lt;span&gt;財經Hot Talk&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4131326" data-content-type="EGC" data-formaltag="投資,經濟,經濟數據表現,股票,投資產品,外滙,市況分析,大行報告,科技通訊,創新科技及應用,人工智能,市場動向,宏觀分析,債券,經濟衰退,實體詞,財金政策,減息,美股,加息,美國政府及法定機構,美國聯儲局,地域及地區,日本,美國,經濟數據及調查,通脹,PPI,CPI,債券種類,國債" data-length="125" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4131326/hls/4131326_1779186229491.m3u8" data-rel="4131326" data-source="051" data-thumbnail="20260519_1min_US.jpg" data-videoid="4131326" data-videoprogram="財經Hot Talk" data-videopublishdate="2026-05-19" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？" data-videotype="video" id="player-4133805-4131326"&gt;&lt;/video&gt;
+&lt;div class="listing-title"&gt;
+&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4131326" title="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？"&gt;美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4133805/bond-connect-northbound-turnover-april-2026?mtc=20023"/><published>2026-05-26T22:17:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4133808/%E3%80%90%E5%A4%96%E5%9C%8D%E4%B8%80%E5%91%A8%E5%89%8D%E7%9E%BB%E3%80%91%E6%9C%AC%E5%91%A8%E8%81%9A%E7%84%A6%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%8F%8A%E9%80%9A%E8%84%B9%E6%95%B8%E6%93%9A%E3%80%80%E6%96%994%E6%9C%88PCE%E6%8C%89%E5%B9%B4%E5%8D%87%E5%B9%85%E6%93%B4%E5%A4%A7%E8%87%B33.8-?mtc=20023</id><title>【外圍一周前瞻】本周聚焦美伊談判及通脹數據　料4月PCE按年升幅擴大至3.8%</title><updated>2026-05-26T22:43:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-25T22:43:20+08:00 Updated on: 2026-05-25T22:43:40.118+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;美國總統特朗普（Donald Trump）於美國時間周日（24日）在社交平台撰文，已基本談妥諒解備忘錄，國際油價應聲下挫，布蘭特期油現貨更跌穿每桶100美元。市場本周除關注兩國談判進展外，亦會關注周四（28日）公布的4月個人消費開支物價（PCE）數據。&lt;/p&gt;&lt;p&gt;美國本周將公布4月個人消費開支物價指數（PCE），預期按年上幅會由3月的3.5%增至3.8%，按月則由0.7%回落至0.5%；核心PCE預期按年升3.3%，較3月的3.2%略為上升，按月升幅維持0.3%。是次為6月中旬議息前最後一次PCE數據，料通脹情況將影響聯儲局新主席沃什（Kevin Warsh）對貨幣政策取態。&lt;/p&gt;&lt;p&gt;另外，美股周一（25日）假期休市。&lt;/p&gt;&lt;div&gt; &lt;div class="grouped-image-container"&gt;
+&lt;span class="click-to-enlarge"&gt;&lt;span&gt;▼&lt;/span&gt;點擊圖片放大&lt;/span&gt;
+&lt;div class="grouped-image-wrapper"&gt;
+&lt;div class="article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214712_600.jpeg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214712_300.jpeg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214712_600.jpeg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214712_300.jpeg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214712_600.jpeg" src="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214712_600.jpeg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;div class="article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214713_600.jpeg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214713_300.jpeg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214713_600.jpeg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214713_300.jpeg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214713_600.jpeg" src="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214713_600.jpeg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;div class="mobile-last article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at2147131_600.jpeg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at2147131_300.jpeg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at2147131_600.jpeg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at2147131_300.jpeg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at2147131_600.jpeg" src="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at2147131_600.jpeg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;span&gt;+2&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214715_600.jpeg" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214715_300.jpeg" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214715_600.jpeg" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214715_300.jpeg" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214715_600.jpeg" src="https://static04.hket.com/res/v3/image/content/4130000/4133808/WhatsAppImage2026-05-25at214715_600.jpeg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;div class="last"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;中東戰爭引發的油價上升，已帶動環球通脹，甚至對美債息和多國貨幣政策構成影響，美長債息近期已突破4.5厘水平，市場預期即使戰爭結束，債息也會繼續居高不下。&lt;/p&gt;&lt;p&gt;ING美洲區域研究主管Padhraic Garvey指，霍爾木茲海峽重新開放將抑制通脹預期，但實際利率可能維持高位，如果出現這個情況，美債息難望出現顯著回落。&lt;/p&gt;&lt;p&gt;高盛實際貨幣利率銷售主管Phillip Lee表示，持續的財政赤字、美債發行量增加以及市場對債務可持續性的疑慮，可以解釋為甚麼投資者要求更高的債息才會持有長債，故認為債息仍有上升空間。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4133808/%E3%80%90%E5%A4%96%E5%9C%8D%E4%B8%80%E5%91%A8%E5%89%8D%E7%9E%BB%E3%80%91%E6%9C%AC%E5%91%A8%E8%81%9A%E7%84%A6%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%8F%8A%E9%80%9A%E8%84%B9%E6%95%B8%E6%93%9A%E3%80%80%E6%96%994%E6%9C%88PCE%E6%8C%89%E5%B9%B4%E5%8D%87%E5%B9%85%E6%93%B4%E5%A4%A7%E8%87%B33.8-?mtc=20023"/><published>2026-05-26T22:43:00+08:00</published></entry><entry><id>https://news.hket.com/article/4133807/%E4%BD%9B%E8%AA%952026%EF%BD%9C%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E5%9B%9E%E6%B8%AF%E8%BB%8A%E9%BE%8D%E5%A1%9E40%E5%88%86%E9%90%98%E3%80%80%E6%B8%AF%E4%BA%BA%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%8F%A3%E5%B2%B8%E7%AD%893%E5%8F%A5%E9%90%98%E4%BB%8D%E6%9C%AA%E8%83%BD%E9%81%8E%E9%97%9C?mtc=20023</id><title>佛誕2026｜港珠澳大橋回港車龍塞40分鐘　港人深圳灣口岸等3句鐘仍未能過關</title><updated>2026-05-26T22:45:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-25T22:45:49+08:00 Updated on: 2026-05-25T23:21:43.915+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
 &lt;p&gt;三日佛誕假期踏入最後一天，部分選擇以「港車北上」的港人陸續回港。主要陸路返港口岸繁忙，其中港珠澳大橋珠海口岸須候40分鐘、深圳灣口岸返港人潮一度水泄不通，網上有人發文指輪候3句鐘仍未能入境。&lt;/p&gt;&lt;p&gt;晚上10時許，運輸署指，港珠澳大橋珠海口岸往香港方向的車輛通關廣場，現時非常繁忙，計劃駕駛私家車經大橋返港的市民請妥善規劃行程，預留充裕交通時間，同時在輪候時保持忍讓。&lt;/p&gt;&lt;p&gt; &lt;span class="article-detail_inline-image block"&gt;
 &lt;picture class="image-gallery-img"&gt;
@@ -253,80 +277,303 @@
 &lt;/div&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://news.hket.com/article/4133807/%E4%BD%9B%E8%AA%952026%EF%BD%9C%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E5%9B%9E%E6%B8%AF%E6%8E%92%E9%9A%8A%E7%B4%84500%E7%B1%B3%E3%80%80%E8%BC%AA%E5%80%99%E6%99%82%E9%95%B740%E5%88%86%E9%90%98%E9%81%94%E3%80%8C%E6%A5%B5%E5%BA%A6%E9%AB%98%E5%B3%B0%E3%80%8D?mtc=20023"/><published>2026-05-25T22:45:00+08:00</published></entry><entry><id>https://topick.hket.com/article/4132352/%E4%BE%9B%E6%A8%93%E5%A3%93%E5%8A%9B%EF%BD%9C%E6%87%89%E5%B1%86%E7%95%A2%E6%A5%AD%E7%94%9F%E8%A2%AB%E8%BF%AB%E5%81%9A%E6%A8%93%E5%A5%B4%EF%BC%9F%E3%80%80%E7%88%B6%E6%AF%8D%E8%A6%81%E6%B1%82%E5%B9%AB%E4%BE%9B%E6%A8%93%E4%BB%B2%E5%86%87%E8%90%BD%E5%90%8D%E6%8E%80%E7%86%B1%E8%AD%B0?mtc=20023</id><title>供樓壓力｜應屆畢業生被迫做樓奴？　父母要求幫供樓仲冇落名掀熱議</title><updated>2026-05-25T23:01:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://news.hket.com/article/4133807/%E4%BD%9B%E8%AA%952026%EF%BD%9C%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E5%9B%9E%E6%B8%AF%E8%BB%8A%E9%BE%8D%E5%A1%9E40%E5%88%86%E9%90%98%E3%80%80%E6%B8%AF%E4%BA%BA%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%8F%A3%E5%B2%B8%E7%AD%893%E5%8F%A5%E9%90%98%E4%BB%8D%E6%9C%AA%E8%83%BD%E9%81%8E%E9%97%9C?mtc=20023"/><published>2026-05-26T22:45:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4133845/%E3%80%90AI%E7%9B%A3%E7%AE%A1%E3%80%91%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E9%A6%96%E4%BB%BD%E9%80%9A%E8%AB%AD%E7%B1%B2AI%E3%80%8C%E5%8E%BB%E6%AD%A6%E8%A3%9D%E5%8C%96%E3%80%8D%E3%80%80%E8%AD%A6%E5%91%8A%E8%87%B4%E5%91%BD%E6%B1%BA%E7%AD%96%E4%B8%8D%E5%8F%AF%E4%BA%A4%E4%BA%88%E6%A9%9F%E5%99%A8?mtc=20023</id><title>【AI監管】教宗良十四世首份通諭籲AI「去武裝化」　警告致命決策不可交予機器</title><updated>2026-05-26T23:37:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2026-05-25T23:01:00+08:00 Updated on: 2026-05-25T15:47:36.116+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2026-05-25T23:37:39+08:00 Updated on: 2026-05-25T23:36:24.639+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;大學畢業即要肩負家用和供樓？近日，有應屆畢業生在&lt;a href="https://www.threads.com/@ookjj19/post/DX33-zdk1eT" target="_blank"&gt;Threads&lt;/a&gt;發帖，指父母要求一畢業就要幫手供樓，但並不會落她的名字，令她壓力倍增相當煩惱，故發帖詢問網民意見，有過來人分享遵循父母要求後的下場……&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://topick.hket.com/article/4091583/家用｜月入-2.5萬被母親勒令畀-1萬家用　港男拒絕後遭短訊轟炸兼「強搶」?lcc=at"&gt;家用｜月入$2.5萬被母親勒令畀$1萬家用　港男拒絕後遭短訊轟炸兼「強搶」&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;h2&gt;供樓壓力｜被父母要求幫供樓　無份落名　&lt;/h2&gt;&lt;p&gt;樓主透露家庭情況，指一家四口目前居住在公屋，妹妹還在讀中學；而自己即將全職工作，家庭入息限額會超出上限，需要繳交2.5倍的租金及更多的稅費，故家人計劃抽居屋，並會幫忙支付首期，惟要求樓主交家用的同時，要幫忙供樓；而樓主亦無份落名，不過家人承諾會「會計清楚我供咗幾多錢」。&lt;/p&gt;&lt;p&gt; &lt;span class="article-detail_inline-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132352/g1IDCP9Q_3eStYARh4lf6mZ6b6GdISc-_3VJe_91SXs1_1200.jpg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132352/g1IDCP9Q_3eStYARh4lf6mZ6b6GdISc-_3VJe_91SXs1_600.jpg" media="(min-width: 992px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132352/g1IDCP9Q_3eStYARh4lf6mZ6b6GdISc-_3VJe_91SXs1_1024.jpg" media="(min-width: 630px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132352/g1IDCP9Q_3eStYARh4lf6mZ6b6GdISc-_3VJe_91SXs1_600.jpg" media="(min-width: 330px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132352/g1IDCP9Q_3eStYARh4lf6mZ6b6GdISc-_3VJe_91SXs1_300.jpg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="應屆畢業生被父母要求幫供樓仲冇落名。（《香港愛情故事》劇照）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4132352/g1IDCP9Q_3eStYARh4lf6mZ6b6GdISc-_3VJe_91SXs1_1200.jpg" src="https://static04.hket.com/res/v3/image/content/4130000/4132352/g1IDCP9Q_3eStYARh4lf6mZ6b6GdISc-_3VJe_91SXs1_1200.jpg" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/span&gt;
-&lt;span class="article-detail_caption block"&gt;&lt;span&gt;▲&lt;/span&gt; 應屆畢業生被父母要求幫供樓仲冇落名。（《香港愛情故事》劇照）&lt;/span&gt;
-&lt;/p&gt;&lt;p&gt;樓主坦言未來並未計劃與家人同住，即便幫忙供完樓後也未必會住，一畢業就要被迫肩負如此沉重的責任，「要綁住我未來咁多年，感覺上係犧牲咗我一個去幫成頭家」而反觀妹妹如今正是玩樂的年紀，令她心中難免感到不平衡，她質疑自己「我咁樣諗會唔會好自私？」&lt;/p&gt;&lt;h2&gt;供樓壓力｜網民直言不合理　過來人自爆下場：一無所獲&lt;/h2&gt;&lt;p&gt;帖文引來眾多網民瀏覽留言，紛紛建議樓主拒絕父母，認為要求並不合理，「冇你個名供乜嘢樓」、「層樓有自己業權（即有名）才好供！你父母會計返你供樓啲錢係情緒勒索嚟㗎！」、「點解佢地唔自己供？」、「真心建議你除名」、「過來人話你知，當年我出20萬畀首期買180萬樓花，但無我名，最後間屋畀咗阿哥，依家值800萬，而我係一毫子都冇」。&lt;/p&gt;&lt;p&gt;不少人質疑父母為何不自己供樓，並建議繼續租住公屋，「你搬出去住啦，咁屋企咪唔使交2.5倍租」、「交2.5倍租啦，你之後會發現呢啲錢唔算得係乜嘢」、「寧願畀2.5倍租」、「我會揀負責交多出嘅租金」。&lt;/p&gt;&lt;p&gt; &lt;span class="article-detail_inline-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132352/20250624165151_1e9b26e116973a78643da1a482804cae0cc5ed6b_1200.png" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132352/20250624165151_1e9b26e116973a78643da1a482804cae0cc5ed6b_600.png" media="(min-width: 992px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132352/20250624165151_1e9b26e116973a78643da1a482804cae0cc5ed6b_1024.png" media="(min-width: 630px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132352/20250624165151_1e9b26e116973a78643da1a482804cae0cc5ed6b_600.png" media="(min-width: 330px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4132352/20250624165151_1e9b26e116973a78643da1a482804cae0cc5ed6b_300.png" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="應屆畢業生被父母要求幫供樓仲冇落名。（《開心速遞》劇照）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4132352/20250624165151_1e9b26e116973a78643da1a482804cae0cc5ed6b_1200.png" src="https://static04.hket.com/res/v3/image/content/4130000/4132352/20250624165151_1e9b26e116973a78643da1a482804cae0cc5ed6b_1200.png" style="max-width:100%; height:auto;"/&gt;
-&lt;/picture&gt;
-&lt;/span&gt;
-&lt;span class="article-detail_caption block"&gt;&lt;span&gt;▲&lt;/span&gt; 應屆畢業生被父母要求幫供樓仲冇落名。（《開心速遞》劇照）&lt;/span&gt;
-&lt;/p&gt;&lt;p&gt;最新影片推介：&lt;/p&gt;
+&lt;p&gt;天主教教宗良十四世（Pope Leo XIV）發表上任後首份通諭《Magnifica Humanitas》，罕有以人工智能（AI）作為核心主題，呼籲各國政府放慢並嚴格監管 AI 發展，避免科技被用作散播假資訊、加劇衝突，甚至令世界走向「無止境戰爭」。&lt;/p&gt;&lt;p&gt;良十四世在梵蒂岡發布活動上警告，部分自主武器系統已發展至「實際上超出任何人類可管控範圍」。他強調，AI 在戰爭中的任何應用都必須受到最嚴格倫理限制，並明言不應將致命決策交由 AI 系統作出。&lt;/p&gt;&lt;h2&gt;籲AI「去武裝化」　避免淪為支配工具&lt;/h2&gt;&lt;p&gt;良十四世在通諭及發布活動中呼籲 AI「去武裝化」，意思不止限於軍事用途，亦包括將 AI 從支配、排斥和死亡的邏輯中釋放出來。他指出，AI 不只是效率工具，而是關乎人類尊嚴、工作、自由、真相及和平的社會議題。&lt;/p&gt;&lt;p&gt;通諭提出，AI 發展需要更穩健的法律框架、獨立監督、知情用戶，以及不放棄責任的政治制度。良十四世亦關注 AI 數據不應完全留在私人手上，政策制定者需要保障工人權利，並保護兒童免受相關技術影響。&lt;/p&gt;&lt;p&gt;他表示，當一切都在加速時，政治更需要有能力介入，必要時令發展步伐放慢，而不是任由市場競爭及企業利益主導 AI 方向。&lt;/p&gt;&lt;h2&gt;自主武器成焦點　批「正義戰爭」理論過時&lt;/h2&gt;&lt;p&gt;軍事應用是今次通諭最尖銳的部分之一，良十四世警告，若 AI 被用於戰場，武力使用的責任可能變得模糊，亦可能削弱人類對戰爭與和平的判斷。&lt;/p&gt;&lt;p&gt;通諭同時批評，全球近年衝突頻仍，平民大規模受害，軍工利益亦成為推動戰爭的因素之一。良十四世並指，傳統上用以判斷戰爭正當性的「正義戰爭」理論已經過時，武力、暴力及武器使用往往為平民帶來災難性後果。&lt;/p&gt;&lt;h2&gt;Anthropic創辦人：科技公司不應獨自決定AI未來&lt;/h2&gt;&lt;p&gt;Anthropic 共同創辦人 Chris Olah 亦是梵蒂岡發布活動講者之一，他在活動上表示，AI 發展不能只交由科技公司決定，應有宗教界、政府及公民社會等外部力量參與監督。&lt;/p&gt;&lt;p&gt;Olah 指出，前沿 AI 實驗室面對商業、地緣政治及個人壓力，相關誘因有時會與社會整體利益出現衝突；即使研究人員抱有良好意願，也仍會受這些力量影響。&lt;/p&gt;&lt;p&gt;他又警告，AI 有可能大規模取代人類勞動力，若情況發生，支援被取代的勞工將成為重大道德責任。Olah 亦提到，AI 發展目前集中於少數富裕國家，社會需要思考如何確保 AI 帶來的利益可在全球更公平分配。&lt;/p&gt;
 &lt;div class="listing-widget-126"&gt;
 &lt;div class="video-channel-info"&gt;
-&lt;a href="https://video.hket.com/srvv031-2/童學園"&gt;
-&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/054002.png);"&gt;&lt;/div&gt;
-&lt;span&gt;童學園&lt;/span&gt;
+&lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
+&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/051008.png);"&gt;&lt;/div&gt;
+&lt;span&gt;財經Hot Talk&lt;/span&gt;
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4133345" data-content-type="EGC" data-formaltag="實體詞,欄目（內容）,人物專訪,體育項目,射擊,興趣,運動,體育,體育人物,運動員,品牌,屈臣氏" data-length="144" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4133345/hls/4133345_1779452178987.m3u8" data-rel="4133345" data-source="054" data-thumbnail="ipsc_thumb.jpg" data-videoid="4133345" data-videoprogram="童學園" data-videopublishdate="2026-05-24" data-videosection="童學園,童學園" data-videotitle="實用射擊｜中五神槍手由貪有型到日練12小時成世界冠軍　妹妹受薰陶從跳舞轉練槍拍住上" data-videotype="video" id="player-4132352-4133345"&gt;&lt;/video&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4131326" data-content-type="EGC" data-formaltag="投資,經濟,經濟數據表現,股票,投資產品,外滙,市況分析,大行報告,科技通訊,創新科技及應用,人工智能,市場動向,宏觀分析,債券,經濟衰退,實體詞,財金政策,減息,美股,加息,美國政府及法定機構,美國聯儲局,地域及地區,日本,美國,經濟數據及調查,通脹,PPI,CPI,債券種類,國債" data-length="125" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4131326/hls/4131326_1779186229491.m3u8" data-rel="4131326" data-source="051" data-thumbnail="20260519_1min_US.jpg" data-videoid="4131326" data-videoprogram="財經Hot Talk" data-videopublishdate="2026-05-19" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？" data-videotype="video" id="player-4133845-4131326"&gt;&lt;/video&gt;
 &lt;div class="listing-title"&gt;
-&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4133345" title="實用射擊｜中五神槍手由貪有型到日練12小時成世界冠軍　妹妹受薰陶從跳舞轉練槍拍住上"&gt;實用射擊｜中五神槍手由貪有型到日練12小時成世界冠軍　妹妹受薰陶從跳舞轉練槍拍住上&lt;/a&gt;
+&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4131326" title="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？"&gt;美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;追蹤TOPick&lt;/strong&gt;📹&lt;strong&gt;YouTube頻道&lt;/strong&gt;📹&lt;strong&gt;睇片方便又快捷 【&lt;a href="https://www.youtube.com/@topick_hket" target="_blank"&gt;馬上Follow&lt;/a&gt;】&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🔥全新升級Whatsapp「升學備戰Group」選校攻略｜奪A攻略｜校園動向&lt;strong&gt;&lt;a href="https://chat.whatsapp.com/FhbF2LU5hMu1KM8jXHsAFw" target="_blank"&gt;【馬上入group】&lt;/a&gt;&lt;/strong&gt;🔥&lt;/p&gt;
-&lt;p&gt;Follow TOPick Whatsapp頻道🔔，唔會錯過熱門話題! &lt;a href="https://whatsapp.com/channel/0029Va2riKf4o7qJmRRWrr1g" target="_blank"&gt;https://whatsapp.com/channel/0029Va2riKf4o7qJmRRWrr1g&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;免費成為TOPick會員，隨時參加有獎遊戲、好物試用、會員專享活動! 立即下載HKET APP︰&lt;a href="https://onelink.to/f92q4m" target="_blank"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;TOPick會員迎新大招募，免費做新會員送精美禮品! 詳情: &lt;a href="https://event.hket.com/article/3965561/?r=mcsdediart" target="_blank"&gt;https://event.hket.com/article/3965561/?r=mcsdediart&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://topick.hket.com/article/4132352/%E4%BE%9B%E6%A8%93%E5%A3%93%E5%8A%9B%EF%BD%9C%E6%87%89%E5%B1%86%E7%95%A2%E6%A5%AD%E7%94%9F%E8%A2%AB%E8%BF%AB%E5%81%9A%E6%A8%93%E5%A5%B4%EF%BC%9F%E3%80%80%E7%88%B6%E6%AF%8D%E8%A6%81%E6%B1%82%E5%B9%AB%E4%BE%9B%E6%A8%93%E4%BB%B2%E5%86%87%E8%90%BD%E5%90%8D%E6%8E%80%E7%86%B1%E8%AD%B0?mtc=20023"/><published>2026-05-25T23:01:00+08:00</published></entry><entry><id>https://news.hket.com/article/4133824/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%89%E8%99%9F%EF%BD%9C%E9%BB%8E%E5%AE%B6%E7%9B%88%E4%B8%80%E8%A1%8C%E6%94%9C%E7%B4%8454%E5%85%AC%E6%96%A4%E6%A8%A3%E6%9C%AC%E5%92%8C%E8%A3%9D%E7%BD%AE%E5%8D%87%E7%A9%BA%E3%80%80%E4%BB%A5%E3%80%8C%E5%A4%AA%E7%A9%BA%E5%BE%8C%E8%A3%94%E7%A8%AE%E5%AD%90%E3%80%8D%E6%B7%B1%E7%A9%BA%E4%B8%AD%E7%A8%AE%E6%B0%B4%E7%A8%BB?mtc=20023</id><title>神舟二十三號｜黎家盈一行攜約54公斤樣本和裝置升空　以「太空後裔種子」深空中種水稻</title><updated>2026-05-25T23:11:00+08:00</updated><content type="html">
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4133845/%E3%80%90AI%E7%9B%A3%E7%AE%A1%E3%80%91%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E9%A6%96%E4%BB%BD%E9%80%9A%E8%AB%AD%E7%B1%B2AI%E3%80%8C%E5%8E%BB%E6%AD%A6%E8%A3%9D%E5%8C%96%E3%80%8D%E3%80%80%E8%AD%A6%E5%91%8A%E8%87%B4%E5%91%BD%E6%B1%BA%E7%AD%96%E4%B8%8D%E5%8F%AF%E4%BA%A4%E4%BA%88%E6%A9%9F%E5%99%A8?mtc=20023"/><published>2026-05-26T23:37:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4133683/%E5%A6%82%E4%BD%95%E7%94%A8AI%E5%81%9A%E5%A5%BD%E6%8A%95%E8%B3%87-%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97%E4%B8%8A%E7%AF%87-?mtc=20023</id><title>如何用AI做好投資(使用心得上篇)</title><updated>2026-05-26T00:00:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4133683/%E5%A6%82%E4%BD%95%E7%94%A8AI%E5%81%9A%E5%A5%BD%E6%8A%95%E8%B3%87-%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97%E4%B8%8A%E7%AF%87-?mtc=20023"/><published>2026-05-26T00:00:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4133834/%E6%9C%89%E5%9C%96%E6%9C%89%E5%8B%A2%EF%BD%9C%E7%BE%8E%E4%BC%8A%E6%96%99%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%20%E7%92%B0%E7%90%83%E8%82%A1%E5%B8%82%E5%8D%87%E5%AE%9A%E5%85%88%20HSI%E6%AD%A2%E8%B7%8C%E5%9B%9E%E5%8D%87%EF%BC%9F%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023</id><title>有圖有勢｜美伊料達成協議 環球股市升定先 HSI止跌回升？（持續更新）</title><updated>2026-05-26T00:01:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4133834/%E6%9C%89%E5%9C%96%E6%9C%89%E5%8B%A2%EF%BD%9C%E7%BE%8E%E4%BC%8A%E6%96%99%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%20%E7%92%B0%E7%90%83%E8%82%A1%E5%B8%82%E5%8D%87%E5%AE%9A%E5%85%88%20HSI%E6%AD%A2%E8%B7%8C%E5%9B%9E%E5%8D%87%EF%BC%9F%EF%BC%88%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BC%89?mtc=20023"/><published>2026-05-26T00:01:00+08:00</published></entry><entry><id>https://knowledge.hket.com/article/4133122/%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%B6%E6%97%8F%E3%80%8C%E7%B5%82%E7%94%9F%E7%A8%85%E5%8B%99%E8%B1%81%E5%85%8D%E3%80%8D%E8%83%8C%E5%BE%8C%EF%BC%9A%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%AB%94%E7%B3%BB%E8%88%87%E7%B8%BD%E7%B5%B1%E7%89%B9%E6%AC%8A?mtc=20023</id><title>特朗普家族「終生稅務豁免」背後：美國司法體系與總統特權</title><updated>2026-05-26T00:02:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2026-05-25T23:11:22.608+08:00 Updated on: 2026-05-25T23:11:22.608+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2026-05-26T00:02:00+08:00 Updated on: 2026-05-22T16:21:02.573+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;神舟二十三號周日（24日）深夜順利升空，他們會進行百多項實驗。據央視報道，這次載人飛船組帶同約54公斤樣本和裝置升空，例如肝臟細胞、水稻和鈣鈦礦太陽能電池等。當中包括希望了解太空種植情況，將太空後裔種子的第二代水稻種子，再帶到太空作比較實驗。&lt;/p&gt;&lt;p&gt; &lt;span class="article-detail_inline-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133824/W020260525127639264351_1200.jpg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133824/W020260525127639264351_600.jpg" media="(min-width: 992px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133824/W020260525127639264351_1024.jpg" media="(min-width: 630px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133824/W020260525127639264351_600.jpg" media="(min-width: 330px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133824/W020260525127639264351_300.jpg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="神舟二十三號進入中國空間站「太空會師」。（中國載人航天工程辦公室）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4133824/W020260525127639264351_1200.jpg" src="https://static04.hket.com/res/v3/image/content/4130000/4133824/W020260525127639264351_1200.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;p&gt;近日特朗普家族透過與美國政府和解，獲得「永遠禁止」國稅局（IRS）對其家族及企業進行進一步稅務調查的安排（特朗普、其家人及旗下企業在2026年5月19日前提交的過往稅務申報），僅針對2026年5月19日前「已經提交」的過往報稅表和現有稅務審查&lt;!--TgQPHd|[]--&gt;，並不自動免除特朗普家族未來的經營活動和新申報表的稅務調查。美國總統究竟擁有何等特權，能令司法體系看似為特定家族「開綠燈」？本文全面剖析美國司法架構、總統赦免權及相關法理依據，一窺這個全球最強大民主政體的權力制衡奧妙。&lt;/p&gt;&lt;p&gt;事實上，這次「永久豁免」特朗普家族以往的稅務調查，其實是司法部在民事訴訟和解中的妥協條款，而非總統行使「特赦」的特權。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;美國司法體系：三層金字塔結構&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;美國司法體系奉行「聯邦主義」，分為&lt;strong&gt;聯邦法院&lt;/strong&gt;與&lt;strong&gt;州法院&lt;/strong&gt;兩大系統，前者處理涉及憲法、聯邦法律或跨州事宜，後者管轄大部分日常民事刑事案件。聯邦法院呈現清晰三層結構：94個地區法院（District Courts）為第一線審判庭，負責事實認定與初審；13個上訴巡迴法院（Courts of Appeals）為中級，審理上訴，主要檢視法律適用是否正確；最高法院（Supreme Court）則為最終把關者，每年僅受理約80宗具全國意義的案件。&lt;/p&gt;&lt;p&gt;據美國法院行政辦公室數據，地區法院每年處理逾30萬宗案件，上訴法院約4-5萬宗，而最高法院則如「精品店」，嚴格篩選。這種層級設計確保高效與權威兼備，卻也令程序冗長，成為律師行業的「養分來源」。香港讀者或會聯想到終審法院與高等法院的區別，但&lt;strong&gt;美國聯邦體系更強調權力分散，避免中央過度集中。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;總統特權的憲法根基：赦免權與豁免&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;美國總統權力源自《憲法》第二條，總統作為行政首長，擁有廣泛&lt;strong&gt;「行政特權」（executive privilege）&lt;/strong&gt;。其中最引人注目的是赦免權（Pardon Power）：&lt;strong&gt;總統可對聯邦罪行授予赦免、減刑或豁免罰款，惟不適用於彈劾案及州級罪行。&lt;/strong&gt;此權力近乎絕對，源自英國君主傳統，最高法院在Ex parte Garland 				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01867/?mtc=g0018"&gt;（1867）&lt;/a&gt;
+等案中確認其「無限性」（plenary power），&lt;strong&gt;幾乎不受國會或司法制約&lt;/strong&gt;。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;特朗普任內及第二任期大量運用此權，&lt;strong&gt;包括赦免家族成員或盟友的稅務相關罪行&lt;/strong&gt;。近期與IRS的和解協議，更進一步「永遠禁止」對特朗普、其兒子及特朗普組織的稅務追查，形同「特赦式豁免」。法理上，這結合赦免權、總統民事/刑事豁免（Trump v. United States案確立官方行為絕對豁免）及和解協議。總統可主張官方行為不受刑事起訴，私人行為則較易受挑戰，但實際操作中，政治影響力往往放大效果。&lt;/p&gt;&lt;p&gt;諷刺的是，這種「王者特權」在民主框架下運作，猶如給予總統一枝「橡皮擦」，能擦去部分聯邦罪責，卻無法觸及州稅或民事責任。批評者戲稱其為「總統俱樂部會員福利」，支持者則視為制衡「司法武器化」的必要工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;赦免使用趨勢與影響&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;歷史數據顯示，歷任總統均行使赦免權，但特朗普時期更為頻繁且針對性強。據司法部記錄，其第一任期及第二任初期已處理逾千宗，涵蓋白領罪案、稅務欺詐等。相比之下，奧巴馬任期平均每年約200宗。&lt;/p&gt;&lt;p&gt;在稅務領域，IRS每年審計數萬宗高淨值人士案件，但總統相關調查常因政治敏感度而複雜化。2026年和解案中，特朗普家族撤銷對IRS的訴訟，換取永久調查禁令，凸顯司法與行政的微妙互動。&lt;/p&gt;&lt;p&gt;小結觀察：美國司法如一場精心設計的棋局，總統手握「赦免王牌」，卻須面對媒體、國會及選民的「車馬炮」。此案提醒我們：即使在最成熟的法治體系，權力邊界仍需持續檢視。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://knowledge.hket.com/article/4133122/%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%B6%E6%97%8F%E3%80%8C%E7%B5%82%E7%94%9F%E7%A8%85%E5%8B%99%E8%B1%81%E5%85%8D%E3%80%8D%E8%83%8C%E5%BE%8C%EF%BC%9A%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%AB%94%E7%B3%BB%E8%88%87%E7%B8%BD%E7%B5%B1%E7%89%B9%E6%AC%8A?mtc=20023"/><published>2026-05-26T00:02:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4133695/%E8%8F%AF%E7%82%BA%E9%9F%9C%E5%AE%9A%E5%BE%8B%E5%B0%81%E7%A5%9E%C2%A0%20%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%8F%9B%E8%B7%91%E9%81%93-?mtc=20023</id><title>華為韜定律封神  半導體換跑道?</title><updated>2026-05-26T00:26:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4133695/%E8%8F%AF%E7%82%BA%E9%9F%9C%E5%AE%9A%E5%BE%8B%E5%B0%81%E7%A5%9E%C2%A0%20%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%8F%9B%E8%B7%91%E9%81%93-?mtc=20023"/><published>2026-05-26T00:26:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4133714/%E6%9B%BE%E6%B7%B5%E6%BB%84%E8%BF%BD%E8%B9%A4%EF%BD%9C%E7%BF%BB%E7%82%92%E8%8A%AF%E7%89%87%E8%82%A1-%E4%B8%80%E6%96%87%E7%9B%A1%E8%A6%BD%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-?mtc=20023</id><title>曾淵滄追蹤｜翻炒芯片股(一文盡覽持續更新)</title><updated>2026-05-26T00:30:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-26T00:30:00+08:00 Updated on: 2026-05-26T01:03:14.332+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;業績期剛結束，曾淵滄指暫時沒有與業績相關的資訊可炒，只好翻炒前陣子炒過的股。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4129448?utm_content=4133714&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202605_WINGWAH_contentblock&amp;amp;utm_content=4133714&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4129448 " title="訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
-&lt;/span&gt;
-&lt;span class="article-detail_caption block"&gt;&lt;span&gt;▲&lt;/span&gt; 神舟二十三號進入中國空間站「太空會師」。（中國載人航天工程辦公室）&lt;/span&gt;
-&lt;/p&gt;&lt;p&gt;如何在太空種植物，為人類深空探測提供基本的食物保障，向來是科學家的研究重點，今次乘組也會在「天宮」空間站內，連續培育兩代水稻。&lt;/p&gt;&lt;p&gt;2022年，「問天實驗艙」攜帶的水稻種子已經歷過太空發芽、生長結籽的完整生命週期，得到第一代太空水稻種子。此次，科研團隊將任務再升級，首次完成水稻「天上生、天上長、天上再生」，在軌開展連續兩代水稻培育。&lt;/p&gt;&lt;p&gt; &lt;span class="article-detail_inline-image block"&gt;
-&lt;picture class="image-gallery-img"&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133824/W020260525127657878766_1200.jpg" media="(min-width: 1200px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133824/W020260525127657878766_600.jpg" media="(min-width: 992px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133824/W020260525127657878766_1024.jpg" media="(min-width: 630px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133824/W020260525127657878766_600.jpg" media="(min-width: 330px)"/&gt;
-&lt;source data-srcset="https://static04.hket.com/res/v3/image/content/4130000/4133824/W020260525127657878766_300.jpg" media="(min-width: 0px)"/&gt;
-&lt;img alt="" class="lazyload" data-alt="神舟二十三號進入中國空間站「太空會師」。（中國載人航天工程辦公室）" data-link="" data-src="https://static04.hket.com/res/v3/image/content/4130000/4133824/W020260525127657878766_1200.jpg" src="https://static04.hket.com/res/v3/image/content/4130000/4133824/W020260525127657878766_1200.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4133714/%E6%9B%BE%E6%B7%B5%E6%BB%84%E8%BF%BD%E8%B9%A4%EF%BD%9C%E7%BF%BB%E7%82%92%E8%8A%AF%E7%89%87%E8%82%A1-%E4%B8%80%E6%96%87%E7%9B%A1%E8%A6%BD%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-?mtc=20023"/><published>2026-05-26T00:30:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4133082/%E4%B8%AD%E7%BE%8E%E7%B6%93%E8%B2%BF%E3%80%8C%E5%A4%B1%E8%A1%A1%E3%80%8D%E8%AB%96%E8%BF%B0%E5%BF%BD%E8%A6%96%E5%85%A9%E5%80%8B%E9%87%8D%E8%A6%81%E6%8C%87%E6%A8%99?mtc=20023</id><title>中美經貿「失衡」論述忽視兩個重要指標</title><updated>2026-05-26T00:32:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-26T00:32:18+08:00 Updated on: 2026-05-26T00:36:23.164+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;由於美國對華貿易長期處於巨額逆差狀態，「中美貿易嚴重失衡」仿佛早已成為市場共識。既然被視為「失衡」，坊間自然產生需要修正的聲音。於是，兩國企業間的經貿一方面保持緊密往來；但另一方面，需要政府磋商解決的貿易摩擦卻此起彼伏。然而，貿易交易向來是建立在自願及互利的基礎上，所謂「失衡」，某程度上是一個偽命題。雙邊貿易差額是一直存在的現象，低差額不代表均衡，高差額亦不證明某一方佔了便宜。自由的國際貿易建基於各國不同的比較優勢(comparative advantages)而實現的高效率環球資源配置。更重要的是，中美在兩個層面的經貿往來往往被忽視，導致雙邊貿易差額的影響被放大。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4129448?utm_content=4133082&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202605_WINGWAH_contentblock&amp;amp;utm_content=4133082&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4129448 " title="訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" style="max-width:100%; height:auto;"/&gt;
 &lt;/picture&gt;
-&lt;/span&gt;
-&lt;span class="article-detail_caption block"&gt;&lt;span&gt;▲&lt;/span&gt; 神舟二十三號進入中國空間站「太空會師」。（中國載人航天工程辦公室）&lt;/span&gt;
-&lt;/p&gt;&lt;p&gt;值得注意的是，乘組同時攜帶水稻的地面原生種子和「太空後裔種子」作對照實驗，整個實驗長達八個月，橫跨兩個太空人乘組，實現從種子到種子、再到種子的連續兩代培育。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4133082/%E4%B8%AD%E7%BE%8E%E7%B6%93%E8%B2%BF%E3%80%8C%E5%A4%B1%E8%A1%A1%E3%80%8D%E8%AB%96%E8%BF%B0%E5%BF%BD%E8%A6%96%E5%85%A9%E5%80%8B%E9%87%8D%E8%A6%81%E6%8C%87%E6%A8%99?mtc=20023"/><published>2026-05-26T00:32:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4133286/%E8%B6%A8%E5%8B%A2%E7%AD%86%E8%A8%98%EF%BD%9C%20%E7%B4%8D%E6%8C%87Fast%20Entry%C2%A0%20SpaceX%E4%B8%8A%E5%B8%82%E6%90%B6%E6%89%8B?mtc=20023</id><title>趨勢筆記｜ 納指Fast Entry  SpaceX上市搶手</title><updated>2026-05-26T00:32:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-26T00:32:43+08:00 Updated on: 2026-05-26T00:35:47.5+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;執筆之時，筆者內心確有一份欣慰。5月21日，英國《金融時報》以重點幅報導「Fast Entry」新規則將如何引爆SpaceX、OpenAI及Anthropic的IPO狂潮。而本欄趨勢筆記早一日已清楚分析Fast Entry的影響力！&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4129448?utm_content=4133286&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202605_WINGWAH_contentblock&amp;amp;utm_content=4133286&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4129448 " title="訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4133286/%E8%B6%A8%E5%8B%A2%E7%AD%86%E8%A8%98%EF%BD%9C%20%E7%B4%8D%E6%8C%87Fast%20Entry%C2%A0%20SpaceX%E4%B8%8A%E5%B8%82%E6%90%B6%E6%89%8B?mtc=20023"/><published>2026-05-26T00:32:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4133705/A%E8%82%A1%E5%85%88%E5%8D%872%E6%88%90%20%E4%B8%AD%E8%8A%AF%E8%8F%AF%E8%99%B9%E4%BB%8A%E6%97%A5%E8%B7%9F-%20%E7%9B%88%E5%88%A9%E6%96%B0%E4%BE%86%E6%BA%90%E6%8B%86%E8%A7%A3?mtc=20023</id><title>A股先升2成 中芯華虹今日跟? 盈利新來源拆解</title><updated>2026-05-26T00:33:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-26T00:33:15+08:00 Updated on: 2026-05-26T00:33:17.227+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;人工智能（AI）帶動CPU、GPU、存儲等高端半導體需求，令台積電等先進製程半導體代工廠產能更加緊張，計劃將其成熟製程產能重組至先進製程以應付定單。成熟製程產品需求外溢，中芯國際				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00981/?mtc=h0023"&gt;（00981）&lt;/a&gt;
+、華虹半導體				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG01347/?mtc=h0023"&gt;（01347）&lt;/a&gt;
+有望取代接單，利好增長。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4129448?utm_content=4133705&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202605_WINGWAH_contentblock&amp;amp;utm_content=4133705&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4129448 " title="訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4133705/A%E8%82%A1%E5%85%88%E5%8D%872%E6%88%90%20%E4%B8%AD%E8%8A%AF%E8%8F%AF%E8%99%B9%E4%BB%8A%E6%97%A5%E8%B7%9F-%20%E7%9B%88%E5%88%A9%E6%96%B0%E4%BE%86%E6%BA%90%E6%8B%86%E8%A7%A3?mtc=20023"/><published>2026-05-26T00:33:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4133641/%E7%91%9E%E9%8A%80%E6%9D%8E%E6%99%BA%E7%A9%8E%EF%BC%9A%E5%8B%BF%E5%96%AE%E6%8A%BC%E6%B3%A8%E5%A4%A7%E6%A8%A1%E5%9E%8B%20%20AI%E5%9F%BA%E5%BB%BA%E6%9B%B4%E5%80%BC%E5%8D%9A?mtc=20023</id><title>瑞銀李智穎：勿單押注大模型  AI基建更值博</title><updated>2026-05-26T00:34:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-26T00:34:18+08:00 Updated on: 2026-05-26T00:34:28.31+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;近期環球市場再度被債息牽動，美國30年期國債孳息一度抽升至5厘之上，令投資者憂慮長端利率高企會否削弱流動性，並對科技股、人工智能（AI）概念及整體股市估值構成壓力。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4129448?utm_content=4133641&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202605_WINGWAH_contentblock&amp;amp;utm_content=4133641&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4129448 " title="訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4133641/%E7%91%9E%E9%8A%80%E6%9D%8E%E6%99%BA%E7%A9%8E%EF%BC%9A%E5%8B%BF%E5%96%AE%E6%8A%BC%E6%B3%A8%E5%A4%A7%E6%A8%A1%E5%9E%8B%20%20AI%E5%9F%BA%E5%BB%BA%E6%9B%B4%E5%80%BC%E5%8D%9A?mtc=20023"/><published>2026-05-26T00:34:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4132933/%E7%A0%B4%E5%A4%A9%E8%8D%923%E5%A0%B4%E4%B8%96%E7%B4%80IPO%E5%A3%93%E5%A2%83%EF%BC%9A%E7%9F%BD%E8%B0%B7%E5%B7%A8%E7%8D%B8%E9%96%8B%E5%95%9F%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4%E6%96%B0%E7%B4%80%E5%85%83?mtc=20023</id><title>破天荒3場世紀IPO壓境：矽谷巨獸開啟資本市場新紀元</title><updated>2026-05-26T00:34:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-26T00:34:33+08:00 Updated on: 2026-05-26T00:36:36.862+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;美股將上演三場史詩式IPO，最高集資額合其或達至2,000億美元。這將不是普通上市潮，而是華爾街對 AI 與深科技盛世的一場壓力測試：市場到底願意為未來10年的科技王朝付出多高代價？&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4129448?utm_content=4132933&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202605_WINGWAH_contentblock&amp;amp;utm_content=4132933&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4129448 " title="訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4132933/%E7%A0%B4%E5%A4%A9%E8%8D%923%E5%A0%B4%E4%B8%96%E7%B4%80IPO%E5%A3%93%E5%A2%83%EF%BC%9A%E7%9F%BD%E8%B0%B7%E5%B7%A8%E7%8D%B8%E9%96%8B%E5%95%9F%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4%E6%96%B0%E7%B4%80%E5%85%83?mtc=20023"/><published>2026-05-26T00:34:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4133640/%E6%96%BD%E7%BE%85%E5%BE%B7%E5%BC%B5%E9%9D%96%E5%AF%B6%EF%BC%9A%E9%9F%93%E5%8F%B0AI%E8%82%A1%E6%9C%AA%E8%A6%8B%E6%B3%A1%E6%B2%AB%20%20%E5%B0%8B%E5%AF%B6%E4%B8%AD%E5%9C%8BAI%E7%A1%AC%E4%BB%B6?mtc=20023</id><title>施羅德張靖寶：韓台AI股未見泡沫  尋寶中國AI硬件</title><updated>2026-05-26T00:34:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-26T00:34:45+08:00 Updated on: 2026-05-26T00:35:02.208+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;亞洲AI概念股今年升勢凌厲，韓國、台灣半導體及記憶體股份更成為市場焦點。不少投資者開始憂慮，相關股份是否已進入泡沫階段，估值是否過高，以及現水平是否仍值得持有。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4129448?utm_content=4133640&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202605_WINGWAH_contentblock&amp;amp;utm_content=4133640&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4129448 " title="訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4133640/%E6%96%BD%E7%BE%85%E5%BE%B7%E5%BC%B5%E9%9D%96%E5%AF%B6%EF%BC%9A%E9%9F%93%E5%8F%B0AI%E8%82%A1%E6%9C%AA%E8%A6%8B%E6%B3%A1%E6%B2%AB%20%20%E5%B0%8B%E5%AF%B6%E4%B8%AD%E5%9C%8BAI%E7%A1%AC%E4%BB%B6?mtc=20023"/><published>2026-05-26T00:34:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4133616/%E5%AF%8C%E9%80%94%E8%80%81%E8%99%8E%E8%A2%AB%E7%BD%B0%E3%80%80%E6%B8%AF%E8%82%A1%E6%88%90%E4%BA%A4%E5%A4%A7%E6%B8%9B%EF%BC%9F?mtc=20023</id><title>富途老虎被罰　港股成交大減？</title><updated>2026-05-26T00:35:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-26T00:35:29+08:00 Updated on: 2026-05-26T00:35:29.424+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;5月22日，中國證監會一紙公告，讓富途（美：FUTU）、老虎證券（美：TIGR）和長橋證券瞬間成為市場焦點。但是，三家平台的內地客戶僅佔港股的日均交易合計約50億港元，影響可以忽略不計。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4129448?utm_content=4133616&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202605_WINGWAH_contentblock&amp;amp;utm_content=4133616&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4129448 " title="訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4133616/%E5%AF%8C%E9%80%94%E8%80%81%E8%99%8E%E8%A2%AB%E7%BD%B0%E3%80%80%E6%B8%AF%E8%82%A1%E6%88%90%E4%BA%A4%E5%A4%A7%E6%B8%9B%EF%BC%9F?mtc=20023"/><published>2026-05-26T00:35:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4133686/%E5%A6%82%E4%BD%95%E7%94%A8AI%E5%81%9A%E5%A5%BD%E6%8A%95%E8%B3%87-%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97%E4%B8%8B%E7%AF%87-?mtc=20023</id><title>如何用AI做好投資(使用心得下篇)</title><updated>2026-05-26T00:36:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4133686/%E5%A6%82%E4%BD%95%E7%94%A8AI%E5%81%9A%E5%A5%BD%E6%8A%95%E8%B3%87-%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97%E4%B8%8B%E7%AF%87-?mtc=20023"/><published>2026-05-26T00:36:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4133865/%E3%80%90%E8%83%A1%E5%90%8C%E5%86%8D%E6%B6%89%E7%8C%B4%E7%97%98%E3%80%91%E6%97%BA%E8%A7%92%E5%90%8C%E5%BF%97%E6%A1%91%E6%8B%BF%E5%85%A9%E7%94%B7%E5%88%B0%E8%A8%AA%E5%BE%8C%E7%A2%BA%E8%A8%BA%E3%80%802023%E5%B9%B4%E4%BA%A6%E6%9B%BE%E6%9C%89%E5%80%8B%E6%A1%88?mtc=20023</id><title>【胡同再涉猴痘】旺角同志桑拿兩男到訪後確診　2023年亦曾有個案</title><updated>2026-05-26T00:40:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-26T00:40:05+08:00 Updated on: 2026-05-26T00:38:35.76+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;衞生防護中心接獲內地通報兩宗猴痘個案，兩名男患者潛伏期內曾到訪旺角上海街「胡同」並有高風險接觸。翻查資料，2023年亦曾有猴痘個案涉及同一處所；「胡同」再度成為接觸者追蹤焦點，亦令人關注一般市民路過旺角是否有感染風險。&lt;/p&gt;&lt;h2&gt;胡同是甚麼？&lt;/h2&gt;&lt;p&gt;公開資料顯示，「胡同」位於旺角上海街，是香港較知名的同志桑拿之一，2012年開業，場內設有按摩浴缸、蒸氣桑拿等設施。&lt;/p&gt;&lt;h2&gt;為何同類處所較易成追蹤焦點？&lt;/h2&gt;&lt;p&gt;猴痘並非一般空氣傳播疾病，風險主要來自密切身體接觸、性接觸、接觸患者皮疹或體液，以及接觸受污染物品。同一處所再涉個案，不等於病毒長期存在於場所內，重點是患者曾在該處所內有高風險接觸。&lt;/p&gt;&lt;p&gt;同類處所若涉及親密接觸、人流流動大，且顧客資料難以完整掌握，一旦有感染者到訪，接觸者追蹤便會較困難。今次衞生防護中心亦表示，處所負責人未能掌握當日曾光顧的顧客資料，因此需公開呼籲相關人士主動聯絡。&lt;/p&gt;&lt;h2&gt;路過旺角會否感染？&lt;/h2&gt;&lt;p&gt;一般路過上海街、到過同一區域，或短暫同處一室，並不等同高風險接觸。真正需要留意的是曾到訪相關處所，並曾有親密或高風險接觸的人士。&lt;/p&gt;&lt;p&gt;衞生防護中心呼籲，5月1日或之後曾到訪該處所並有高風險接觸者，致電猴痘電話熱線2125 2373，以便安排健康評估及建議。&lt;/p&gt;&lt;h2&gt;如何減低感染風險？&lt;/h2&gt;&lt;p&gt;市民應避免與有皮疹、潰瘍、發燒或淋巴結腫大等疑似病徵人士有密切身體接觸，亦不要共用毛巾、床單或衣物等可能受污染物品。若曾有高風險接觸或出現相關病徵，應盡快求醫並交代接觸史；高風險群組亦可按衞生防護中心建議接種猴痘疫苗。&lt;/p&gt;
+&lt;div class="listing-widget-126"&gt;
+&lt;div class="video-channel-info"&gt;
+&lt;a href="https://video.hket.com/srvv028-2/財經Hot%20Talk"&gt;
+&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/051008.png);"&gt;&lt;/div&gt;
+&lt;span&gt;財經Hot Talk&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4131326" data-content-type="EGC" data-formaltag="投資,經濟,經濟數據表現,股票,投資產品,外滙,市況分析,大行報告,科技通訊,創新科技及應用,人工智能,市場動向,宏觀分析,債券,經濟衰退,實體詞,財金政策,減息,美股,加息,美國政府及法定機構,美國聯儲局,地域及地區,日本,美國,經濟數據及調查,通脹,PPI,CPI,債券種類,國債" data-length="125" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4131326/hls/4131326_1779186229491.m3u8" data-rel="4131326" data-source="051" data-thumbnail="20260519_1min_US.jpg" data-videoid="4131326" data-videoprogram="財經Hot Talk" data-videopublishdate="2026-05-19" data-videosection="財經Hot Talk,財經Hot Talk" data-videotitle="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？" data-videotype="video" id="player-4133865-4131326"&gt;&lt;/video&gt;
+&lt;div class="listing-title"&gt;
+&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4131326" title="美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？"&gt;美長債息逾5厘！全球債市風暴 恐衝擊AI股牛市？&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://news.hket.com/article/4133824/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%89%E8%99%9F%EF%BD%9C%E9%BB%8E%E5%AE%B6%E7%9B%88%E4%B8%80%E8%A1%8C%E6%94%9C%E7%B4%8454%E5%85%AC%E6%96%A4%E6%A8%A3%E6%9C%AC%E5%92%8C%E8%A3%9D%E7%BD%AE%E5%8D%87%E7%A9%BA%E3%80%80%E4%BB%A5%E3%80%8C%E5%A4%AA%E7%A9%BA%E5%BE%8C%E8%A3%94%E7%A8%AE%E5%AD%90%E3%80%8D%E6%B7%B1%E7%A9%BA%E4%B8%AD%E7%A8%AE%E6%B0%B4%E7%A8%BB?mtc=20023"/><published>2026-05-25T23:11:00+08:00</published></entry></feed>
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4133865/%E3%80%90%E8%83%A1%E5%90%8C%E5%86%8D%E6%B6%89%E7%8C%B4%E7%97%98%E3%80%91%E6%97%BA%E8%A7%92%E5%90%8C%E5%BF%97%E6%A1%91%E6%8B%BF%E5%85%A9%E7%94%B7%E5%88%B0%E8%A8%AA%E5%BE%8C%E7%A2%BA%E8%A8%BA%E3%80%802023%E5%B9%B4%E4%BA%A6%E6%9B%BE%E6%9C%89%E5%80%8B%E6%A1%88?mtc=20023"/><published>2026-05-26T00:40:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4132408/%E6%AE%B5%E6%B0%B8%E5%B9%B3%E6%9D%8E%E9%8C%84%E4%B8%81%E7%A3%8A%E7%9C%8B%E5%A5%BD%E3%80%8C%E8%B3%A4%E7%89%A9%E9%AC%A5%E7%AA%AE%E4%BA%BA%E3%80%8D%E6%A6%82%E5%BF%B5%EF%BC%88%E4%B8%8A%E7%AF%87%EF%BC%89?mtc=20023</id><title>段永平李錄丁磊看好「賤物鬥窮人」概念（上篇）</title><updated>2026-05-26T01:08:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4132408/%E6%AE%B5%E6%B0%B8%E5%B9%B3%E6%9D%8E%E9%8C%84%E4%B8%81%E7%A3%8A%E7%9C%8B%E5%A5%BD%E3%80%8C%E8%B3%A4%E7%89%A9%E9%AC%A5%E7%AA%AE%E4%BA%BA%E3%80%8D%E6%A6%82%E5%BF%B5%EF%BC%88%E4%B8%8A%E7%AF%87%EF%BC%89?mtc=20023"/><published>2026-05-26T01:08:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4133097/%E5%9B%9E%E8%B3%BC%E8%B6%85%E7%8F%AD%E9%A6%AC%20%E5%B0%8B%E5%AF%B6%E8%B7%AF%E5%BE%91%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89?mtc=20023</id><title>回購超班馬 尋寶路徑（下篇）</title><updated>2026-05-26T01:08:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4133097/%E5%9B%9E%E8%B3%BC%E8%B6%85%E7%8F%AD%E9%A6%AC%20%E5%B0%8B%E5%AF%B6%E8%B7%AF%E5%BE%91%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89?mtc=20023"/><published>2026-05-26T01:08:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4133382/%E5%A4%A7%E6%88%B6%E6%89%8B%E5%BD%B1%EF%BD%9C%E4%B8%AD%E8%B3%87%E5%9F%BA%E9%87%91%E4%BD%8E%E5%83%B9%E5%A4%A7%E6%B8%9B%E4%B8%80%E8%97%8D%E7%B1%8C%E8%97%A5%E8%82%A1?mtc=20023</id><title>大戶手影｜中資基金低價大減一藍籌藥股</title><updated>2026-05-26T01:08:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4133382/%E5%A4%A7%E6%88%B6%E6%89%8B%E5%BD%B1%EF%BD%9C%E4%B8%AD%E8%B3%87%E5%9F%BA%E9%87%91%E4%BD%8E%E5%83%B9%E5%A4%A7%E6%B8%9B%E4%B8%80%E8%97%8D%E7%B1%8C%E8%97%A5%E8%82%A1?mtc=20023"/><published>2026-05-26T01:08:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4133822/%E5%8C%97%E6%B0%B4%E8%B5%B0%E5%90%91%EF%BD%9C%E7%A7%91%E6%8A%80%E8%82%A1%20%E5%8C%97%E6%B0%B4%E8%B2%B74%20VS%20%E6%B2%BD4?mtc=20023</id><title>北水走向｜科技股 北水買4 VS 沽4</title><updated>2026-05-26T01:08:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4133822/%E5%8C%97%E6%B0%B4%E8%B5%B0%E5%90%91%EF%BD%9C%E7%A7%91%E6%8A%80%E8%82%A1%20%E5%8C%97%E6%B0%B4%E8%B2%B74%20VS%20%E6%B2%BD4?mtc=20023"/><published>2026-05-26T01:08:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4133864/%E6%B3%A2%E7%BE%85%E7%9A%84%E6%B5%B7%E6%8C%87%E6%95%B8%EF%BD%9CBDI%E6%9C%89%E6%9C%9B%E9%87%8D%E8%BF%943000%E9%BB%9E%20%EF%BC%9F%20BDTI%E8%B7%8C%E7%A9%BF2200%E9%BB%9E?mtc=20023</id><title>波羅的海指數｜BDI有望重返3000點 ？ BDTI跌穿2200點</title><updated>2026-05-26T01:10:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-05-26T01:10:03+08:00 Updated on: 2026-05-26T01:10:03.842+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;波羅的海乾散貨指數（BDI）有望重返3000點 ？ 波羅的海原油運價指數（BDTI）跌穿2200點；最新一期的上海航交所出口貨櫃運價指數（SCFI）（22日）續漲3.62%至2218.15點，呈現連續四周上漲。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）&lt;br&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4129448?utm_content=4133864&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202605_WINGWAH_contentblock&amp;amp;utm_content=4133864&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4129448 " title="訂閲hketPRO，即送您 香港榮華豐盛裹蒸粽（標準價$143）"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" src="https://static04.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260506_1024x576_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4133864/%E6%B3%A2%E7%BE%85%E7%9A%84%E6%B5%B7%E6%8C%87%E6%95%B8%EF%BD%9CBDI%E6%9C%89%E6%9C%9B%E9%87%8D%E8%BF%943000%E9%BB%9E%20%EF%BC%9F%20BDTI%E8%B7%8C%E7%A9%BF2200%E9%BB%9E?mtc=20023"/><published>2026-05-26T01:10:00+08:00</published></entry></feed>
