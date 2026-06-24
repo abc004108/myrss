@@ -1,8 +1,607 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080</id><title>HKET News Feed</title><updated>2026-06-24T22:40:11.456035+08:00</updated><link href="https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>Latest news</subtitle><entry><id>https://invest.hket.com/article/4150699/%E6%B8%AF%E8%82%A1HSI%E8%B7%8C%E5%AE%8C%E4%BA%86%EF%BC%9F?mtc=20023</id><title>港股HSI跌完了？</title><updated>2026-06-24T21:54:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4150699/%E6%B8%AF%E8%82%A1HSI%E8%B7%8C%E5%AE%8C%E4%BA%86%EF%BC%9F?mtc=20023"/><published>2026-06-24T21:54:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4151409/%E3%80%90AI-%E8%8A%AF%E7%89%87%E3%80%91%E5%8D%9A%E9%80%9A%E8%88%87OpenAI%E7%99%BC%E8%A1%A8%E3%80%8CJalape%C3%B1o%E3%80%8DAI%E8%8A%AF%E7%89%87%E3%80%80%E5%8D%9A%E9%80%9ACEO%EF%BC%9A%E6%B8%AC%E8%A9%A6%E9%A1%AF%E7%A4%BA%E9%81%8B%E7%AE%97%E6%88%90%E6%9C%AC%E4%BD%8E50-%E3%80%81%E6%80%A7%E8%83%BD%E5%AA%B2%E7%BE%8EBlackwell%E5%8F%8ATPU?mtc=20023</id><title>【AI+芯片】博通與OpenAI發表「Jalapeño」AI芯片　博通CEO：測試顯示運算成本低50%、性能媲美Blackwell及TPU</title><updated>2026-06-24T22:35:00+08:00</updated><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080</id><title>HKET News Feed</title><updated>2026-06-25T01:59:43.426958+08:00</updated><link href="https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8?mtc=20080"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>Latest news</subtitle><entry><id>https://invest.hket.com/article/4151224/%E8%82%A1%E4%BB%BD%E5%88%86%E6%8B%86%E5%8F%8A%E5%90%88%E4%BD%B5?mtc=20023</id><title>股份分拆及合併</title><updated>2026-06-25T00:01:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4151224/%E8%82%A1%E4%BB%BD%E5%88%86%E6%8B%86%E5%8F%8A%E5%90%88%E4%BD%B5?mtc=20023"/><published>2026-06-25T00:01:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4151225/%E4%B8%83%E5%A4%A9%E6%A5%AD%E7%B8%BE%E5%85%AC%E5%B8%83%E9%A0%90%E5%91%8A?mtc=20023</id><title>七天業績公布預告</title><updated>2026-06-25T00:01:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4151225/%E4%B8%83%E5%A4%A9%E6%A5%AD%E7%B8%BE%E5%85%AC%E5%B8%83%E9%A0%90%E5%91%8A?mtc=20023"/><published>2026-06-25T00:01:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4151334/%E9%A6%99%E6%B8%AF%E8%82%A1%E7%A5%A8%E4%B8%8A%E5%B8%82%E9%81%8E%E6%88%B6%E5%82%99%E5%BF%98%EF%BC%88%E4%BB%A5%E9%99%A4%E6%B7%A8%E6%97%A5%E6%8E%92%E5%BA%8F%EF%BC%89?mtc=20023</id><title>香港股票上市過戶備忘（以除淨日排序）</title><updated>2026-06-25T00:01:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4151334/%E9%A6%99%E6%B8%AF%E8%82%A1%E7%A5%A8%E4%B8%8A%E5%B8%82%E9%81%8E%E6%88%B6%E5%82%99%E5%BF%98%EF%BC%88%E4%BB%A5%E9%99%A4%E6%B7%A8%E6%97%A5%E6%8E%92%E5%BA%8F%EF%BC%89?mtc=20023"/><published>2026-06-25T00:01:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4151335/%E9%A6%99%E6%B8%AF%E8%82%A1%E7%A5%A8%E4%B8%8A%E5%B8%82%E9%81%8E%E6%88%B6%E5%82%99%E5%BF%98%EF%BC%88%E4%BB%A5%E8%82%A1%E7%A5%A8%E7%B7%A8%E8%99%9F%E6%8E%92%E5%BA%8F%EF%BC%89?mtc=20023</id><title>香港股票上市過戶備忘（以股票編號排序）</title><updated>2026-06-25T00:01:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4151335/%E9%A6%99%E6%B8%AF%E8%82%A1%E7%A5%A8%E4%B8%8A%E5%B8%82%E9%81%8E%E6%88%B6%E5%82%99%E5%BF%98%EF%BC%88%E4%BB%A5%E8%82%A1%E7%A5%A8%E7%B7%A8%E8%99%9F%E6%8E%92%E5%BA%8F%EF%BC%89?mtc=20023"/><published>2026-06-25T00:01:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4151367/%E5%85%AC%E5%8F%B8%E5%9B%9E%E8%B3%BC?mtc=20023</id><title>公司回購</title><updated>2026-06-25T00:01:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4151367/%E5%85%AC%E5%8F%B8%E5%9B%9E%E8%B3%BC?mtc=20023"/><published>2026-06-25T00:01:00+08:00</published></entry><entry><id>https://knowledge.hket.com/article/4151158/%E4%BE%86%E7%A6%8F%E8%AB%A7%E6%B3%A2%EF%BC%8803952%EF%BC%89IPO%EF%BC%9A%E4%B8%AD%E5%9C%8B%E8%AB%A7%E6%B3%A2%E6%B8%9B%E9%80%9F%E5%99%A8%E9%BE%8D%E9%A0%AD%20%20%E4%BA%BA%E5%BD%A2%E6%A9%9F%E6%A2%B0%E4%BA%BA%E6%A0%B8%E5%BF%83%E4%BE%9B%E6%87%89%E5%95%86?mtc=20023</id><title>來福諧波（03952）IPO：中國諧波減速器龍頭  人形機械人核心供應商</title><updated>2026-06-25T00:03:00+08:00</updated><content type="html">
 
-&lt;p&gt;Published on: 2026-06-24T22:35:11.444+08:00 Updated on: 2026-06-24T22:35:11.444+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;p&gt;Published on: 2026-06-25T00:03:00+08:00 Updated on: 2026-06-24T16:40:12.39+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
 &lt;div class="non-paywall"&gt;
-&lt;p&gt;博通（美：AVGO）宣布，與OpenAI聯合推出名為「Jalapeño」的專爲大模型優化智能處理器，這為OpenAI的首款智能處理器。據介紹，Jalapeño是一個多代運算平台的第一步，平台旨在到2026年底進行初始部署，並在未來幾年內不斷擴展。&lt;/p&gt;&lt;p&gt;博通總裁兼CEO Hock Tan接受外電訪問時指，目前測試結果顯示，Jalapeño的運算成本較傳統AI GPU低約 50%，展現相當可觀的成本優勢。他又指，Jalapeño的性能可與英偉達（美：NVDA）Blackwell芯片和Google TPU媲美。&lt;/p&gt;&lt;p&gt;他指，正式版芯片預計今年稍晚開始部署至微軟 （美：MSFT）及其他合作夥伴的大型數據中心。&lt;/p&gt;&lt;p&gt;Hock Tan指，OpenAI與博通已規劃後續產品藍圖，下一代芯片預計於2028年推出，此後將以每年更新節奏持續推出新產品。&lt;/p&gt;&lt;p&gt;新聞稿提到，OpenAI基於對大模型基本原理的深刻理解，並結合模型、核心、服務系統和產品需求的路線圖，從零開始設計這款芯片，並由博通及Celestica實現。Jalapeño芯片的設計兼顧靈活性，能夠與所有大模型相容。&lt;/p&gt;&lt;p&gt;Jalapeño芯片的工程樣品已在實驗室中以生產目標頻率和功耗運行機器學習工作負載，包括GPT-5.3-Codex-Spark。&lt;/p&gt;&lt;p&gt;OpenAI仍在評估最終性能，但早期測試表明，Jalapeño的每瓦（watt）性能將遠超當前最先進的技術。詳細的技術報告將在未來幾個月內發布。&lt;/p&gt;&lt;p&gt;新聞稿指，該架構減少了資料傳輸，並平衡了運算、記憶體和網路資源，從而使實際利用率更接近理論峰值效能。博通的芯片設計與網絡技術，協助該平台實現大規模量產落地。&lt;/p&gt;&lt;p&gt;據介紹，Jalapeño從最初設計到最終流片僅用了九個月時間，便完成聯合開發。這套定製AI加速器項目創下高端先進半導體領域最快專用集成電路研發週期紀錄。&lt;/p&gt;&lt;p&gt;OpenAI總裁兼聯合創始人Greg Brockman於新聞稿中表示，Jalapeño是公司長期全端基礎設施策略的一部分，旨在提升運算能力，從而打造速度更快、更可靠、更經濟實惠的AI，讓個人和企業都能從中受益，並用於解決更重要的問題。&lt;/p&gt;&lt;p&gt;Hock Tan表示，公司與 OpenAI的合作，是爲未來十年AI所需的基礎設施規模化發展的承諾。本次發佈僅是多代產品路線圖的開端。公司直接與OpenAI聯合開發行業領先芯片，將自2026年起與微軟及其他合作伙伴，落地吉瓦級算力數據中心。&lt;/p&gt;
+&lt;p&gt;浙江來福諧波傳動股份有限公司（03952，以下簡稱來福諧波）是中國機械人精密傳動領域的領軍企業，按2025年出貨量計算，在中國諧波減速器市場排名第二，市佔率達21.4%。公司專注諧波減速器等核心部件，已成為國內少數實現人形機械人用諧波減速器量產交付的企業之一，受益於人形機械人及工業機械人產業爆發，正加速從部件供應商向精密傳動解決方案提供商轉型。&lt;/p&gt;&lt;div&gt; &lt;div class="grouped-image-container"&gt;
+&lt;span class="click-to-enlarge"&gt;&lt;span&gt;▼&lt;/span&gt;點擊圖片放大&lt;/span&gt;
+&lt;div class="grouped-image-wrapper"&gt;
+&lt;div class="article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142012_600.png" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142012_300.png" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142012_600.png" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142012_300.png" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142012_600.png" src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142012_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><link href="https://inews.hket.com/article/4151409/%E3%80%90AI-%E8%8A%AF%E7%89%87%E3%80%91%E5%8D%9A%E9%80%9A%E8%88%87OpenAI%E7%99%BC%E8%A1%A8%E3%80%8CJalape%C3%B1o%E3%80%8DAI%E8%8A%AF%E7%89%87%E3%80%80%E5%8D%9A%E9%80%9ACEO%EF%BC%9A%E6%B8%AC%E8%A9%A6%E9%A1%AF%E7%A4%BA%E9%81%8B%E7%AE%97%E6%88%90%E6%9C%AC%E4%BD%8E50-%E3%80%81%E6%80%A7%E8%83%BD%E5%AA%B2%E7%BE%8EBlackwell%E5%8F%8ATPU?mtc=20023"/><published>2026-06-24T22:35:00+08:00</published></entry></feed>
+&lt;div class="article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142030_600.png" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142030_300.png" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142030_600.png" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142030_300.png" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142030_600.png" src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142030_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;div class="mobile-last article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142049_600.png" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142049_300.png" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142049_600.png" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142049_300.png" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142049_600.png" src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142049_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;span&gt;+3&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="desktop-last article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142128_600.png" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142128_300.png" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142128_600.png" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142128_300.png" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142128_600.png" src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142128_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;span&gt;+2&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142157_600.png" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142157_300.png" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142157_600.png" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142157_300.png" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142157_600.png" src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24142157_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;div class="last"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;strong&gt;商業模式&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;垂直整合的上游精密傳動供應商來福諧波定位為機械人核心部件提供商，主營諧波減速器（佔收入64%以上），並延伸至關節模組、機械臂及自動化工作站。公司採用垂直整合模式，自主掌握設計、熱處理、精密加工及組裝等關鍵工序，位於紹興的生產基地於2025年8月投產，保障品質一致性和交付穩定性。產品廣泛應用於人形機械人多關節傳動、工業焊接/搬運等場景，具備±15角秒高精度和超過10,000小時壽命，技術處於國內第一梯隊。&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;甚麼是角秒？&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;角秒&lt;!--TgQPHd||[]--&gt;（又稱弧秒）是&lt;!--qkimaf Kufgsd_p/HugV6--&gt;&lt;!--cqw1tb Kufgsd_p/HugV6--&gt;極微小的平面角度測量單位&lt;!--TgQPHd||[]--&gt;。 1 度等於 60 角分或 3600 角秒；換言之，1 角秒是 1 度的3600分之一，其符號為 ″&lt;!--TgQPHd||[]--&gt;（例如 15″ 代表 15 角秒）。它在航海、測繪及天文學中被廣泛使用。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;公司非完全垂直整合下游整機，而是&lt;strong&gt;聚焦「賣鏟子」模式，向機械人製造商供應高性能減速器&lt;/strong&gt;，通過客製化與長期驗證建立壁壘。客戶以直銷為主，前五大客戶貢獻約30-40%收入，&lt;strong&gt;主要為國內人形/工業機械人企業&lt;/strong&gt;。供應鏈方面，公司與原材料及加工夥伴合作，控制成本同時維持柔性生產。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;賺錢路徑&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;多元化產品驅動增長，&lt;strong&gt;收入主要來自諧波減速器銷售&lt;/strong&gt;，2023-2025年收入從9.45億元增至26.09億元（人民幣·下同），複合增長率超過66%。2025年諧波減速器銷量達29.15萬台，平均售價573元/台，受益小規格產品放量及人形機械人需求爆發。關節模組和機械臂成為新增長點，2025年收入占比升至26.2%，單價較高且毛利率改善（關節模組2025年毛利率25.5%）。自動化工作站貢獻9.4%收入，單價高達43.7萬元/站，毛利率32.9%。&lt;/p&gt;&lt;p&gt;盈利路徑依賴規模經濟：擴產降低單位成本，產品矩陣從單一減速器向集成解決方案延伸，同時拓展海外市場（歐美日韓）。公司預計通過產能擴張、技術迭代和客戶深化，實現收入持續高增長，並逐步扭虧。&lt;/p&gt;&lt;div&gt; &lt;div class="grouped-image-container"&gt;
+&lt;span class="click-to-enlarge"&gt;&lt;span&gt;▼&lt;/span&gt;點擊圖片放大&lt;/span&gt;
+&lt;div class="grouped-image-wrapper"&gt;
+&lt;div class="article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144659_600.png" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144659_300.png" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144659_600.png" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144659_300.png" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144659_600.png" src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144659_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;div class="article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144707_600.png" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144707_300.png" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144707_600.png" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144707_300.png" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144707_600.png" src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144707_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;div class="mobile-last article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144804_600.png" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144804_300.png" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144804_600.png" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144804_300.png" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144804_600.png" src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144804_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;span&gt;+3&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="desktop-last article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144840_600.png" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144840_300.png" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144840_600.png" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144840_300.png" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144840_600.png" src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24144840_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;span&gt;+2&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="article-detail_grouped-image block"&gt;
+&lt;picture class="image-gallery-img"&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24145948_600.png" media="(min-width: 1200px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24145948_300.png" media="(min-width: 1024px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24145948_600.png" media="(min-width: 600px)"/&gt;
+&lt;source data-srcset="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24145948_300.png" media="(min-width: 0px)"/&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24145948_600.png" src="https://static06.hket.com/res/v3/image/content/4150000/4151158/2026-06-24145948_600.png" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;div class="last"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;strong&gt;財務狀況&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;高速成長但仍處投資期 2023-2025年收入強勁增長，但仍錄得淨虧損（每年約1.69億元），主要因高額研發投入（2025年4.92億元，佔收入18.9%）、產能提前投資帶來的折舊上升，以及贖回負債公允價值變動影響。毛利率穩定在24-29%，2025年25.6%，顯示成本控制能力。經營現金流為負（2025年-6.34億元），反映存貨及應收款周轉期較長（現金周轉周期325天）。&lt;/p&gt;&lt;p&gt;資產負債表顯示負淨資產（2025年底-8.21億元），主要因歷史累虧及贖回負債，IPO後預計轉正。現金消耗率約每月1.55億元，但手持現金及可用融資可支撐運營。公司無派息記錄，資金聚焦擴產與研發。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;結語與投資看點&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;來福諧波憑藉技術先發優勢和人形機械人風口，具備長期成長潛力。作為全球機械人精密傳動領域新股，其商業模式穩健，收入多元化加速，但短期仍需關注虧損收窄與現金流改善。建議投資者關注IPO定價後業績兌現及下游客戶訂單落地，適合看好中國機械人產業的長期資金配置。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://knowledge.hket.com/article/4151158/%E4%BE%86%E7%A6%8F%E8%AB%A7%E6%B3%A2%EF%BC%8803952%EF%BC%89IPO%EF%BC%9A%E4%B8%AD%E5%9C%8B%E8%AB%A7%E6%B3%A2%E6%B8%9B%E9%80%9F%E5%99%A8%E9%BE%8D%E9%A0%AD%20%20%E4%BA%BA%E5%BD%A2%E6%A9%9F%E6%A2%B0%E4%BA%BA%E6%A0%B8%E5%BF%83%E4%BE%9B%E6%87%89%E5%95%86?mtc=20023"/><published>2026-06-25T00:03:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4151459/%E3%80%90CBRS%E3%80%91AI%E8%8A%AF%E7%89%87%E8%82%A1Cerebras%E5%85%AD%E5%91%A8%E5%85%A7%E7%94%B1386%E7%BE%8E%E5%85%83%E8%B7%8C%E8%87%B3188%E7%BE%8E%E5%85%83%E3%80%80%E5%B8%82%E5%80%BC%E8%92%B8%E7%99%BC%E9%80%BE400%E5%84%84%E7%BE%8E%E5%85%83?mtc=20023</id><title>【CBRS】AI芯片股Cerebras六周內由386美元跌至188美元　市值蒸發逾400億美元</title><updated>2026-06-25T00:05:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:05:44+08:00 Updated on: 2026-06-25T00:06:07.753+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;AI芯片公司Cerebras Systems（美：CBRS）上市約6星期，股價已由上市首日高位386.34美元，跌至周三盤中低位188.57美元，較高位跌約51%，幾乎打回185美元IPO定價。按現時市值約420億美元粗略推算，公司由高位以來市值蒸發逾400億美元。&lt;/p&gt;&lt;p&gt;Cerebras周三盤中跌逾15%，最新報約191美元。&lt;/p&gt;&lt;h2&gt;毛利率指引拖累股價&lt;/h2&gt;&lt;p&gt;Cerebras公布上市後首份業績，首季收入1.934億美元，按年升94%；核心收入1.913億美元，按年升92%。期內GAAP毛利率45%，核心毛利率47%；GAAP淨虧損1,400萬美元，核心淨虧損250萬美元。&lt;/p&gt;&lt;p&gt;不過，公司預期第二季核心收入約1.94億美元，核心毛利率介乎36%至38%；全年2026年核心收入指引為8.55億至8.65億美元，但全年核心毛利率只料介乎38%至41%，低於首季47%。市場憂慮AI基建擴張成本拖累盈利能力。&lt;/p&gt;&lt;h2&gt;OpenAI GPT 5.4已在Cerebras芯片運行&lt;/h2&gt;&lt;p&gt;Cerebras早前宣布與OpenAI達成多年協議，OpenAI將於未來數年部署750兆瓦Cerebras高速AI推理運算容量，協議價值逾200億美元。行政總裁Andrew Feldman在業績電話會議上表示，OpenAI的GPT 5.4已在Cerebras芯片上運行。&lt;/p&gt;&lt;p&gt;Cerebras表示，公司在首季與OpenAI共同推出Codex-Spark，為針對互動式編程工作而設的模型，強調低延遲及即時回應，速度可達每秒逾1,000個token。公司亦曾取得OpenAI於1月提供10億美元營運資金貸款，用於支持相關部署。&lt;/p&gt;&lt;h2&gt;AWS收入料明年開始&lt;/h2&gt;&lt;p&gt;除OpenAI外，Cerebras亦與亞馬遜（Amazon，美：AMZN）旗下亞馬遜雲端服務（Amazon Web Services，AWS）展開多年合作，將Cerebras高速推理技術帶到AWS平台。Cerebras稱，雙方將採用分拆式推理策略，由AWS的Trainium 3芯片處理prefill，Cerebras CS-3則負責高速decode。&lt;/p&gt;&lt;p&gt;Feldman在業績電話會議上表示，Amazon Web Services將很快在其數據中心使用Cerebras芯片，相關收入料於明年開始流入。公司指出，與AWS合作有助Cerebras把高速推理服務，透過AWS全球分銷網絡推向初創、AI原生企業及大型企業客戶。&lt;/p&gt;&lt;h2&gt;數據中心容量成短期限制&lt;/h2&gt;&lt;p&gt;Cerebras管理層在電話會議上表示，現時需求強勁，但數據中心容量仍是主要限制。公司計劃在2026年加快雲端容量部署，收入亦會更多集中在今年較後時間入帳。&lt;/p&gt;&lt;p&gt;分析員指出，Cerebras毛利率受壓，與公司芯片尺寸較大，以及短期需租回自家系統應付需求有關。Cerebras正擴張AI雲端容量，投資者亦更重視其毛利率、數據中心容量及資本開支走勢。&lt;/p&gt;
+&lt;div class="listing-widget-126"&gt;
+&lt;div class="video-channel-info"&gt;
+&lt;a href="https://video.hket.com/srvv028-1/開市追揸沽"&gt;
+&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/051001.png);"&gt;&lt;/div&gt;
+&lt;span&gt;開市追揸沽&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4149659" data-content-type="EGC" data-formaltag="實體詞,財金政策,加息,美國政府及法定機構,美國聯儲局,地域及地區,美國,議息,投資,股票,港股,美股,宏觀市場,亞洲市場,北美市場,市況分析,投資推介,個股分析,宏觀分析,市場動向,大行報告,技術分析" data-length="3313" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4149659/hls/4149659_1782093541329.m3u8" data-rel="4149659" data-source="051" data-thumbnail="20260622_Thumbnail.jpg" data-videoid="4149659" data-videoprogram="開市追揸沽" data-videopublishdate="2026-06-22" data-videosection="開市追揸沽,開市追揸沽" data-videotitle="聚焦PCE數據＋美伊談判　美股可續升？ 港股失守24000點　繼續揀股唔揀市？" data-videotype="live_archive" id="player-4151459-4149659"&gt;&lt;/video&gt;
+&lt;div class="listing-title"&gt;
+&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4149659" title="聚焦PCE數據＋美伊談判　美股可續升？ 港股失守24000點　繼續揀股唔揀市？"&gt;聚焦PCE數據＋美伊談判　美股可續升？ 港股失守24000點　繼續揀股唔揀市？&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4151459/%E3%80%90CBRS%E3%80%91AI%E8%8A%AF%E7%89%87%E8%82%A1Cerebras%E5%85%AD%E5%91%A8%E5%85%A7%E7%94%B1386%E7%BE%8E%E5%85%83%E8%B7%8C%E8%87%B3188%E7%BE%8E%E5%85%83%E3%80%80%E5%B8%82%E5%80%BC%E8%92%B8%E7%99%BC%E9%80%BE400%E5%84%84%E7%BE%8E%E5%85%83?mtc=20023"/><published>2026-06-25T00:05:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4151143/HSBC%E6%BB%99%E8%B1%90Q3%E5%85%A9%E5%BC%B5%E9%9A%B1%E5%BD%A2%E7%8E%8B%E7%89%8C?mtc=20023</id><title>HSBC滙豐Q3兩張隱形王牌</title><updated>2026-06-25T00:07:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4151143/HSBC%E6%BB%99%E8%B1%90Q3%E5%85%A9%E5%BC%B5%E9%9A%B1%E5%BD%A2%E7%8E%8B%E7%89%8C?mtc=20023"/><published>2026-06-25T00:07:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4149407/MiniMax%E4%B8%83%E6%9C%88%E6%B8%A1%E5%8A%AB%20%E8%83%BD%E8%BF%BD%E4%B8%8A%E6%99%BA%E8%AD%9C%E5%97%8E?mtc=20023</id><title>MiniMax七月渡劫 能追上智譜嗎</title><updated>2026-06-25T00:38:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:38:15+08:00 Updated on: 2026-06-25T00:38:16.15+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;同樣是AI大模型半新股，智譜				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG02513/?mtc=h0023"&gt;（02513）&lt;/a&gt;
+上周創新高見2,094元，MiniMax				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG00100/?mtc=h0023"&gt;（00100）&lt;/a&gt;
+卻高位累跌6成，表現落差巨大。券商分析，後者7月首個禁售期屆滿的沽壓巨大，過後股價有望補漲。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4149407&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4149407&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4149407/MiniMax%E4%B8%83%E6%9C%88%E6%B8%A1%E5%8A%AB%20%E8%83%BD%E8%BF%BD%E4%B8%8A%E6%99%BA%E8%AD%9C%E5%97%8E?mtc=20023"/><published>2026-06-25T00:38:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4149540/%E9%A0%82%E7%B4%9A%E6%8A%95%E8%A1%8CBernstein%EF%BC%9A%E7%AE%97%E5%8A%9B%E7%93%B6%E9%A0%B8%E6%98%AF%E4%B8%80%E5%A0%B4%E9%80%A0%E5%AF%8C%E9%81%8B%E5%8B%95?mtc=20023</id><title>頂級投行Bernstein：算力瓶頸是一場造富運動</title><updated>2026-06-25T00:38:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:38:27+08:00 Updated on: 2026-06-25T00:38:27.853+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;頂級投行Bernstein一個知名芯片分析師稱，沒有人的算力是夠用的。在我的職業生涯，可能是我見過的第一個「超級周期」。此外，市場所有的十倍股，都在這些供應鏈環節的產能瓶頸。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4149540&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4149540&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4149540/%E9%A0%82%E7%B4%9A%E6%8A%95%E8%A1%8CBernstein%EF%BC%9A%E7%AE%97%E5%8A%9B%E7%93%B6%E9%A0%B8%E6%98%AF%E4%B8%80%E5%A0%B4%E9%80%A0%E5%AF%8C%E9%81%8B%E5%8B%95?mtc=20023"/><published>2026-06-25T00:38:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4149569/%E6%B8%A3%E6%89%93%E9%99%B3%E6%AD%A3%E7%8A%96%EF%BC%9A%E9%80%9A%E8%84%B9%E8%A6%8B%E9%A0%82%E6%B6%88%E8%B2%BB%E7%96%B2%E5%BC%B1%20%20%E5%8A%A0%E6%81%AF%E9%A0%90%E6%9C%9F%E5%83%85%E3%80%8C%E8%99%9B%E7%81%AB%E3%80%8D?mtc=20023</id><title>渣打陳正犖：通脹見頂消費疲弱  加息預期僅「虛火」</title><updated>2026-06-25T00:39:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:39:24+08:00 Updated on: 2026-06-25T00:39:24.97+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;市場將這次議息解讀為鷹派訊號，甚至把加息時間預期由年底或明年，提前至今年10月左右。不過，渣打香港財富方案投資策略主管陳正犖認為，這種解讀未免過於倉卒。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4149569&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4149569&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4149569/%E6%B8%A3%E6%89%93%E9%99%B3%E6%AD%A3%E7%8A%96%EF%BC%9A%E9%80%9A%E8%84%B9%E8%A6%8B%E9%A0%82%E6%B6%88%E8%B2%BB%E7%96%B2%E5%BC%B1%20%20%E5%8A%A0%E6%81%AF%E9%A0%90%E6%9C%9F%E5%83%85%E3%80%8C%E8%99%9B%E7%81%AB%E3%80%8D?mtc=20023"/><published>2026-06-25T00:39:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4149588/%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%8A%80%E8%A1%8C%E9%9C%8D%E6%85%A7%E6%95%8F%EF%BC%9A%E8%B3%87%E9%87%91%E5%AE%9A%E5%83%B9%E9%82%8F%E8%BC%AF%E7%94%9F%E8%AE%8A%20%20%E6%81%92%E6%8C%87%E7%B6%AD%E6%8C%81%E7%9B%AE%E6%A8%9928800%E9%BB%9E?mtc=20023</id><title>新加坡銀行霍慧敏：資金定價邏輯生變  恒指維持目標28800點</title><updated>2026-06-25T00:39:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:39:40+08:00 Updated on: 2026-06-25T00:39:41.667+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;美國聯儲局議息後，港股失守24000點，再創年內新低，市場觀望港股在新的利率預期環境下，能否走出谷底。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4149588&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4149588&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4149588/%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%8A%80%E8%A1%8C%E9%9C%8D%E6%85%A7%E6%95%8F%EF%BC%9A%E8%B3%87%E9%87%91%E5%AE%9A%E5%83%B9%E9%82%8F%E8%BC%AF%E7%94%9F%E8%AE%8A%20%20%E6%81%92%E6%8C%87%E7%B6%AD%E6%8C%81%E7%9B%AE%E6%A8%9928800%E9%BB%9E?mtc=20023"/><published>2026-06-25T00:39:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4149727/%E7%BE%8E%E8%81%AF%E5%84%B2%E4%BC%BA%E6%A9%9F%E5%8A%A0%E6%81%AF%E4%B8%8D%E4%BB%A3%E8%A1%A8%E9%87%8D%E5%95%9F%E8%B2%A8%E5%B9%A3%E7%B7%8A%E7%B8%AE%E9%80%B1%E6%9C%9F?mtc=20023</id><title>美聯儲伺機加息不代表重啟貨幣緊縮週期</title><updated>2026-06-25T00:40:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:40:02+08:00 Updated on: 2026-06-25T00:40:02.583+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;中東戰事爆發後，環球主要央行的貨幣政策取態出現轉變。歐洲央行為應對通脹升溫，重啟加息；而市場對美聯儲的利率調整預期，亦由減息逆轉為加息。然而，即使美聯儲伺機加息以將高利率維持更長時間(higher for longer)，亦不代表新一輪緊縮週期已經展開。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4149727&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4149727&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4149727/%E7%BE%8E%E8%81%AF%E5%84%B2%E4%BC%BA%E6%A9%9F%E5%8A%A0%E6%81%AF%E4%B8%8D%E4%BB%A3%E8%A1%A8%E9%87%8D%E5%95%9F%E8%B2%A8%E5%B9%A3%E7%B7%8A%E7%B8%AE%E9%80%B1%E6%9C%9F?mtc=20023"/><published>2026-06-25T00:40:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4149777/HKAI%E6%8C%87%E6%95%B8%EF%BD%9CAI%E8%82%A1%E5%8F%8D%E5%BD%88%20%20%E8%8F%AF%E8%99%B9%E7%A0%B4%E9%A0%82%20%E6%99%BA%E8%AD%9C%E5%82%B3%E9%85%8D%E8%82%A1%E8%82%A1%E5%83%B9%E5%9B%9E%E8%BB%9F?mtc=20023</id><title>HKAI指數｜AI股反彈  華虹破頂 智譜傳配股股價回軟</title><updated>2026-06-25T00:40:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:40:33+08:00 Updated on: 2026-06-25T00:40:33.746+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI是環球市場大趨勢，當香港人感慨嘆恒指未能趕上這黃金軌道，其實香港股市有數不清具實力的滄海遺珠已經「悄悄」備受追捧。為反映香港股市的AI實力，本頻道精選15隻具代表性的香港AI股份，編製「HKAI指數」。本欄每日報價，助讀者緊貼港股AI板塊表現。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4149777&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4149777&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4149777/HKAI%E6%8C%87%E6%95%B8%EF%BD%9CAI%E8%82%A1%E5%8F%8D%E5%BD%88%20%20%E8%8F%AF%E8%99%B9%E7%A0%B4%E9%A0%82%20%E6%99%BA%E8%AD%9C%E5%82%B3%E9%85%8D%E8%82%A1%E8%82%A1%E5%83%B9%E5%9B%9E%E8%BB%9F?mtc=20023"/><published>2026-06-25T00:40:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4150010/%E8%B6%A8%E5%8B%A2%E7%AD%86%E8%A8%98%EF%BD%9C%E3%80%8A%E5%B7%B4%E9%9A%86%E6%B0%8F%E3%80%8B%E3%80%8C%E8%AD%A6%E5%91%8A%E3%80%8D%E7%BE%8E%E5%85%89%E5%91%A8%E5%9B%9B%E6%9C%89%E4%B8%8B%E8%B7%8C%E9%A2%A8%E9%9A%AA%E3%80%80%E9%81%8E%E5%8E%BB3%E5%B9%B4%E8%B7%8C%E5%B8%82%E5%95%9F%E7%A4%BA%E9%8C%84?mtc=20023</id><title>趨勢筆記｜《巴隆氏》「警告」美光周四有下跌風險　過去3年跌市啟示錄</title><updated>2026-06-25T00:40:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:40:46+08:00 Updated on: 2026-06-25T00:40:47.58+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;著名財經傳統《巴隆氏》不是一直唱好美光？怎麼突然轉軚？「警告」美光周四有下跌風險？周四(6月25日)有何特別？原來是美光業績公布日？預期業績倒退？又非也，反而市場預期增幅逾11倍……因為12比7。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4150010&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4150010&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4150010/%E8%B6%A8%E5%8B%A2%E7%AD%86%E8%A8%98%EF%BD%9C%E3%80%8A%E5%B7%B4%E9%9A%86%E6%B0%8F%E3%80%8B%E3%80%8C%E8%AD%A6%E5%91%8A%E3%80%8D%E7%BE%8E%E5%85%89%E5%91%A8%E5%9B%9B%E6%9C%89%E4%B8%8B%E8%B7%8C%E9%A2%A8%E9%9A%AA%E3%80%80%E9%81%8E%E5%8E%BB3%E5%B9%B4%E8%B7%8C%E5%B8%82%E5%95%9F%E7%A4%BA%E9%8C%84?mtc=20023"/><published>2026-06-25T00:40:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4150064/Token%E7%B6%93%E6%BF%9F%E5%AD%B8%EF%BD%9C%E6%99%BA%E8%AD%9CAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%80%A7%E5%83%B9%E6%AF%94%E9%9D%A9%E5%91%BD%20%E6%92%BC%E5%8B%95Nvidia%E8%88%87Anthropic%E7%A5%9E%E8%A9%B1?mtc=20023</id><title>Token經濟學｜智譜AI大模型性價比革命 撼動Nvidia與Anthropic神話</title><updated>2026-06-25T00:41:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:41:00+08:00 Updated on: 2026-06-25T00:41:10.463+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;港股焦點智譜（02513）本周一度再創新高，股價一度高見2,980元，整體市值曾突破萬億港元。表面看，這是AI概念股的狂熱；但若只把它理解為短綫炒作，便低估了市場真正關注的問題。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4150064&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4150064&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4150064/Token%E7%B6%93%E6%BF%9F%E5%AD%B8%EF%BD%9C%E6%99%BA%E8%AD%9CAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%80%A7%E5%83%B9%E6%AF%94%E9%9D%A9%E5%91%BD%20%E6%92%BC%E5%8B%95Nvidia%E8%88%87Anthropic%E7%A5%9E%E8%A9%B1?mtc=20023"/><published>2026-06-25T00:41:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4150601/SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%82%A1%E5%83%B9%E5%9B%A0%E4%BD%95%E6%80%A5%E8%B7%8C-%E8%A6%8B%E9%A0%82-%E5%B7%B2%E5%9B%9E%E5%8D%87-%EF%BC%88%E6%9B%B4%E6%96%B02%E7%89%88%EF%BC%89?mtc=20023</id><title>SK海力士股價因何急跌?見頂?已回升?（更新2版）</title><updated>2026-06-25T00:41:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:41:35+08:00 Updated on: 2026-06-25T00:41:36.029+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;一日天堂一日地獄，周一（6月22日）才超越皇牌財閥家族旗下三星電子成為全韓市值最高公司的SK海力士，周二錄得起碼一年半以來單日最大跌幅。周三表現反翻，早段股價稍為回升，然後又回軟，最終升1%。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4150601&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4150601&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4150601/SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%82%A1%E5%83%B9%E5%9B%A0%E4%BD%95%E6%80%A5%E8%B7%8C-%E8%A6%8B%E9%A0%82-%E5%B7%B2%E5%9B%9E%E5%8D%87-%EF%BC%88%E6%9B%B4%E6%96%B02%E7%89%88%EF%BC%89?mtc=20023"/><published>2026-06-25T00:41:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4150605/Token%E7%B6%93%E6%BF%9F%E5%AD%B8%EF%BD%9CGoogle%E8%82%A1%E5%83%B9%E6%9A%B4%E8%B7%8C%E8%83%8C%E5%BE%8C%E7%9A%84AI%E6%B8%9B%E5%83%B9%E6%88%B0%E9%9A%B1%E6%86%82?mtc=20023</id><title>Token經濟學｜Google股價暴跌背後的AI減價戰隱憂</title><updated>2026-06-25T00:41:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:41:48+08:00 Updated on: 2026-06-25T00:41:48.026+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;Google母企Alphabet股價周一（22日）曾急跌逾7%，創下數月來最大單日跌幅。市場表面上將矛頭指向兩名重量級人工智能（AI）科學家相繼離職，包括諾貝爾獎得主John Jumper轉投Anthropic，以及Google資深研究員Noam Shazeer加盟OpenAI。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4150605&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4150605&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4150605/Token%E7%B6%93%E6%BF%9F%E5%AD%B8%EF%BD%9CGoogle%E8%82%A1%E5%83%B9%E6%9A%B4%E8%B7%8C%E8%83%8C%E5%BE%8C%E7%9A%84AI%E6%B8%9B%E5%83%B9%E6%88%B0%E9%9A%B1%E6%86%82?mtc=20023"/><published>2026-06-25T00:41:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4151099/%E8%B6%A8%E5%8B%A2%E7%AD%86%E8%A8%98%EF%BD%9C%E9%82%A33%E5%AE%B6%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E6%A6%AE%E7%99%BB%E5%85%A8%E7%90%83%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A3%BD%E9%80%A0%E8%A8%AD%E5%82%9920%E5%BC%B7%EF%BC%9F?mtc=20023</id><title>趨勢筆記｜那3家中國企業榮登全球半導體製造設備20強？</title><updated>2026-06-25T00:42:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:42:05+08:00 Updated on: 2026-06-25T00:42:05.215+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;由1到3，走了3年；這3年的起點，是美國阻制尖端半導體設備對華出口，於是，以銷售額計，全球半導體製造設備20強企業，中國企業由1家進展至3家。那3家？深交所北方華創；科創板中微半導體；以及沒有上市的上海微電子。記下這3個名字，因為筆者相信，芯片是現在與未來投資市場的主旋律。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4151099&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4151099&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4151099/%E8%B6%A8%E5%8B%A2%E7%AD%86%E8%A8%98%EF%BD%9C%E9%82%A33%E5%AE%B6%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E6%A6%AE%E7%99%BB%E5%85%A8%E7%90%83%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A3%BD%E9%80%A0%E8%A8%AD%E5%82%9920%E5%BC%B7%EF%BC%9F?mtc=20023"/><published>2026-06-25T00:42:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4151161/%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%BA%E4%BD%95%E6%80%A5%E6%8E%A8%E9%87%8F%E5%AD%90%E9%9B%BB%E8%85%A6%EF%BC%9F%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82%E4%B8%8B%E4%B8%80%E5%A0%B4%E7%A7%91%E6%8A%80%E5%9C%8B%E5%8A%9B%E7%AB%B6%E8%B3%BD?mtc=20023</id><title>特朗普為何急推量子電腦？一文看懂下一場科技國力競賽</title><updated>2026-06-25T00:42:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:42:28+08:00 Updated on: 2026-06-25T00:42:29.224+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;美國總統特朗普簽署兩項與量子科技相關的行政命令，表面上是科技政策，實際上是美國為下一場國力競賽提前落子。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4151161&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4151161&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4151161/%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%BA%E4%BD%95%E6%80%A5%E6%8E%A8%E9%87%8F%E5%AD%90%E9%9B%BB%E8%85%A6%EF%BC%9F%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82%E4%B8%8B%E4%B8%80%E5%A0%B4%E7%A7%91%E6%8A%80%E5%9C%8B%E5%8A%9B%E7%AB%B6%E8%B3%BD?mtc=20023"/><published>2026-06-25T00:42:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4151270/%E9%98%BF%E9%87%8C%E6%9C%AA%E8%BF%94100%E5%85%83%E9%97%9C%20%E6%BB%99%E8%B1%90%E5%89%8A%E7%9B%AE%E6%A8%99%E5%83%B9%EF%BC%9A%E9%9B%BB%E5%95%86%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%89%8D%E6%9C%89%E6%9C%9B%E5%BE%A9%E7%94%A6?mtc=20023</id><title>阿里未返100元關 滙豐削目標價：電商下半年才有望復甦</title><updated>2026-06-25T00:43:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:43:16+08:00 Updated on: 2026-06-25T00:43:20.732+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;中國5月零售數據差，「618」電商促銷效果又不如人意，阿里				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG09988/?mtc=h0023"&gt;（09988）&lt;/a&gt;
+今日反攻100元失敗、京東				&lt;a class="inline-related-stock" href="https://invest.hket.com/data/HKG09618/?mtc=h0023"&gt;（09618）&lt;/a&gt;
+股價跌至100元關掙扎。滙豐早前稍削阿里美股目標價，反映第二季因「618」表現不濟而下調電商營收預測，料要到下半年基數效應減弱後才能增長表現。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4151270&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4151270&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4151270/%E9%98%BF%E9%87%8C%E6%9C%AA%E8%BF%94100%E5%85%83%E9%97%9C%20%E6%BB%99%E8%B1%90%E5%89%8A%E7%9B%AE%E6%A8%99%E5%83%B9%EF%BC%9A%E9%9B%BB%E5%95%86%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%89%8D%E6%9C%89%E6%9C%9B%E5%BE%A9%E7%94%A6?mtc=20023"/><published>2026-06-25T00:43:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4151316/DWS%EF%BC%9A%E7%BE%8E%E5%9C%8B%E6%98%8E%E5%B9%B4%E6%B8%9B%E6%81%AF2%E6%AC%A1%20%20%E9%9F%93%E5%8F%B0%E8%82%A1%E5%B8%82%E7%B6%AD%E6%8C%81%E8%B6%85%E9%85%8D?mtc=20023</id><title>DWS：美國明年減息2次  韓台股市維持超配</title><updated>2026-06-25T00:43:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:43:47+08:00 Updated on: 2026-06-25T00:43:49.247+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;市場對美國息口的討論，近期由「何時減息」轉向「會否加息」。DWS亞太區首席投資總監吳雙榮指出，該行目前基本情境是，聯儲局至2026年底前不會調整利率，但若把視野延伸至2027年6月底，DWS仍預期美國有約0.5厘的減息空間。&lt;/p&gt;&lt;p&gt;她解釋，預期美國通脹率在2026年仍約為3.2%，但到2027年有望回落至約2.3%。換言之，若通脹如預期在第三、第四季短暫回升後逐步回落，聯儲局將重新獲得政策轉鬆的空間。不過，吳雙榮亦提醒，若通脹數據未能如預期改善，減息時間可能進一步推後。&lt;/p&gt;&lt;p&gt;DWS全球研究主管Johannes Mueller則從「成本推動」與「需求拉動」通脹的角度補充，若油價或地緣政治令通脹上升，央行加息並不能解決供應端衝擊，例如無法透過加息「打開霍爾木茲海峽」。央行真正需要出手的，是當需求拉動型通脹出現時，透過提高利率壓抑需求。以現時情況而言，聯儲局政策起點已具限制性，因此毋須急於再加息；相比之下，歐洲央行若要維持限制性立場，反而可能仍有加息壓力。&lt;/p&gt;&lt;p&gt;小題：韓股基本面無逆轉&lt;/p&gt;&lt;p&gt;近期韓國股市暴跌引發環球AI股小股災，吳雙榮認為，市場波動加劇並不令人意外。原因在於韓國、台灣等亞洲科技市場今年以來，受AI、記憶體及半導體出口支持，成為全球資金追逐的熱門交易；當估值升至歷史偏高水平，任何負面消息、政策風險或個別公司事件，都容易觸發槓桿產品及散戶倉位的連鎖平倉。&lt;/p&gt;&lt;p&gt;她指出，韓國市場特別受槓桿產品及零售投資者參與影響，因此在市場情緒逆轉時，跌幅往往比其他亞洲市場更大。過去數月，每當亞洲市場出現風險事件，韓國股市往往率先受壓，台灣及日本其後跟隨，這反映的不一定是企業基本面急速惡化，而是熱門交易過度集中後的自然後果。&lt;/p&gt;&lt;p&gt;不過，DWS並未因此改變對新興市場的正面看法。吳雙榮表示，DWS在CIO投資組合中仍然超配新興市場，關鍵原因正是仍看好台灣及韓國的科技龍頭。從基本面而言，AI需求、超大型雲端企業資本開支，以及記憶體和高端晶片訂單，仍在支持相關企業盈利。她強調，真正需要留意的是企業盈利指引及雲端巨企資本開支的「變化速度」，而不只是短期股價震盪。&lt;/p&gt;&lt;p&gt;小題：AI交易未算泡沫 &lt;/p&gt;&lt;p&gt;美股方面，市場最關注仍是AI是否已成泡沫。吳雙榮指出，DWS不傾向把未來12個月定義為「泡沫爆破」情境，但會密切監察幾個指標，包括PE估值、盈利表現、指數目標及企業資產負債表。&lt;/p&gt;&lt;p&gt;她承認，美股估值相對歷史平均已處於偏高水平，DWS目前對標普500指數目標為8200點，相對預測PE為23.5倍，屬於歷史高端區間。不過，支持高估值的關鍵在於盈利仍然強勁。美國科技企業在首季業績中繼續交出優於大市的盈利表現，DWS亦預期美企盈利至本年末仍有機會保持雙位數增長。&lt;/p&gt;&lt;p&gt;她同時提到，雖然部分科技公司自2025年下半年起開始進入債券市場融資，但整體資產負債表及槓桿水平仍未見明顯拉緊。因此，單以估值偏高便判斷AI泡沫即將爆破，未免過於簡化。&lt;/p&gt;&lt;p&gt;在亞洲科技供應鏈方面，吳雙榮認為，AI硬件需求正在由傳統周期性，逐步轉向結構性增長。以記憶體、芯片及相關高端零部件為例，部分企業已透過3至5年長期合約鎖定收入可見度，令盈利模式不再完全依賴短周期需求。這也是為何市場願意重新評估部分韓國、台灣及日本科技企業估值的原因。&lt;/p&gt;&lt;p&gt;不過，她亦提醒，AI供應鏈焦點會隨技術階段轉移而快速變化。過去市場集中於GPU和訓練需求，如今焦點又轉向推理、CPU及NAND等環節。這代表AI投資並非買入單一主題便可一勞永逸，而是需要持續觀察整條供應鏈中哪一部分真正具備比較優勢。&lt;/p&gt;&lt;p&gt;小題：「新歐洲」逐步取代「舊歐洲」&lt;/p&gt;&lt;p&gt;相比美國及亞洲科技股的高波動，歐洲市場的故事則較慢熱。Johannes Mueller指出，去年德國決定調整憲法債務煞車機制並擴大財政開支後，市場一度大為振奮，歐元走強，歐股亦曾跑贏。但其後投資者熱情冷卻，再次質疑歐洲是否又一次「承諾很多、交付很慢」。&lt;/p&gt;&lt;p&gt;他認為，投資者需要更多耐性，因為德國財政轉向真正影響經濟，主要會在2026及2027年出現。這輪刺激主要來自德國，尤其集中於國防及基建兩大範疇。德國國防開支將由每年不足500億歐元，逐步提升至約1500億歐元；基建方面則透過特別基金，在未來多年分階段投入。&lt;/p&gt;&lt;p&gt;在歐洲股市部署上，DWS留意到「舊歐洲」正逐步讓位予「新歐洲」。過去歐洲指數由汽車、基礎商品及傳統工業主導，但這些板塊在全球競爭及中國製造升級下壓力增加。相反，公用事業、金融、半導體，以及能源與電力設備供應鏈，正在歐洲市場中佔比提升。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4151316/DWS%EF%BC%9A%E7%BE%8E%E5%9C%8B%E6%98%8E%E5%B9%B4%E6%B8%9B%E6%81%AF2%E6%AC%A1%20%20%E9%9F%93%E5%8F%B0%E8%82%A1%E5%B8%82%E7%B6%AD%E6%8C%81%E8%B6%85%E9%85%8D?mtc=20023"/><published>2026-06-25T00:43:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4151350/%E6%B4%AA%E7%81%9D%EF%BC%9A%E8%82%A1%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A6%81%E5%A4%A7%E7%B4%9A%E5%88%A5%E8%AA%BF%E6%95%B4?mtc=20023</id><title>洪灝：股市可能要大級別調整</title><updated>2026-06-25T00:45:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T00:45:02+08:00 Updated on: 2026-06-25T00:45:03.237+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;香港恆生科技指數從去年10月至今已經跌了三分之一，蓮華資管首席投資官洪灝最近在瑞士寶盛的月度對話，對股市的最新見解可以濃縮成一句話：下行趨勢言難見底，心臟不好的建議先吃顆救心丸。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4151350&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4151350&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4151350/%E6%B4%AA%E7%81%9D%EF%BC%9A%E8%82%A1%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A6%81%E5%A4%A7%E7%B4%9A%E5%88%A5%E8%AA%BF%E6%95%B4?mtc=20023"/><published>2026-06-25T00:45:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4151235/%E6%9C%88%E5%85%A713%E6%AC%A1%E5%AF%86%E9%9B%86%E5%9B%9E%E8%B3%BC%20%20%E5%8D%87%E9%80%BE3%E6%88%90%E8%97%8D%E7%B1%8C%E8%B4%8F%E5%AE%B6?mtc=20023</id><title>月內13次密集回購  升逾3成藍籌贏家</title><updated>2026-06-25T01:08:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4151235/%E6%9C%88%E5%85%A713%E6%AC%A1%E5%AF%86%E9%9B%86%E5%9B%9E%E8%B3%BC%20%20%E5%8D%87%E9%80%BE3%E6%88%90%E8%97%8D%E7%B1%8C%E8%B4%8F%E5%AE%B6?mtc=20023"/><published>2026-06-25T01:08:00+08:00</published></entry><entry><id>https://news.hket.com/article/4149117/%E5%9C%8B%E5%AE%89%E8%99%95%E8%A1%8C%E5%8B%95%EF%BD%9C%E5%9C%8B%E5%AE%89%E8%99%95%E6%90%9C%E6%9F%A5%E7%8D%B5%E4%BA%BA%E6%9B%B8%E5%BA%97%E6%8B%98%E4%B8%80%E7%94%B7%E4%B8%80%E5%A5%B3%E3%80%80%E6%B6%89%E5%B1%95%E7%A4%BA%E5%8F%8A%E5%87%BA%E5%94%AE%E5%85%B7%E7%85%BD%E5%8B%95%E6%84%8F%E5%9C%96%E7%89%A9%E5%93%81%E5%8F%8A%E5%88%8A%E7%89%A9?mtc=20023</id><title>國安處行動｜國安處搜查獵人書店拘一男一女　涉展示及出售具煽動意圖物品及刊物</title><updated>2026-06-25T01:12:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T01:12:43+08:00 Updated on: 2026-06-25T01:18:12.74+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;警務處國安處昨日（24日）在深水埗區搜查一間店鋪並拘捕其負責人，分別為一名33歲女子及一名32歲男子，據悉，女子是前公民黨成員、獵人書店負責人黃文萱。&lt;/p&gt;&lt;h2&gt;&lt;strong&gt;據悉被捕者包括黃文萱 國安處：涉曾收外國政治組織多筆資助&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;警方指，調查顯示，該兩名被捕人涉嫌於店鋪內展示具有煽動意圖的物品，以及出售具煽動意圖的刊物，內容包括煽動他人引起對香港特區政府、司法機構及執法部門的憎恨。另外，兩名被捕人亦涉嫌曾收取外國政治組織的多筆匯款資助。&lt;/p&gt;&lt;p&gt;二人涉嫌違反《維護國家安全條例》第二十四條「出於煽動意圖作出具煽動意圖的作為」罪及《有組織及嚴重罪行條例》第二十五條「處理已知道或相信為代表從可公訴罪行的得益的財產」罪。兩罪首次定罪可分別被判處監禁7年及14年。&lt;/p&gt;&lt;p&gt;人員於其店鋪及住所檢取一批具煽動意圖的物品、書籍和涉案文件。所有被捕人現正被扣留調查。&lt;/p&gt; &lt;p&gt;HKET App已全面升級，TOPick為大家推出一系列親子、健康、娛樂、港聞及休閒生活資訊及影片。立即下載︰&lt;a href="https://onelink.to/f92q4m"&gt;https://onelink.to/f92q4m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;追蹤TOPick WhatsApp頻道睇最新資訊︰&lt;a href="http://tinyurl.com/3dtnw8f5"&gt;http://tinyurl.com/3dtnw8f5&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://news.hket.com/article/4149117/%E5%9C%8B%E5%AE%89%E8%99%95%E8%A1%8C%E5%8B%95%EF%BD%9C%E5%9C%8B%E5%AE%89%E8%99%95%E6%90%9C%E6%9F%A5%E7%8D%B5%E4%BA%BA%E6%9B%B8%E5%BA%97%E6%8B%98%E4%B8%80%E7%94%B7%E4%B8%80%E5%A5%B3%E3%80%80%E6%B6%89%E5%B1%95%E7%A4%BA%E5%8F%8A%E5%87%BA%E5%94%AE%E5%85%B7%E7%85%BD%E5%8B%95%E6%84%8F%E5%9C%96%E7%89%A9%E5%93%81%E5%8F%8A%E5%88%8A%E7%89%A9?mtc=20023"/><published>2026-06-25T01:12:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4151462/%E3%80%90AI-%E7%B6%B2%E5%AE%89%E3%80%91Anthropic%20Mythos%E6%95%B8%E5%B0%8F%E6%99%82%E5%85%A7%E6%8E%83%E5%87%BA%E7%BE%8E%E6%A9%9F%E5%AF%86%E7%B3%BB%E7%B5%B1%E6%BC%8F%E6%B4%9E%E3%80%80%E7%BE%8E%E6%83%85%E5%A0%B1%E6%A9%9F%E6%A7%8B%E5%8F%83%E8%88%87%E6%B8%AC%E8%A9%A6?mtc=20023</id><title>【AI+網安】Anthropic Mythos數小時內掃出美機密系統漏洞　美情報機構參與測試</title><updated>2026-06-25T01:22:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T01:22:12+08:00 Updated on: 2026-06-25T01:22:24.839+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;人工智能初創Anthropic旗下Mythos模型據報在美國情報機構參與的測試中，於數小時內找出美國高度敏感政府電腦系統漏洞，顯示前沿AI模型正被用於網絡安全防禦。美聯社引述一名美國官員指，模型雖然快速識別漏洞，但不代表已在同一時間內利用漏洞攻入系統。&lt;/p&gt;&lt;p&gt;報道指，Anthropic與美國情報機構合作，在Project Glasswing下使用Mythos進行測試。Project Glasswing是一項受限制計劃，目標是在攻擊者利用漏洞前，先找出及修補關鍵軟件漏洞。&lt;/p&gt;&lt;h2&gt;參議員：不是數周、而是數小時&lt;/h2&gt;&lt;p&gt;弗吉尼亞州參議員Mark Warner本月在國會聽證會提及有關測試，稱獲美國國家安全局（NSA）及網絡司令部主管Joshua Rudd告知，Mythos「不是用數周，而是數小時」便觸及幾乎所有機密系統。&lt;/p&gt;&lt;p&gt;不過，美聯社引述該名官員稱，Mythos在數小時內識別出部分漏洞，並不代表模型已能在同一時間內利用漏洞。&lt;/p&gt;&lt;h2&gt;Project Glasswing聚焦修補漏洞&lt;/h2&gt;&lt;p&gt;Anthropic今年4月公布Project Glasswing，形容計劃目標是保障關鍵軟件及基礎系統。參與者可使用Claude Mythos Preview尋找及修補系統漏洞，工作包括本地漏洞偵測、二進制黑箱測試、端點保護及滲透測試等。&lt;/p&gt;&lt;p&gt;Anthropic其後表示，Project Glasswing合作夥伴已使用Mythos掃描程式碼庫，發現逾1萬個高危或嚴重級別安全漏洞。公司指，AI可協助防禦方更快找出問題，但同時亦需要加快修補漏洞的速度。&lt;/p&gt;
+&lt;div class="listing-widget-126"&gt;
+&lt;div class="video-channel-info"&gt;
+&lt;a href="https://video.hket.com/srvv028-1/開市追揸沽"&gt;
+&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/051001.png);"&gt;&lt;/div&gt;
+&lt;span&gt;開市追揸沽&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4149659" data-content-type="EGC" data-formaltag="實體詞,財金政策,加息,美國政府及法定機構,美國聯儲局,地域及地區,美國,議息,投資,股票,港股,美股,宏觀市場,亞洲市場,北美市場,市況分析,投資推介,個股分析,宏觀分析,市場動向,大行報告,技術分析" data-length="3313" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4149659/hls/4149659_1782093541329.m3u8" data-rel="4149659" data-source="051" data-thumbnail="20260622_Thumbnail.jpg" data-videoid="4149659" data-videoprogram="開市追揸沽" data-videopublishdate="2026-06-22" data-videosection="開市追揸沽,開市追揸沽" data-videotitle="聚焦PCE數據＋美伊談判　美股可續升？ 港股失守24000點　繼續揀股唔揀市？" data-videotype="live_archive" id="player-4151462-4149659"&gt;&lt;/video&gt;
+&lt;div class="listing-title"&gt;
+&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4149659" title="聚焦PCE數據＋美伊談判　美股可續升？ 港股失守24000點　繼續揀股唔揀市？"&gt;聚焦PCE數據＋美伊談判　美股可續升？ 港股失守24000點　繼續揀股唔揀市？&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4151462/%E3%80%90AI-%E7%B6%B2%E5%AE%89%E3%80%91Anthropic%20Mythos%E6%95%B8%E5%B0%8F%E6%99%82%E5%85%A7%E6%8E%83%E5%87%BA%E7%BE%8E%E6%A9%9F%E5%AF%86%E7%B3%BB%E7%B5%B1%E6%BC%8F%E6%B4%9E%E3%80%80%E7%BE%8E%E6%83%85%E5%A0%B1%E6%A9%9F%E6%A7%8B%E5%8F%83%E8%88%87%E6%B8%AC%E8%A9%A6?mtc=20023"/><published>2026-06-25T01:22:00+08:00</published></entry><entry><id>https://specialist.hket.com/article/4151413/%E6%B3%A2%E7%BE%85%E7%9A%84%E6%B5%B7%E6%8C%87%E6%95%B8%EF%BD%9CBDI%E8%80%83%E9%A9%972600%E9%BB%9E%E6%94%AF%E6%8C%81%20%20BDTI%E8%80%83%E9%A9%972100%E9%BB%9E%E8%80%83%E9%A9%97?mtc=20023</id><title>波羅的海指數｜BDI考驗2600點支持  BDTI考驗2100點考驗</title><updated>2026-06-25T01:26:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T01:26:06+08:00 Updated on: 2026-06-25T01:26:18.642+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;波羅的海乾散貨指數（BDI）考驗 2600點支持 ；波羅的海原油運價指數（BDTI）考驗2100點考驗；支持最新一期上海出口集裝箱運價指數（SCFI）（6月18日）出爐，指數大漲136.47點至3,121.69點，成功站上3,000點，按周漲幅達4.6%，四大主要航綫全面走揚，並已連續第8周上漲。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;div class="fqa_widget"&gt;&lt;/div&gt;
+&lt;div class="article-detail_login"&gt;
+&lt;div class="container"&gt;
+&lt;p&gt;訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗&lt;br/&gt;&lt;span&gt;&lt;a href="https://event.hket.com/article/4148000?utm_content=4151413&amp;amp;utm_source=hket_web"&gt;詳情&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="login-btn-container"&gt;
+&lt;a class="login-btn" href="/login" title="登入"&gt;登入&lt;/a&gt;
+&lt;a class="subscribe-btn" href="https://plus.hket.com/account/subscribe/register/plan?ref=iet&amp;amp;code=MCE_PF_202606_earlybird_contentblock&amp;amp;utm_content=4151413&amp;amp;utm_source=hket_web" title="歡迎訂閱"&gt;
+									歡迎訂閱
+								&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="template-aside hket-row no-padding no-border full-content-banner"&gt;
+&lt;a class="listing-banner full-content" href="https://event.hket.com/article/4148000" title="訂閲超值賞⚡早鳥訂閲hketPRO每日低至$1.3❗"&gt;
+&lt;div class="listing-banner"&gt;
+&lt;picture&gt;
+&lt;img alt="" class="lazyload" data-alt="" data-link="" data-src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" src="https://static06.hket.com/res/v3/image/manual-list/highlight/460000/460519/20260612_hketPRO_1024.jpg" style="max-width:100%; height:auto;"/&gt;
+&lt;/picture&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://specialist.hket.com/article/4151413/%E6%B3%A2%E7%BE%85%E7%9A%84%E6%B5%B7%E6%8C%87%E6%95%B8%EF%BD%9CBDI%E8%80%83%E9%A9%972600%E9%BB%9E%E6%94%AF%E6%8C%81%20%20BDTI%E8%80%83%E9%A9%972100%E9%BB%9E%E8%80%83%E9%A9%97?mtc=20023"/><published>2026-06-25T01:26:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4151390/%E5%A4%A7%E6%88%B6%E6%89%8B%E5%BD%B1%EF%BD%9C%E6%91%A9%E9%80%9A%E8%BF%91%E5%84%84%E4%BD%8E%E6%92%88%E4%B8%80%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%82%A1?mtc=20023</id><title>大戶手影｜摩通近億低撈一機械人股</title><updated>2026-06-25T01:26:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4151390/%E5%A4%A7%E6%88%B6%E6%89%8B%E5%BD%B1%EF%BD%9C%E6%91%A9%E9%80%9A%E8%BF%91%E5%84%84%E4%BD%8E%E6%92%88%E4%B8%80%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%82%A1?mtc=20023"/><published>2026-06-25T01:26:00+08:00</published></entry><entry><id>https://invest.hket.com/article/4151384/%E5%8C%97%E6%B0%B4%E8%B5%B0%E5%90%91%EF%BD%9C%E6%92%88%E8%B2%A8%EF%BC%9F%E5%8C%97%E6%B0%B4%E5%86%8D%E6%B9%A7157%E5%84%84%20%20%E9%80%BE142%E5%84%84%E5%8B%81%E6%8E%839%E8%82%A1?mtc=20023</id><title>北水走向｜撈貨？北水再湧157億  逾142億勁掃9股</title><updated>2026-06-25T01:36:00+08:00</updated><content type="html"/><link href="https://invest.hket.com/article/4151384/%E5%8C%97%E6%B0%B4%E8%B5%B0%E5%90%91%EF%BD%9C%E6%92%88%E8%B2%A8%EF%BC%9F%E5%8C%97%E6%B0%B4%E5%86%8D%E6%B9%A7157%E5%84%84%20%20%E9%80%BE142%E5%84%84%E5%8B%81%E6%8E%839%E8%82%A1?mtc=20023"/><published>2026-06-25T01:36:00+08:00</published></entry><entry><id>https://inews.hket.com/article/4151463/%E3%80%90%E5%A4%A9%E6%B0%A3%E3%83%BB%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%E3%80%91%E5%A4%A9%E6%96%87%E5%8F%B0%EF%BC%9A%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3%E6%8C%81%E7%BA%8C%E3%80%80%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%9833%E5%BA%A6%E3%80%81%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6?mtc=20023</id><title>【天氣・不斷更新】天文台：酷熱天氣持續　市區最高33度、新界再高一兩度</title><updated>2026-06-25T01:44:00+08:00</updated><content type="html">
+
+&lt;p&gt;Published on: 2026-06-25T01:44:01+08:00 Updated on: 2026-06-25T01:44:11.473+08:00&lt;/p&gt;&lt;div class="article-detail-content-container"&gt;
+&lt;div class="non-paywall"&gt;
+&lt;p&gt;高空反氣旋今日繼續為廣東帶來酷熱天氣，而高溫觸發的驟雨及雷暴亦影響內陸地區。本港今日大致多雲，有幾陣驟雨，日間部分時間有陽光及酷熱。&lt;/p&gt;&lt;p&gt;天文台預測，本港早上最低氣溫約29度，日間市區最高氣溫約33度，新界再高一兩度，稍後局部地區有雷暴。吹和緩西南風。&lt;/p&gt;&lt;h2&gt;紫外線指數甚高&lt;/h2&gt;&lt;p&gt;天文台預測，今日最高紫外線指數為10，曝曬級數屬「甚高」。酷熱天氣警告現正生效。&lt;/p&gt;&lt;h2&gt;米克拉減弱為颱風　海高斯增強為熱帶風暴&lt;/h2&gt;&lt;p&gt;超強颱風米克拉昨日逐步減弱為颱風，而熱帶低氣壓海高斯增強為熱帶風暴。&lt;/p&gt;&lt;p&gt;天文台表示，在今日凌晨1時，米克拉集結在沖繩島之西南約490公里，預料向東北偏北移動，時速約18公里，移向琉球群島一帶。同時，海高斯集結在沖繩島之東南約1,570公里，預料向西北偏西移動，時速約25公里，橫過西北太平洋。&lt;/p&gt;&lt;h2&gt;周五天氣漸轉不穩　周末有驟雨雷暴&lt;/h2&gt;&lt;p&gt;展望周五天氣漸轉不穩定，周末期間有驟雨及雷暴。隨後一兩日仍有幾陣驟雨，短暫時間有陽光。&lt;/p&gt;&lt;p&gt;明日（26日）大致多雲，有幾陣驟雨，局部地區有狂風雷暴，日間短暫時間有陽光，氣溫28至32度。周六（27日）大致多雲，間中有驟雨及幾陣雷暴，氣溫27至31度。&lt;/p&gt;
+&lt;div class="listing-widget-126"&gt;
+&lt;div class="video-channel-info"&gt;
+&lt;a href="https://video.hket.com/srvv028-1/開市追揸沽"&gt;
+&lt;div class="section-image" style="background-image: url(https://static04.hket.com/res/v3/dist/common/images/051001.png);"&gt;&lt;/div&gt;
+&lt;span&gt;開市追揸沽&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;video class="video-js aws-video vjs-big-play-centered vjs-show-big-play-button-on-pause" controls="" data-article="4149659" data-content-type="EGC" data-formaltag="實體詞,財金政策,加息,美國政府及法定機構,美國聯儲局,地域及地區,美國,議息,投資,股票,港股,美股,宏觀市場,亞洲市場,北美市場,市況分析,投資推介,個股分析,宏觀分析,市場動向,大行報告,技術分析" data-length="3313" data-live="false" data-m3u8="https://video-playback.hket.com/iet/converts/4149659/hls/4149659_1782093541329.m3u8" data-rel="4149659" data-source="051" data-thumbnail="20260622_Thumbnail.jpg" data-videoid="4149659" data-videoprogram="開市追揸沽" data-videopublishdate="2026-06-22" data-videosection="開市追揸沽,開市追揸沽" data-videotitle="聚焦PCE數據＋美伊談判　美股可續升？ 港股失守24000點　繼續揀股唔揀市？" data-videotype="live_archive" id="player-4151463-4149659"&gt;&lt;/video&gt;
+&lt;div class="listing-title"&gt;
+&lt;a class="ellipsis" data-line-num="4" data-line-num-xs="5" href="https://video.hket.com/video/4149659" title="聚焦PCE數據＋美伊談判　美股可續升？ 港股失守24000點　繼續揀股唔揀市？"&gt;聚焦PCE數據＋美伊談判　美股可續升？ 港股失守24000點　繼續揀股唔揀市？&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><link href="https://inews.hket.com/article/4151463/%E3%80%90%E5%A4%A9%E6%B0%A3%E3%83%BB%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%E3%80%91%E5%A4%A9%E6%96%87%E5%8F%B0%EF%BC%9A%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3%E6%8C%81%E7%BA%8C%E3%80%80%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%9833%E5%BA%A6%E3%80%81%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6?mtc=20023"/><published>2026-06-25T01:44:00+08:00</published></entry></feed>
